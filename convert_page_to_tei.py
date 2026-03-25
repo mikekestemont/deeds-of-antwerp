@@ -15,6 +15,7 @@ This script:
 """
 
 import argparse
+import csv
 import json
 import os
 import re
@@ -137,10 +138,14 @@ def parse_page_xml(path: str) -> dict:
 # TEI XML generation
 # ---------------------------------------------------------------------------
 
-def build_tei_xml(page_data: dict, page_stem: str) -> str:
+def build_tei_xml(page_data: dict, page_stem: str, metadata: dict | None = None) -> str:
     """
     Build a TEI XML string from parsed PAGE data.
     The output mirrors the format used by the Necturus Viewer samples.
+
+    If metadata is provided, it is rendered as a <fw type="header"> block
+    at the top of the page (visible in the viewer). Metadata dict can have
+    any keys (e.g. date, shelfmark, notes) — all are displayed.
     """
     surface_id = f"facs_{page_stem}"
 
@@ -196,6 +201,9 @@ def build_tei_xml(page_data: dict, page_stem: str) -> str:
     lines.append("   <text>")
     lines.append(f'      <body><div><pb facs="#{surface_id}" n="{page_stem}" '
                  f'xml:id="img_{page_stem}"/>')
+
+    # Metadata is displayed via the breadcrumb (injected by index.html script),
+    # not in the transcription body.
 
     for region in page_data["text_regions"]:
         region_zone_id = f"{surface_id}_{region['id']}"
@@ -298,6 +306,11 @@ def main():
         "--collection-dir", default="deeds",
         help='Folder name under files/ (default: "deeds")'
     )
+    parser.add_argument(
+        "--metadata", default=None,
+        help='Path to a CSV with document metadata (must have a "filename" column; '
+             'all other columns are displayed as a header). Default: page/metadata.csv if it exists.'
+    )
     args = parser.parse_args()
 
     # Paths relative to repo root (the script lives in the repo root)
@@ -330,6 +343,23 @@ def main():
     if not page_xmls:
         sys.exit(f"ERROR: No XML files found in {page_xml_dir}")
 
+    # Load metadata CSV if available
+    metadata_map = {}  # stem -> dict of metadata fields
+    meta_csv_path = Path(args.metadata) if args.metadata else repo_root / "page" / "metadata.csv"
+    if meta_csv_path.is_file():
+        with open(meta_csv_path, newline="", encoding="utf-8") as f:
+            reader = csv.DictReader(f)
+            for row in reader:
+                fn = row.pop("filename", "").strip()
+                if fn:
+                    # Strip extension if provided
+                    fn = Path(fn).stem if "." in fn else fn
+                    # Keep only non-empty fields
+                    metadata_map[fn] = {k.strip(): v.strip() for k, v in row.items() if v.strip()}
+        print(f"Loaded metadata for {len(metadata_map)} document(s) from {meta_csv_path}")
+    else:
+        print(f"No metadata CSV found at {meta_csv_path} (skipping header generation)")
+
     # Limit to --max
     page_xmls = page_xmls[: args.max]
     print(f"Converting {len(page_xmls)} PAGE XML file(s) ...")
@@ -355,7 +385,8 @@ def main():
             continue
 
         # Build TEI XML
-        tei_xml = build_tei_xml(page_data, stem)
+        doc_metadata = metadata_map.get(stem)
+        tei_xml = build_tei_xml(page_data, stem, metadata=doc_metadata)
 
         # Write TEI XML
         tei_path = out_xml_dir / f"{stem}.xml"
@@ -397,6 +428,13 @@ def main():
     with open(meta_path, "w") as f:
         json.dump(meta, f, indent=2)
     print(f"  Wrote {meta_path}")
+
+    # Write page_metadata.json (used by index.html to show metadata in breadcrumb)
+    if metadata_map:
+        page_meta_path = collection_dir / "page_metadata.json"
+        with open(page_meta_path, "w", encoding="utf-8") as f:
+            json.dump(metadata_map, f, indent=2, ensure_ascii=False)
+        print(f"  Wrote {page_meta_path}")
 
     # Regenerate files_info.json
     files_info_path = repo_root / "files_info.json"

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="2215" lry="1308" xml:id="facs_0019_01_08_1345-01">
+         <graphic url="0019_01_08_1345-01.jpg" width="2215px" height="1308px"/>
+         <zone points="273,115 274,604 2117,604 2117,130" rendition="TextRegion" xml:id="facs_0019_01_08_1345-01_tr_1">
+            <zone points="276,177 1991,191 1970,108 276,127" rendition="Line" xml:id="facs_0019_01_08_1345-01_tr_1_tl_2" subtype="default"/>
+            <zone points="278,212 2064,214 2023,170 278,177" rendition="Line" xml:id="facs_0019_01_08_1345-01_tr_1_tl_3" subtype="default"/>
+            <zone points="267,251 1970,237 1123,198 267,219" rendition="Line" xml:id="facs_0019_01_08_1345-01_tr_1_tl_4" subtype="default"/>
+            <zone points="269,292 1215,262 1981,295 1954,239 269,249" rendition="Line" xml:id="facs_0019_01_08_1345-01_tr_1_tl_5" subtype="default"/>
+            <zone points="269,322 2080,329 2080,290 1981,281 1210,262 269,292" rendition="Line" xml:id="facs_0019_01_08_1345-01_tr_1_tl_6" subtype="default"/>
+            <zone points="269,357 2085,354 2060,308 269,322" rendition="Line" xml:id="facs_0019_01_08_1345-01_tr_1_tl_7" subtype="default"/>
+            <zone points="274,391 2080,377 1171,334 274,357" rendition="Line" xml:id="facs_0019_01_08_1345-01_tr_1_tl_8" subtype="default"/>
+            <zone points="274,433 2101,430 2101,387 2023,380 274,391" rendition="Line" xml:id="facs_0019_01_08_1345-01_tr_1_tl_9" subtype="default"/>
+            <zone points="269,472 2103,451 1480,405 269,428" rendition="Line" xml:id="facs_0019_01_08_1345-01_tr_1_tl_10" subtype="default"/>
+            <zone points="265,502 2099,504 2099,458 1827,446 265,474" rendition="Line" xml:id="facs_0019_01_08_1345-01_tr_1_tl_11" subtype="default"/>
+            <zone points="262,536 2108,534 2090,483 262,506" rendition="Line" xml:id="facs_0019_01_08_1345-01_tr_1_tl_12" subtype="default"/>
+            <zone points="265,573 1298,541 2108,573 2083,525 1915,518 265,534" rendition="Line" xml:id="facs_0019_01_08_1345-01_tr_1_tl_13" subtype="default"/>
+            <zone points="265,608 2110,612 2078,562 1802,552 265,571" rendition="Line" xml:id="facs_0019_01_08_1345-01_tr_1_tl_14" subtype="default"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0019_01_08_1345-01" n="0019_01_08_1345-01" xml:id="img_0019_01_08_1345-01"/>
+            <ab facs="#facs_0019_01_08_1345-01_tr_1">
+               <l facs="#facs_0019_01_08_1345-01_tr_1_tl_2">Wij willem noese ende willem limpiaes Scepenē in Antwʼpen maken cond dat vore ons comen sijn Gilijs van hoboken . amman op deser tijt van Antwʼpen ane</l>
+               <l facs="#facs_0019_01_08_1345-01_tr_1_tl_3">dene ꝑtie . ende wouteʼ vanden broeke ane dandʼ ꝑtie . ende bekinden dat de vorghenomde gilijs ghegheuen heeft terue ende in erfliken rechte den seluē wou</l>
+               <l facs="#facs_0019_01_08_1345-01_tr_1_tl_4">teʼn te houdene ende te hebbene een huis dat ghestaen es ane doude veemaerct daermen de waghe te houdene pleeght tusschen des vorghenomds woutʼs</l>
+               <l facs="#facs_0019_01_08_1345-01_tr_1_tl_5">huis ane dene side ende thuis dat wilen was jans ghenisers ane dandʼ side inet gronde ende met allen dien dattʼ toe behoerd achtʼ ende @@@@@@@@@</l>
+               <l facs="#facs_0019_01_08_1345-01_tr_1_tl_6">de vorghenōde gilijs houdende es en̄ also hijt thare heeft ghebroken . siaers ōme vijftienne scellinghe grotʼ torn̄ enē guldenē penninch diemē heet scilt goed</l>
+               <l facs="#facs_0019_01_08_1345-01_tr_1_tl_7">en̄ custbaer vore seuentiendaluē grotē tornoisen ofte enē guldenē pennnch diemē heet royael vore vijftienne grote tornʼ gherekent . ofte de wʼdde daer</l>
+               <l facs="#facs_0019_01_08_1345-01_tr_1_tl_8">af in goeden andeʼn ghelde jaerleckʼ ende erflakʼ renten te gheldene ende te gheuene alle jaere vanden vorghenomde wouteʼn vanden broeke ende van</l>
+               <l facs="#facs_0019_01_08_1345-01_tr_1_tl_9">sinē nacomelinghen den vorghenomden gilise van hoboken ende sinē nacomenlinghen op sente jans dach bap̄ten Jn midden somʼe . ende de vorseide</l>
+               <l facs="#facs_0019_01_08_1345-01_tr_1_tl_10">gilijs gheloefdē dat vorseide huis met allen dattʼ toe behoerd in waerne tallen daghen van allen calaingien en̄ kūmʼe wt ghenomē viere oude grote</l>
+               <l facs="#facs_0019_01_08_1345-01_tr_1_tl_11">tornʼ . ende drien hoendeʼn die hʼ wouteʼ van diedelghem daer siaers op heeft also si ons seiden den welken cheins de vorghenōde wouteʼ ende sine</l>
+               <l facs="#facs_0019_01_08_1345-01_tr_1_tl_12">nacom̄linghe ghelden en gheuē selen alle jaere sondʼ kūmer ende scade des vorgh̄ gilijs en̄ sien nacomēlinghe Oec es ondersproken dat de vorgh̄ woutʼe</l>
+               <l facs="#facs_0019_01_08_1345-01_tr_1_tl_13">ofte sinē nacom̄linghe oest dat si willen dat vorgh̄ huis op gheuen moghen met dubblen cheince en̄ Andʼs niet . Jn kennissen van desen lettʼen</l>
+               <l facs="#facs_0019_01_08_1345-01_tr_1_tl_14">beseghelt met onsen seglen . Ghegheuē int jaer ons heʼn alsm̄ screef M CCC viue en veertech op sente peters dach ingaende oexstmaende</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

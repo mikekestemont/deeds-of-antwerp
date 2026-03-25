@@ -1,1 +1,83 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"/><link rel="apple-touch-icon" sizes="180x180" href="./apple-touch-icon.png"><link rel="mask-icon" href="./safari-pinned-tab.svg" color="#5bbad5"><link rel="icon" href="./favicon.ico"/><meta name="viewport" content="width=device-width,initial-scale=1"/><meta name="theme-color" content="#ffffff"/><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.1/css/fontawesome.min.css" integrity="sha384-QYIZto+st3yW+o8+5OHfT6S482Zsvz2WfOzpFSXMF9zqeLcFV0/wlZpMtyFcZALm" crossorigin="anonymous"><link rel="manifest" href="./manifest.json"/><title>Necturus XML</title><script defer="defer" src="./static/js/main.85354506.js"></script><link href="./static/css/main.5d62b963.css" rel="stylesheet"></head><body><noscript>You need to enable JavaScript to run this app.</noscript><div id="root"></div></body></html>
+<!doctype html><html lang="en"><head><meta charset="utf-8"/><link rel="apple-touch-icon" sizes="180x180" href="./apple-touch-icon.png"><link rel="mask-icon" href="./safari-pinned-tab.svg" color="#5bbad5"><link rel="icon" href="./favicon.ico"/><meta name="viewport" content="width=device-width,initial-scale=1"/><meta name="theme-color" content="#ffffff"/><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.1/css/fontawesome.min.css" integrity="sha384-QYIZto+st3yW+o8+5OHfT6S482Zsvz2WfOzpFSXMF9zqeLcFV0/wlZpMtyFcZALm" crossorigin="anonymous"><link rel="manifest" href="./manifest.json"/><title>Necturus XML</title><script defer="defer" src="./static/js/main.85354506.js"></script><link href="./static/css/main.5d62b963.css" rel="stylesheet"></head><body><noscript>You need to enable JavaScript to run this app.</noscript><div id="root"></div>
+<script>
+// Display document metadata below the breadcrumb
+(function() {
+  var filesInfo = null;
+  var metaCache = {};
+  var lastShown = '';
+
+  fetch('./files_info.json').then(function(r) { return r.json(); }).then(function(d) {
+    filesInfo = d;
+    console.log('[meta] Loaded files_info.json:', d.length, 'collections');
+  });
+
+  function getPageMeta(collectionPath) {
+    if (metaCache[collectionPath] !== undefined) {
+      return Promise.resolve(metaCache[collectionPath]);
+    }
+    return fetch('./files/' + collectionPath + '/page_metadata.json').then(function(r) {
+      if (!r.ok) { metaCache[collectionPath] = null; return null; }
+      return r.json().then(function(d) {
+        metaCache[collectionPath] = d;
+        console.log('[meta] Loaded page_metadata.json for', collectionPath, ':', Object.keys(d).length, 'entries');
+        return d;
+      });
+    }).catch(function() { metaCache[collectionPath] = null; return null; });
+  }
+
+  setInterval(function() {
+    if (!filesInfo) return;
+
+    // Parse URL: .../collection/2/page/5
+    var url = location.href;
+    var m = url.match(/collection\/(\d+)\/page\/(\d+)/);
+    if (!m) {
+      var old = document.getElementById('page-meta-badge');
+      if (old) old.remove();
+      lastShown = '';
+      return;
+    }
+
+    var colIdx = parseInt(m[1]) - 1;
+    var pageIdx = parseInt(m[2]) - 1;
+    var col = filesInfo[colIdx];
+    if (!col || !col.pages[pageIdx]) return;
+
+    var pageName = col.pages[pageIdx];
+    var key = col.path + '/' + pageName;
+
+    // Already showing this page's metadata
+    if (key === lastShown) return;
+
+    getPageMeta(col.path).then(function(meta) {
+      // Remove old badge
+      var old = document.getElementById('page-meta-badge');
+      if (old) old.remove();
+
+      if (!meta || !meta[pageName]) {
+        lastShown = key;
+        return;
+      }
+
+      var info = meta[pageName];
+      var parts = [];
+      for (var k in info) {
+        if (info[k]) parts.push('<strong>' + k + ':</strong> ' + info[k]);
+      }
+
+      var badge = document.createElement('div');
+      badge.id = 'page-meta-badge';
+      badge.style.cssText = 'font-size:0.85em;color:#555;padding:2px 12px 6px 12px;background:#f8f9fa;border-bottom:1px solid #dee2e6;';
+      badge.innerHTML = parts.join(' &nbsp;|&nbsp; ');
+
+      var container = document.querySelector('.my-breadcrumb-container');
+      if (container && container.parentNode) {
+        container.parentNode.insertBefore(badge, container.nextSibling);
+        lastShown = key;
+        console.log('[meta] Showing metadata for', pageName);
+      }
+    });
+  }, 300);
+})();
+</script>
+</body></html>
