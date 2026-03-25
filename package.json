@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "fuse.js": "^7.1.0",
+    "jsdom": "^29.0.1"
+  }
+}

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="2193" lry="1302" xml:id="facs_0009_01_03_1352-01">
+         <graphic url="0009_01_03_1352-01.jpg" width="2193px" height="1302px"/>
+         <zone points="283,184 283,1067 2063,1067 2063,184" rendition="TextRegion" xml:id="facs_0009_01_03_1352-01_tr_1">
+            <zone points="306,226 2015,222 2015,149 1917,138 1735,178 1600,138 1269,173 1172,144 1116,191 308,166" rendition="Line" xml:id="facs_0009_01_03_1352-01_tr_1_tl_1" subtype="default"/>
+            <zone points="304,275 2006,257 1928,213 306,229" rendition="Line" xml:id="facs_0009_01_03_1352-01_tr_1_tl_2" subtype="default"/>
+            <zone points="302,311 2008,311 2008,255 302,268" rendition="Line" xml:id="facs_0009_01_03_1352-01_tr_1_tl_3" subtype="default"/>
+            <zone points="300,373 537,337 2001,337 1899,295 302,311" rendition="Line" xml:id="facs_0009_01_03_1352-01_tr_1_tl_4" subtype="default"/>
+            <zone points="306,404 2004,390 2004,335 306,371" rendition="Line" xml:id="facs_0009_01_03_1352-01_tr_1_tl_5" subtype="default"/>
+            <zone points="304,459 2015,428 1946,384 304,404" rendition="Line" xml:id="facs_0009_01_03_1352-01_tr_1_tl_6" subtype="default"/>
+            <zone points="297,493 2010,470 1979,426 1635,422 297,464" rendition="Line" xml:id="facs_0009_01_03_1352-01_tr_1_tl_7" subtype="default"/>
+            <zone points="293,526 2032,517 2032,464 293,493" rendition="Line" xml:id="facs_0009_01_03_1352-01_tr_1_tl_8" subtype="default"/>
+            <zone points="286,586 2028,570 2030,517 288,524" rendition="Line" xml:id="facs_0009_01_03_1352-01_tr_1_tl_9" subtype="default"/>
+            <zone points="297,632 2032,604 1990,552 297,592" rendition="Line" xml:id="facs_0009_01_03_1352-01_tr_1_tl_10" subtype="default"/>
+            <zone points="295,659 2015,648 1997,595 295,632" rendition="Line" xml:id="facs_0009_01_03_1352-01_tr_1_tl_11" subtype="default"/>
+            <zone points="282,712 2004,683 1979,639 282,661" rendition="Line" xml:id="facs_0009_01_03_1352-01_tr_1_tl_12" subtype="default"/>
+            <zone points="286,757 1873,746 2039,701 286,710" rendition="Line" xml:id="facs_0009_01_03_1352-01_tr_1_tl_13" subtype="default"/>
+            <zone points="288,812 1997,777 1970,726 288,754" rendition="Line" xml:id="facs_0009_01_03_1352-01_tr_1_tl_14" subtype="default"/>
+            <zone points="286,859 2037,825 2024,768 286,816" rendition="Line" xml:id="facs_0009_01_03_1352-01_tr_1_tl_15" subtype="default"/>
+            <zone points="280,881 2010,894 2032,830 280,852" rendition="Line" xml:id="facs_0009_01_03_1352-01_tr_1_tl_16" subtype="default"/>
+            <zone points="282,939 2028,934 2028,888 1955,868 282,885" rendition="Line" xml:id="facs_0009_01_03_1352-01_tr_1_tl_17" subtype="default"/>
+            <zone points="277,972 2057,961 1961,916 277,936" rendition="Line" xml:id="facs_0009_01_03_1352-01_tr_1_tl_18" subtype="default"/>
+            <zone points="271,1010 2032,1036 2032,958 1766,992 271,976" rendition="Line" xml:id="facs_0009_01_03_1352-01_tr_1_tl_19" subtype="default"/>
+            <zone points="273,1085 384,1089 399,1076 424,1083 501,1069 586,1087 588,1016 546,1016 513,1032 470,1012 450,1023 399,1012 373,1032 355,1025 333,1036 308,1021 275,1027" rendition="Line" xml:id="facs_0009_01_03_1352-01_tr_1_tl_20" subtype="default"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0009_01_03_1352-01" n="0009_01_03_1352-01" xml:id="img_0009_01_03_1352-01"/>
+            <ab facs="#facs_0009_01_03_1352-01_tr_1">
+               <l facs="#facs_0009_01_03_1352-01_tr_1_tl_1">Wij Willem de moelnʼe Ende Claus colueths Scepenen Jn Antwʼpen maken cond . dat vore ons quam Jan vandʼ snacken zone wilen Jans vander</l>
+               <l facs="#facs_0009_01_03_1352-01_tr_1_tl_2">snacken . Ende bekende dat hi ōme eene sūme ghelds die hem al es vʼgouden . vʼcocht heeft wetteleke Joncvrouwen marien van</l>
+               <l facs="#facs_0009_01_03_1352-01_tr_1_tl_3">wesele die men heet van sumpeken . achte guldene penninghe die men heet oude keysers scilde . ghelijc dat meestʼ faucoen yerstwʼf</l>
+               <l facs="#facs_0009_01_03_1352-01_tr_1_tl_4">tantwʼpen in ons heʼn shertoghen monte te slane plach ghetekent metten aren . ochte viere oude guldene hellinghe van florenchen</l>
+               <l facs="#facs_0009_01_03_1352-01_tr_1_tl_5">goed ende custbaer vore drie der vorseider scilde gherekent . ofte de werde daer af in goeden andeʼn ghelde jaerliker en̄ erfle-</l>
+               <l facs="#facs_0009_01_03_1352-01_tr_1_tl_6">ker renten . op sine viere bundʼe onder land ende beemde gheleghen Jn de prochie van eyengheem Jn tgoed ter haghen . dats tewe-</l>
+               <l facs="#facs_0009_01_03_1352-01_tr_1_tl_7">tene in viere bloke daer af deen bloc vanden lande heet den voerdongh . dander de heide . Ende de twee andʼe bloke beemde</l>
+               <l facs="#facs_0009_01_03_1352-01_tr_1_tl_8">de beken . De welke vorseide viere bundʼe ondʼ land ende beemde de vorseide Jan vʼbonden heeft ende te pande gheset ouʼ de vorseide-</l>
+               <l facs="#facs_0009_01_03_1352-01_tr_1_tl_9">Jaerlike ende erfleke rente . tegheldene ende tegheuene van hem ende van sinen nacomelinghen der vorseidʼe joncvrʼ marien ende haren</l>
+               <l facs="#facs_0009_01_03_1352-01_tr_1_tl_10">nacomelinghen alle jare te kerssauonde . met desen vorwaerden waert dat de vorseide Jan ofte sine nacomelinghe in eneghen tʼmine</l>
+               <l facs="#facs_0009_01_03_1352-01_tr_1_tl_11">vorseid . Soe langhe in ghebreke ware van gheldene dese vorseide erfleke rente . dat deene paye dandʼe vʼhaelde ende verreicte</l>
+               <l facs="#facs_0009_01_03_1352-01_tr_1_tl_12">onuergouden . dat dan de vorseide joncvrʼ marie ofte hore nacomelinghe binnen eenre maend na dat deene paye dandeʼ verhaelt</l>
+               <l facs="#facs_0009_01_03_1352-01_tr_1_tl_13">ende vʼreict hadde . hore hand souden moghen slaen ane dese vorseide viere bundʼ onder land ende beemde ende dier vrilec ghe-</l>
+               <l facs="#facs_0009_01_03_1352-01_tr_1_tl_14">bruken ende horen vrien wille daer mede doen alse met hoers selfs ꝓpren goede . sondʼ Calengieren ofte wederzegghen van yemene</l>
+               <l facs="#facs_0009_01_03_1352-01_tr_1_tl_15">mede soe gheloefde de vorseide Jan dese vorseide viere bundʼe ouder land ende beemde . te waerne der vorseidʼ joncvrʼ marien altoes</l>
+               <l facs="#facs_0009_01_03_1352-01_tr_1_tl_16">quite ende vri . van allen commʼe ende Calaengen . tote op viere oude swerte tornoyse tsiaers die daer vte gaen vanden landcheinse alsoe hi</l>
+               <l facs="#facs_0009_01_03_1352-01_tr_1_tl_17">Jan seide Ende ōme dese waernisse altoes wel ende ghetroulec te houdene ende te voldoene . soe heeft de vorseide Jan daer toe verbonden</l>
+               <l facs="#facs_0009_01_03_1352-01_tr_1_tl_18">ende te pande gheset . hem seluen ende al siin goed rurende ende onrurende dat hi heeft ende ghewinnen mach . Jn kinnessen van</l>
+               <l facs="#facs_0009_01_03_1352-01_tr_1_tl_19">desen lrēn . bezeghelt met onsen zeghelen . Ghegheuen Jnt Jaer ons heʼn . alsmen screef . M . CCC . vijftech ende een op den yersten dach</l>
+               <l facs="#facs_0009_01_03_1352-01_tr_1_tl_20">der maend van merte</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>
