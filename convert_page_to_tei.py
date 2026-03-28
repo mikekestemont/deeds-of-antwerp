@@ -232,14 +232,31 @@ def escape_xml(text: str) -> str:
 # ---------------------------------------------------------------------------
 
 def _chrono_sort_key(stem: str):
-    """Extract (year, month, day) from a filename like 0001_01_01_1332-01 for chronological sorting."""
+    """
+    Sort stems like:
+        0001_01_01_1332-01
+        0461_22_07_1357-01
+        0447_XX_XX_1327-01
+
+    Interpreted as:
+        <running-index>_<day>_<month>_<year>-<sequence>
+
+    Unknown day/month ("XX") are pushed to the end within a year/month.
+    """
     import re
-    m = re.match(r"^\d{4}_(\d{2})_(\d{2})_(\d{4})-(\d{2})$", stem)
-    if m:
-        day, month, year, daily = int(m.group(1)), int(m.group(2)), int(m.group(3)), int(m.group(4))
-        return (year, month, day, daily)
-    # Fallback: sort alphabetically
-    return (9999, 99, 99, stem)
+
+    m = re.match(r"^(\d{4})_(\d{2}|XX)_(\d{2}|XX)_(\d{4})-(\d{2})$", stem)
+    if not m:
+        return (9999, 99, 99, 99, stem)
+
+    _, day_s, month_s, year_s, seq_s = m.groups()
+
+    year = int(year_s)
+    month = 99 if month_s == "XX" else int(month_s)
+    day = 99 if day_s == "XX" else int(day_s)
+    seq = int(seq_s)
+
+    return (year, month, day, seq, stem)
 
 
 def regenerate_files_info(files_dir: str, output_path: str):
@@ -263,13 +280,14 @@ def regenerate_files_info(files_dir: str, output_path: str):
         if not os.path.isdir(xml_folder):
             continue
 
-        xml_files = [
-            os.path.splitext(f)[0]
-            for f in os.listdir(xml_folder)
-            if f.lower().endswith(".xml")
-        ]
-        # Sort chronologically by (year, month, day)
-        xml_files.sort(key=_chrono_sort_key)
+        xml_files = sorted(
+            [
+                os.path.splitext(f)[0]
+                for f in os.listdir(xml_folder)
+                if f.lower().endswith(".xml")
+            ],
+            key=_chrono_sort_key
+        )
 
         meta_path = os.path.join(folder_path, "meta.json")
         if os.path.exists(meta_path):
