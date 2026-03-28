@@ -92,6 +92,7 @@
     "repository_shelfmark": "KAA – 30 C. litt. A"
   },
   "0463_24_06_1309-01": {
+    "date": "24-6-1309",
     "repository_shelfmark": "charterbank: Stadsarchieven: de grafelijke tijd, 1200 - 1572"
   },
   "0300_19_11_1309-01": {
@@ -99,6 +100,7 @@
     "repository_shelfmark": "KAA – 56 C. 1"
   },
   "0470_10_12_1309-01": {
+    "date": "10-12-1309",
     "repository_shelfmark": "charterbank: Stadsarchieven: de grafelijke tijd, 1200 - 1572"
   },
   "0023_01_10_1310-01": {
@@ -146,6 +148,7 @@
     "repository_shelfmark": "KAA – 65 C. litt. B/3"
   },
   "0453_05_06_1315-01": {
+    "date": "5-6-1315",
     "repository_shelfmark": "Pitsenburg"
   },
   "0395_27_06_1315-01": {
@@ -237,6 +240,7 @@
     "repository_shelfmark": "RAA – Falcontinnen"
   },
   "0412_29_03_1321-01": {
+    "date": "29-3-1321",
     "repository_shelfmark": "RAA – Bogaarden, Doos 5 (1321)"
   },
   "0294_19_05_1321-01": {
@@ -340,6 +344,7 @@
     "repository_shelfmark": "KAA – 93 C. z. nr."
   },
   "0041_03_03_1327-01": {
+    "date": "3-3-1327",
     "repository_shelfmark": "RAA – Bogaarden, Doos 5 (1327)"
   },
   "0354_24_06_1327-01": {
@@ -503,6 +508,7 @@
     "repository_shelfmark": "OCMW – Infirmerie Klapdorp"
   },
   "0451_03_01_1332-01": {
+    "date": "3-1-1332",
     "repository_shelfmark": "Pitsenburg"
   },
   "0108_07_03_1332-01": {
@@ -621,7 +627,9 @@
     "date": "21-07-1334",
     "repository_shelfmark": "KAA – 19 CC. 1"
   },
-  "0464_29_09_1334-01": {},
+  "0464_29_09_1334-01": {
+    "date": "29-09-1334"
+  },
   "0095_06_10_1334-01": {
     "date": "06-10-1334",
     "repository_shelfmark": "RAA – Bogaarden, doos 5 (1334bis)"
@@ -735,6 +743,7 @@
     "repository_shelfmark": "RAA – Kartuizers"
   },
   "0374_25_07_1336-01": {
+    "date": "25-7-1336",
     "repository_shelfmark": "kapittel"
   },
   "0402_28_07_1336-01": {
@@ -874,6 +883,7 @@
     "repository_shelfmark": "SAA – Losse schepenbrieven"
   },
   "0456_17_06_1338-01": {
+    "date": "17-6-1338",
     "repository_shelfmark": "Pitsenburg"
   },
   "0312_20_06_1338-01": {
@@ -897,6 +907,7 @@
     "repository_shelfmark": "OCMW – Sint-Elizabeth – Zundert"
   },
   "0454_12_01_1339-01": {
+    "date": "12-1-1339",
     "repository_shelfmark": "Pitsenburg"
   },
   "0071_05_03_1339-01": {
@@ -936,6 +947,7 @@
     "repository_shelfmark": "KAA – 11 D. 23/8"
   },
   "0458_21_10_1339-01": {
+    "date": "21-10-1339",
     "repository_shelfmark": "Pitsenburg"
   },
   "0410_29_01_1340-01": {
@@ -955,6 +967,7 @@
     "repository_shelfmark": "KAA – 42 C. 21"
   },
   "0455_16_11_1340-01": {
+    "date": "16-11-1340",
     "repository_shelfmark": "Pitsenburg"
   },
   "0435_30_11_1340-01": {
@@ -986,6 +999,7 @@
     "repository_shelfmark": "KAA – 19 C. 6"
   },
   "0452_03_05_1341-01": {
+    "date": "3-5-1341",
     "repository_shelfmark": "Pitsenburg"
   },
   "0156_10_06_1341-01": {
@@ -993,6 +1007,7 @@
     "repository_shelfmark": "KAA – 91 C. 4"
   },
   "0460_22_06_1341-01": {
+    "date": "22-6-1341",
     "repository_shelfmark": "Pitsenburg"
   },
   "0296_19_07_1341-01": {
@@ -1072,6 +1087,7 @@
     "repository_shelfmark": "KAA – 23 D. 4/2"
   },
   "0459_22_03_1343-01": {
+    "date": "22-3-1343",
     "repository_shelfmark": "Pitsenburg"
   },
   "0043_03_05_1343-01": {
@@ -1155,9 +1171,11 @@
     "repository_shelfmark": "KAA – 23 D. 4/2"
   },
   "0457_18_06_1344-01": {
+    "date": "18-6-1344",
     "repository_shelfmark": "Pitsenburg"
   },
   "0462_30_10_1344-01": {
+    "date": "30-10-1344",
     "repository_shelfmark": "Pitsenburg"
   },
   "0081_05_11_1344-01": {
@@ -1825,30 +1843,39 @@
     "repository_shelfmark": "RAA – Bogaarden, doos 5 (1355)"
   },
   "0447_XX_XX_1327-01": {
+    "date": "X-X-1327",
     "repository_shelfmark": "KAA – 93 C. z. nr."
   },
   "0448_XX_XX_1348-01": {
+    "date": "X-X-1348",
     "repository_shelfmark": "KAA – 11 D. 34/5"
   },
   "0449_XX_XX_1348-02": {
+    "date": "X-X-1348",
     "repository_shelfmark": "KAA – 14 C. litt. C/2"
   },
   "0206_14_02_1352-01": {
+    "date": "14-2-1352",
     "repository_shelfmark": "ABA – Kartuizers"
   },
   "0060_04_05_1354-01": {
+    "date": "4-5-1354",
     "repository_shelfmark": "RAA – KA Wommelgem"
   },
   "0189_13_05_1353-01": {
+    "date": "13-5-1353",
     "repository_shelfmark": "RAA – Bogaarden, doos 5 (1353)"
   },
   "0450_XX_XX_1347-01": {
+    "date": "X-X-1347",
     "repository_shelfmark": "KAA – 11 D. 34/1"
   },
   "0469_05_01_1356-01": {
+    "date": "05-01-1356",
     "repository_shelfmark": "RAA – Bogaarden, doos 5 (1355bis)"
   },
   "0461_22_07_1357-01": {
+    "date": "22-7-1357",
     "repository_shelfmark": "Pitsenburg"
   }
 }

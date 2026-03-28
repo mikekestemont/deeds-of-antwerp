@@ -12,6 +12,7 @@ This script:
   4. Writes results into  files/<collection-dir>/xml/  and  files/<collection-dir>/img/
   5. Creates  files/<collection-dir>/meta.json
   6. Regenerates  files_info.json  (same logic as script.py)
+  7. Patches  page/data.json  with viewer URLs for the atlas
 """
 
 import argparse
@@ -179,20 +180,14 @@ def build_tei_xml(page_data: dict, page_stem: str, metadata: dict | None = None)
         f'         <graphic url="{page_stem}.jpg" width="{w}px" height="{h}px"/>'
     )
 
-    # zones for each text region and its lines
+    # zones for each line (no TextRegion wrapper — avoids region polygon on image)
     for region in page_data["text_regions"]:
-        region_zone_id = f"{surface_id}_{region['id']}"
-        lines.append(
-            f'         <zone points="{region["coords"]}" rendition="TextRegion" '
-            f'xml:id="{region_zone_id}">'
-        )
         for line in region["lines"]:
             line_zone_id = f"{surface_id}_{line['id']}"
             lines.append(
-                f'            <zone points="{line["coords"]}" rendition="Line" '
+                f'         <zone points="{line["coords"]}" rendition="Line" '
                 f'xml:id="{line_zone_id}" subtype="default"/>'
             )
-        lines.append("         </zone>")
 
     lines.append("      </surface>")
     lines.append("   </facsimile>")
@@ -206,8 +201,7 @@ def build_tei_xml(page_data: dict, page_stem: str, metadata: dict | None = None)
     # not in the transcription body.
 
     for region in page_data["text_regions"]:
-        region_zone_id = f"{surface_id}_{region['id']}"
-        lines.append(f'            <ab facs="#{region_zone_id}">')
+        lines.append(f'            <ab>')
         for line in region["lines"]:
             line_zone_id = f"{surface_id}_{line['id']}"
             # Escape XML special characters in text
@@ -237,6 +231,17 @@ def escape_xml(text: str) -> str:
 # files_info.json regeneration (mirrors script.py / generate_files_info.py)
 # ---------------------------------------------------------------------------
 
+def _chrono_sort_key(stem: str):
+    """Extract (year, month, day) from a filename like 0001_01_01_1332-01 for chronological sorting."""
+    import re
+    m = re.match(r"^\d{4}_(\d{2})_(\d{2})_(\d{4})-(\d{2})$", stem)
+    if m:
+        day, month, year, daily = int(m.group(1)), int(m.group(2)), int(m.group(3)), int(m.group(4))
+        return (year, month, day, daily)
+    # Fallback: sort alphabetically
+    return (9999, 99, 99, stem)
+
+
 def regenerate_files_info(files_dir: str, output_path: str):
     """Regenerate files_info.json by scanning the files directory."""
     try:
@@ -258,11 +263,13 @@ def regenerate_files_info(files_dir: str, output_path: str):
         if not os.path.isdir(xml_folder):
             continue
 
-        xml_files = sort_fn([
+        xml_files = [
             os.path.splitext(f)[0]
             for f in os.listdir(xml_folder)
             if f.lower().endswith(".xml")
-        ])
+        ]
+        # Sort chronologically by (year, month, day)
+        xml_files.sort(key=_chrono_sort_key)
 
         meta_path = os.path.join(folder_path, "meta.json")
         if os.path.exists(meta_path):
@@ -284,6 +291,39 @@ def regenerate_files_info(files_dir: str, output_path: str):
     with open(output_path, "w") as f:
         json.dump(result, f, indent=4)
     print(f"  Wrote {output_path}")
+
+
+# ---------------------------------------------------------------------------
+# Atlas URL patching
+# ---------------------------------------------------------------------------
+
+def patch_atlas_urls(files_info_path: str, data_json_path: str):
+    """Add viewer URLs to the atlas data.json based on files_info.json page ordering."""
+    if not os.path.exists(data_json_path):
+        return
+
+    with open(files_info_path, encoding="utf-8") as f:
+        info = json.load(f)
+
+    stem_to_url = {}
+    for col_idx, col in enumerate(info, start=1):
+        for page_idx, stem in enumerate(col["pages"], start=1):
+            stem_to_url[stem] = f"../#/collection/{col_idx}/page/{page_idx}"
+
+    with open(data_json_path, encoding="utf-8") as f:
+        data = json.load(f)
+
+    matched = 0
+    for entry in data:
+        stem = Path(entry["src"].split("/")[-1]).stem
+        if stem in stem_to_url:
+            entry["url"] = stem_to_url[stem]
+            matched += 1
+
+    with open(data_json_path, "w", encoding="utf-8") as f:
+        json.dump(data, f, indent=2)
+
+    print(f"  Patched atlas: {matched}/{len(data)} entries linked to viewer")
 
 
 # ---------------------------------------------------------------------------
@@ -368,6 +408,15 @@ def main():
     out_xml_dir.mkdir(parents=True, exist_ok=True)
     out_img_dir.mkdir(parents=True, exist_ok=True)
 
+    # Build image lookup by date suffix (everything after first underscore)
+    # so that 0070_05_02_1351-01.xml matches 0071_05_02_1351-01.jpg
+    img_by_suffix = {}
+    for img_file in page_img_dir.iterdir():
+        if img_file.is_file():
+            parts = img_file.stem.split("_", 1)
+            if len(parts) == 2:
+                img_by_suffix[parts[1]] = img_file
+
     converted = 0
     skipped_images = 0
 
@@ -394,8 +443,7 @@ def main():
             f.write(tei_xml)
 
         # Copy corresponding image
-        # The PAGE XML records the original image filename; try that first,
-        # then fall back to stem + common extensions
+        # Try: exact name from PAGE XML, then stem match, then suffix match
         img_found = False
         candidates = [
             page_data["image_filename"],         # exact name from PAGE XML
@@ -408,11 +456,19 @@ def main():
         for candidate in candidates:
             src = page_img_dir / candidate
             if src.is_file():
-                # Always save as .jpg in the output (the viewer expects jpg)
                 dst = out_img_dir / f"{stem}.jpg"
                 shutil.copy2(str(src), str(dst))
                 img_found = True
                 break
+
+        # Fallback: match by date suffix (ignoring overall index)
+        if not img_found:
+            suffix = stem.split("_", 1)[1] if "_" in stem else None
+            if suffix and suffix in img_by_suffix:
+                src = img_by_suffix[suffix]
+                dst = out_img_dir / f"{stem}.jpg"
+                shutil.copy2(str(src), str(dst))
+                img_found = True
 
         if img_found:
             print("OK")
@@ -439,6 +495,10 @@ def main():
     # Regenerate files_info.json
     files_info_path = repo_root / "files_info.json"
     regenerate_files_info(str(files_dir), str(files_info_path))
+
+    # Patch atlas data.json with viewer URLs
+    atlas_data_path = repo_root / "page" / "data.json"
+    patch_atlas_urls(str(files_info_path), str(atlas_data_path))
 
     # Summary
     print()

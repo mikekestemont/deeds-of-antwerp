@@ -1,5 +1,7 @@
 .DS_Store
 node_modules/
-page/
+page/*
+!page/
+!page/atlas.html
 metadata.xlsx
 page/
