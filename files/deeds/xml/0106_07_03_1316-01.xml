@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3507" lry="2480" xml:id="facs_0106_07_03_1316-01">
+         <graphic url="0106_07_03_1316-01.jpg" width="3507px" height="2480px"/>
+         <zone points="239,1262 541,1219 874,1258 921,1215 1074,1266 1274,1227 1540,1278 1861,1238 2120,1270 2194,1234 2500,1274 2645,1230 2802,1274 2880,1223 3002,1254 3135,1207 3209,1258 3339,1223 3339,1156 3135,1082 2822,1144 2743,1097 2649,1144 2594,1109 2426,1160 1971,1105 1822,1187 1775,1140 1642,1172 1603,1140 1532,1191 1293,1180 1172,1093 1093,1129 882,1105 670,1168 572,1133 521,1176 470,1136 239,1133" rendition="Line" xml:id="facs_0106_07_03_1316-01_tr_1_tl_1" subtype="default"/>
+         <zone points="219,1309 1626,1305 1818,1360 1877,1313 1991,1348 2500,1309 2598,1344 2677,1301 3108,1332 3155,1289 3311,1289 3311,1223 3209,1254 3135,1211 3002,1258 2876,1227 2829,1270 2688,1266 2629,1230 2500,1274 2226,1234 1591,1238 1520,1274 1195,1219 988,1254 921,1215 878,1254 776,1219 219,1246" rendition="Line" xml:id="facs_0106_07_03_1316-01_tr_1_tl_2" subtype="default"/>
+         <zone points="223,1419 596,1372 784,1407 893,1360 995,1407 1152,1364 1227,1399 1450,1375 1532,1419 1705,1375 1955,1419 2042,1387 2269,1423 2332,1387 2445,1438 2571,1395 3025,1434 3131,1379 3194,1426 3374,1426 3374,1321 3304,1293 3159,1289 3104,1332 2488,1309 2418,1344 2140,1313 2010,1352 1818,1309 1771,1344 1227,1297 1168,1328 223,1313" rendition="Line" xml:id="facs_0106_07_03_1316-01_tr_1_tl_3" subtype="default"/>
+         <zone points="227,1481 388,1513 843,1489 968,1438 1074,1481 1638,1438 1732,1501 1803,1454 2336,1520 2571,1470 2680,1505 3351,1501 3351,1415 3198,1430 3131,1379 3049,1434 2892,1395 2786,1430 2042,1387 1955,1419 1810,1375 1771,1415 1709,1379 1505,1411 1450,1372 1387,1403 1156,1364 227,1415" rendition="Line" xml:id="facs_0106_07_03_1316-01_tr_1_tl_4" subtype="default"/>
+         <zone points="243,1579 560,1603 807,1532 999,1603 1191,1532 1278,1575 1450,1528 1697,1615 1861,1560 2014,1607 2100,1583 2104,1477 1861,1450 1720,1489 1638,1434 1568,1477 1242,1442 1074,1481 999,1438 850,1485 247,1513" rendition="Line" xml:id="facs_0106_07_03_1316-01_tr_1_tl_5" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0106_07_03_1316-01" n="0106_07_03_1316-01" xml:id="img_0106_07_03_1316-01"/>
+            <ab>
+               <l facs="#facs_0106_07_03_1316-01_tr_1_tl_1">Wi peter daen en̄ Jan van Winegheem scepenen in Antwʼpen maken cont . Dat ver yde vā der list voer ons bekinde</l>
+               <l facs="#facs_0106_07_03_1316-01_tr_1_tl_2">met Janne van der hare horen mombore metten rechte ghegheuē . Dat alle dat goet dat met niewe ghasthuis es</l>
+               <l facs="#facs_0106_07_03_1316-01_tr_1_tl_3">dat bi sente Jans poerte staet also verre alst hore toe behoert den zeluē ghasthuse ghegheuē heeft en̄ gheeft</l>
+               <l facs="#facs_0106_07_03_1316-01_tr_1_tl_4">in puerre ghiften . Jn kinnessen van desen lettren beseghelt met onsen seglen . Ghedaen int jaer ons heʼn alse</l>
+               <l facs="#facs_0106_07_03_1316-01_tr_1_tl_5">men screef . M . CCC . en̄ vijftiene des vriendaechs na half vasten</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="2048" lry="1536" xml:id="facs_0188_13_05_1348-01">
+         <graphic url="0188_13_05_1348-01.jpg" width="2048px" height="1536px"/>
+         <zone points="255,241 1850,259 1790,207 1062,219 984,161 831,215 535,165 376,211 255,169" rendition="Line" xml:id="facs_0188_13_05_1348-01_tr_1_tl_6" subtype="default"/>
+         <zone points="243,282 1822,300 1788,251 243,255" rendition="Line" xml:id="facs_0188_13_05_1348-01_l_1" subtype="default"/>
+         <zone points="251,320 1832,328 1688,284 249,286" rendition="Line" xml:id="facs_0188_13_05_1348-01_l" subtype="default"/>
+         <zone points="245,358 1700,382 1834,378 1834,328 243,318" rendition="Line" xml:id="facs_0188_13_05_1348-01_tr_1_tl_11" subtype="default"/>
+         <zone points="257,402 1832,406 1788,366 1500,356 257,358" rendition="Line" xml:id="facs_0188_13_05_1348-01_l_2" subtype="default"/>
+         <zone points="255,442 1836,459 1808,400 255,400" rendition="Line" xml:id="facs_0188_13_05_1348-01_tr_1_tl_14" subtype="default"/>
+         <zone points="251,473 1830,483 1724,442 251,447" rendition="Line" xml:id="facs_0188_13_05_1348-01_tr_1_tl_15" subtype="default"/>
+         <zone points="261,519 1854,525 1854,475 261,469" rendition="Line" xml:id="facs_0188_13_05_1348-01_tr_1_tl_16" subtype="default"/>
+         <zone points="251,549 1836,565 1822,517 251,521" rendition="Line" xml:id="facs_0188_13_05_1348-01_l_3" subtype="default"/>
+         <zone points="255,599 1669,620 1814,605 1814,569 253,551" rendition="Line" xml:id="facs_0188_13_05_1348-01_tr_1_tl_19" subtype="default"/>
+         <zone points="257,638 1830,654 1830,599 257,599" rendition="Line" xml:id="facs_0188_13_05_1348-01_tr_1_tl_20" subtype="default"/>
+         <zone points="257,706 796,672 1818,704 1818,658 1722,644 257,638" rendition="Line" xml:id="facs_0188_13_05_1348-01_tr_1_tl_21" subtype="default"/>
+         <zone points="261,742 1830,738 1784,696 1490,680 261,706" rendition="Line" xml:id="facs_0188_13_05_1348-01_tr_1_tl_22" subtype="default"/>
+         <zone points="266,792 1830,794 1830,738 266,742" rendition="Line" xml:id="facs_0188_13_05_1348-01_tr_1_tl_23" subtype="default"/>
+         <zone points="266,843 497,805 1826,819 1786,780 883,764 266,794" rendition="Line" xml:id="facs_0188_13_05_1348-01_tr_1_tl_24" subtype="default"/>
+         <zone points="263,871 1812,863 1794,819 263,829" rendition="Line" xml:id="facs_0188_13_05_1348-01_tr_1_tl_25" subtype="default"/>
+         <zone points="251,917 1814,917 1784,859 251,871" rendition="Line" xml:id="facs_0188_13_05_1348-01_tr_1_tl_26" subtype="default"/>
+         <zone points="257,961 1613,976 1828,919 259,919" rendition="Line" xml:id="facs_0188_13_05_1348-01_l_4" subtype="default"/>
+         <zone points="257,1024 1762,1014 1826,1004 1828,945 1635,978 259,961" rendition="Line" xml:id="facs_0188_13_05_1348-01_l_5" subtype="default"/>
+         <zone points="255,1074 1814,1066 1814,1012 1722,998 255,1028" rendition="Line" xml:id="facs_0188_13_05_1348-01_tr_1_tl_31" subtype="default"/>
+         <zone points="255,1102 1177,1122 1177,1054 255,1074" rendition="Line" xml:id="facs_0188_13_05_1348-01_tr_1_tl_32" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0188_13_05_1348-01" n="0188_13_05_1348-01" xml:id="img_0188_13_05_1348-01"/>
+            <ab>
+               <l facs="#facs_0188_13_05_1348-01_tr_1_tl_6">Wj Willem de molenʼ en̄ Woutre vanden broeke Scepen̄ jn Antwʼpen maken cont dat vore ons quam Eersame liede . de ministʼ en̄ Con-</l>
+               <l facs="#facs_0188_13_05_1348-01_l_1">uent vandʼ derdʼ ordenē sente franciscus in antwʼpen . op die een zide . Ende een deel van den mannē diem̄ heet lollaerde . met Ar-</l>
+               <l facs="#facs_0188_13_05_1348-01_l">noude van houorst jacoppe van bruesele . en̄ hosten van euʼbeke berechtrē des huis dat den vorꞩ lollarden toehoert . ghestaen ane</l>
+               <l facs="#facs_0188_13_05_1348-01_tr_1_tl_11">de veemarct tantwʼpe in dandʼ side . Ende bekindē in beiden siden dat de vorꞩ ministʼ en̄ conuent gheorloeft hebben puerleke ōme</l>
+               <l facs="#facs_0188_13_05_1348-01_l_2">gode . vore hen en̄ vore hore nacomelinghe dat de vorꞩ lollarde moghen timmeʼn op des vorꞩ ministʼs en̄ conuents muer en̄ daer</l>
+               <l facs="#facs_0188_13_05_1348-01_tr_1_tl_14">in varē met ankeʼn en̄ met balken na hoer gherief . sondʼ cost en̄ scade des vorꞩ ministʼs en̄ conuents en̄ sondʼ hindernisse</l>
+               <l facs="#facs_0188_13_05_1348-01_tr_1_tl_15">des muirs . Met desen vorwʼden . dat de vorꞩ manne diem̄ heet lollarde nēmʼmeer watʼ leiden bi selen ten conuente waert</l>
+               <l facs="#facs_0188_13_05_1348-01_tr_1_tl_16">vandʼ vorꞩ derdʼ ordenē . noch oec licht van doren van venstrē . noch van gaten maken hen ware of sijs niet ontbeʼn en mochtē</l>
+               <l facs="#facs_0188_13_05_1348-01_l_3">en̄ het hen openbare noetdorftecheit dade . dat si dan bouē op den soldeʼ venstrē souden moghēʼ makē wel ghetraelgijt bouē</l>
+               <l facs="#facs_0188_13_05_1348-01_tr_1_tl_19">mans lingde hoech staende . en̄ andʼs niet . Ende gheuielt dat de vorꞩ minister en̄ Conuent . timmeʼn wouden . en̄ des vorꞩ</l>
+               <l facs="#facs_0188_13_05_1348-01_tr_1_tl_20">muirs in eneghʼ manierē behoefden . so moghen si dan daer op en̄ in varen met ankeʼn en̄ met balkē en̄ met alle dien dat</l>
+               <l facs="#facs_0188_13_05_1348-01_tr_1_tl_21">hen daer jn gherieuē sal . als in horen ꝓpren muir . die heʼn toe hoert met den gronde . Mede es ondersproken . dat de vorꞩ-</l>
+               <l facs="#facs_0188_13_05_1348-01_tr_1_tl_22">ministʼ en̄ conuent en̄ de vorꞩ manne lollarde . desen vorꞩ muir van allen coste ghemene houden selen . also vʼre alse de</l>
+               <l facs="#facs_0188_13_05_1348-01_tr_1_tl_23">selue sollarde dien daer betimmʼt hebben . Maer waert dat die selue muir brake oft faelgierde in eneghʼande manierē</l>
+               <l facs="#facs_0188_13_05_1348-01_tr_1_tl_24">ouʼmids de tīmeringhe die de vorꞩ manne lollarde daer op of daer in haddē ghetimmʼt of doen timmeʼn dat souden</l>
+               <l facs="#facs_0188_13_05_1348-01_tr_1_tl_25">de vorꞩ manne lollarde makē en̄ vʼsekeʼn op horen cost . sondʼ scade en̄ cost des vorꞩ ministʼs en̄ conuents . Ware oec</l>
+               <l facs="#facs_0188_13_05_1348-01_tr_1_tl_26">dat sake . dat de stede . en̄ de huisinghe daer de vorꞩ manne lollarde nv in wonen verwandelt wordde in andʼ liede</l>
+               <l facs="#facs_0188_13_05_1348-01_l_4">houden also dat daer andʼ liede in woenden dan lollarde . so souden alle dese vorscreuene vorwʼden quite en̄ te nieute</l>
+               <l facs="#facs_0188_13_05_1348-01_l_5">siin op dat de vorꞩ ministʼ en̄ conuent wouden die dan siin souden . Jn kinnessen van desen dʼlnghen . en̄ omme de bede ende</l>
+               <l facs="#facs_0188_13_05_1348-01_tr_1_tl_31">tverlyen dʼ vorꞩ ꝑtien hebben wi scepen̄ vorghenoemt dese lrēn beseghelt mꝫ onsen zeghelen . Ghegheuē int jaer ons heren</l>
+               <l facs="#facs_0188_13_05_1348-01_tr_1_tl_32">alsm̄ screef . M . CCC . viertech ende achte des dinsendaeghs vore halfmeye</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

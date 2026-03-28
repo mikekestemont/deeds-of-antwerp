@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="2366" lry="1357" xml:id="facs_0346_23_07_1349-01">
+         <graphic url="0346_23_07_1349-01.jpg" width="2366px" height="1357px"/>
+         <zone points="290,280 2291,255 2291,215 2029,188 1911,223 1803,180 1576,238 1408,200 1188,230 1108,188 1041,230 713,198 590,238 488,183 290,190" rendition="Line" xml:id="facs_0346_23_07_1349-01_tr_1_tl_1" subtype="default"/>
+         <zone points="295,318 2271,300 2271,258 2109,255 295,280" rendition="Line" xml:id="facs_0346_23_07_1349-01_tr_1_tl_2" subtype="default"/>
+         <zone points="300,350 2276,330 2171,290 300,313" rendition="Line" xml:id="facs_0346_23_07_1349-01_tr_1_tl_3" subtype="default"/>
+         <zone points="303,383 2291,368 2291,328 303,348" rendition="Line" xml:id="facs_0346_23_07_1349-01_tr_1_tl_4" subtype="default"/>
+         <zone points="300,423 2286,403 2286,368 2181,363 300,385" rendition="Line" xml:id="facs_0346_23_07_1349-01_tr_1_tl_5" subtype="default"/>
+         <zone points="303,458 1583,473 2291,433 2264,395 303,425" rendition="Line" xml:id="facs_0346_23_07_1349-01_tr_1_tl_6" subtype="default"/>
+         <zone points="308,498 1828,503 2201,480 2274,430 308,463" rendition="Line" xml:id="facs_0346_23_07_1349-01_tr_1_tl_7" subtype="default"/>
+         <zone points="308,538 2294,505 2294,460 308,495" rendition="Line" xml:id="facs_0346_23_07_1349-01_tr_1_tl_8" subtype="default"/>
+         <zone points="295,580 2299,540 2299,505 2194,500 298,533" rendition="Line" xml:id="facs_0346_23_07_1349-01_tr_1_tl_9" subtype="default"/>
+         <zone points="305,615 2286,575 2286,540 2221,538 305,575" rendition="Line" xml:id="facs_0346_23_07_1349-01_tr_1_tl_10" subtype="default"/>
+         <zone points="303,653 2289,613 2276,570 303,615" rendition="Line" xml:id="facs_0346_23_07_1349-01_tr_1_tl_11" subtype="default"/>
+         <zone points="303,700 2286,645 2144,610 303,653" rendition="Line" xml:id="facs_0346_23_07_1349-01_tr_1_tl_12" subtype="default"/>
+         <zone points="303,735 1758,733 2294,685 2281,643 1788,688 305,700" rendition="Line" xml:id="facs_0346_23_07_1349-01_l" subtype="default"/>
+         <zone points="308,775 1803,773 1876,735 2294,730 2266,683 1756,728 308,735" rendition="Line" xml:id="facs_0346_23_07_1349-01_l_1" subtype="default"/>
+         <zone points="303,823 2291,778 2291,728 2249,728 303,783" rendition="Line" xml:id="facs_0346_23_07_1349-01_l_2" subtype="default"/>
+         <zone points="303,863 2289,823 2244,770 303,823" rendition="Line" xml:id="facs_0346_23_07_1349-01_tr_1_tl_19" subtype="default"/>
+         <zone points="303,910 2291,863 2291,820 2166,808 1673,850 305,848" rendition="Line" xml:id="facs_0346_23_07_1349-01_tr_1_tl_20" subtype="default"/>
+         <zone points="303,948 1728,933 2296,900 2299,860 303,910" rendition="Line" xml:id="facs_0346_23_07_1349-01_tr_1_tl_21" subtype="default"/>
+         <zone points="303,975 1353,988 2309,935 2291,895 2124,890 305,945" rendition="Line" xml:id="facs_0346_23_07_1349-01_tr_1_tl_22" subtype="default"/>
+         <zone points="305,1033 2281,998 2311,943 305,998" rendition="Line" xml:id="facs_0346_23_07_1349-01_tr_1_tl_23" subtype="default"/>
+         <zone points="315,1093 2294,1033 2281,978 318,1038" rendition="Line" xml:id="facs_0346_23_07_1349-01_tr_1_tl_24" subtype="default"/>
+         <zone points="308,1131 2276,1091 2261,1026 310,1093" rendition="Line" xml:id="facs_0346_23_07_1349-01_tr_1_tl_25" subtype="default"/>
+         <zone points="308,1181 2279,1136 2279,1093 2136,1076 310,1141" rendition="Line" xml:id="facs_0346_23_07_1349-01_tr_1_tl_26" subtype="default"/>
+         <zone points="308,1223 2314,1186 2316,1128 2246,1121 310,1181" rendition="Line" xml:id="facs_0346_23_07_1349-01_tr_1_tl_27" subtype="default"/>
+         <zone points="318,1278 1123,1281 2244,1211 2299,1241 2321,1186 320,1226" rendition="Line" xml:id="facs_0346_23_07_1349-01_tr_1_tl_28" subtype="default"/>
+         <zone points="323,1331 1583,1326 1696,1271 1966,1303 2056,1266 2301,1331 2304,1233 323,1276" rendition="Line" xml:id="facs_0346_23_07_1349-01_tr_1_tl_29" subtype="default"/>
+         <zone points="1356,1356 388,1313 335,1331 310,1323" rendition="Line" xml:id="facs_0346_23_07_1349-01_l_3" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0346_23_07_1349-01" n="0346_23_07_1349-01" xml:id="img_0346_23_07_1349-01"/>
+            <ab>
+               <l facs="#facs_0346_23_07_1349-01_tr_1_tl_1">Wij Jan bode ende peter van hoboken . Scepenen Jn Antwʼpen maken cond dat vore ons quamen Eersame liede ende wise de Deken ende Capl̄e van</l>
+               <l facs="#facs_0346_23_07_1349-01_tr_1_tl_2">onser vrouwen kerke Jnantwʼpen Jn deene ꝑtie . Ende hʼ gillijs de stoeuʼe Riddeʼ ende vrouwe kateline siin witteghe wijf ane dandre ꝑtie</l>
+               <l facs="#facs_0346_23_07_1349-01_tr_1_tl_3">ende bekinden dat si onderlinghe ghewisselt hebben hore erfleke rente ghelijc dat se hier na bescreuen staet Mids der welker wisselinghen</l>
+               <l facs="#facs_0346_23_07_1349-01_tr_1_tl_4">de vorghenomde .. Deken ende Capl̄e op droeghen den vorghenomden heʼn gillise en̄ vrouwē katelinē sinen wiue en̄ quite scouden thorē behoef</l>
+               <l facs="#facs_0346_23_07_1349-01_tr_1_tl_5">die drie ende een vierendeel guldene peninghe diemen heet scilde die si hadden siaers erfleke . op die huisinghen die wilen waren tsher Jans</l>
+               <l facs="#facs_0346_23_07_1349-01_tr_1_tl_6">draechs pⁱster ende Capellaen van onꞩ vrouwen kerke vorghenomt die ghestaen siin inde steghe daer men gat ter scelt waert Jeghen ard Jans</l>
+               <l facs="#facs_0346_23_07_1349-01_tr_1_tl_7">woninghe ouʼ alder naest der potstouen opden gront en̄ op al dattʼ toe behoert Jn allen dien manieren en̄ recht dat sijt den vorgh̄ heʼn gillise</l>
+               <l facs="#facs_0346_23_07_1349-01_tr_1_tl_8">en vrouwē katelinē sinen wiue terue hadden ghegheuē en̄ bekinden dat si ane de huisinghen noch ane de rendtn vorgh̄ en gheen recht en behil</l>
+               <l facs="#facs_0346_23_07_1349-01_tr_1_tl_9">den wtghenomen twintech pēninghen en̄ een hoen cheins ghelds siaers erfleker renten die de . Deken ende Capl̄e daer op behouden selen . Ende</l>
+               <l facs="#facs_0346_23_07_1349-01_tr_1_tl_10">inder seluer mānieren van wisselinghen . so gauen en̄ bewijsden weder . de vorgh̄ hʼ gillijs en̄ vrouwe katelne siin witteghe wijf . den vorgh̄</l>
+               <l facs="#facs_0346_23_07_1349-01_tr_1_tl_11">Dekene en̄ Caplēn die viere guldene pennīghe diemen heet scilde erfleker renten . die si hadden en̄ siaers gheffene plaghen . van eenē huise</l>
+               <l facs="#facs_0346_23_07_1349-01_tr_1_tl_12">datmen heet de cluise dat ghestaen es inden losen ghawech tantwʼpen bider vischmerct met den grond en̄ met al dattʼ toe behoert en̄</l>
+               <l facs="#facs_0346_23_07_1349-01_l">met alder vorwʼdden die si daer ane houdende waren . ghelijc dat scepenē lrēn Jn hebben . die daer op ghemaect siin de welke vorghenomde</l>
+               <l facs="#facs_0346_23_07_1349-01_l_1">viere guldene pennīghe diemen heet scilde erfleker renten . met allen den Rechte dat si daer ane en̄ ane alle dattʼ toe behoert houdende wa-</l>
+               <l facs="#facs_0346_23_07_1349-01_l_2">ren de vorgh̄ hʼ gllijs en̄ vrouwe kateline siin wijf op droeghen met vʼtiene den vorgh̄ dekene en̄ Capl̄en ende quite scouden tho-</l>
+               <l facs="#facs_0346_23_07_1349-01_tr_1_tl_19">ren behoef . nēmermeer hen rechts daer toe te vʼmetene in eenegher manieren . ende gheloefdent niet te waerne Jaer ende dach ieghen</l>
+               <l facs="#facs_0346_23_07_1349-01_tr_1_tl_20">alle de ghene die te rechte comen willen . Voert soe quamen vore ons lucas en̄ michiel cant ghebroedere . der seluʼ vrouwē katelinen</l>
+               <l facs="#facs_0346_23_07_1349-01_tr_1_tl_21">kindeʼ ende droeghen op ende vʼteghen tote des vorgh̄ dekens ende Capl̄en behoef alle dat recht dat si hadden ofte hebben mochten ane</l>
+               <l facs="#facs_0346_23_07_1349-01_tr_1_tl_22">dat vorgh̄ huis grond ende ane de rente ende ane alle dattʼ toe behoert dat men heet de cluise en̄ gheloefden daer mede Janne ho</l>
+               <l facs="#facs_0346_23_07_1349-01_tr_1_tl_23">ren broeder te vʼmane . dat hi dese dinghen . ghelijc hen . vast ende ghestade sal houden altoes ende want de vorgh̄ hʼ gillijs en̄</l>
+               <l facs="#facs_0346_23_07_1349-01_tr_1_tl_24">vrouwe kateline siin wijf drie vierendele van eenē guldenē pennīghe diemen heet scild . den vorgh̄ . Dekene en̄ Caplēn inder</l>
+               <l facs="#facs_0346_23_07_1349-01_tr_1_tl_25">re wisselinghen en ghegheuen ende bewijst hebben meer dan de selue deken en̄ Capl̄e hadden siaers op de vorghenomde huisin</l>
+               <l facs="#facs_0346_23_07_1349-01_tr_1_tl_26">ghen ghelijc dat vore es bescreuen . So bekinde vore ons de vorgh̄ hʼ gillijs en̄ vrouwe katline siin wijf dat si die drie</l>
+               <l facs="#facs_0346_23_07_1349-01_tr_1_tl_27">vierendeele van eenē guldene pennī̄ghe diemen heet scild wittelec vʼcocht hebben . den .. Dekene en̄ Capl̄en vorghenomd ōme</l>
+               <l facs="#facs_0346_23_07_1349-01_tr_1_tl_28">eene seker sūme van pennīghen . daer si hen af bekinden al vergoudē . Jn kennissen van desen lrēn beseghelt met onsē</l>
+               <l facs="#facs_0346_23_07_1349-01_tr_1_tl_29">seglen . Ghegheuē jnt Jaer ons heʼn alsmen screef . M . CCC . veertech ende neghene des dondersdaghs na sente marien magdelenē</l>
+               <l facs="#facs_0346_23_07_1349-01_l_3">daghe</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

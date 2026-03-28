@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="4001" lry="1103" xml:id="facs_0302_19_11_1334-02">
+         <graphic url="0302_19_11_1334-02.jpg" width="4001px" height="1103px"/>
+         <zone points="126,345 219,311 326,345 715,326 759,370 837,331 1099,365 1196,331 1299,384 1372,336 1678,336 1936,384 2101,331 2646,350 2685,389 2738,340 2889,336 3001,399 3074,345 3915,336 3915,190 3594,190 3516,248 3400,165 3225,214 3069,156 2986,224 2870,156 2685,224 2330,180 2194,243 1916,185 1688,209 1610,165 1454,219 1318,170 1065,185 987,233 841,185 734,238 593,175 443,248 126,165" rendition="Line" xml:id="facs_0302_19_11_1334-02_tr_1_tl_1" subtype="default"/>
+         <zone points="68,428 520,413 700,462 841,418 1017,467 1216,423 1357,472 1576,438 1639,477 1697,433 1775,472 1970,418 2772,491 2855,443 2933,472 3040,433 3288,457 3380,423 3439,462 3473,428 3614,457 3906,423 3906,340 3842,326 3161,340 3016,389 2884,340 2675,384 2631,345 2101,321 2043,375 1975,350 1931,384 1858,340 1678,370 1620,331 1381,331 1299,384 1192,331 827,370 715,326 68,340" rendition="Line" xml:id="facs_0302_19_11_1334-02_tr_1_tl_2" subtype="default"/>
+         <zone points="54,511 331,506 384,550 705,506 837,564 958,516 1289,559 1410,520 1766,530 1921,574 1970,530 2160,559 2325,525 2500,579 2544,540 2748,574 2782,540 3230,530 3366,579 3516,516 3891,545 3940,520 3935,409 3696,457 3653,423 3434,462 3375,418 3035,433 2928,472 2874,438 2772,486 1970,418 1741,477 1693,438 1639,477 1581,443 1357,477 1216,423 1021,462 841,413 773,457 49,428" rendition="Line" xml:id="facs_0302_19_11_1334-02_tr_1_tl_3" subtype="default"/>
+         <zone points="49,598 224,632 516,598 798,647 987,618 1065,657 1269,608 1571,666 1702,627 2038,686 2135,637 2184,681 2228,642 2636,691 2724,642 2806,700 3006,642 3288,632 3371,676 3774,623 3852,661 3959,618 3930,516 3852,550 3512,516 3366,574 3293,530 3093,579 2899,540 2481,574 2232,520 2130,574 2038,530 1916,574 1751,530 1269,554 1041,516 973,564 929,520 827,559 754,511 384,545 331,506 272,540 49,511" rendition="Line" xml:id="facs_0302_19_11_1334-02_tr_1_tl_4" subtype="default"/>
+         <zone points="34,725 214,700 340,759 520,696 608,744 793,705 1026,773 1099,734 1668,725 1892,783 1955,734 2096,768 2442,739 2724,812 2792,764 3920,749 3915,618 3682,666 3439,642 3371,681 3293,637 3079,676 2894,652 2821,705 2743,647 2432,691 2228,642 2184,676 2130,632 2038,686 1916,642 1571,666 1260,613 1128,666 953,618 632,642 302,598 224,632 29,589" rendition="Line" xml:id="facs_0302_19_11_1334-02_tr_1_tl_5" subtype="default"/>
+         <zone points="39,807 122,846 671,827 759,866 846,822 1055,856 1124,827 1167,866 1410,827 1508,871 1697,822 1785,871 1824,832 1897,871 2281,841 2617,905 2724,875 2816,919 2865,871 3088,856 3220,851 3278,905 3463,856 3643,880 3721,837 3842,875 3949,827 3945,749 3395,744 3307,788 2874,759 2724,812 2442,739 2077,773 1950,734 1902,783 1824,734 1751,768 1586,720 1026,773 788,705 608,744 467,700 336,759 209,700 34,720" rendition="Line" xml:id="facs_0302_19_11_1334-02_tr_1_tl_6" subtype="default"/>
+         <zone points="39,968 209,929 399,987 720,934 861,982 934,934 1119,992 1274,929 1654,987 1751,934 1863,978 2023,948 2155,1002 2223,963 2422,1012 2515,968 2743,1017 2850,982 2894,1026 3025,982 3142,1017 3195,973 3555,1017 3769,963 3935,1002 3935,841 3901,832 3799,875 3721,837 3278,905 3220,856 3001,856 2816,919 2510,856 2408,895 2281,841 2125,871 1678,822 1508,875 1323,827 389,851 263,812 141,851 39,807" rendition="Line" xml:id="facs_0302_19_11_1334-02_tr_1_tl_7" subtype="default"/>
+         <zone points="1102,1102 316,1099 1907,1099 1984,1065 2048,1099 1102,1102 2607,1099 2665,1065 2840,1099 1102,1102 3293,1099 3317,992 3215,973 2933,1031 2845,978 2748,1017 2680,973 2427,1012 2228,968 2160,1007 2018,948 1941,997 1790,934 1673,987 1493,939 1211,987 910,939 856,982 715,934 399,992 209,924 34,963" rendition="Line" xml:id="facs_0302_19_11_1334-02_l" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0302_19_11_1334-02" n="0302_19_11_1334-02" xml:id="img_0302_19_11_1334-02"/>
+            <ab>
+               <l facs="#facs_0302_19_11_1334-02_tr_1_tl_1">Wj Willem Drake en̄ Arnoud Cantman . Scepenen jn Antwʼpen maken cond . Dat vore ons quam . matheus vanden bloemen . en̄ bekinde</l>
+               <l facs="#facs_0302_19_11_1334-02_tr_1_tl_2">dat hi wittelec vʼcocht heeft . heʼn heinrike den ghelaesmakeʼ prijstʼ . dat virendeel vanden huise dat ghestaen es ane de maerct op den hoech vandʼ</l>
+               <l facs="#facs_0302_19_11_1334-02_tr_1_tl_3">Suenscalcstᵃten dat men heet de tafelronde met allen dien rechte dat hi daer ane . ane grond en̄ ane al dattʼ toe behoerd houdende was</l>
+               <l facs="#facs_0302_19_11_1334-02_tr_1_tl_4">in allen dien maniere en̄ rechte dadt . de vorghʼ matheus vormaels ghecreght en̄ ghecocht hadde jeghen damase van zele ghelijc dat scepenē</l>
+               <l facs="#facs_0302_19_11_1334-02_tr_1_tl_5">lrēn jn hebben die daer op ghemaect sijn . ōme ene sūme vā penninghen daer hem de vorgh̄ matheus af bekinde al vʼgouden . Dat</l>
+               <l facs="#facs_0302_19_11_1334-02_tr_1_tl_6">welke vorgh̄ virendeel huis met gronde en̄ met al dattʼ toe behoerd . de vorgh̄ matheus gheloefde te waerne van allen calaingien</l>
+               <l facs="#facs_0302_19_11_1334-02_tr_1_tl_7">en̄ kūmʼe jaer en̄ dach jeghen alle de ghene die te rechte comen willen . Jn kennissen van desen lrēn beseghelt met onsen seglen . Ghe</l>
+               <l facs="#facs_0302_19_11_1334-02_l">gheuē jn Jaer ons heʼn alsm̄ screef . M . CCC . viere . en̄ Dertech . des satʼdags vore sente clements dach</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

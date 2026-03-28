@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3507" lry="2480" xml:id="facs_0090_06_03_1307-02">
+         <graphic url="0090_06_03_1307-02.jpg" width="3507px" height="2480px"/>
+         <zone points="300,896 2778,930 2747,834 2475,813 1307,847 837,806 423,831 300,794" rendition="Line" xml:id="facs_0090_06_03_1307-02_tr_1_tl_1" subtype="default"/>
+         <zone points="309,955 643,998 1489,967 1669,1010 1730,970 1823,1007 2021,973 2067,1017 2376,967 2583,1010 2784,986 2784,939 2701,905 2577,939 2138,899 1390,939 1023,896 720,933 309,902" rendition="Line" xml:id="facs_0090_06_03_1307-02_tr_1_tl_2" subtype="default"/>
+         <zone points="328,1041 884,1035 1014,1075 1165,1041 1270,1078 1842,1051 1919,1088 1987,1054 2046,1091 2209,1041 2342,1078 2769,1054 2766,995 2586,1014 2481,970 2067,1017 324,961" rendition="Line" xml:id="facs_0090_06_03_1307-02_tr_1_tl_3" subtype="default"/>
+         <zone points="349,1122 1014,1103 1372,1156 2781,1122 2778,1054 2710,1051 2379,1082 2231,1044 2042,1091 1981,1054 1922,1088 1740,1051 1267,1078 1159,1041 1001,1078 958,1041 349,1032" rendition="Line" xml:id="facs_0090_06_03_1307-02_l" subtype="default"/>
+         <zone points="331,1174 1474,1214 1876,1187 1959,1224 2713,1187 2713,1115 2135,1159 624,1094 544,1134 331,1125" rendition="Line" xml:id="facs_0090_06_03_1307-02_tr_1_tl_6" subtype="default"/>
+         <zone points="337,1242 1446,1279 1805,1251 1842,1285 2348,1298 2759,1255 2759,1187 2305,1227 899,1171 337,1196" rendition="Line" xml:id="facs_0090_06_03_1307-02_tr_1_tl_7" subtype="default"/>
+         <zone points="321,1332 769,1304 1400,1353 1465,1323 2759,1357 2741,1255 2355,1295 1842,1285 1808,1251 1217,1285 321,1230" rendition="Line" xml:id="facs_0090_06_03_1307-02_tr_1_tl_8" subtype="default"/>
+         <zone points="352,1381 1088,1381 1174,1421 1545,1390 1798,1437 1907,1403 2373,1437 2623,1390 2747,1428 2728,1344 352,1323" rendition="Line" xml:id="facs_0090_06_03_1307-02_tr_1_tl_9" subtype="default"/>
+         <zone points="324,1452 983,1437 1214,1489 2506,1502 2732,1474 2728,1403 1801,1440 1764,1406 1353,1394 1282,1428 1230,1390 1190,1424 1088,1381 321,1403" rendition="Line" xml:id="facs_0090_06_03_1307-02_tr_1_tl_10" subtype="default"/>
+         <zone points="315,1542 646,1511 881,1582 1091,1517 1548,1594 1690,1545 1721,1576 2098,1539 2670,1570 2639,1462 2503,1502 1693,1511 1378,1465 1214,1489 1174,1452 315,1455" rendition="Line" xml:id="facs_0090_06_03_1307-02_tr_1_tl_11" subtype="default"/>
+         <zone points="340,1582 365,1582 411,1613 430,1613 476,1579 525,1579 553,1591 575,1579 599,1582 599,1542 538,1526 451,1533 433,1514 411,1526 396,1511 340,1526" rendition="Line" xml:id="facs_0090_06_03_1307-02_tr_1_tl_12" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0090_06_03_1307-02" n="0090_06_03_1307-02" xml:id="img_0090_06_03_1307-02"/>
+            <ab>
+               <l facs="#facs_0090_06_03_1307-02_tr_1_tl_1">Wi pauwels bornecolue en̄ claus canteman scepenen in Andwerpen maken kond allen den ghenen die dese</l>
+               <l facs="#facs_0090_06_03_1307-02_tr_1_tl_2">lettre sullen sien ochte horen lesen . dat voren ons comen siin in ꝓpren ꝑsonen hughe van ruemst . gillis van</l>
+               <l facs="#facs_0090_06_03_1307-02_tr_1_tl_3">hackendonc . Jan van ouerscelde die smet heinric ghertruden sone pieter van sandhoue . wouter</l>
+               <l facs="#facs_0090_06_03_1307-02_l">pollare . Jan vander snacke inghel die kersemakere . en̄ claeus die lewe . En̄ beloueden voor ons te le-</l>
+               <l facs="#facs_0090_06_03_1307-02_tr_1_tl_6">muerne ghemeenleke onghesondert en̄ onghesament . twelef hofstaden die si ghenomen hebben</l>
+               <l facs="#facs_0090_06_03_1307-02_tr_1_tl_7">te eruen van den gasthuse van andwerpen . ligghende noord waerd vanden gasthuise an die strate</l>
+               <l facs="#facs_0090_06_03_1307-02_tr_1_tl_8">dats te verstane . die ene side ten gasthuse waerd . en̄ hachter andre hofstaden . med enen mure</l>
+               <l facs="#facs_0090_06_03_1307-02_tr_1_tl_9">goed en̄ louelec . tien voet hoegh tusschen hier en̄ sente Jans daghe in midden someʼ die erst</l>
+               <l facs="#facs_0090_06_03_1307-02_tr_1_tl_10">comende is . bouen der aerde . Jn orkonde van desen brieue beseghelt med onsen seghelen .</l>
+               <l facs="#facs_0090_06_03_1307-02_tr_1_tl_11">dit was ghedaen int jaer ons heren als men screef . M . CCC . en̄ sesse . smaendaeghs na half</l>
+               <l facs="#facs_0090_06_03_1307-02_tr_1_tl_12">vastene</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

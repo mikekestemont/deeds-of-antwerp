@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="4096" lry="1089" xml:id="facs_0382_26_07_1351-01">
+         <graphic url="0382_26_07_1351-01.jpg" width="4096px" height="1089px"/>
+         <zone points="45,270 1008,319 2011,275 2526,314 3219,280 3454,319 3604,285 4013,329 4013,245 3778,180 3609,225 3544,185 3444,220 3339,170 3234,215 2940,165 2815,225 2720,150 2386,215 2071,210 1996,170 1837,200 1762,150 1228,225 1168,175 968,195 918,155 858,195 674,150 394,210 110,145 45,175" rendition="Line" xml:id="facs_0382_26_07_1351-01_tr_1_tl_1" subtype="default"/>
+         <zone points="60,344 444,334 928,394 1058,359 2416,389 2566,354 4038,389 4033,319 3898,294 2086,309 1757,275 998,314 589,265 60,275" rendition="Line" xml:id="facs_0382_26_07_1351-01_tr_1_tl_2" subtype="default"/>
+         <zone points="60,429 2935,429 3619,484 3893,449 4008,489 4008,394 3973,384 3464,364 883,379 60,344" rendition="Line" xml:id="facs_0382_26_07_1351-01_tr_1_tl_3" subtype="default"/>
+         <zone points="65,494 514,464 1013,524 3035,504 3130,549 3589,529 3923,579 4008,559 4008,489 3893,449 3808,489 3704,449 3529,479 3149,434 60,424" rendition="Line" xml:id="facs_0382_26_07_1351-01_tr_1_tl_4" subtype="default"/>
+         <zone points="55,539 1672,599 1862,554 2181,594 2855,574 3005,619 3120,584 4053,639 4053,564 4018,559 3050,509 55,489" rendition="Line" xml:id="facs_0382_26_07_1351-01_tr_1_tl_5" subtype="default"/>
+         <zone points="60,639 654,609 973,664 2011,644 2221,689 2301,649 2346,679 2815,639 2880,684 3679,679 3963,729 4003,724 4003,639 3125,584 2925,609 2855,574 1013,589 55,544" rendition="Line" xml:id="facs_0382_26_07_1351-01_tr_1_tl_6" subtype="default"/>
+         <zone points="50,674 1138,734 1632,714 1732,754 1867,714 1992,754 2521,724 2880,764 2940,729 3065,769 3130,739 4058,809 4058,704 3773,729 3674,689 3169,694 2815,639 2366,679 50,619" rendition="Line" xml:id="facs_0382_26_07_1351-01_tr_1_tl_7" subtype="default"/>
+         <zone points="40,764 534,779 584,744 844,799 1178,779 1218,814 1452,774 1577,824 1812,789 1872,824 2241,809 2296,849 2386,804 2915,804 2950,839 4013,878 4013,799 3973,789 3619,794 3514,754 1263,734 40,669" rendition="Line" xml:id="facs_0382_26_07_1351-01_tr_1_tl_8" subtype="default"/>
+         <zone points="45,834 1767,873 2236,948 2381,883 2725,893 2950,958 3090,903 3229,968 3309,908 3409,963 3669,928 3988,973 3983,863 3893,888 3654,844 3464,868 2580,799 1867,824 1812,789 1592,819 1462,774 873,799 579,744 549,779 45,764" rendition="Line" xml:id="facs_0382_26_07_1351-01_tr_1_tl_9" subtype="default"/>
+         <zone points="35,988 250,963 359,1018 679,968 1078,1008 1158,948 1313,988 1722,983 1792,978 1787,868 1308,893 25,814" rendition="Line" xml:id="facs_0382_26_07_1351-01_tr_1_tl_10" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0382_26_07_1351-01" n="0382_26_07_1351-01" xml:id="img_0382_26_07_1351-01"/>
+            <ab>
+               <l facs="#facs_0382_26_07_1351-01_tr_1_tl_1">Wij Jan vanden mortʼe ende Woutʼe vanden broeke scepenē in antwʼpen maken cond dat vore ons quā Joncvrouwe margriete dochtʼ claus coluts met</l>
+               <l facs="#facs_0382_26_07_1351-01_tr_1_tl_2">laureinse volcarde horen witteghen manne ende montbore en̄ bekinde dat si wittelec vʼcocht heeft Janne den boch den vedermakʼe twee guldene</l>
+               <l facs="#facs_0382_26_07_1351-01_tr_1_tl_3">florine van florence diemē heet hallinghe ende derdaluē ouden groten tornoisen siaers erflaker renten die si hadde siaers op een huis dat</l>
+               <l facs="#facs_0382_26_07_1351-01_tr_1_tl_4">ghestaen es ane de corenmaerct naest godeūts dracs huise was daer claus de ghelaesmakʼe in woent . En̄ neghentiene pēninghe oudʼ gro-</l>
+               <l facs="#facs_0382_26_07_1351-01_tr_1_tl_5">tornoise ende neghene miten siaers erflecs cheins op een huis ghestaen ane de vorghenomde corē maerct tusschen peters bocs en̄ Jans ards-</l>
+               <l facs="#facs_0382_26_07_1351-01_tr_1_tl_6">soens met allen den rechte dat si joncvrʼ margriete ane den vorgh̄ cheins . huissinghe en̄ ane al dat daer toe behoert houdende was ōme</l>
+               <l facs="#facs_0382_26_07_1351-01_tr_1_tl_7">ene sūme van pēninghen daer hare de vorgh̄ joncvrouwe margrite met horē montbore af bekinde al vʼgouden . Den welken cheins met alle</l>
+               <l facs="#facs_0382_26_07_1351-01_tr_1_tl_8">sinen toe behoerten de vorghenomde joncvrouwe margrite met horē montbore gheloefde te waerne Jaer en̄ dach jeghen alle de ghene</l>
+               <l facs="#facs_0382_26_07_1351-01_tr_1_tl_9">die te rechte comen willen . Jn kennissen van desen lrēn beseghelt met onsen seglen Ghegheuen int Jaer ons heʼn alsmen screef M .</l>
+               <l facs="#facs_0382_26_07_1351-01_tr_1_tl_10">CCC . viiftech ende een . des dinsendaghs na sente jacops dach</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

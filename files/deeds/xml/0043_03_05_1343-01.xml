@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3507" lry="2480" xml:id="facs_0043_03_05_1343-01">
+         <graphic url="0043_03_05_1343-01.jpg" width="3507px" height="2480px"/>
+         <zone points="482,867 1363,943 1413,911 2441,981 2782,961 2752,887 2350,896 2230,846 2159,887 1777,878 1739,840 1475,867 1357,822 802,828 720,781 611,820 476,737" rendition="Line" xml:id="facs_0043_03_05_1343-01_tr_1_tl_1" subtype="default"/>
+         <zone points="461,952 2597,1028 2788,1072 2785,969 2714,961 2444,984 461,890" rendition="Line" xml:id="facs_0043_03_05_1343-01_tr_1_tl_2" subtype="default"/>
+         <zone points="449,1049 632,1016 884,1055 964,1019 2585,1131 2711,1113 2708,1049 444,952" rendition="Line" xml:id="facs_0043_03_05_1343-01_tr_1_tl_3" subtype="default"/>
+         <zone points="441,1116 576,1099 649,1146 687,1110 1248,1099 1428,1152 2711,1196 2764,1184 2761,1119 1671,1093 1533,1052 1254,1078 964,1022 867,1060 573,1025 438,1058" rendition="Line" xml:id="facs_0043_03_05_1343-01_tr_1_tl_4" subtype="default"/>
+         <zone points="435,1196 1046,1172 1533,1231 2767,1260 2738,1187 1971,1196 1933,1160 1642,1169 1475,1125 1422,1157 1096,1104 435,1131" rendition="Line" xml:id="facs_0043_03_05_1343-01_tr_1_tl_5" subtype="default"/>
+         <zone points="441,1257 849,1243 2012,1342 2068,1310 2761,1328 2779,1260 2341,1272 2209,1234 1992,1275 1096,1184 438,1196" rendition="Line" xml:id="facs_0043_03_05_1343-01_tr_1_tl_6" subtype="default"/>
+         <zone points="435,1348 981,1319 1463,1389 1651,1360 2382,1428 2767,1407 2761,1325 2714,1319 2268,1354 2141,1310 1730,1337 1366,1278 893,1278 849,1243 429,1254" rendition="Line" xml:id="facs_0043_03_05_1343-01_tr_1_tl_7" subtype="default"/>
+         <zone points="432,1410 934,1392 2676,1507 2785,1480 2785,1431 1472,1389 928,1319 429,1351" rendition="Line" xml:id="facs_0043_03_05_1343-01_tr_1_tl_8" subtype="default"/>
+         <zone points="423,1498 1008,1475 1762,1551 1874,1519 2512,1580 2735,1557 2714,1480 2365,1510 1028,1407 420,1407" rendition="Line" xml:id="facs_0043_03_05_1343-01_tr_1_tl_9" subtype="default"/>
+         <zone points="423,1610 955,1560 1010,1598 1695,1589 2083,1627 2121,1666 2232,1636 2579,1668 2764,1642 2761,1554 2500,1601 1448,1504 1316,1545 1243,1504 417,1501" rendition="Line" xml:id="facs_0043_03_05_1343-01_tr_1_tl_10" subtype="default"/>
+         <zone points="420,1674 1898,1680 2191,1736 2326,1710 2326,1639 2127,1668 1921,1604 1786,1633 1398,1589 1275,1633 916,1580 479,1577 417,1613" rendition="Line" xml:id="facs_0043_03_05_1343-01_tr_1_tl_11" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0043_03_05_1343-01" n="0043_03_05_1343-01" xml:id="img_0043_03_05_1343-01"/>
+            <ab>
+               <l facs="#facs_0043_03_05_1343-01_tr_1_tl_1">Wj jan Wilmaer en̄ willem sprong scepenē Jn Antwʼpen maken cont . dat vore ons qᵃm̄ brudʼ goeshem meestʼ</l>
+               <l facs="#facs_0043_03_05_1343-01_tr_1_tl_2">vanden groten gasthuise in Antwʼpen . en̄ Jan de hʼtoghe van doerne . En̄ bekenden . dat de vorseide jan sculdech</l>
+               <l facs="#facs_0043_03_05_1343-01_tr_1_tl_3">es den vorseiden gasthuise twintech scellinghe louensche viere hoendre . en̄ de twee dele van enen</l>
+               <l facs="#facs_0043_03_05_1343-01_tr_1_tl_4">maydaghe sjaers erflekʼ renten op een stucke lands gheleghen in doerne bidʼ zantvoert dat m̄</l>
+               <l facs="#facs_0043_03_05_1343-01_tr_1_tl_5">heet heinrichs des wilden bloc houdende ondʼhalf bundʼ luttel min ofte meer . dat welke land met al</l>
+               <l facs="#facs_0043_03_05_1343-01_tr_1_tl_6">dat daertoe hoert . de vorseide jan sette en̄ vʼbant tenen gherechten pande ouʼ de vorseide erfleke rente</l>
+               <l facs="#facs_0043_03_05_1343-01_tr_1_tl_7">tegheldene en̄ tegheuene alle jare vanden seluen janne en̄ van sinē nacomelinghen . den vorseiden gasthuse</l>
+               <l facs="#facs_0043_03_05_1343-01_tr_1_tl_8">telken kerssauonde en̄ binnen Antwʼpen tebetaelne alle jare den arm̄ sieken int vorseide gasthuis pitan</l>
+               <l facs="#facs_0043_03_05_1343-01_tr_1_tl_9">chen . met desen vorwarden so wat deʼ vorseide jan vʼtīmert op dit vorseide stucke lands . dat dat algadʼ pand</l>
+               <l facs="#facs_0043_03_05_1343-01_tr_1_tl_10">sal sijn vʼbonden ouʼ de vorseide erfleke rente Jn kennessen van desen letteʼn beseghelt met onsen zeghlen . Ghe</l>
+               <l facs="#facs_0043_03_05_1343-01_tr_1_tl_11">gheuen jnt jaer ons heʼn alsm̄ screef . M . CCC . viertech en̄ drie des satʼdaegs na meydach</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

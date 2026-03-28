@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3507" lry="2480" xml:id="facs_0377_25_10_1302-01">
+         <graphic url="0377_25_10_1302-01.jpg" width="3507px" height="2480px"/>
+         <zone points="259,768 381,808 1241,777 1329,817 2707,854 2701,616 2402,622 2302,692 1979,637 1817,674 1646,649 1521,732 1405,744 1101,668 1021,735 259,689" rendition="Line" xml:id="facs_0377_25_10_1302-01_tr_1_tl_1" subtype="default"/>
+         <zone points="302,848 1835,860 1991,912 2067,872 2726,927 2723,841 1329,817 1241,777 835,814 299,787" rendition="Line" xml:id="facs_0377_25_10_1302-01_tr_1_tl_2" subtype="default"/>
+         <zone points="302,930 1299,915 1457,960 1598,918 2719,988 2716,927 2537,893 2335,921 1835,860 299,851" rendition="Line" xml:id="facs_0377_25_10_1302-01_tr_1_tl_3" subtype="default"/>
+         <zone points="302,991 613,976 784,1018 936,976 1689,1027 1844,991 2055,1034 2140,1003 2216,1046 2530,1024 2628,1073 2741,1049 2741,1006 2671,979 2134,939 2055,970 1823,927 1439,957 1302,915 302,933" rendition="Line" xml:id="facs_0377_25_10_1302-01_tr_1_tl_4" subtype="default"/>
+         <zone points="308,1073 2003,1061 2201,1104 2570,1091 2665,1134 2738,1110 2738,1055 2344,1015 2223,1049 1988,994 1784,1027 305,988" rendition="Line" xml:id="facs_0377_25_10_1302-01_tr_1_tl_5" subtype="default"/>
+         <zone points="320,1131 579,1113 698,1152 805,1116 851,1152 924,1116 1067,1152 1277,1119 1890,1162 1957,1128 2308,1146 2372,1189 2433,1152 2601,1204 2723,1177 2723,1122 2570,1091 2201,1104 2012,1061 1378,1095 1293,1052 1000,1088 902,1049 320,1067" rendition="Line" xml:id="facs_0377_25_10_1302-01_tr_1_tl_6" subtype="default"/>
+         <zone points="320,1189 1216,1235 2110,1198 2625,1259 2756,1238 2756,1171 317,1122" rendition="Line" xml:id="facs_0377_25_10_1302-01_tr_1_tl_7" subtype="default"/>
+         <zone points="320,1271 710,1299 1113,1262 1274,1311 1497,1265 1851,1299 2003,1262 2137,1308 2384,1271 2732,1308 2729,1232 2405,1250 2165,1201 1216,1235 320,1189" rendition="Line" xml:id="facs_0377_25_10_1302-01_l_1" subtype="default"/>
+         <zone points="323,1390 896,1335 1064,1375 1122,1338 1204,1369 1710,1338 2723,1393 2723,1314 2427,1308 2387,1268 2009,1320 1909,1268 1265,1305 1116,1262 595,1253 323,1305" rendition="Line" xml:id="facs_0377_25_10_1302-01_l" subtype="default"/>
+         <zone points="311,1436 524,1405 582,1445 689,1409 784,1442 890,1402 1229,1442 1497,1393 1558,1430 1774,1405 1881,1457 2082,1412 2537,1454 2707,1451 2704,1396 1991,1341 1204,1372 1149,1335 567,1344 308,1396" rendition="Line" xml:id="facs_0377_25_10_1302-01_l_2" subtype="default"/>
+         <zone points="280,1515 482,1482 634,1515 823,1466 890,1506 1067,1473 1192,1512 1372,1473 1567,1515 1976,1466 2177,1506 2707,1494 2707,1451 2622,1424 2515,1454 1945,1409 1887,1442 1674,1399 1564,1433 1366,1393 1268,1436 851,1405 280,1442" rendition="Line" xml:id="facs_0377_25_10_1302-01_l_3" subtype="default"/>
+         <zone points="299,1549 567,1543 723,1588 774,1546 1003,1552 1055,1591 1247,1549 1354,1585 1829,1546 2064,1585 2442,1546 2674,1573 2674,1497 2576,1482 299,1500" rendition="Line" xml:id="facs_0377_25_10_1302-01_tr_1_tl_17" subtype="default"/>
+         <zone points="332,1640 2701,1622 2701,1552 2585,1546 1585,1585 1546,1552 1043,1585 802,1534 726,1588 567,1543 332,1558" rendition="Line" xml:id="facs_0377_25_10_1302-01_tr_1_tl_18" subtype="default"/>
+         <zone points="314,1707 2719,1704 2719,1628 2537,1652 2418,1613 2110,1655 1430,1616 1253,1655 988,1619 787,1659 744,1616 579,1662 421,1616 314,1637" rendition="Line" xml:id="facs_0377_25_10_1302-01_tr_1_tl_19" subtype="default"/>
+         <zone points="348,1796 716,1796 793,1753 997,1759 1058,1802 1238,1756 2738,1780 2738,1707 2543,1689 2082,1726 1588,1686 1460,1726 1378,1689 1104,1726 930,1686 799,1732 759,1698 640,1735 348,1719" rendition="Line" xml:id="facs_0377_25_10_1302-01_tr_1_tl_20" subtype="default"/>
+         <zone points="332,1857 854,1835 1046,1881 1104,1844 1634,1860 1756,1823 1857,1878 2402,1829 2485,1872 2573,1835 2683,1869 2665,1762 1918,1793 1848,1753 1680,1793 1235,1756 1055,1802 1006,1762 790,1756 713,1796 552,1768 332,1805" rendition="Line" xml:id="facs_0377_25_10_1302-01_tr_1_tl_21" subtype="default"/>
+         <zone points="345,1939 2588,1954 2588,1838 2485,1872 2433,1829 2085,1869 1912,1838 1863,1878 1680,1832 1317,1872 720,1832 345,1863" rendition="Line" xml:id="facs_0377_25_10_1302-01_l_4" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0377_25_10_1302-01" n="0377_25_10_1302-01" xml:id="img_0377_25_10_1302-01"/>
+            <ab>
+               <l facs="#facs_0377_25_10_1302-01_tr_1_tl_1">Wj arnoud vander molen . Ende claus Canteman scepenen in Antwʼpen maken Cont allen den ghenen</l>
+               <l facs="#facs_0377_25_10_1302-01_tr_1_tl_2">die dese lettren selen sien . Ochte hoeren lesen . Dat vor ons quam in proper persoen Reineʼ die backere</l>
+               <l facs="#facs_0377_25_10_1302-01_tr_1_tl_3">bekende en̄ verliede . dat hi opghedreghen heuet dat erue dat gheleghen es bi die porte van kiepdorp op</l>
+               <l facs="#facs_0377_25_10_1302-01_tr_1_tl_4">den hoec van Coppenhole en̄ van der wijnghʼstraten in Antwʼpen . Arnoude nozen scepenen in Antwʼpen vor</l>
+               <l facs="#facs_0377_25_10_1302-01_tr_1_tl_5">dat @@@@@ gaf vor ons en̄ opdroech . dese vorghenoemde arnoud noze dit vorghenoemde erue den ꝓuistore</l>
+               <l facs="#facs_0377_25_10_1302-01_tr_1_tl_6">van den heileghengheeste van onser vrouwen in Antwʼpen . tote des vorghenoemds heilecsgheest behoeft</l>
+               <l facs="#facs_0377_25_10_1302-01_tr_1_tl_7">Om viue . en̄ viertech scellinghe tsijs ghe@@@ Ende om viere capoene elkes jars . erflake tegheuene ende</l>
+               <l facs="#facs_0377_25_10_1302-01_l_1">tegheldene den vorghenoemden Arnoude en̄ sinen nacomelinghen . Jn paeschdaghe Vordane soe gauen</l>
+               <l facs="#facs_0377_25_10_1302-01_l">opdroeghen @@@ dese vorghenoemde prouisore van des vorghenoemder helecsgheest had @@@@@@@</l>
+               <l facs="#facs_0377_25_10_1302-01_l_2">ghenoemde erue metten huse dat dar op staet . Den vorghenoemden Reineren en̄ sinen nacomelinghen</l>
+               <l facs="#facs_0377_25_10_1302-01_l_3">te gherechten erue . Om viue en̄ viertech scellinghe tsiīs ghelts . en̄ om viere capoene jarlijcs tegheldene</l>
+               <l facs="#facs_0377_25_10_1302-01_tr_1_tl_17">en̄ tegheuene in paeschdaghe . Ende om tiene pont also selts paiements alse in brabant ghemeenlake loept</l>
+               <l facs="#facs_0377_25_10_1302-01_tr_1_tl_18">jarlijcs tegheuene en̄ tegheldene in sente bauen daghe . Den vorghenoemden ꝓuisoren tote des vorghenoēts</l>
+               <l facs="#facs_0377_25_10_1302-01_tr_1_tl_19">heilecsgheests behoef van devorghenoemden Reinieren . Ende van sinen nacomelinghen . Jn orconscape</l>
+               <l facs="#facs_0377_25_10_1302-01_tr_1_tl_20">van desen dinghen . en̄ in kennissen der waerheit hebbe wi onse seghele met seghele des vorghenoēts</l>
+               <l facs="#facs_0377_25_10_1302-01_tr_1_tl_21">arnouds nozen ane dese lettren ghehanghen . Dese lettren waren ghegheuen jnt jar ons heren</l>
+               <l facs="#facs_0377_25_10_1302-01_l_4">alsemen screef . M . CCC . Ende tue . Des donredaeghs vor sente Symoens dach en̄ juden apostʼ</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

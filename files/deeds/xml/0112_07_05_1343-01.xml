@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="2048" lry="1536" xml:id="facs_0112_07_05_1343-01">
+         <graphic url="0112_07_05_1343-01.jpg" width="2048px" height="1536px"/>
+         <zone points="323,617 1840,623 1840,528 1736,583 1580,553 1442,585 1378,534 1095,589 906,538 832,579 627,540 323,566" rendition="Line" xml:id="facs_0112_07_05_1343-01_tr_1_tl_3" subtype="default"/>
+         <zone points="372,651 1852,653 1852,613 372,619" rendition="Line" xml:id="facs_0112_07_05_1343-01_tr_1_tl_4" subtype="default"/>
+         <zone points="381,683 1854,695 1854,655 1746,647 381,646" rendition="Line" xml:id="facs_0112_07_05_1343-01_tr_1_tl_5" subtype="default"/>
+         <zone points="381,729 1852,729 1852,696 1755,685 381,681" rendition="Line" xml:id="facs_0112_07_05_1343-01_tr_1_tl_6" subtype="default"/>
+         <zone points="381,763 1848,757 1769,719 381,729" rendition="Line" xml:id="facs_0112_07_05_1343-01_tr_1_tl_7" subtype="default"/>
+         <zone points="378,798 1850,800 1823,755 376,755" rendition="Line" xml:id="facs_0112_07_05_1343-01_tr_1_tl_8" subtype="default"/>
+         <zone points="383,832 1863,836 1804,797 383,791" rendition="Line" xml:id="facs_0112_07_05_1343-01_tr_1_tl_9" subtype="default"/>
+         <zone points="387,881 1848,881 1833,834 1278,863 387,830" rendition="Line" xml:id="facs_0112_07_05_1343-01_tr_1_tl_10" subtype="default"/>
+         <zone points="387,917 1838,923 1838,880 1789,874 387,880" rendition="Line" xml:id="facs_0112_07_05_1343-01_tr_1_tl_11" subtype="default"/>
+         <zone points="387,970 846,965 872,949 961,965 961,919 887,906 387,917" rendition="Line" xml:id="facs_0112_07_05_1343-01_tr_1_tl_12" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0112_07_05_1343-01" n="0112_07_05_1343-01" xml:id="img_0112_07_05_1343-01"/>
+            <ab>
+               <l facs="#facs_0112_07_05_1343-01_tr_1_tl_3">Wij willem sprongh ende giliis de stoeuere Scepenen in Antwʼpen maken cond dat vore ons quam in ꝓpre persoene Jan van coudewʼue</l>
+               <l facs="#facs_0112_07_05_1343-01_tr_1_tl_4">ende bekinde dat hi wittelec vʼcocht heeft den Conuente van sente michiels in antwʼpen thore pitanchen behoef twaeleue pēninghe</l>
+               <l facs="#facs_0112_07_05_1343-01_tr_1_tl_5">siaers oudʼ grotʼ tornoise van mūten sconings van vᵃncrike ochte de werdde daer af in goeden andeʼn paimente jaerleckʼ ende erfla</l>
+               <l facs="#facs_0112_07_05_1343-01_tr_1_tl_6">ker renten op siin huis hof en̄ op al datter toe behoerd ghestaen op de drif tusschen beede de steden daer men gaet tʼ p̄dekeʼn waert</l>
+               <l facs="#facs_0112_07_05_1343-01_tr_1_tl_7">ende op alle dat recht dat hi daer ane houdende es ōme ene sūme van penninghen daer hem de vorghenoemde jan van coudewerue</l>
+               <l facs="#facs_0112_07_05_1343-01_tr_1_tl_8">af bekinde al vʼgouden . Soe dat tvorghenoemde huis ende hof met al dattʼ toe behoerd gherecht pand es . ende bliuen sal vʼbonden ouʼ</l>
+               <l facs="#facs_0112_07_05_1343-01_tr_1_tl_9">de vorghenoemde twaeleue pēninghe oudʼ grotʼ tornoise erflaker renten te gheldene ende te gheuene alle jaere vanden vorghenōdē</l>
+               <l facs="#facs_0112_07_05_1343-01_tr_1_tl_10">Janne van coudewerue ende van sinen nacomenlinghen den vorghenoemden conuente altoes op sente ghertruden dach jn ken̄issen</l>
+               <l facs="#facs_0112_07_05_1343-01_tr_1_tl_11">van desen lettʼren beseghelt met onsen seglen . Ghegheuen int jaer ons heʼn alsmē screef M CCC drie en̄ veertech des woensdachs na</l>
+               <l facs="#facs_0112_07_05_1343-01_tr_1_tl_12">sheilecs crucen dach inde maent van meye</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

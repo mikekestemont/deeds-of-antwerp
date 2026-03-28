@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3507" lry="2480" xml:id="facs_0163_10_11_1322-01">
+         <graphic url="0163_10_11_1322-01.jpg" width="3507px" height="2480px"/>
+         <zone points="280,958 532,923 573,958 955,971 1388,942 1461,997 1487,965 1544,1000 1582,965 2162,1019 2423,997 2779,1060 2792,777 2579,745 2426,885 2299,923 2235,879 2006,923 1948,885 1866,926 1777,888 1614,917 1547,869 1426,901 1197,821 1121,869 1063,834 809,888 274,844" rendition="Line" xml:id="facs_0163_10_11_1322-01_tr_1_tl_2" subtype="default"/>
+         <zone points="280,1022 611,1003 863,1044 904,1006 1184,1038 1296,1006 1484,1054 1974,1041 2022,1082 2257,1060 2655,1105 2779,1102 2779,1041 1859,974 1802,1003 1694,961 1659,997 1458,990 1388,942 1216,977 1089,933 1022,968 532,926 277,958" rendition="Line" xml:id="facs_0163_10_11_1322-01_tr_1_tl_3" subtype="default"/>
+         <zone points="271,1137 404,1086 519,1079 602,1127 656,1079 901,1114 1162,1073 1229,1117 1401,1082 1461,1124 1815,1095 2350,1159 2779,1156 2751,1092 2576,1111 2155,1051 2022,1082 1296,1006 1181,1044 267,1019" rendition="Line" xml:id="facs_0163_10_11_1322-01_tr_1_tl_4" subtype="default"/>
+         <zone points="274,1191 1576,1156 1910,1207 2483,1184 2811,1238 2808,1156 2674,1178 1974,1102 1888,1137 656,1082 599,1124 408,1086 274,1133" rendition="Line" xml:id="facs_0163_10_11_1322-01_l" subtype="default"/>
+         <zone points="271,1270 735,1232 1028,1264 1098,1219 1484,1270 1528,1235 1824,1270 1968,1235 2073,1274 2238,1238 2544,1299 2783,1289 2725,1219 2487,1184 2289,1216 1907,1207 1815,1165 1315,1188 1254,1153 1079,1197 968,1149 685,1200 271,1175" rendition="Line" xml:id="facs_0163_10_11_1322-01_l_1" subtype="default"/>
+         <zone points="283,1363 914,1293 1111,1334 1216,1293 1936,1347 2178,1312 2302,1356 2439,1315 2843,1366 2840,1289 2607,1302 2235,1242 1480,1270 1095,1216 1028,1264 793,1232 280,1258" rendition="Line" xml:id="facs_0163_10_11_1322-01_l_2" subtype="default"/>
+         <zone points="287,1445 627,1375 780,1410 841,1366 888,1414 1404,1356 1598,1420 2009,1375 2152,1417 2289,1382 2776,1398 2776,1337 2436,1312 2270,1353 2178,1312 1878,1347 1223,1296 1102,1337 917,1289 821,1334 649,1305 287,1366" rendition="Line" xml:id="facs_0163_10_11_1322-01_tr_1_tl_11" subtype="default"/>
+         <zone points="287,1493 729,1449 965,1474 1051,1436 1146,1474 1742,1436 1996,1487 2783,1455 2646,1379 2550,1417 2490,1385 2155,1420 2012,1375 1808,1414 1407,1353 898,1414 831,1375 675,1414 627,1375 287,1442" rendition="Line" xml:id="facs_0163_10_11_1322-01_tr_1_tl_12" subtype="default"/>
+         <zone points="283,1589 1130,1512 1254,1544 1550,1500 1621,1547 1821,1509 2152,1557 2245,1519 2458,1554 2748,1515 2748,1461 1847,1484 1531,1426 1012,1477 634,1455 283,1515" rendition="Line" xml:id="facs_0163_10_11_1322-01_tr_1_tl_13" subtype="default"/>
+         <zone points="290,1668 474,1675 675,1611 755,1646 885,1601 981,1649 1238,1611 1379,1656 1503,1598 1907,1640 1996,1592 2079,1633 2321,1598 2566,1659 2681,1633 2684,1519 2375,1554 2305,1515 2139,1557 1824,1512 1611,1547 1547,1500 1245,1550 1111,1512 290,1579" rendition="Line" xml:id="facs_0163_10_11_1322-01_tr_1_tl_14" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0163_10_11_1322-01" n="0163_10_11_1322-01" xml:id="img_0163_10_11_1322-01"/>
+            <ab>
+               <l facs="#facs_0163_10_11_1322-01_tr_1_tl_2">Wi jan vandʼ elst en̄ gilijs van hoboken scepenen in Antwʼpen maken cont . dat vore ons</l>
+               <l facs="#facs_0163_10_11_1322-01_tr_1_tl_3">quā Jan van den bosche van ekeʼn en̄ bekinde dat hi sculdech es Janne vandʼ hare . Een-</l>
+               <l facs="#facs_0163_10_11_1322-01_tr_1_tl_4">halster custbaers rogs sjaers erfleke op de hofstat daer wouteʼ jacobs sone op woent</l>
+               <l facs="#facs_0163_10_11_1322-01_l">in ekeʼn tegheldene en̄ tegheuene alle jare vanden vorseiden janne vanden bosche en̄</l>
+               <l facs="#facs_0163_10_11_1322-01_l_1">van sinen nacomelinghen .. den vorseiden Janne vandʼ hare en̄ sinen nacomelinghen . te</l>
+               <l facs="#facs_0163_10_11_1322-01_l_2">kerssauonde binnen antwʼpen teleuʼne . Tote welkʼ verghenoemdʼ hofstat . de vorseide</l>
+               <l facs="#facs_0163_10_11_1322-01_tr_1_tl_11">jan vanden bosche gheloefde tedoene den vorseiden janne vandʼ hare . alse dadt hem</l>
+               <l facs="#facs_0163_10_11_1322-01_tr_1_tl_12">en̄ sinen nacomelinghen vast en̄ sekʼ si ouʼ dit vorseide halstʼ rogs sjaers erfleke .</l>
+               <l facs="#facs_0163_10_11_1322-01_tr_1_tl_13">tehebbene . Jn kinnessen van desen letteʼn beseghelt mꝫ onsen seglen . Ghegheuē int</l>
+               <l facs="#facs_0163_10_11_1322-01_tr_1_tl_14">jaer ons heʼn alsm̄ screef . M . CCC . en̄ tuee en̄ tuintech in sente mʼtens auonde</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3507" lry="2480" xml:id="facs_0025_01_10_1321-01">
+         <graphic url="0025_01_10_1321-01.jpg" width="3507px" height="2480px"/>
+         <zone points="268,964 964,950 1558,996 1614,964 1649,999 1849,967 2322,1026 2378,986 2453,1019 2842,1003 2809,777 2479,781 2185,934 1924,859 1826,908 1480,859 1414,901 1346,849 970,901 666,836 568,888 265,839" rendition="Line" xml:id="facs_0025_01_10_1321-01_tr_2_tl_1" subtype="default"/>
+         <zone points="261,1022 395,1016 441,1062 523,1019 872,1003 1205,1052 1401,1022 1535,1062 2842,1078 2838,1003 2796,993 2381,986 2309,1022 1849,964 1659,996 1617,964 261,964" rendition="Line" xml:id="facs_0025_01_10_1321-01_tr_2_tl_2" subtype="default"/>
+         <zone points="346,1117 957,1075 1431,1081 1659,1130 2084,1107 2267,1153 2861,1143 2858,1068 2740,1058 2642,1091 2332,1045 1764,1068 1561,1029 905,1042 852,1003 346,1045" rendition="Line" xml:id="facs_0025_01_10_1321-01_tr_2_tl_3" subtype="default"/>
+         <zone points="287,1182 464,1209 650,1153 699,1182 1019,1143 1277,1189 1382,1146 1434,1186 1842,1169 2130,1212 2842,1199 2838,1143 2780,1130 1666,1133 1431,1084 784,1078 284,1140" rendition="Line" xml:id="facs_0025_01_10_1321-01_tr_2_tl_4" subtype="default"/>
+         <zone points="258,1251 408,1277 670,1235 797,1287 872,1228 1107,1222 1153,1258 1264,1222 2884,1287 2884,1205 2770,1192 2430,1222 999,1146 810,1195 258,1182" rendition="Line" xml:id="facs_0025_01_10_1321-01_tr_2_tl_5" subtype="default"/>
+         <zone points="271,1352 839,1310 1153,1352 1476,1293 2329,1359 2816,1336 2816,1284 2688,1258 2283,1284 1561,1231 1146,1271 1091,1231 872,1228 803,1280 670,1235 271,1261" rendition="Line" xml:id="facs_0025_01_10_1321-01_tr_2_tl_6" subtype="default"/>
+         <zone points="294,1424 709,1388 768,1418 859,1378 1055,1424 1457,1391 1512,1434 1617,1378 1901,1418 2117,1375 2218,1414 2887,1427 2887,1313 2760,1369 2045,1306 1721,1339 1476,1293 1277,1346 1032,1306 921,1342 441,1320 294,1362" rendition="Line" xml:id="facs_0025_01_10_1321-01_tr_2_tl_7" subtype="default"/>
+         <zone points="294,1532 604,1467 751,1493 803,1460 892,1506 960,1450 1019,1486 1241,1450 1646,1493 1934,1453 2482,1509 2874,1483 2874,1440 2750,1408 2512,1434 2149,1378 1823,1421 1617,1378 1496,1421 856,1382 294,1424" rendition="Line" xml:id="facs_0025_01_10_1321-01_tr_2_tl_9" subtype="default"/>
+         <zone points="304,1600 542,1545 1029,1529 1101,1561 1385,1529 1532,1581 1587,1538 1849,1568 1924,1529 2061,1571 2146,1532 2339,1604 2420,1551 2587,1600 2851,1591 2851,1486 2482,1512 2205,1460 2103,1493 1329,1453 885,1502 800,1457 304,1532" rendition="Line" xml:id="facs_0025_01_10_1321-01_tr_2_tl_10" subtype="default"/>
+         <zone points="294,1656 1659,1695 1868,1617 1963,1676 2254,1682 2254,1551 2146,1532 2061,1571 1695,1529 1447,1578 1339,1529 1084,1571 983,1535 516,1545 385,1610 294,1581" rendition="Line" xml:id="facs_0025_01_10_1321-01_tr_2_tl_11" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0025_01_10_1321-01" n="0025_01_10_1321-01" xml:id="img_0025_01_10_1321-01"/>
+            <ab>
+               <l facs="#facs_0025_01_10_1321-01_tr_2_tl_1">Wi Andries tuclant en̄ Willem vandʼ borch Scepenen in Antwʼpen maken cont . Dat vore</l>
+               <l facs="#facs_0025_01_10_1321-01_tr_2_tl_2">ons quā margriete wijf shʼ ramonds cor@s wilen was met horen montbore hare ghe</l>
+               <l facs="#facs_0025_01_10_1321-01_tr_2_tl_3">gheuen metden rechte . en̄ bekinde dat si vore viue en̄ tuintech scellinghe swartʼ tor</l>
+               <l facs="#facs_0025_01_10_1321-01_tr_2_tl_4">noise sjaers die si hadde op jans huisinghe van roetwelle ghestaen inde bullenstᵃte daer</l>
+               <l facs="#facs_0025_01_10_1321-01_tr_2_tl_5">hi nv in woent ghewisselt heeft jeghen den seluen janne om andʼ guet also . dat si</l>
+               <l facs="#facs_0025_01_10_1321-01_tr_2_tl_6">horen montbore claerlke quite scout deʼ vorseide viue en̄ tuintech scellinghe sjaers</l>
+               <l facs="#facs_0025_01_10_1321-01_tr_2_tl_7">en̄ bekinde dat si noch hoer nacomelinghe en gheen recht daer ane en behouden noch</l>
+               <l facs="#facs_0025_01_10_1321-01_tr_2_tl_9">hem ens gheens rechts daer toe vʼmeten en̄ selen met letteʼn noch andʼs in eneghen ma</l>
+               <l facs="#facs_0025_01_10_1321-01_tr_2_tl_10">nieren . Jn kennessen van desen letteʼn beseghelt mꝫ onsen seglen . Ghegheuen int iaer ons</l>
+               <l facs="#facs_0025_01_10_1321-01_tr_2_tl_11">heʼn alsm̄ screef . M . CCC . en̄ een en̄ tuintech in sente bauen daghe</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

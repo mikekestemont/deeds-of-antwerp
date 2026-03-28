@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3507" lry="2480" xml:id="facs_0307_20_03_1348-01">
+         <graphic url="0307_20_03_1348-01.jpg" width="3507px" height="2480px"/>
+         <zone points="278,892 473,930 560,898 2213,886 2436,921 2801,886 2801,803 2635,844 2478,806 1813,844 1739,803 1653,847 1596,806 1474,851 1346,819 1209,847 1157,799 1097,847 982,812 550,847 480,780 435,812 278,761" rendition="Line" xml:id="facs_0307_20_03_1348-01_tr_1_tl_1" subtype="default"/>
+         <zone points="288,975 2779,946 2779,889 2577,886 288,934" rendition="Line" xml:id="facs_0307_20_03_1348-01_tr_1_tl_2" subtype="default"/>
+         <zone points="301,1033 2798,1023 2769,946 2488,982 301,978" rendition="Line" xml:id="facs_0307_20_03_1348-01_tr_1_tl_3" subtype="default"/>
+         <zone points="297,1100 2814,1106 2814,1023 2737,1017 576,1026 297,1062" rendition="Line" xml:id="facs_0307_20_03_1348-01_tr_1_tl_4" subtype="default"/>
+         <zone points="310,1161 2801,1167 2801,1087 2743,1081 310,1116" rendition="Line" xml:id="facs_0307_20_03_1348-01_tr_1_tl_5" subtype="default"/>
+         <zone points="301,1234 2833,1221 2833,1154 301,1173" rendition="Line" xml:id="facs_0307_20_03_1348-01_tr_1_tl_6" subtype="default"/>
+         <zone points="301,1292 2839,1305 2839,1218 301,1244" rendition="Line" xml:id="facs_0307_20_03_1348-01_tr_1_tl_7" subtype="default"/>
+         <zone points="301,1359 1839,1333 2875,1381 2871,1324 2769,1285 2708,1321 2574,1282 2523,1314 1487,1269 301,1292" rendition="Line" xml:id="facs_0307_20_03_1348-01_tr_1_tl_8" subtype="default"/>
+         <zone points="301,1397 1372,1429 1596,1397 1941,1442 2110,1404 2574,1445 2721,1410 2833,1445 2833,1372 1106,1330 297,1365" rendition="Line" xml:id="facs_0307_20_03_1348-01_tr_1_tl_9" subtype="default"/>
+         <zone points="313,1490 755,1455 966,1490 1062,1452 1413,1493 1528,1455 2078,1506 2216,1471 2590,1519 2820,1493 2820,1426 2721,1413 313,1407" rendition="Line" xml:id="facs_0307_20_03_1348-01_tr_1_tl_10" subtype="default"/>
+         <zone points="323,1525 2875,1573 2823,1487 2590,1519 2376,1474 1909,1503 1532,1455 1429,1493 908,1455 323,1487" rendition="Line" xml:id="facs_0307_20_03_1348-01_tr_1_tl_11" subtype="default"/>
+         <zone points="317,1592 1714,1599 1781,1637 2229,1608 2791,1656 2849,1576 2421,1544 2379,1580 1963,1573 1717,1528 1589,1560 1538,1528 313,1548" rendition="Line" xml:id="facs_0307_20_03_1348-01_l" subtype="default"/>
+         <zone points="320,1656 489,1688 707,1660 748,1695 876,1653 1493,1698 1877,1663 2855,1723 2852,1647 2600,1621 320,1605" rendition="Line" xml:id="facs_0307_20_03_1348-01_l_1" subtype="default"/>
+         <zone points="310,1730 435,1730 480,1775 550,1730 595,1765 803,1717 1340,1730 1404,1778 1589,1778 1634,1733 1925,1759 1925,1691 1874,1663 1493,1698 310,1660" rendition="Line" xml:id="facs_0307_20_03_1348-01_tr_1_tl_16" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0307_20_03_1348-01" n="0307_20_03_1348-01" xml:id="img_0307_20_03_1348-01"/>
+            <ab>
+               <l facs="#facs_0307_20_03_1348-01_tr_1_tl_1">Wij Jan vanden mortʼe en Willem limpiaes scepenen in antwʼpen maken cond dat vore ons quam margriete</l>
+               <l facs="#facs_0307_20_03_1348-01_tr_1_tl_2">mertens ledechmans dochtʼ met horen montbore die hare ghegheuen was met den rechte . ende bekinde dat si</l>
+               <l facs="#facs_0307_20_03_1348-01_tr_1_tl_3">wittelec vʼcocht heeft heʼn petre wiltoys pⁱster ontfangheʼ vander Capllane rente van onser vrouwen kerke</l>
+               <l facs="#facs_0307_20_03_1348-01_tr_1_tl_4">ende tʼ vorghenomdʼ capllane behoef dertech scellinghe siaers den ouden grotē tornoisen van mūten sconīgs</l>
+               <l facs="#facs_0307_20_03_1348-01_tr_1_tl_5">van vrancrike vore neghentienne pēninghe gherekent op een huis en̄ op aldattʼ toe behoerd achtʼ en̄ vore datghe</l>
+               <l facs="#facs_0307_20_03_1348-01_tr_1_tl_6">staen es inde pottʼstrate tusschen thuis dat Jans nicols wilen was ane deene side . en̄ tusschen thus dat wilen</l>
+               <l facs="#facs_0307_20_03_1348-01_tr_1_tl_7">heinrike den saleghen toe behoerde ane dander side in allen dien manieren en̄ rechte dat hare dese dertech scel-</l>
+               <l facs="#facs_0307_20_03_1348-01_tr_1_tl_8">linghe vʼstoruen en bleuen waren van doede lisbetten gheroncs ledechmans wiif was wilen hore oudʼmoe</l>
+               <l facs="#facs_0307_20_03_1348-01_tr_1_tl_9">der . en̄ dat si lisbeth vortijds dese rente ghecreghen hadde jeghen gherarde met den bijllene gheliic dat</l>
+               <l facs="#facs_0307_20_03_1348-01_tr_1_tl_10">scepenen lrēn die daer op ghemaect siin begrepen hebben ōme ene sūme ghelds daer hare de vorghenomde</l>
+               <l facs="#facs_0307_20_03_1348-01_tr_1_tl_11">margriete af bekinde al vʼgouden . de welle vorgh̄ dertech scellinghe siaers de vorgh̄ margriete met ho</l>
+               <l facs="#facs_0307_20_03_1348-01_l">ren montbore gheloefde tewaerne jaer en̄ dach jeghen alle de ghene die te rechte comen willen . Jn kēnissen</l>
+               <l facs="#facs_0307_20_03_1348-01_l_1">van desen lrēn beseghelt met onsen seglen Ghegheuen int Jaer ons heʼn alsmen screef M CCC Seuene en̄</l>
+               <l facs="#facs_0307_20_03_1348-01_tr_1_tl_16">veertech op sente bn̄dcus auond inde maent van merte gheleghen</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

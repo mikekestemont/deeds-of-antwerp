@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="4010" lry="1313" xml:id="facs_0375_25_09_1339-01">
+         <graphic url="0375_25_09_1339-01.jpg" width="4010px" height="1313px"/>
+         <zone points="15,377 144,367 243,416 357,367 827,362 1278,441 1685,396 1888,431 2116,396 2205,436 2567,401 3141,431 3255,386 3345,431 3612,431 3687,391 4004,456 3999,302 3682,238 3523,307 3320,273 3141,347 2953,213 2492,307 2274,213 2205,253 2101,263 2032,218 1551,302 1358,248 1214,297 1060,253 1001,302 951,258 837,302 466,228 421,268 362,228 15,243" rendition="Line" xml:id="facs_0375_25_09_1339-01_tr_1_tl_1" subtype="default"/>
+         <zone points="20,520 218,476 491,515 847,466 1055,476 1135,525 1234,476 1457,520 1531,476 1804,476 2269,545 2522,505 2591,545 2636,505 2948,505 2998,540 3132,500 3687,525 3751,481 3909,481 3909,421 3691,391 3592,436 3260,391 3191,431 2582,401 2468,446 2121,401 1264,431 1031,382 961,421 897,377 793,421 669,377 268,377 213,421 154,372 20,386" rendition="Line" xml:id="facs_0375_25_09_1339-01_tr_1_tl_2" subtype="default"/>
+         <zone points="0,595 193,619 248,575 431,619 510,565 629,619 793,565 1125,614 1437,570 1482,614 1610,580 1779,619 1848,565 1997,619 2155,570 2547,585 2641,634 2715,590 2889,644 3176,605 3488,634 3582,585 3875,605 3875,486 3691,520 3132,500 3072,535 2849,510 2765,545 2334,481 2205,535 1957,481 1521,476 1452,515 1259,471 1145,525 1031,471 738,461 481,515 0,505" rendition="Line" xml:id="facs_0375_25_09_1339-01_tr_1_tl_3" subtype="default"/>
+         <zone points="25,723 203,674 426,723 714,669 798,714 961,664 1060,718 1105,674 1298,659 1437,714 1818,664 1908,709 2101,669 2339,714 2388,669 2720,709 2834,679 2998,728 3067,689 3122,733 3310,679 3518,718 3617,664 3919,659 3919,575 3087,634 2636,624 2468,575 2259,624 2071,575 1997,614 1848,565 1774,619 1610,580 1477,614 1397,570 882,609 793,565 624,619 515,570 436,619 248,575 193,619 25,614" rendition="Line" xml:id="facs_0375_25_09_1339-01_tr_1_tl_4" subtype="default"/>
+         <zone points="0,768 114,773 168,823 451,768 540,823 585,788 654,818 733,758 798,798 907,763 981,818 1036,768 1323,813 1377,773 1645,798 2126,758 2185,813 2289,768 2359,818 2418,778 2562,823 3062,793 3206,827 3548,768 3786,803 3909,753 3909,684 3810,649 3330,728 2383,669 2334,718 2101,669 1918,714 1823,669 1437,714 1363,659 1110,669 1065,714 1006,664 862,664 818,709 709,674 421,718 203,674 0,718" rendition="Line" xml:id="facs_0375_25_09_1339-01_tr_1_tl_5" subtype="default"/>
+         <zone points="10,902 144,877 377,927 456,872 897,857 1031,917 1090,867 1338,842 1397,897 1615,857 1774,907 1814,872 2175,862 2245,912 2299,867 2373,907 2502,867 2671,917 2730,872 2795,912 3028,872 3265,922 3607,862 3909,917 3880,778 3335,823 2547,818 2473,763 2378,818 1838,768 1382,768 1328,808 1100,808 1041,768 981,813 912,768 704,773 545,823 476,768 168,823 10,793" rendition="Line" xml:id="facs_0375_25_09_1339-01_tr_1_tl_6" subtype="default"/>
+         <zone points="0,1026 263,966 1155,1001 1273,946 1363,1001 1462,941 1734,936 1804,971 2046,946 2116,996 2255,946 2393,1001 2884,956 3191,1001 3265,961 3533,961 3746,1021 3830,961 3924,991 3924,907 3766,872 3637,917 3399,872 3255,917 3028,872 2958,907 2725,872 2606,912 2497,867 2225,902 2170,857 1858,897 1551,862 1432,902 1333,842 1026,912 922,857 0,907" rendition="Line" xml:id="facs_0375_25_09_1339-01_tr_1_tl_7" subtype="default"/>
+         <zone points="5,1075 273,1100 337,1065 461,1110 525,1055 847,1095 981,1050 1437,1046 1496,1095 1596,1036 1823,1026 1977,1080 2274,1031 2696,1105 2809,1055 2948,1105 3023,1050 3196,1115 3746,1085 3944,1120 3944,976 3870,956 3746,1016 3558,966 3330,1001 3270,966 3196,1006 2879,961 2686,1001 2547,956 2478,996 2274,951 2170,991 2046,946 1581,981 1457,946 1363,996 1214,956 1155,1001 268,966 5,1011" rendition="Line" xml:id="facs_0375_25_09_1339-01_tr_1_tl_8" subtype="default"/>
+         <zone points="25,1199 471,1229 540,1184 600,1234 743,1199 882,1234 951,1164 1268,1224 1338,1179 1566,1239 1675,1199 1868,1234 2017,1150 2086,1204 2200,1164 2324,1214 2388,1169 2591,1219 2656,1155 3092,1184 3092,1070 3047,1055 2943,1105 2834,1055 2651,1095 2279,1031 1987,1080 1833,1026 1600,1036 1482,1090 1437,1046 1264,1085 847,1060 813,1095 575,1046 456,1100 327,1060 273,1100 25,1070" rendition="Line" xml:id="facs_0375_25_09_1339-01_tr_1_tl_9" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0375_25_09_1339-01" n="0375_25_09_1339-01" xml:id="img_0375_25_09_1339-01"/>
+            <ab>
+               <l facs="#facs_0375_25_09_1339-01_tr_1_tl_1">Wi Willem drake en̄ Woutʼ vander molen scepenen in Antwʼpen maken Condt dat voer ons quam arnout van der lijst en̄ scoud claerleken</l>
+               <l facs="#facs_0375_25_09_1339-01_tr_1_tl_2">quite erachtʼ en̄ Relgiosen lieden den ghemeenen 9uente van den ouden ghasthuise tantwʼpen achtchen pennīghe ouder louvensche tsiaers . die</l>
+               <l facs="#facs_0375_25_09_1339-01_tr_1_tl_3">hi heft op een goed achtʼ den boghijn hof gheleghen . neffens dribbels goed jn der manieʼn dat arnout voerꞩ heffen en̄ ghebruken sal sijn leue daghe</l>
+               <l facs="#facs_0375_25_09_1339-01_tr_1_tl_4">van den voerꞩ ghemeenen 9uente elcs jaers . die voerꞩ alchstchien pennīghe ouder louensche en̄ na arnouds lijft voerꞩ soe sal tghemeene 9uent dat nv</l>
+               <l facs="#facs_0375_25_09_1339-01_tr_1_tl_5">es of namaels wesen sal . quite wesen en̄ onghehouden van betaelne yemanne desse voerseide achtien pennīghe ouder louensche tsiaers eeuweleken en̄</l>
+               <l facs="#facs_0375_25_09_1339-01_tr_1_tl_6">tallen daghen . Voerd soe bekende die selue arnout dat hi wittelec sculdich es den voerseiden ghemeenen 9uente neghenthien scellinghe ouder louensche</l>
+               <l facs="#facs_0375_25_09_1339-01_tr_1_tl_7">die hi arnout voerꞩ wille en̄ beghert mꝫ sinē vtʼsten wille . dat mense den voerseiden ghemeenē 9uente ghene en̄ betaele van sinen ghereetsten goede dat</l>
+               <l facs="#facs_0375_25_09_1339-01_tr_1_tl_8">na hem bliuen sal binnē den yersten vierthiennachten na dien dat hi van liue tʼ doet comen es . Jn kennissen van desen lrēn beseghelt mꝫ onsen</l>
+               <l facs="#facs_0375_25_09_1339-01_tr_1_tl_9">seghelen . Ghegheuen jnt jaer ons heʼn alsm̄ screef M CCC neghen en̄ dertich tsatʼdaghes na sente matheeus dach</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

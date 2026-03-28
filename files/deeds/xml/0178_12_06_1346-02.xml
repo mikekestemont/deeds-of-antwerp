@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="2048" lry="1536" xml:id="facs_0178_12_06_1346-02">
+         <graphic url="0178_12_06_1346-02.jpg" width="2048px" height="1536px"/>
+         <zone points="366,462 1782,518 1776,404 1727,384 1624,449 1455,348 1292,393 1070,368 1011,410 859,374 365,403" rendition="Line" xml:id="facs_0178_12_06_1346-02_tr_1_tl_7" subtype="default"/>
+         <zone points="361,518 1810,578 1807,516 1715,505 359,464" rendition="Line" xml:id="facs_0178_12_06_1346-02_tr_1_tl_8" subtype="default"/>
+         <zone points="365,561 960,554 1686,616 1785,614 1783,561 363,522" rendition="Line" xml:id="facs_0178_12_06_1346-02_tr_1_tl_9" subtype="default"/>
+         <zone points="366,623 810,597 1787,659 1785,614 1644,597 365,560" rendition="Line" xml:id="facs_0178_12_06_1346-02_tr_1_tl_10" subtype="default"/>
+         <zone points="357,673 975,650 1792,695 1747,652 995,606 357,630" rendition="Line" xml:id="facs_0178_12_06_1346-02_tr_1_tl_11" subtype="default"/>
+         <zone points="354,735 1056,704 1780,756 1778,706 1643,688 354,673" rendition="Line" xml:id="facs_0178_12_06_1346-02_tr_1_tl_12" subtype="default"/>
+         <zone points="354,789 933,753 1691,796 1783,789 1783,756 1056,704 352,736" rendition="Line" xml:id="facs_0178_12_06_1346-02_tr_1_tl_13" subtype="default"/>
+         <zone points="352,841 1041,805 1565,852 1780,800 1020,756 350,791" rendition="Line" xml:id="facs_0178_12_06_1346-02_tr_1_tl_14" subtype="default"/>
+         <zone points="348,884 1794,879 1765,830 1563,854 1047,805 347,841" rendition="Line" xml:id="facs_0178_12_06_1346-02_tr_1_tl_15" subtype="default"/>
+         <zone points="357,948 690,906 1785,942 1785,895 1534,870 357,884" rendition="Line" xml:id="facs_0178_12_06_1346-02_tr_1_tl_16" subtype="default"/>
+         <zone points="350,1004 421,1005 451,986 570,1002 691,964 792,995 792,935 700,910 666,931 621,915 585,940 547,926 516,942 473,906 397,944 352,933" rendition="Line" xml:id="facs_0178_12_06_1346-02_l_1" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0178_12_06_1346-02" n="0178_12_06_1346-02" xml:id="img_0178_12_06_1346-02"/>
+            <ab>
+               <l facs="#facs_0178_12_06_1346-02_tr_1_tl_7">Wj jan van dorne Riddʼ . En̄ Gilijs de stoeuʼe scepenē Jn Antwʼpen maken cont . dat vore ons quā</l>
+               <l facs="#facs_0178_12_06_1346-02_tr_1_tl_8">heinric vanden brueke . En̄ bekende dat hi om ene sūme ghelds daeraf hem gnoech es ghedaen</l>
+               <l facs="#facs_0178_12_06_1346-02_tr_1_tl_9">vʼcocht heeft wetteleke bruder Janne van winenghē . brudʼ vandʼ derdʼ ordenē sente fᵃnciscus</l>
+               <l facs="#facs_0178_12_06_1346-02_tr_1_tl_10">viere . ghemete lands . mijn viue en̄ twintech roeden gheleghen in lilloe opden ghemenen</l>
+               <l facs="#facs_0178_12_06_1346-02_tr_1_tl_11">mour daeraf die andʼ heleft en̄ dat wedʼdeel es meestʼs jans peters . dat welke land de vorseide</l>
+               <l facs="#facs_0178_12_06_1346-02_tr_1_tl_12">heinric quite scout tes vorseids brudʼs jans behoef en̄ bekende dat hi selue en gheen recht</l>
+               <l facs="#facs_0178_12_06_1346-02_tr_1_tl_13">daer ane en behilt . en̄ dat gheloefde hi tewarne den seluē brudʼ janne quite en̄ los van</l>
+               <l facs="#facs_0178_12_06_1346-02_tr_1_tl_14">alre achtʼstelre ditagen en̄ van allen cūmʼ die daerop mochte ghegaen sijn tote opden</l>
+               <l facs="#facs_0178_12_06_1346-02_tr_1_tl_15">dach vandʼ daten van dʼre letteʼn . Jn kennessen van desen letteʼn . beseghelt met onsen ze-</l>
+               <l facs="#facs_0178_12_06_1346-02_tr_1_tl_16">ghelen . Ghegheuen jnt jaer ons heʼn alsm̄ screef . M . CCC . viertech en̄ sesse . des maendaegs</l>
+               <l facs="#facs_0178_12_06_1346-02_l_1">na belokenen chinxsenen</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

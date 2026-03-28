@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3963" lry="991" xml:id="facs_0242_16_06_1335-01">
+         <graphic url="0242_16_06_1335-01.jpg" width="3963px" height="991px"/>
+         <zone points="87,178 641,188 742,226 1089,193 1267,236 1701,193 1932,231 2009,183 2491,183 2568,135 2776,164 2862,111 2935,154 3508,82 3547,120 3667,87 3797,116 3884,92 3889,0 3108,5 3065,39 2862,0 2809,48 2641,0 2477,77 2361,67 2294,0 2188,58 2077,0 1672,125 1614,72 1185,130 1017,43 867,116 689,58 549,92 467,14 400,77 361,39 284,72 149,19 92,43" rendition="Line" xml:id="facs_0242_16_06_1335-01_tr_1_tl_1" subtype="default"/>
+         <zone points="77,255 477,304 704,270 1012,313 1070,270 1749,308 2193,255 2380,279 2612,226 2867,246 2915,198 3060,188 3532,217 3836,183 3841,101 3672,82 3257,140 2862,111 2670,169 2318,154 2250,193 2005,183 1932,231 1879,198 1282,231 1089,193 761,231 636,183 588,217 82,178" rendition="Line" xml:id="facs_0242_16_06_1335-01_tr_1_tl_2" subtype="default"/>
+         <zone points="63,337 202,366 246,328 487,390 718,395 766,357 1185,395 1301,357 1388,390 2270,332 2313,366 2679,304 3002,332 3074,294 3132,328 3932,275 3932,154 3508,217 3277,178 2915,198 2858,251 2549,226 2284,289 1971,270 1865,313 1075,270 1012,318 814,275 472,304 443,265 67,246" rendition="Line" xml:id="facs_0242_16_06_1335-01_tr_1_tl_3" subtype="default"/>
+         <zone points="58,429 164,458 246,419 328,458 487,424 636,467 848,434 944,477 1446,429 1619,467 1735,424 1899,467 1966,429 2029,477 2140,410 2419,439 2626,395 2674,429 2891,376 3084,424 3229,366 3286,410 3426,352 3523,395 3889,366 3894,270 2983,332 2795,294 2515,361 2458,328 2323,366 1624,347 1446,395 1325,361 1181,395 347,381 246,328 202,366 58,337" rendition="Line" xml:id="facs_0242_16_06_1335-01_l" subtype="default"/>
+         <zone points="53,530 2005,549 2144,487 2621,520 2660,482 2992,496 3200,453 3484,506 3600,448 3884,458 3879,371 3518,395 3460,352 3084,424 2896,381 2670,429 2535,395 2419,443 2140,405 1942,467 1744,429 1629,467 1446,434 944,477 848,434 631,467 496,424 328,458 246,419 164,458 58,429" rendition="Line" xml:id="facs_0242_16_06_1335-01_l_1" subtype="default"/>
+         <zone points="53,646 149,607 217,641 342,607 395,651 810,607 1128,641 1258,598 1320,641 1383,602 1648,622 1759,583 1932,631 2062,578 2106,617 2289,617 2380,578 2520,612 2573,573 2983,593 3185,554 3503,602 3691,573 3884,641 3884,467 3831,439 3667,482 3527,458 3489,496 3209,458 3156,496 3074,458 2992,496 2660,477 2385,520 2140,492 2009,549 1855,516 988,525 916,564 602,516 434,554 58,530" rendition="Line" xml:id="facs_0242_16_06_1335-01_l_2" subtype="default"/>
+         <zone points="67,752 212,704 361,747 554,704 766,732 853,689 973,776 1161,781 1455,670 1754,713 1860,679 1961,747 2361,655 2588,655 2655,704 2800,655 3224,684 3267,675 3272,593 3180,554 2973,602 2727,573 2515,612 2380,573 2231,617 2048,573 1841,631 1759,588 1388,598 1320,641 1277,607 1070,646 728,612 588,651 540,612 395,651 342,612 294,646 67,602" rendition="Line" xml:id="facs_0242_16_06_1335-01_l_3" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0242_16_06_1335-01" n="0242_16_06_1335-01" xml:id="img_0242_16_06_1335-01"/>
+            <ab>
+               <l facs="#facs_0242_16_06_1335-01_tr_1_tl_1">Wj willem Drake ende Jan vanden Wʼue scepnen in antwʼpen maken cond . Dat vore ons quam Diederijc de wilde en bekinde dat hi sculdech es</l>
+               <l facs="#facs_0242_16_06_1335-01_tr_1_tl_2">joncvrouwen margrieten claus dochtʼ vanden mortʼ . twintech scellinghe louensche . viere hoendre en̄ de tweedele van Enen . maydaghe siaers erf</l>
+               <l facs="#facs_0242_16_06_1335-01_tr_1_tl_3">leckʼe tenten . op een stucke bands gheleghen inde ꝓchie van dorne biden zantvoert dat men heet heinrijcs wilden bloch houdende anderhalf bunde</l>
+               <l facs="#facs_0242_16_06_1335-01_l">luttel min ochte meer . dat welke land met al dattʼ toe behoerd de vorghenoemde diederic seit en̄ vʼband tenen gherechten onderpande ouʼ de</l>
+               <l facs="#facs_0242_16_06_1335-01_l_1">vorgh̄ erflecke rente te gheldene en̄ te gheuene alle jaere vanden vorgh̄ diederike ende van sinen nacom̄linghen . der vorseidʼ joncvrouwen</l>
+               <l facs="#facs_0242_16_06_1335-01_l_2">margrieten en̄ horen nacomenlinghen te kerssauonde binnen antwʼpen . Jn kennissen van desen lettʼren beseghelt met onsen seglen Ghe-</l>
+               <l facs="#facs_0242_16_06_1335-01_l_3">gheuen jnt Jaer ons heʼn alsmen screef M CCC viue ende dertech . des vridags na des heilecs sacraments dach</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

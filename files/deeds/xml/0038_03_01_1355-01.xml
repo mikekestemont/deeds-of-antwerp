@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3507" lry="2480" xml:id="facs_0038_03_01_1355-01">
+         <graphic url="0038_03_01_1355-01.jpg" width="3507px" height="2480px"/>
+         <zone points="471,1034 2750,1023 2753,962 2539,916 2273,965 2002,922 1947,962 1196,939 1132,976 1083,939 1043,976 841,988 777,950 636,991 474,927" rendition="Line" xml:id="facs_0038_03_01_1355-01_tr_1_tl_1" subtype="default"/>
+         <zone points="477,1104 2750,1075 2713,1000 477,1037" rendition="Line" xml:id="facs_0038_03_01_1355-01_tr_1_tl_2" subtype="default"/>
+         <zone points="485,1138 2805,1112 2779,1052 2571,1089 1831,1060 485,1106" rendition="Line" xml:id="facs_0038_03_01_1355-01_tr_1_tl_3" subtype="default"/>
+         <zone points="465,1202 2666,1190 2666,1132 2606,1112 2562,1144 2086,1112 2037,1147 1996,1112 465,1167" rendition="Line" xml:id="facs_0038_03_01_1355-01_tr_1_tl_4" subtype="default"/>
+         <zone points="488,1268 2689,1239 2689,1170 2606,1199 2354,1161 2219,1205 1820,1173 488,1205" rendition="Line" xml:id="facs_0038_03_01_1355-01_tr_1_tl_5" subtype="default"/>
+         <zone points="465,1320 2707,1300 2707,1225 2473,1219 2178,1257 465,1262" rendition="Line" xml:id="facs_0038_03_01_1355-01_tr_1_tl_6" subtype="default"/>
+         <zone points="491,1372 1592,1335 2770,1358 2773,1283 2730,1280 494,1323" rendition="Line" xml:id="facs_0038_03_01_1355-01_tr_1_tl_7" subtype="default"/>
+         <zone points="488,1441 1577,1392 2785,1424 2762,1352 2453,1337 488,1372" rendition="Line" xml:id="facs_0038_03_01_1355-01_tr_1_tl_8" subtype="default"/>
+         <zone points="494,1491 2773,1456 2750,1410 2435,1392 494,1436" rendition="Line" xml:id="facs_0038_03_01_1355-01_tr_1_tl_9" subtype="default"/>
+         <zone points="503,1537 2788,1505 2788,1447 2626,1441 2276,1482 1673,1450 503,1488" rendition="Line" xml:id="facs_0038_03_01_1355-01_tr_1_tl_10" subtype="default"/>
+         <zone points="485,1618 1433,1563 1638,1603 1970,1557 2779,1569 2753,1517 2403,1502 485,1560" rendition="Line" xml:id="facs_0038_03_01_1355-01_tr_1_tl_11" subtype="default"/>
+         <zone points="482,1652 2172,1615 2331,1675 2502,1629 2629,1681 2765,1649 2767,1571 2533,1554 2496,1586 1970,1560 1638,1600 1427,1566 485,1618" rendition="Line" xml:id="facs_0038_03_01_1355-01_tr_1_tl_12" subtype="default"/>
+         <zone points="471,1736 965,1701 1072,1748 1199,1716 1361,1756 1421,1699 1606,1687 2279,1753 2282,1612 2045,1649 471,1664" rendition="Line" xml:id="facs_0038_03_01_1355-01_tr_1_tl_13" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0038_03_01_1355-01" n="0038_03_01_1355-01" xml:id="img_0038_03_01_1355-01"/>
+            <ab>
+               <l facs="#facs_0038_03_01_1355-01_tr_1_tl_1">Wij laureins volkaerd En̄ peter van hoboken gielijs sone scepenē in Antwʼerpen maken Cont dat voer ons quam Ramond van</l>
+               <l facs="#facs_0038_03_01_1355-01_tr_1_tl_2">den werue onse medescepene En̄ bekende dat hi van dien sesse ghuldene florinē diemē heet hallinghe van florenchen erfleker</l>
+               <l facs="#facs_0038_03_01_1355-01_tr_1_tl_3">rentē die hi hadde op bouden ysermans huys en̄ hof ghestaen aen de veemerct in Antwerpē in den hoec achter tser claus cātmans</l>
+               <l facs="#facs_0038_03_01_1355-01_tr_1_tl_4">huse des prochiaens nu es van Antwerpē . En̄ die hi Ramond voermaels vercreegh tieghē clause van den werue ghelijc</l>
+               <l facs="#facs_0038_03_01_1355-01_tr_1_tl_5">scepenē briene die hi ons toende begrepē hadde die daer op ghemaect siin . om eene sūme van pēninghē daer hi ramond</l>
+               <l facs="#facs_0038_03_01_1355-01_tr_1_tl_6">af bekende ghenoegh ghedaen wel en̄ wittelec vercocht heeft vrouwe margrieten van den mortere der ghasthuys zuster</l>
+               <l facs="#facs_0038_03_01_1355-01_tr_1_tl_7">achte pēninghe ouder groter tornoyse tsiaers erfliker renten . den floriin vorseit voer twaeleue pēninghe grote ghe-</l>
+               <l facs="#facs_0038_03_01_1355-01_tr_1_tl_8">rekent te gheldene en̄ te gheuene deene helft van den vorseidē . achte groten elcs jaers te sente Jans misse in middē zomere</l>
+               <l facs="#facs_0038_03_01_1355-01_tr_1_tl_9">en̄ dander helft altoes te kersauonde de welke achte gᵒte vorseit . de voerghenoēde ramond op droegh met vertienne der vor</l>
+               <l facs="#facs_0038_03_01_1355-01_tr_1_tl_10">seidere ver margⁱeten en̄ quite scoud te haren behoef oft tote des gheens behoef daer sise toe bekeeren wille brenghʼe des briefs</l>
+               <l facs="#facs_0038_03_01_1355-01_tr_1_tl_11">en̄ bekinde dat hire gheene recht aene en behilt en̄ ghelouese oec te waerne van allē cōmere en̄ calaengiē jaer en̄ dach</l>
+               <l facs="#facs_0038_03_01_1355-01_tr_1_tl_12">tieghē alle den ghene die te rechte comē willē . Jn kēnissen van desen letten bezeghelt met onsen zeghelē ghegheuē jnt</l>
+               <l facs="#facs_0038_03_01_1355-01_tr_1_tl_13">jaer ons heeren alsmē screef . M . CCC viiftech en̄ viere des saterdaeghs na jaersdach</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

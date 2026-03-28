@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3716" lry="1136" xml:id="facs_0023_01_10_1310-01">
+         <graphic url="0023_01_10_1310-01.jpg" width="3716px" height="1136px"/>
+         <zone points="271,288 953,263 1025,305 1072,271 1131,318 1207,288 1394,322 1728,271 1877,326 2165,330 2343,280 2796,313 3042,275 3647,326 3643,161 3359,216 3131,174 2864,212 2559,123 2093,233 1898,178 1728,178 1652,225 1529,169 1212,195 1165,157 868,148 576,195 402,144 267,199" rendition="Line" xml:id="facs_0023_01_10_1310-01_tr_1_tl_1" subtype="default"/>
+         <zone points="292,415 390,364 754,394 818,352 1004,415 1169,360 1470,415 1724,364 1974,415 2732,373 3643,415 3643,322 3575,288 3457,318 3334,280 3232,313 3037,271 2957,309 2330,280 2012,335 1728,271 1517,322 1207,284 1131,318 1068,271 1017,305 915,263 648,271 602,318 479,318 398,263 292,301" rendition="Line" xml:id="facs_0023_01_10_1310-01_tr_1_tl_2" subtype="default"/>
+         <zone points="284,470 419,504 987,462 1182,517 1267,462 1432,500 1648,466 1919,479 2008,538 2093,483 2457,500 2512,538 2669,496 2737,525 2809,479 2961,521 3228,479 3635,530 3635,407 3317,424 3156,373 2999,411 2732,373 2690,415 2381,381 2338,419 2258,377 1974,415 1724,364 1466,411 1169,364 1004,415 818,352 754,394 390,364 284,415" rendition="Line" xml:id="facs_0023_01_10_1310-01_tr_1_tl_3" subtype="default"/>
+         <zone points="280,593 945,555 1144,597 1284,559 2427,589 2576,627 2682,593 2813,648 2915,597 3033,648 3131,593 3224,623 3330,589 3376,627 3635,593 3635,530 3228,483 2961,521 2809,479 2554,542 2182,483 1936,530 1639,462 1478,521 1284,479 1131,513 987,462 275,483" rendition="Line" xml:id="facs_0023_01_10_1310-01_tr_1_tl_4" subtype="default"/>
+         <zone points="301,652 466,699 534,657 610,686 835,652 1212,716 1356,661 1834,724 1906,682 2000,724 2288,686 2377,729 2440,682 2521,724 2732,682 2948,724 3491,682 3609,729 3643,720 3639,606 3105,597 2999,644 2885,593 2809,648 2669,593 2478,631 2427,593 1906,618 1690,568 1351,576 1305,614 1072,559 724,593 652,563 517,606 297,580" rendition="Line" xml:id="facs_0023_01_10_1310-01_tr_1_tl_5" subtype="default"/>
+         <zone points="288,750 585,813 987,771 1216,818 1368,763 1534,767 1618,818 2055,779 2122,826 2449,775 2821,843 2944,788 3626,801 3622,729 3491,682 2944,729 2754,682 2529,729 2436,682 2338,729 2283,682 2152,678 2012,729 1906,678 1703,720 1656,674 1432,695 1347,661 1271,716 991,674 898,720 826,648 466,695 288,648" rendition="Line" xml:id="facs_0023_01_10_1310-01_tr_1_tl_6" subtype="default"/>
+         <zone points="288,856 691,902 911,860 1440,864 1580,915 1741,864 1898,919 1953,868 2097,864 2152,919 2482,881 2686,936 2898,885 3088,915 3630,881 3630,801 3478,818 3397,779 3203,826 3160,784 3054,822 3016,792 2821,847 2453,775 2393,813 2283,779 1881,826 1779,779 1690,818 1478,771 1216,813 1000,775 779,813 674,775 585,813 288,754" rendition="Line" xml:id="facs_0023_01_10_1310-01_tr_1_tl_7" subtype="default"/>
+         <zone points="280,983 445,1004 652,957 801,1004 902,953 987,1004 1190,953 1254,1004 1356,957 1690,1012 2038,966 2118,1000 2190,962 2368,1017 2474,979 3008,1029 3258,987 3385,1034 3525,979 3677,1029 3677,902 3508,919 3406,881 3139,894 3054,940 2974,885 2698,936 2482,877 2152,919 2101,868 1983,864 1902,915 1741,864 1589,915 1292,856 1135,902 280,864" rendition="Line" xml:id="facs_0023_01_10_1310-01_tr_1_tl_8" subtype="default"/>
+         <zone points="297,1068 424,1055 640,1135 1868,1135 2067,1076 3309,1135 3630,1076 3630,1021 3482,983 3389,1038 3262,987 3012,1029 2762,979 2610,1021 2186,962 2105,1008 2008,966 1961,1004 1673,1012 1474,957 1271,1008 1190,953 991,1000 907,953 805,1004 712,970 297,987" rendition="Line" xml:id="facs_0023_01_10_1310-01_tr_1_tl_9" subtype="default"/>
+         <zone points="1135,1135 322,1135 1135,1135 335,1135 1135,1135 385,1135 1135,1135 297,1063" rendition="Line" xml:id="facs_0023_01_10_1310-01_tr_1_tl_10" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0023_01_10_1310-01" n="0023_01_10_1310-01" xml:id="img_0023_01_10_1310-01"/>
+            <ab>
+               <l facs="#facs_0023_01_10_1310-01_tr_1_tl_1">Wi Arnout van der molen en̄ willem van der borch scepenen in Antwʼpen maken cont alle den ghenen die dese lettre</l>
+               <l facs="#facs_0023_01_10_1310-01_tr_1_tl_2">zelen zien en̄ horen lesen dat vore ons comen es in ꝓpre ꝑsone Jan van heembeke Wouters bruder van heembeke en̄ verlide</l>
+               <l facs="#facs_0023_01_10_1310-01_tr_1_tl_3">en̄ bekende dat hi en̄ Woutre voerseit en̄ Enghebrecht hore bruder alsoe ghesaet hebben en̄ ghedeelt onderlinghe alse</l>
+               <l facs="#facs_0023_01_10_1310-01_tr_1_tl_4">van den guede dat hon verscenen was van ver katelinen die bartolomeus cantmans wijf was . Jn maniren dat woutre</l>
+               <l facs="#facs_0023_01_10_1310-01_tr_1_tl_5">voerseit heeft en̄ hebben zal te sinen deele hi en̄ sine nacomelinghe die woninghe met allen met den gronde en̄ met den cinse</l>
+               <l facs="#facs_0023_01_10_1310-01_tr_1_tl_6">alsoe alse gheleghen es ane die merct tote Antwʼpen tusghen tue huse daer dene af gheheten es die rose . en̄ dandre die</l>
+               <l facs="#facs_0023_01_10_1310-01_tr_1_tl_7">lelie Vte gaende van der merct tote der potterstraten toe op welke woninghe . gront en̄ cins en̄ al dat daer toe</l>
+               <l facs="#facs_0023_01_10_1310-01_tr_1_tl_8">behort Jan voerseit heeft verteghen en̄ quite ghescouden alsoe alst recht was te wouters boef voreghenomt . Jn orconscepe</l>
+               <l facs="#facs_0023_01_10_1310-01_tr_1_tl_9">van desen dinghe hebwi dese lettre beseghelt met onsen zeglen . Ghegheuen int jaer ons heren . M . CCC . en̄ tiene op sine bauen</l>
+               <l facs="#facs_0023_01_10_1310-01_tr_1_tl_10">dach</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

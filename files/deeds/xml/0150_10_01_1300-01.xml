@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3309" lry="1813" xml:id="facs_0150_10_01_1300-01">
+         <graphic url="0150_10_01_1300-01.jpg" width="3309px" height="1813px"/>
+         <zone points="163,368 619,292 892,334 938,292 1173,281 1340,326 1636,270 1727,323 1940,266 2126,296 2616,235 2790,273 3212,247 3212,133 3102,121 2923,171 2741,114 2627,148 2376,91 2046,201 1879,148 1720,209 1454,102 1351,163 1234,114 919,186 668,137 592,80 167,114" rendition="Line" xml:id="facs_0150_10_01_1300-01_tr_1_tl_1" subtype="default"/>
+         <zone points="182,410 433,440 604,402 661,444 816,387 960,421 1496,364 1591,410 1815,357 2001,406 2517,326 3098,361 3200,323 3200,258 3128,239 2783,273 2619,232 2190,258 2122,300 1944,266 1735,319 1636,273 1306,326 1207,277 1071,330 623,292 433,304 304,364 182,345" rendition="Line" xml:id="facs_0150_10_01_1300-01_tr_1_tl_2" subtype="default"/>
+         <zone points="194,528 349,554 790,478 991,505 1169,467 1257,505 1454,456 1556,494 1640,452 1932,497 2084,448 3071,425 3181,414 3185,319 3064,361 2972,323 2912,364 2585,323 2365,383 2217,349 2016,402 1815,357 1598,406 1545,368 1336,402 1291,364 960,421 858,395 812,433 197,418" rendition="Line" xml:id="facs_0150_10_01_1300-01_tr_1_tl_3" subtype="default"/>
+         <zone points="213,634 399,596 535,626 592,585 657,619 995,554 1177,588 1222,554 1883,566 2342,505 2916,531 3158,494 3162,402 2980,444 2885,402 2631,456 2498,429 2320,475 2008,452 1875,494 1484,456 1329,509 1097,467 368,550 216,512" rendition="Line" xml:id="facs_0150_10_01_1300-01_tr_1_tl_4" subtype="default"/>
+         <zone points="205,695 3151,577 3102,482 2953,528 2130,516 1883,569 1815,535 1226,554 1181,592 995,554 657,619 581,588 205,630" rendition="Line" xml:id="facs_0150_10_01_1300-01_tr_1_tl_5" subtype="default"/>
+         <zone points="216,793 638,740 805,786 1074,725 3185,672 3189,573 3064,604 2976,569 2551,630 2160,611 2080,653 1473,623 926,657 869,699 676,661 220,699" rendition="Line" xml:id="facs_0150_10_01_1300-01_tr_1_tl_6" subtype="default"/>
+         <zone points="228,858 649,869 1158,809 1314,862 1648,786 1868,786 1947,828 2058,782 2312,809 2418,767 2555,790 3174,725 3177,668 3094,649 2767,702 1868,702 1443,752 1348,714 1044,763 964,733 824,782 649,740 232,793" rendition="Line" xml:id="facs_0150_10_01_1300-01_tr_1_tl_7" subtype="default"/>
+         <zone points="216,938 1017,953 1116,907 1621,881 1686,915 1898,862 2054,904 2392,847 2589,892 2665,847 2809,873 3200,831 3185,714 2555,790 2282,774 2206,816 1541,797 1317,862 1154,812 653,873 220,854" rendition="Line" xml:id="facs_0150_10_01_1300-01_tr_1_tl_8" subtype="default"/>
+         <zone points="285,1078 463,1044 550,1082 729,1010 1238,1010 1298,976 1427,1021 1674,964 1864,1002 1925,964 2027,998 2376,941 2414,976 2479,934 2916,949 3189,892 3193,831 2642,854 2581,892 2441,850 2228,907 2164,862 2004,911 1902,862 1670,915 1302,896 911,964 289,941" rendition="Line" xml:id="facs_0150_10_01_1300-01_tr_1_tl_9" subtype="default"/>
+         <zone points="209,1165 1644,1055 1872,1093 1917,1055 2373,1071 2490,1029 2551,1071 3170,995 3174,922 3033,911 2984,953 2733,922 2479,934 2418,976 2357,938 2027,998 1674,964 1617,1006 1412,1014 1314,972 976,1029 862,1002 812,1040 736,1010 562,1078 216,1063" rendition="Line" xml:id="facs_0150_10_01_1300-01_tr_1_tl_10" subtype="default"/>
+         <zone points="205,1238 786,1230 828,1196 877,1226 1211,1173 1469,1200 1826,1131 1985,1162 2096,1127 2160,1177 2282,1124 2422,1162 2532,1116 2843,1150 3212,1101 3196,972 2551,1071 2490,1029 2137,1082 1632,1052 209,1165" rendition="Line" xml:id="facs_0150_10_01_1300-01_tr_1_tl_11" subtype="default"/>
+         <zone points="220,1359 326,1389 467,1329 706,1306 740,1340 1181,1272 1291,1298 1397,1257 1515,1291 2050,1219 2255,1249 2532,1203 2726,1253 2874,1203 2965,1238 3181,1184 3189,1105 2843,1150 2680,1109 2635,1154 2517,1127 2426,1162 2282,1127 2160,1177 2096,1127 1985,1162 1826,1131 1465,1200 1230,1173 960,1184 877,1230 828,1196 790,1230 638,1211 512,1264 467,1226 224,1249" rendition="Line" xml:id="facs_0150_10_01_1300-01_tr_1_tl_12" subtype="default"/>
+         <zone points="186,1443 550,1458 717,1401 1021,1420 1359,1355 1541,1405 1629,1351 1701,1378 1966,1314 2092,1367 2221,1325 2384,1363 2593,1302 2805,1344 3196,1314 3204,1188 2946,1238 2847,1200 2638,1260 2365,1215 2255,1253 1583,1253 1518,1291 1412,1257 1116,1329 915,1287 733,1344 425,1340 319,1393 190,1370" rendition="Line" xml:id="facs_0150_10_01_1300-01_tr_1_tl_13" subtype="default"/>
+         <zone points="171,1579 562,1515 847,1530 919,1488 979,1530 1150,1462 1651,1465 1739,1416 1860,1458 1982,1412 2168,1462 2236,1431 2369,1541 2528,1522 2688,1591 2798,1564 3185,1670 3204,1321 3121,1291 2665,1348 2600,1298 2130,1367 1784,1332 1534,1401 1359,1355 1025,1416 691,1405 550,1462 178,1450" rendition="Line" xml:id="facs_0150_10_01_1300-01_tr_1_tl_14" subtype="default"/>
+         <zone points="630,1625 767,1594 960,1636 1052,1587 1097,1625 1184,1594 1427,1636 1591,1556 1758,1602 1879,1564 2099,1594 2107,1450 1993,1412 1849,1458 1807,1427 1412,1484 1310,1454 638,1534" rendition="Line" xml:id="facs_0150_10_01_1300-01_tr_1_tl_15" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0150_10_01_1300-01" n="0150_10_01_1300-01" xml:id="img_0150_10_01_1300-01"/>
+            <ab>
+               <l facs="#facs_0150_10_01_1300-01_tr_1_tl_1">Wi pauwels bornecolue ende arnout nose scepenen in Antwʼpen maken cont allen den ghenen die dese lettren selen sien</l>
+               <l facs="#facs_0150_10_01_1300-01_tr_1_tl_2">ochte horen lesen . dat vore ons quam miin her willem van bergheem riddre ende verlide vore ons dat hi gheghe-</l>
+               <l facs="#facs_0150_10_01_1300-01_tr_1_tl_3">uen heuet . dien vanden gasthuse van Antwʼpen . sijn bosch metten gronde dat steet achter der beke in die proch-</l>
+               <l facs="#facs_0150_10_01_1300-01_tr_1_tl_4">gie van mortensele . welc bosch hout . een buenre ende een vierdendeel buenres . ende viftech rueden luttel min</l>
+               <l facs="#facs_0150_10_01_1300-01_tr_1_tl_5">ochte meer om twe sticken lands . daer dat ene af seghet op wolfstatʼe velt . ende dat andre ter varent . an den</l>
+               <l facs="#facs_0150_10_01_1300-01_tr_1_tl_6">hofstat daer woutre muel vp woent welke twe sticken lands houdende sijn . twe buenre luttel min ochte meer</l>
+               <l facs="#facs_0150_10_01_1300-01_tr_1_tl_7">ende om een̄ halster rogx jaerlijx dat die vanden gasthuse hadden in die prochgie van bergheem lieghen</l>
+               <l facs="#facs_0150_10_01_1300-01_tr_1_tl_8">de in mijns ser Willems guets van bergheem die hier voreghenoemt es . ende te desen bossche enten vorseiden</l>
+               <l facs="#facs_0150_10_01_1300-01_tr_1_tl_9">gronde zo ghelouede mijn her willem van bergheem . die hier voreghenoemt es . die vanden gasthuse cōmer</l>
+               <l facs="#facs_0150_10_01_1300-01_tr_1_tl_10">loes te bringhene ende ouer mids . dese vorwarde so selen die vanden gasthuse ghebruken . des weghes te</l>
+               <l facs="#facs_0150_10_01_1300-01_tr_1_tl_11">comene ende te vaerne tote desen voreghenoemden bossche ende weder daer vte te keerne . ende hebben selen en̄</l>
+               <l facs="#facs_0150_10_01_1300-01_tr_1_tl_12">ghebruken . des weghes also alse hi metten vonnisse ghewijt es . Jn orconde van desen dinghen . ende om be</l>
+               <l facs="#facs_0150_10_01_1300-01_tr_1_tl_13">de ende begherte mijns ser Willems die hier voreghenoemt es hebbe wi scepenen . onse seghele met mij̄s</l>
+               <l facs="#facs_0150_10_01_1300-01_tr_1_tl_14">ser willems . seghele sehangen an dese lettren . Dit was ghedaen int iaer ons heren dusentech twe hon-</l>
+               <l facs="#facs_0150_10_01_1300-01_tr_1_tl_15">en̄ neghene . des sondaghes na dertien dach</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

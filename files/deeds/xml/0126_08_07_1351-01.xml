@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3507" lry="2480" xml:id="facs_0126_08_07_1351-01">
+         <graphic url="0126_08_07_1351-01.jpg" width="3507px" height="2480px"/>
+         <zone points="473,968 1498,1013 2168,989 2349,1028 2391,995 2858,1007 2858,947 1318,901 1257,935 1146,892 715,908 470,859" rendition="Line" xml:id="facs_0126_08_07_1351-01_tr_1_tl_1" subtype="default"/>
+         <zone points="467,1019 2816,1082 2837,1019 464,974" rendition="Line" xml:id="facs_0126_08_07_1351-01_tr_1_tl_2" subtype="default"/>
+         <zone points="458,1094 2825,1134 2822,1082 2620,1055 1248,1061 458,1013" rendition="Line" xml:id="facs_0126_08_07_1351-01_tr_1_tl_3" subtype="default"/>
+         <zone points="470,1149 2888,1182 2888,1079 2813,1134 2698,1137 470,1107" rendition="Line" xml:id="facs_0126_08_07_1351-01_tr_1_tl_4" subtype="default"/>
+         <zone points="482,1233 1119,1203 1905,1254 2867,1248 2867,1182 2647,1170 482,1158" rendition="Line" xml:id="facs_0126_08_07_1351-01_tr_1_tl_5" subtype="default"/>
+         <zone points="482,1296 817,1260 1429,1309 1921,1287 1990,1327 2104,1290 2216,1321 2297,1284 2849,1296 2849,1245 2756,1230 482,1233" rendition="Line" xml:id="facs_0126_08_07_1351-01_tr_1_tl_6" subtype="default"/>
+         <zone points="461,1336 1884,1348 2014,1384 2138,1345 2297,1384 2334,1351 2870,1357 2870,1305 2680,1284 2219,1318 977,1263 461,1293" rendition="Line" xml:id="facs_0126_08_07_1351-01_tr_1_tl_7" subtype="default"/>
+         <zone points="464,1414 2837,1414 2837,1360 2762,1348 2303,1381 2144,1342 2023,1381 1203,1333 464,1348" rendition="Line" xml:id="facs_0126_08_07_1351-01_tr_1_tl_8" subtype="default"/>
+         <zone points="470,1468 2837,1474 2837,1414 2783,1405 1981,1435 1001,1390 470,1426" rendition="Line" xml:id="facs_0126_08_07_1351-01_tr_1_tl_9" subtype="default"/>
+         <zone points="464,1538 2723,1568 2762,1565 2759,1480 461,1474" rendition="Line" xml:id="facs_0126_08_07_1351-01_tr_1_tl_10" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0126_08_07_1351-01" n="0126_08_07_1351-01" xml:id="img_0126_08_07_1351-01"/>
+            <ab>
+               <l facs="#facs_0126_08_07_1351-01_tr_1_tl_1">Wij willem de molennʼe en̄ Woutʼe vanden broeke Scepenen jn Antwʼpen maken cond dat vore ons quam claus vanden werue</l>
+               <l facs="#facs_0126_08_07_1351-01_tr_1_tl_2">ende bekinde dat hi wittelec vʼcocht heeft Ramonde vanden werue sinen neue ōme eene sūme van pennīghen daer hem</l>
+               <l facs="#facs_0126_08_07_1351-01_tr_1_tl_3">de vorseide claus af bekinde al vʼgouden . die sesse guldene florine diemen heet hallinghe van florence erflakere renten</l>
+               <l facs="#facs_0126_08_07_1351-01_tr_1_tl_4">die hi claus hadde ende houdende was op boudens ysermans huis ende hof . ghelijc dat scepenē lrēn die daer op ghemaect</l>
+               <l facs="#facs_0126_08_07_1351-01_tr_1_tl_5">siin begrepen hebben . ghestaen ane de veemaerct in Antwʼpen inden hoec achtʼ tsher claus cantmans huise die nv</l>
+               <l facs="#facs_0126_08_07_1351-01_tr_1_tl_6">ꝓchiaen es in onꞩ vrouwen kerke in Antwʼpen . de welke vorseide sesse guldene florine . de vorghenomde claus</l>
+               <l facs="#facs_0126_08_07_1351-01_tr_1_tl_7">vanden werue op droech met vʼtiene den vorghenomden Ramonde en̄ quite scoud tsinen behoef en̄ bekinde dat</l>
+               <l facs="#facs_0126_08_07_1351-01_tr_1_tl_8">hi claus en gheen recht daer ane en behilt . ende ghelouese oec te waerne van allen kūmʼe en̄ calaingen Jaer</l>
+               <l facs="#facs_0126_08_07_1351-01_tr_1_tl_9">en dach yeghen aldie ghene die te rechte comen willen . Jn kennissen van desen lrēn besegl̄t met onsen seglen</l>
+               <l facs="#facs_0126_08_07_1351-01_tr_1_tl_10">Ghegheuen int Jaer ons heʼn alsmen screef . M . CCC viiftech ende een des vridaghs vore alre apl̄en dach</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3507" lry="2480" xml:id="facs_0306_20_03_1333-01">
+         <graphic url="0306_20_03_1333-01.jpg" width="3507px" height="2480px"/>
+         <zone points="300,907 1127,907 1242,949 1638,926 1894,965 2839,949 2836,869 2743,840 2549,885 2456,843 2389,885 2101,853 2034,891 1977,856 1677,888 1504,824 1293,872 1191,795 1051,850 910,814 853,850 782,795 476,834 300,789" rendition="Line" xml:id="facs_0306_20_03_1333-01_tr_1_tl_1" subtype="default"/>
+         <zone points="300,1035 489,980 1194,980 1555,1035 2529,1009 2593,1048 2807,1019 2810,949 2300,968 2252,933 2181,971 297,907" rendition="Line" xml:id="facs_0306_20_03_1333-01_tr_1_tl_2" subtype="default"/>
+         <zone points="291,1073 843,1057 913,1092 1191,1054 1769,1095 1878,1064 2137,1111 2389,1083 2443,1131 2836,1115 2814,1012 2549,1051 1913,1003 1555,1035 1194,980 291,1016" rendition="Line" xml:id="facs_0306_20_03_1333-01_tr_1_tl_3" subtype="default"/>
+         <zone points="307,1182 942,1137 2210,1188 2312,1153 2510,1204 2804,1166 2804,1118 2727,1105 2440,1131 2389,1079 2137,1111 1881,1064 1766,1095 1182,1054 980,1095 837,1054 307,1105" rendition="Line" xml:id="facs_0306_20_03_1333-01_tr_1_tl_4" subtype="default"/>
+         <zone points="278,1252 958,1204 1073,1246 1466,1236 1546,1201 1913,1246 2092,1214 2162,1252 2820,1242 2820,1166 2597,1159 2552,1198 1610,1134 1338,1178 278,1163" rendition="Line" xml:id="facs_0306_20_03_1333-01_tr_1_tl_5" subtype="default"/>
+         <zone points="284,1354 811,1287 2846,1329 2846,1230 2616,1262 2501,1223 2162,1249 1648,1210 1073,1246 965,1201 626,1258 284,1249" rendition="Line" xml:id="facs_0306_20_03_1333-01_tr_1_tl_6" subtype="default"/>
+         <zone points="271,1408 1677,1361 2823,1402 2823,1319 2750,1345 2667,1306 2619,1348 2146,1303 1942,1338 1766,1281 1626,1319 933,1284 271,1341" rendition="Line" xml:id="facs_0306_20_03_1333-01_tr_1_tl_7" subtype="default"/>
+         <zone points="271,1507 1460,1434 2823,1476 2823,1389 2737,1386 1760,1364 1721,1396 1680,1361 1271,1402 971,1364 872,1408 271,1408" rendition="Line" xml:id="facs_0306_20_03_1333-01_tr_1_tl_8" subtype="default"/>
+         <zone points="271,1571 1757,1520 1814,1555 1967,1511 2159,1552 2814,1546 2814,1476 2373,1453 2290,1488 2207,1447 1951,1479 1811,1440 1469,1479 754,1456 271,1527" rendition="Line" xml:id="facs_0306_20_03_1333-01_tr_1_tl_9" subtype="default"/>
+         <zone points="287,1689 936,1610 1099,1648 1300,1606 1523,1638 1728,1606 1856,1648 1951,1600 2194,1638 2810,1613 2779,1536 2185,1559 1977,1507 1817,1552 913,1530 850,1571 766,1536 287,1581" rendition="Line" xml:id="facs_0306_20_03_1333-01_tr_1_tl_10" subtype="default"/>
+         <zone points="278,1747 725,1705 920,1709 1124,1782 2079,1769 2140,1721 2389,1702 2785,1734 2788,1635 2054,1638 1951,1597 1868,1648 1258,1606 1099,1648 936,1610 278,1693" rendition="Line" xml:id="facs_0306_20_03_1333-01_tr_1_tl_11" subtype="default"/>
+         <zone points="268,1833 323,1840 428,1811 463,1833 553,1795 588,1801 594,1725 549,1731 527,1718 473,1737 428,1725 399,1741 383,1721 275,1747" rendition="Line" xml:id="facs_0306_20_03_1333-01_tr_1_tl_12" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0306_20_03_1333-01" n="0306_20_03_1333-01" xml:id="img_0306_20_03_1333-01"/>
+            <ab>
+               <l facs="#facs_0306_20_03_1333-01_tr_1_tl_1">Wj jan Wilmaer de roede . en̄ Jan bode scepenen Jn Antwʼpen maken cond dat vore ons quā Arnoud hʼmans</l>
+               <l facs="#facs_0306_20_03_1333-01_tr_1_tl_2">sone de vleeschouwʼe en̄ bekende . dat hi om ene sū̄me ghelds die hem al es vʼgouden vʼcocht heeft wetteleke</l>
+               <l facs="#facs_0306_20_03_1333-01_tr_1_tl_3">broedʼ heinrike vandʼ vesten . broedʼ vander derdder ordenen sente fᵃsciscus sestiene oude grote tornoyse des</l>
+               <l facs="#facs_0306_20_03_1333-01_tr_1_tl_4">jaers jaerlikʼ en̄ erfliker renten op sijn huis ghestaen ane die dilf tusschen der bardmakʼinnen huis en̄ ja</l>
+               <l facs="#facs_0306_20_03_1333-01_tr_1_tl_5">cops huis van sentoemaers . en̄ op alle dat recht dat hi heeft ane den grond en̄ ane al dat daer toe hoert . dat</l>
+               <l facs="#facs_0306_20_03_1333-01_tr_1_tl_6">welke huis metden gronde de vorseide arnoud setter en̄ vʼband tenen gherechten pande ouʼ de vorseide erfleke</l>
+               <l facs="#facs_0306_20_03_1333-01_tr_1_tl_7">rente tegheldene en̄ tegheuene vanden seluen arnoude en̄ van sinen nacomelinghen . den vorseiden broedʼ</l>
+               <l facs="#facs_0306_20_03_1333-01_tr_1_tl_8">heinrike en̄ sinen nacomelinghen oft den hebbeʼ van dʼre letteʼn . deen heleft altoes in sente laureins daghe</l>
+               <l facs="#facs_0306_20_03_1333-01_tr_1_tl_9">en̄ dandʼ heleft te kerssauonde . mede gheloefde de vorseide arnoud dit vorseide huis tewaerne den vor</l>
+               <l facs="#facs_0306_20_03_1333-01_tr_1_tl_10">seiden broedʼ heinrike jaer en̄ dach van allen cūmʼe en̄ calangen . Jn kennessen van desen letteʼn beseghelt</l>
+               <l facs="#facs_0306_20_03_1333-01_tr_1_tl_11">met onsen seglen . Ghegheuen Jnt jaer ons heʼn alsm̄ screef . M . CCC . twee en̄ dertech . das zatʼdaegs na</l>
+               <l facs="#facs_0306_20_03_1333-01_tr_1_tl_12">half vasten</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

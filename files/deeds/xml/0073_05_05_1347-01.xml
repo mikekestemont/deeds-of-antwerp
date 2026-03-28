@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="5472" lry="3648" xml:id="facs_0073_05_05_1347-01">
+         <graphic url="0073_05_05_1347-01.jpg" width="5472px" height="3648px"/>
+         <zone points="953,962 3371,972 3718,1024 4498,1014 4615,1056 4610,854 4526,826 4277,953 3845,916 3737,864 3108,892 2953,836 2718,916 2629,854 2507,892 2362,826 2263,831 2169,906 1855,826 1427,901 1235,840 1108,873 953,845" rendition="Line" xml:id="facs_0073_05_05_1347-01_tr_2_tl_1" subtype="default"/>
+         <zone points="930,1042 2164,1019 4385,1103 4545,1099 4545,981 4409,1028 1948,948 925,981" rendition="Line" xml:id="facs_0073_05_05_1347-01_tr_2_tl_2" subtype="default"/>
+         <zone points="958,1117 2099,1089 4615,1160 4615,1061 4568,1052 4498,1085 3728,1085 2700,1024 2301,1042 2188,1000 2089,1038 958,1042" rendition="Line" xml:id="facs_0073_05_05_1347-01_tr_2_tl_3" subtype="default"/>
+         <zone points="939,1193 2070,1160 2798,1202 2916,1169 3028,1207 3850,1202 4019,1244 4432,1197 4620,1249 4620,1164 4456,1141 4005,1164 3263,1103 2376,1122 2070,1085 939,1108" rendition="Line" xml:id="facs_0073_05_05_1347-01_tr_2_tl_4" subtype="default"/>
+         <zone points="930,1249 3240,1244 4610,1305 4610,1225 2080,1160 925,1183" rendition="Line" xml:id="facs_0073_05_05_1347-01_tr_2_tl_5" subtype="default"/>
+         <zone points="916,1343 1540,1296 2103,1338 2244,1301 4639,1357 4634,1272 4573,1263 4343,1296 3240,1244 916,1249" rendition="Line" xml:id="facs_0073_05_05_1347-01_tr_2_tl_6" subtype="default"/>
+         <zone points="953,1418 1845,1366 4662,1437 4662,1329 4329,1366 2470,1301 953,1319" rendition="Line" xml:id="facs_0073_05_05_1347-01_tr_2_tl_7" subtype="default"/>
+         <zone points="916,1488 2127,1446 4657,1502 4657,1437 4582,1413 916,1390" rendition="Line" xml:id="facs_0073_05_05_1347-01_tr_2_tl_8" subtype="default"/>
+         <zone points="911,1554 1545,1554 1662,1516 1761,1549 3671,1540 4075,1582 4333,1554 4418,1592 4681,1563 4676,1498 4596,1488 4207,1512 3446,1455 3207,1484 1606,1446 911,1488" rendition="Line" xml:id="facs_0073_05_05_1347-01_tr_2_tl_9" subtype="default"/>
+         <zone points="906,1634 1239,1596 1948,1639 2061,1601 3291,1596 4681,1667 4681,1563 4601,1592 2507,1521 906,1563" rendition="Line" xml:id="facs_0073_05_05_1347-01_tr_2_tl_10" subtype="default"/>
+         <zone points="911,1686 2305,1709 2427,1667 2906,1723 2977,1686 3127,1681 3193,1723 3244,1686 3568,1681 3681,1728 3779,1690 4014,1737 4676,1728 4676,1667 4615,1643 3301,1601 3047,1634 2277,1596 2211,1629 1371,1629 1239,1596 911,1634" rendition="Line" xml:id="facs_0073_05_05_1347-01_tr_2_tl_11" subtype="default"/>
+         <zone points="892,1779 1549,1761 1615,1798 2014,1751 2113,1798 2160,1765 2625,1798 2686,1765 2906,1817 3122,1779 3216,1840 3329,1775 3479,1765 3639,1817 3733,1789 3967,1836 4089,1793 4657,1836 4657,1728 4474,1709 3963,1737 3779,1690 3718,1723 3258,1681 3188,1723 3127,1686 3000,1723 2695,1686 2587,1714 2432,1667 2296,1709 1587,1671 892,1700" rendition="Line" xml:id="facs_0073_05_05_1347-01_tr_2_tl_12" subtype="default"/>
+         <zone points="916,1859 1347,1836 1657,1883 2164,1831 2465,1869 2460,1775 2394,1770 916,1784" rendition="Line" xml:id="facs_0073_05_05_1347-01_tr_2_tl_13" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0073_05_05_1347-01" n="0073_05_05_1347-01" xml:id="img_0073_05_05_1347-01"/>
+            <ab>
+               <l facs="#facs_0073_05_05_1347-01_tr_2_tl_1">Wij willem limpiaes ende Wouteʼ van den broeke Scepenen Jn antwʼpen maken cond dat vore ons quam Jn ardssone de siluʼsmit</l>
+               <l facs="#facs_0073_05_05_1347-01_tr_2_tl_2">ende bekinde dat hi wittelec vʼcocht heeft Janne van duist siaers twee guldene pēninghe diemen heet scilde goede ende custbaer</l>
+               <l facs="#facs_0073_05_05_1347-01_tr_2_tl_3">jaerleckʼ ende erfleckʼ renten op viere camʼen die ghestaen siin inder beghinen strate en̄ op alle dat land dat achter dese cameʼn leeght</l>
+               <l facs="#facs_0073_05_05_1347-01_tr_2_tl_4">streckende tote der p̄dekeʼn strate met dʼ huisinghen die daer op staen tusscheʼn sh̄ claus land vandʼ haghe pⁱster en̄ der heʼn land</l>
+               <l facs="#facs_0073_05_05_1347-01_tr_2_tl_5">van sente michiels en̄ op alle dat recht dat de vorghenomde Jan ardssone ane de vorghenomde huisinghe land ende ane al dattʼ toe</l>
+               <l facs="#facs_0073_05_05_1347-01_tr_2_tl_6">behoerd houdende es ōme ene sūme van penninghen daer hem de vorghenomde Jan ardssone af bekinde al vʼgouden Soe dat de vor</l>
+               <l facs="#facs_0073_05_05_1347-01_tr_2_tl_7">ghenomde huisinghe land . en̄ al dattʼ toe behoerd gherecht pand es ende bliuen sal vʼbonden ouʼ de vorghenomde twee guldene pen</l>
+               <l facs="#facs_0073_05_05_1347-01_tr_2_tl_8">ninghe jaerlecker ende erflecker renten te gheldene ende tegheuene alle jaere vanden vorghenomden Janne ardsōue ende van sinen</l>
+               <l facs="#facs_0073_05_05_1347-01_tr_2_tl_9">nacomenlinghen den vorghenomden Janne van duist ende sinen nacomelinghen te paeschen . ende de vorghenomde Jan ardssone</l>
+               <l facs="#facs_0073_05_05_1347-01_tr_2_tl_10">gheloefde de vorghenomdē huisinghe land en̄ al dattʼ toe behoerd te claerne ende te vrienne van allen calaingien en̄ kūmʼe wtghe</l>
+               <l facs="#facs_0073_05_05_1347-01_tr_2_tl_11">nomen twee ende twintech penninghe oudʼ grotʼ tornoise die gilijs van hoboken siaers daer op heeft also si ons seiden Jn ken</l>
+               <l facs="#facs_0073_05_05_1347-01_tr_2_tl_12">nissen van desen lrēn beseghelt met onsen seglen Ghegheuen int Jaer ons heʼn alsmē screef M CCC seuene ende veertech des satʼdags</l>
+               <l facs="#facs_0073_05_05_1347-01_tr_2_tl_13">na des heilecs crucen dach Jnde maent van meye</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

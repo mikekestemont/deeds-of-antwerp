@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="2048" lry="1536" xml:id="facs_0440_31_03_1338-01">
+         <graphic url="0440_31_03_1338-01.jpg" width="2048px" height="1536px"/>
+         <zone points="179,434 1788,493 1786,415 1383,371 1279,428 1197,395 1118,430 177,362" rendition="Line" xml:id="facs_0440_31_03_1338-01_tr_1_tl_4" subtype="default"/>
+         <zone points="165,499 1715,548 1798,527 1798,489 562,438 240,464 163,430" rendition="Line" xml:id="facs_0440_31_03_1338-01_tr_1_tl_5" subtype="default"/>
+         <zone points="173,570 1782,582 1782,531 171,501" rendition="Line" xml:id="facs_0440_31_03_1338-01_tr_1_tl_6" subtype="default"/>
+         <zone points="173,613 1786,627 1786,578 1340,558 173,570" rendition="Line" xml:id="facs_0440_31_03_1338-01_tr_1_tl_7" subtype="default"/>
+         <zone points="177,696 326,662 1786,674 1786,627 1649,615 177,617" rendition="Line" xml:id="facs_0440_31_03_1338-01_tr_1_tl_8" subtype="default"/>
+         <zone points="179,741 1776,721 1755,670 1613,660 179,692" rendition="Line" xml:id="facs_0440_31_03_1338-01_tr_1_tl_9" subtype="default"/>
+         <zone points="183,798 1810,778 1810,733 1745,713 183,739" rendition="Line" xml:id="facs_0440_31_03_1338-01_tr_1_tl_10" subtype="default"/>
+         <zone points="173,845 1108,812 1635,847 1806,817 1808,776 175,786" rendition="Line" xml:id="facs_0440_31_03_1338-01_tr_1_tl_11" subtype="default"/>
+         <zone points="173,914 963,872 1733,900 1786,888 1788,829 173,845" rendition="Line" xml:id="facs_0440_31_03_1338-01_tr_1_tl_12" subtype="default"/>
+         <zone points="167,963 1032,926 1670,951 1776,935 1778,888 167,914" rendition="Line" xml:id="facs_0440_31_03_1338-01_tr_1_tl_13" subtype="default"/>
+         <zone points="177,1047 613,996 688,1059 1140,1014 1301,1049 1383,986 1546,1036 1548,931 179,961" rendition="Line" xml:id="facs_0440_31_03_1338-01_tr_1_tl_14" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0440_31_03_1338-01" n="0440_31_03_1338-01" xml:id="img_0440_31_03_1338-01"/>
+            <ab>
+               <l facs="#facs_0440_31_03_1338-01_tr_1_tl_4">Wi jan vandʼ elst . en̄ Woutre vandʼ moelen scepenē Jn Antwʼpen maken cont . dat vore ons quā Jacop van gali-</l>
+               <l facs="#facs_0440_31_03_1338-01_tr_1_tl_5">uoert en̄ bekende dat hi om ene sūme ghelds die hem al es vʼgouden vʼcocht heeft wetteleke heren</l>
+               <l facs="#facs_0440_31_03_1338-01_tr_1_tl_6">heinrike scauaerde den priestʼ dat halue vierdendeel int goed tʼ varent gheleghen inde ꝓchie van</l>
+               <l facs="#facs_0440_31_03_1338-01_tr_1_tl_7">mortsele daeraf com̄ jaerlijcs also hi jacop seght sesse muddekene rogs . derdhaluen scellinc en̄ een</l>
+               <l facs="#facs_0440_31_03_1338-01_tr_1_tl_8">hoen jaerlikʼ renten die gheile teriolvinne wilen gaf den vorseiden jacoppe daer af scepenen lettren sijn</l>
+               <l facs="#facs_0440_31_03_1338-01_tr_1_tl_9">van dier ghiften . de welke lrēn de vorseide jacop ouʼ ghegheuen heeft den vorseiden heʼn heinrike</l>
+               <l facs="#facs_0440_31_03_1338-01_tr_1_tl_10">in alle den rechte dat hise hadde . Dat welke halue vierdendeel int vorseide goed metdʼ vorseidʼ ren</l>
+               <l facs="#facs_0440_31_03_1338-01_tr_1_tl_11">ten de vorseide jacop quite scout tes vorseids heʼn heinrics behoef . en̄ dat gheloefde hi te waerne</l>
+               <l facs="#facs_0440_31_03_1338-01_tr_1_tl_12">den seluen heʼn heinrike in rechten eyghendoeme jaer en̄ dach jeghen alle de ghene die terechte</l>
+               <l facs="#facs_0440_31_03_1338-01_tr_1_tl_13">com̄ willen . Jn kennessen van desen lrēn beseghelt met onsen zeghlen . Ghegheuen jnt jaer ons</l>
+               <l facs="#facs_0440_31_03_1338-01_tr_1_tl_14">heren alsm̄ screef . M . CCC . zeuene en̄ derttech des dinsedaegs vore palmsondaegh</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

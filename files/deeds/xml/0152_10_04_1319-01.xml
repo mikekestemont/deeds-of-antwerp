@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3507" lry="2480" xml:id="facs_0152_10_04_1319-01">
+         <graphic url="0152_10_04_1319-01.jpg" width="3507px" height="2480px"/>
+         <zone points="374,954 599,988 702,954 1489,957 1620,1012 1680,969 1790,1012 2227,1006 2309,1051 2361,1012 2814,1076 2805,802 2714,796 2559,939 2373,975 2121,875 1969,936 1857,890 1784,924 1641,854 1547,915 1407,872 1246,915 1106,863 896,909 793,866 705,924 647,875 371,848" rendition="Line" xml:id="facs_0152_10_04_1319-01_tr_1_tl_1" subtype="default"/>
+         <zone points="425,1064 565,1024 1088,1024 1422,1064 1495,1036 1562,1079 1963,1061 2091,1112 2218,1073 2340,1140 2410,1085 2838,1133 2835,1082 2367,1015 2316,1048 2088,997 1778,1018 1674,969 1620,1012 1380,957 422,972" rendition="Line" xml:id="facs_0152_10_04_1319-01_tr_1_tl_2" subtype="default"/>
+         <zone points="416,1121 1662,1106 1890,1164 1993,1121 2212,1197 2559,1167 2717,1225 2787,1197 2787,1133 1091,1024 878,1067 568,1021 413,1064" rendition="Line" xml:id="facs_0152_10_04_1319-01_tr_1_tl_3" subtype="default"/>
+         <zone points="425,1200 608,1176 693,1231 836,1167 1015,1200 1051,1161 1191,1200 1474,1173 1553,1216 2130,1206 2580,1288 2835,1279 2832,1200 2088,1179 1993,1121 1890,1161 1662,1106 422,1118" rendition="Line" xml:id="facs_0152_10_04_1319-01_tr_1_tl_4" subtype="default"/>
+         <zone points="413,1276 1222,1237 2057,1295 2121,1264 2218,1313 2449,1298 2720,1361 2814,1349 2811,1264 2586,1288 2127,1206 1565,1216 1477,1173 410,1206" rendition="Line" xml:id="facs_0152_10_04_1319-01_tr_1_tl_5" subtype="default"/>
+         <zone points="428,1352 517,1374 596,1328 872,1310 972,1343 1018,1304 1082,1346 1279,1316 1349,1355 1553,1313 1644,1367 2033,1331 2106,1377 2252,1352 2328,1407 2395,1364 2477,1416 2704,1380 2783,1431 2759,1343 2218,1313 2088,1261 2057,1295 1240,1237 425,1267" rendition="Line" xml:id="facs_0152_10_04_1319-01_tr_1_tl_6" subtype="default"/>
+         <zone points="416,1422 720,1383 1197,1425 1249,1386 1489,1425 1708,1389 2018,1443 2346,1431 2574,1489 2777,1465 2704,1380 2474,1416 2419,1364 2325,1404 2255,1352 2106,1377 2015,1331 1641,1364 1547,1313 1331,1352 1003,1307 969,1343 896,1310 416,1370" rendition="Line" xml:id="facs_0152_10_04_1319-01_tr_1_tl_7" subtype="default"/>
+         <zone points="450,1525 665,1471 963,1498 1124,1453 2793,1556 2790,1468 2434,1477 2346,1428 1255,1386 1203,1428 985,1392 447,1428" rendition="Line" xml:id="facs_0152_10_04_1319-01_tr_1_tl_8" subtype="default"/>
+         <zone points="422,1586 1079,1538 1185,1580 1304,1535 1568,1623 1683,1568 1984,1659 2233,1665 2367,1583 2765,1647 2762,1544 2267,1507 2224,1538 2167,1495 1969,1522 1899,1480 1741,1510 1565,1462 1322,1507 665,1471 422,1522" rendition="Line" xml:id="facs_0152_10_04_1319-01_tr_1_tl_9" subtype="default"/>
+         <zone points="422,1687 982,1677 988,1559 927,1583 851,1547 790,1583 738,1568 629,1595 562,1565 504,1601 425,1580" rendition="Line" xml:id="facs_0152_10_04_1319-01_tr_1_tl_10" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0152_10_04_1319-01" n="0152_10_04_1319-01" xml:id="img_0152_10_04_1319-01"/>
+            <ab>
+               <l facs="#facs_0152_10_04_1319-01_tr_1_tl_1">W andries tuclant en̄ jan bode scepenē in Antwʼpen maken cont dat vore quā bouden vanden</l>
+               <l facs="#facs_0152_10_04_1319-01_tr_1_tl_2">bossche en̄ bekinde dat hi alle sine kindʼe heeft ghegoedt en̄ vtegheset . vteghenom̄ beatrisen sier</l>
+               <l facs="#facs_0152_10_04_1319-01_tr_1_tl_3">dochtʼ . en̄ dat hi om ghelike dinghe tedoene . der vorseidʼ beatrisen ghegheuen heeft alse</l>
+               <l facs="#facs_0152_10_04_1319-01_tr_1_tl_4">in guedinghen . derdalf merghel lands gheleghen in scintbroec en̄ ene cameʼ ghestaen int</l>
+               <l facs="#facs_0152_10_04_1319-01_tr_1_tl_5">beghinen hof met alle dien guede en̄ inhauen die daer in sijn . en̄ daer toe twintech scel</l>
+               <l facs="#facs_0152_10_04_1319-01_tr_1_tl_6">linghe grotʼ tornoise des welcs gueds de vorseide bouden afghins en̄ quite scout . en̄ op</l>
+               <l facs="#facs_0152_10_04_1319-01_tr_1_tl_7">droech der vorseider beatrisen . behoudelec dien dat si nochtan deelen sal hoer gherecht</l>
+               <l facs="#facs_0152_10_04_1319-01_tr_1_tl_8">ghedeel van doede hoers vadʼ en̄ hare moedʼ . Jn kinnessen van desen lrēn beseghelt mꝫ</l>
+               <l facs="#facs_0152_10_04_1319-01_tr_1_tl_9">onsen seglen . Ghegheuen int jaer ons lrēn alsm̄ screef . M . CCC . en̄ neghentiene des dinsen</l>
+               <l facs="#facs_0152_10_04_1319-01_tr_1_tl_10">daegs na paeschdach</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

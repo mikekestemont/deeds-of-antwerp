@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3507" lry="2480" xml:id="facs_0138_09_04_1351-01">
+         <graphic url="0138_09_04_1351-01.jpg" width="3507px" height="2480px"/>
+         <zone points="103,742 1934,763 2747,856 2965,853 2965,781 2786,731 2601,771 2561,735 2083,717 2026,674 1937,706 1812,656 1709,699 1520,646 1370,692 1234,656 1049,689 863,674 771,617 357,674 100,624" rendition="Line" xml:id="facs_0138_09_04_1351-01_tr_1_tl_2" subtype="default"/>
+         <zone points="103,796 1812,831 2758,910 2961,895 2961,849 1898,763 100,742" rendition="Line" xml:id="facs_0138_09_04_1351-01_tr_1_tl_3" subtype="default"/>
+         <zone points="118,867 1741,895 2954,981 2975,895 2412,895 1798,828 1220,842 1060,803 899,831 817,796 114,828" rendition="Line" xml:id="facs_0138_09_04_1351-01_tr_1_tl_4" subtype="default"/>
+         <zone points="114,924 1163,928 2861,1035 2957,1013 2957,970 1727,892 111,863" rendition="Line" xml:id="facs_0138_09_04_1351-01_tr_1_tl_5" subtype="default"/>
+         <zone points="114,1006 1206,995 1716,1052 1805,1024 1844,1060 2929,1081 2925,1024 2825,1006 2426,1020 1060,924 114,935" rendition="Line" xml:id="facs_0138_09_04_1351-01_tr_1_tl_6" subtype="default"/>
+         <zone points="118,1081 1284,1067 1951,1106 2019,1149 2076,1117 2726,1174 2765,1138 2911,1149 2908,1102 2843,1077 2116,1074 1217,995 118,1006" rendition="Line" xml:id="facs_0138_09_04_1351-01_tr_1_tl_7" subtype="default"/>
+         <zone points="118,1170 1181,1134 1687,1159 1748,1199 1827,1167 2954,1224 2950,1138 2722,1170 2437,1124 2226,1156 1951,1106 1363,1106 1306,1070 114,1077" rendition="Line" xml:id="facs_0138_09_04_1351-01_tr_1_tl_8" subtype="default"/>
+         <zone points="103,1224 1142,1209 2226,1288 2925,1288 2925,1231 2861,1213 2704,1238 2351,1192 2290,1224 1687,1159 103,1159" rendition="Line" xml:id="facs_0138_09_04_1351-01_tr_1_tl_9" subtype="default"/>
+         <zone points="107,1299 532,1306 599,1266 1020,1316 1238,1281 1320,1338 1448,1299 1616,1352 1916,1316 2251,1381 2326,1345 2376,1384 2611,1338 2908,1359 2908,1299 2836,1281 2223,1291 1077,1209 107,1224" rendition="Line" xml:id="facs_0138_09_04_1351-01_tr_1_tl_10" subtype="default"/>
+         <zone points="125,1391 221,1359 357,1384 482,1349 549,1402 817,1384 817,1281 796,1277 771,1299 724,1281 631,1299 596,1270 528,1309 478,1284 453,1306 125,1299" rendition="Line" xml:id="facs_0138_09_04_1351-01_tr_1_tl_11" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0138_09_04_1351-01" n="0138_09_04_1351-01" xml:id="img_0138_09_04_1351-01"/>
+            <ab>
+               <l facs="#facs_0138_09_04_1351-01_tr_1_tl_2">Wij Jan vanden mortʼe ende Woutʼe vander molen Scepenē in antwʼpen maken cond dat vore ons quam Jan loep van staecbruec</l>
+               <l facs="#facs_0138_09_04_1351-01_tr_1_tl_3">ende bekinde dat hi wittelec vʼcocht heeft willeme brulofte siaers een sister rogs goeds ende custbaers jaerleckʼ ende erflakʼ ren-</l>
+               <l facs="#facs_0138_09_04_1351-01_tr_1_tl_4">ten op sestalue ghemete lands die gheleghen siin in staecbruech in spapen hoech tusschen Jans wilden lande ane dene side en̄ jonghe</l>
+               <l facs="#facs_0138_09_04_1351-01_tr_1_tl_5">claus zeels lande ane dander side en̄ op alle dat recht dat hi daer one houdende es ōme ene sūme van pēninghen daer hem</l>
+               <l facs="#facs_0138_09_04_1351-01_tr_1_tl_6">de vorghenomde Jan loep af bekinde al vʼgouden Soe dat de vorghenomde sestalue ghemete lands met allen dien dat daer</l>
+               <l facs="#facs_0138_09_04_1351-01_tr_1_tl_7">toe behoert gherecht pand siin ende bliuen selen vʼbonden ouʼ dat vorghenomde sister rogs jaerlecs ende erflecs pachts</l>
+               <l facs="#facs_0138_09_04_1351-01_tr_1_tl_8">te gheldene en de te gheuene alle jaere vanden vorghenomden janne loepe ende van sinen nacomēlinghen den vorghenōden</l>
+               <l facs="#facs_0138_09_04_1351-01_tr_1_tl_9">willeme brulofte ende sinē nacomenlinghen te kerssauonde ende teleuʼne binne antwʼpen te sinen huis met der antwʼscher</l>
+               <l facs="#facs_0138_09_04_1351-01_tr_1_tl_10">maten Jn kennissen van desen lrēn beseghelt met onsen seglen Ghegheuen int jaer ons heʼn alsmen screef M CCC ende vijftech des</l>
+               <l facs="#facs_0138_09_04_1351-01_tr_1_tl_11">saterdaghs vore palmsondach</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

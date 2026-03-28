@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3924" lry="1529" xml:id="facs_0331_21_12_1350-01">
+         <graphic url="0331_21_12_1350-01.jpg" width="3924px" height="1529px"/>
+         <zone points="101,454 1143,408 1239,445 1551,422 1629,459 1776,422 1900,454 2088,418 2753,477 3699,422 3666,294 3414,335 3336,298 3249,353 3038,289 2859,330 2684,271 2538,367 2070,275 2033,312 1478,303 1395,349 1124,280 876,335 757,280 578,317 395,275 266,344 101,285" rendition="Line" xml:id="facs_0331_21_12_1350-01_tr_1_tl_1" subtype="default"/>
+         <zone points="119,509 445,546 720,491 987,537 1032,491 1491,546 1657,505 1698,546 2331,528 2538,569 2583,528 3336,546 3396,505 3588,528 3685,491 3685,436 3598,413 2758,473 2533,436 2189,459 2102,418 1955,459 1776,418 1248,450 1193,413 119,450" rendition="Line" xml:id="facs_0331_21_12_1350-01_tr_1_tl_2" subtype="default"/>
+         <zone points="119,615 262,597 372,638 881,583 1166,624 1299,587 1523,638 1799,597 2175,652 2409,610 2795,647 2840,610 3253,601 3359,647 3694,592 3694,491 3653,486 3336,546 3166,509 3042,551 2744,519 2694,560 2634,523 2524,564 1643,514 1253,546 1097,491 987,532 798,496 445,546 119,509" rendition="Line" xml:id="facs_0331_21_12_1350-01_tr_1_tl_3" subtype="default"/>
+         <zone points="115,697 206,730 271,684 675,707 872,670 1124,707 1303,670 1413,716 1753,688 1946,743 2400,711 2487,743 2671,697 3088,739 3721,670 3721,606 3630,583 3364,647 3258,601 2175,652 1808,597 1698,638 1225,587 1042,624 854,587 376,638 266,597 115,615" rendition="Line" xml:id="facs_0331_21_12_1350-01_tr_1_tl_4" subtype="default"/>
+         <zone points="101,766 275,808 372,766 583,798 638,757 1881,812 2423,785 2602,831 2717,798 2762,840 2850,798 2969,831 3065,789 3166,826 3749,785 3749,684 3689,670 2905,743 2675,702 2487,743 2418,707 1946,743 1753,688 1611,730 1303,670 991,711 872,675 803,711 101,711" rendition="Line" xml:id="facs_0331_21_12_1350-01_tr_1_tl_5" subtype="default"/>
+         <zone points="96,881 1051,844 3019,918 3171,876 3341,909 3529,858 3703,881 3703,785 3171,826 2850,798 2767,840 2721,798 2602,831 2427,785 2010,821 918,753 629,762 597,798 385,766 239,812 92,766" rendition="Line" xml:id="facs_0331_21_12_1350-01_tr_1_tl_6" subtype="default"/>
+         <zone points="92,964 890,932 1074,968 1129,936 1588,950 1698,996 1895,950 2065,996 2290,959 2776,1010 2836,968 3203,1005 3432,954 3552,996 3598,950 3781,954 3777,854 3047,918 1101,844 679,886 496,849 248,899 87,872" rendition="Line" xml:id="facs_0331_21_12_1350-01_tr_1_tl_7" subtype="default"/>
+         <zone points="106,1088 766,1010 2597,1092 2666,1055 2951,1092 3295,1046 3474,1083 3763,1032 3763,964 3699,959 3552,996 3286,959 3198,1000 2946,964 2368,996 2290,959 2065,996 1900,954 1689,991 1326,941 601,968 413,936 271,991 106,964" rendition="Line" xml:id="facs_0331_21_12_1350-01_tr_1_tl_8" subtype="default"/>
+         <zone points="96,1152 285,1166 376,1120 670,1156 748,1115 844,1152 1042,1110 1147,1143 1317,1115 1459,1170 1588,1120 1735,1166 2239,1138 2505,1193 2616,1143 2721,1188 2854,1147 2960,1193 3455,1133 3777,1166 3777,1046 3740,1032 3474,1083 3295,1046 3203,1088 2652,1055 2597,1092 2189,1046 2024,1083 1748,1042 1707,1078 1482,1028 1427,1065 1175,1023 1097,1055 766,1010 555,1065 445,1028 96,1083" rendition="Line" xml:id="facs_0331_21_12_1350-01_tr_1_tl_9" subtype="default"/>
+         <zone points="106,1244 863,1211 932,1253 1193,1248 1386,1207 1473,1253 1767,1230 1868,1266 2281,1234 2551,1239 2588,1276 2758,1239 3478,1266 3561,1225 3712,1239 3708,1147 3061,1193 2859,1147 2735,1193 2616,1143 2505,1193 2235,1138 1445,1166 1202,1115 1023,1147 725,1115 665,1156 381,1170 101,1147" rendition="Line" xml:id="facs_0331_21_12_1350-01_tr_1_tl_10" subtype="default"/>
+         <zone points="124,1358 463,1312 679,1354 909,1303 1005,1340 1065,1303 1244,1377 1579,1340 1693,1372 1794,1322 2148,1377 2414,1335 2941,1377 3006,1345 3240,1377 3400,1322 3543,1367 3744,1345 3744,1225 2588,1276 2551,1239 1546,1253 1464,1211 945,1253 863,1211 477,1216 211,1271 124,1239" rendition="Line" xml:id="facs_0331_21_12_1350-01_tr_1_tl_11" subtype="default"/>
+         <zone points="119,1464 303,1464 326,1445 367,1464 395,1436 532,1487 587,1491 642,1455 725,1478 730,1331 675,1354 528,1308 335,1349 298,1317 216,1331 174,1367 124,1358" rendition="Line" xml:id="facs_0331_21_12_1350-01_tr_1_tl_12" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0331_21_12_1350-01" n="0331_21_12_1350-01" xml:id="img_0331_21_12_1350-01"/>
+            <ab>
+               <l facs="#facs_0331_21_12_1350-01_tr_1_tl_1">Wij Jan bode ende Peter van hoboken scepenen in antwʼpen maken Cond dat vore ons quā peter drake sone wilen was peters dracs</l>
+               <l facs="#facs_0331_21_12_1350-01_tr_1_tl_2">ende bekinde dat hi wittelec vʼcocht heeft Eersamen lieden den . Deken ende der Capitlen van onser vrouwen kerke in antwʼpen</l>
+               <l facs="#facs_0331_21_12_1350-01_tr_1_tl_3">drie hout eyghens lands die gheleghen siin te coestelle int valland inde ꝓchie van outserweele biden drien houd eyghens die de</l>
+               <l facs="#facs_0331_21_12_1350-01_tr_1_tl_4">capllaane vander vorghenomder kerken . ende den drien houd eyghens die peter bollaerd daer ligghende hebben met allen den</l>
+               <l facs="#facs_0331_21_12_1350-01_tr_1_tl_5">rechte dat hi peter drake ane dat vorgh̄ land . ane eyghendoem en̄ ane al dattʼ toe behoerd houdende was . ōme ene sūme van</l>
+               <l facs="#facs_0331_21_12_1350-01_tr_1_tl_6">pēninghen daer hem de vorghenomde peter af bekinde al vʼgouden . De welke drie houd eyghens de vorghenomde peter drake op</l>
+               <l facs="#facs_0331_21_12_1350-01_tr_1_tl_7">droech met vʼtienne den vorghenomden .. Deken ende capitlen ende quite scoud te horen behoef bi maennessen des rechters die</l>
+               <l facs="#facs_0331_21_12_1350-01_tr_1_tl_8">daer sculdech op was te maenne ende bi wisene van ons alse scepenē ende eyghen ghenoete al ghedaen met vonnesse ende met</l>
+               <l facs="#facs_0331_21_12_1350-01_tr_1_tl_9">rechte niet achtʼ ghelaten dat daer toe sculdech was te ghestienne . de welke drie houd eyghens de vorghenomde peter drake ghe-</l>
+               <l facs="#facs_0331_21_12_1350-01_tr_1_tl_10">loefde te waerne in gherechten eyghendome jaer ende dach jeghen alle de ghene die te rechte comen willen Jn kennissen</l>
+               <l facs="#facs_0331_21_12_1350-01_tr_1_tl_11">van desen lrēn beseghelt met onsen seglen . Ghegheuen int jaer ons heʼn alsmē screef M CCC en̄ viiftech op sente thomaes</l>
+               <l facs="#facs_0331_21_12_1350-01_tr_1_tl_12">dach apostelen</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

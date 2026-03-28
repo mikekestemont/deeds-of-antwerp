@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3442" lry="913" xml:id="facs_0467_08_08_1327-03">
+         <graphic url="0467_08_08_1327-03.jpg" width="3442px" height="913px"/>
+         <zone points="134,271 292,268 450,268 609,271 767,277 926,282 1084,285 1242,286 1401,289 1559,292 1718,295 1876,295 2034,296 2193,298 2351,295 2510,292 2668,292 2826,295 2985,298 3143,297 3302,295 3302,231 3143,233 2985,234 2826,231 2668,228 2510,228 2351,231 2193,234 2034,232 1876,231 1718,231 1559,228 1401,225 1242,222 1084,221 926,218 767,213 609,207 450,204 292,204 134,207" rendition="Line" xml:id="facs_0467_08_08_1327-03_tr_1_tl_1" subtype="default"/>
+         <zone points="182,331 339,332 496,334 653,334 810,337 968,345 1125,346 1282,352 1439,352 1596,355 1754,352 1911,355 2068,361 2225,364 2382,362 2540,361 2697,360 2854,361 3011,361 3168,359 3326,355 3326,291 3168,295 3011,297 2854,297 2697,296 2540,297 2382,298 2225,300 2068,297 1911,291 1754,288 1596,291 1439,288 1282,288 1125,282 968,281 810,273 653,270 496,270 339,268 182,267" rendition="Line" xml:id="facs_0467_08_08_1327-03_tr_1_tl_2" subtype="default"/>
+         <zone points="170,402 326,401 483,396 640,396 797,399 954,405 1111,402 1268,408 1425,414 1582,413 1739,414 1895,420 2052,429 2209,426 2366,426 2523,423 2680,423 2837,426 2994,420 3151,415 3308,408 3308,344 3151,351 2994,356 2837,362 2680,359 2523,359 2366,362 2209,362 2052,365 1895,356 1739,350 1582,349 1425,350 1268,344 1111,338 954,341 797,335 640,332 483,332 326,337 170,338" rendition="Line" xml:id="facs_0467_08_08_1327-03_tr_1_tl_3" subtype="default"/>
+         <zone points="262,440 416,440 570,443 725,446 879,451 1034,454 1188,458 1342,461 1497,461 1651,461 1806,464 1960,467 2114,467 2269,467 2423,470 2578,473 2732,473 2886,475 3041,476 3195,473 3350,470 3350,427 3195,430 3041,433 2886,432 2732,430 2578,430 2423,427 2269,424 2114,424 1960,424 1806,421 1651,418 1497,418 1342,418 1188,415 1034,411 879,408 725,403 570,400 416,397 262,397" rendition="Line" xml:id="facs_0467_08_08_1327-03_tr_1_tl_4" subtype="default"/>
+         <zone points="187,503 345,500 504,503 663,503 822,512 980,516 1139,518 1298,522 1457,524 1615,524 1774,528 1933,536 2092,533 2250,527 2409,527 2568,531 2727,536 2885,540 3044,545 3203,542 3362,542 3362,500 3203,500 3044,503 2885,498 2727,494 2568,489 2409,485 2250,485 2092,491 1933,494 1774,486 1615,482 1457,482 1298,480 1139,476 980,474 822,470 663,461 504,461 345,458 187,461" rendition="Line" xml:id="facs_0467_08_08_1327-03_tr_1_tl_5" subtype="default"/>
+         <zone points="176,565 334,567 493,571 652,571 811,572 970,577 1129,581 1287,580 1446,580 1605,580 1764,587 1923,592 2082,592 2241,592 2399,594 2558,598 2717,598 2876,604 3035,610 3194,607 3353,610 3353,568 3194,565 3035,568 2876,562 2717,556 2558,556 2399,552 2241,550 2082,550 1923,550 1764,545 1605,538 1446,538 1287,538 1129,539 970,535 811,530 652,529 493,529 334,525 176,523" rendition="Line" xml:id="facs_0467_08_08_1327-03_tr_1_tl_6" subtype="default"/>
+         <zone points="187,634 343,631 499,634 655,634 811,637 968,641 1124,646 1280,648 1436,646 1592,648 1749,652 1905,655 2061,652 2217,655 2373,655 2530,656 2686,659 2842,661 2998,664 3154,661 3311,655 3311,612 3154,618 2998,621 2842,618 2686,616 2530,613 2373,612 2217,612 2061,609 1905,612 1749,609 1592,605 1436,603 1280,605 1124,603 968,598 811,594 655,591 499,591 343,588 187,591" rendition="Line" xml:id="facs_0467_08_08_1327-03_tr_1_tl_7" subtype="default"/>
+         <zone points="187,694 307,694 428,695 549,697 669,697 790,698 911,700 1031,700 1152,705 1273,708 1394,709 1514,706 1635,709 1756,712 1876,717 1997,721 2118,718 2238,718 2359,715 2480,715 2601,715 2601,672 2480,672 2359,672 2238,675 2118,675 1997,678 1876,674 1756,669 1635,666 1514,663 1394,666 1273,665 1152,662 1031,657 911,657 790,655 669,654 549,654 428,652 307,651 187,651" rendition="Line" xml:id="facs_0467_08_08_1327-03_tr_1_tl_8" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0467_08_08_1327-03" n="0467_08_08_1327-03" xml:id="img_0467_08_08_1327-03"/>
+            <ab>
+               <l facs="#facs_0467_08_08_1327-03_tr_1_tl_1">Allen den ghenen de desen brief sullen zien of horen lesen . Wi broder diddric van den bosche Gardiaen van den minderbrodeʼen tordrecht . maken cond ende</l>
+               <l facs="#facs_0467_08_08_1327-03_tr_1_tl_2">kenlic . Dat wi ghesien en̄ ghehoert hebben jnt iaer ons heʼn . M . CCC . en̄ zeuen en̄ twintich des saterdaghes voer sente laurens dach eenē brief bezegelt met vroeder</l>
+               <l facs="#facs_0467_08_08_1327-03_tr_1_tl_3">lude zeghele en̄ reckeliker goet . gans en̄ ghaue sprekende in alre manieren . Als hier na ghescreuen staet . Wi pawils bornecolue en̄ jan bode scepene in ant</l>
+               <l facs="#facs_0467_08_08_1327-03_tr_1_tl_4">werpen . maken Cond allen den ghenen die dese lettre zelen zien en̄ horen lesen . Dat voert ons quam Jacop vten zacke . Ende scalt quite die stede en die portʼs</l>
+               <l facs="#facs_0467_08_08_1327-03_tr_1_tl_5">ghemeenlike van dordrecht Ende hilt hem wel ghepayt . Alse van eere lettre die zi hem sculdech waren en te leuerene bezeghelt met der stede zeghel van dordrecht</l>
+               <l facs="#facs_0467_08_08_1327-03_tr_1_tl_6">daer zi quite mede scouden den voerghenoemden jacoppe van alle areeste . en̄ van alle pandinghen die hi ghedaen hadde op die voerseide stede om tsine tīnene</l>
+               <l facs="#facs_0467_08_08_1327-03_tr_1_tl_7">Jn Oerconscepe van desen dinghen heb wi dese lettre bezeghelt met onsen zeghelen . Gegheuen jnt iaer ons heʼn . M . CCC en̄ neghene des vridaghes voer</l>
+               <l facs="#facs_0467_08_08_1327-03_tr_1_tl_8">dertien dach . Jn oerconde desen brieue bezeghelt met ons ghemeens conuents zeghel ghegheuē up den voerscreuen dach</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

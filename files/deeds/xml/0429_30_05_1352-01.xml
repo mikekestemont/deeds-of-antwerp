@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3507" lry="2480" xml:id="facs_0429_30_05_1352-01">
+         <graphic url="0429_30_05_1352-01.jpg" width="3507px" height="2480px"/>
+         <zone points="462,1141 2744,1176 2741,1121 2684,1104 2071,1034 1814,1098 1603,1028 1418,1095 462,1057" rendition="Line" xml:id="facs_0429_30_05_1352-01_tr_1_tl_1" subtype="default"/>
+         <zone points="471,1184 1196,1167 2736,1225 2750,1176 468,1135" rendition="Line" xml:id="facs_0429_30_05_1352-01_tr_1_tl_2" subtype="default"/>
+         <zone points="474,1228 1271,1210 2620,1268 2753,1265 2753,1216 471,1184" rendition="Line" xml:id="facs_0429_30_05_1352-01_tr_1_tl_3" subtype="default"/>
+         <zone points="465,1277 1210,1254 2750,1300 2707,1254 1831,1225 465,1228" rendition="Line" xml:id="facs_0429_30_05_1352-01_tr_1_tl_4" subtype="default"/>
+         <zone points="465,1314 2733,1340 2730,1300 2661,1288 465,1277" rendition="Line" xml:id="facs_0429_30_05_1352-01_tr_1_tl_5" subtype="default"/>
+         <zone points="459,1358 2675,1398 2675,1352 2519,1335 459,1320" rendition="Line" xml:id="facs_0429_30_05_1352-01_tr_1_tl_6" subtype="default"/>
+         <zone points="480,1421 1638,1392 2733,1453 2759,1384 477,1361" rendition="Line" xml:id="facs_0429_30_05_1352-01_tr_1_tl_7" subtype="default"/>
+         <zone points="471,1459 1115,1436 1687,1488 1857,1462 1941,1502 2788,1485 2785,1450 2614,1427 1967,1433 1635,1389 471,1418" rendition="Line" xml:id="facs_0429_30_05_1352-01_tr_1_tl_8" subtype="default"/>
+         <zone points="482,1519 711,1485 1606,1514 1606,1450 1332,1436 482,1459" rendition="Line" xml:id="facs_0429_30_05_1352-01_tr_1_tl_9" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0429_30_05_1352-01" n="0429_30_05_1352-01" xml:id="img_0429_30_05_1352-01"/>
+            <ab>
+               <l facs="#facs_0429_30_05_1352-01_tr_1_tl_1">Wij willem de molennʼe ende Woutʼe vanden broeke scepenen jn Antwʼpen maken cond dat vore ons quam Jan vandaer bouen wonachtech</l>
+               <l facs="#facs_0429_30_05_1352-01_tr_1_tl_2">te woestwesele ende bekinde dat hi wittelec vʼcocht heeft der pⁱorinnen ende den Conuente vanden grote gasthuise in Antwʼpen anderhalf bun</l>
+               <l facs="#facs_0429_30_05_1352-01_tr_1_tl_3">der winnens lands diemen heet rijstacker die gheleghen sijn te woestwesele tusschen de molen ende Jans vander herstraten</l>
+               <l facs="#facs_0429_30_05_1352-01_tr_1_tl_4">met allen den rechte dat hi daer ane houdende was ōme sesse sistre rogs jaerleckʼ renten en̄ liftochten die hi Jan vandaer bouē ende</l>
+               <l facs="#facs_0429_30_05_1352-01_tr_1_tl_5">margⁱte siin wittech wiif heffen en̄ hebben selen alle jaere hore leuen lanc en̄ met langhē vandec vorꞩ gasthuis goede ghelijc en̄</l>
+               <l facs="#facs_0429_30_05_1352-01_tr_1_tl_6">in dier manieren dat de lrēn beseghelt met des vorꞩ gasthuis segle die daer op ghemaect siin begrepen hebben dat welke land de vorgh̄</l>
+               <l facs="#facs_0429_30_05_1352-01_tr_1_tl_7">Jan quite scoud tote des vorgh̄ gasthuis behoef ende gheloefde dat hi noch sine nacomenlinghe te dien lande hen nimmʼmer rechts vʼmeten</l>
+               <l facs="#facs_0429_30_05_1352-01_tr_1_tl_8">en selen moghen in enegheʼ manieren . Jn kennissen van desen lrēn beseghelt met onsen seglen Ghegheuen int Jaer ons heʼn alsm̄ screef</l>
+               <l facs="#facs_0429_30_05_1352-01_tr_1_tl_9">M CCC viiftech ende twee des woensdaegs inde chincendaghe</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

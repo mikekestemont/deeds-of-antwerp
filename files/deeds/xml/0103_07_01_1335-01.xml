@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3507" lry="2480" xml:id="facs_0103_07_01_1335-01">
+         <graphic url="0103_07_01_1335-01.jpg" width="3507px" height="2480px"/>
+         <zone points="327,806 560,849 926,813 1325,852 2857,832 2805,748 2750,777 2653,738 2588,774 2183,745 1943,781 1661,738 1351,768 1195,732 554,771 327,696" rendition="Line" xml:id="facs_0103_07_01_1335-01_tr_1_tl_1" subtype="default"/>
+         <zone points="321,891 541,920 1121,887 1179,920 1215,887 1571,917 1678,884 1798,917 2034,878 2092,917 2879,920 2837,829 2714,865 2066,823 321,839" rendition="Line" xml:id="facs_0103_07_01_1335-01_tr_1_tl_2" subtype="default"/>
+         <zone points="308,985 479,955 709,1014 855,968 2834,975 2808,907 2581,900 308,913" rendition="Line" xml:id="facs_0103_07_01_1335-01_tr_1_tl_3" subtype="default"/>
+         <zone points="301,1046 2860,1043 2860,985 2792,965 301,985" rendition="Line" xml:id="facs_0103_07_01_1335-01_tr_1_tl_4" subtype="default"/>
+         <zone points="301,1117 874,1156 1729,1101 2546,1095 2636,1134 2863,1104 2863,1043 2581,1030 2102,1069 1775,1033 301,1069" rendition="Line" xml:id="facs_0103_07_01_1335-01_tr_1_tl_5" subtype="default"/>
+         <zone points="288,1195 2847,1185 2847,1121 2746,1101 2636,1137 2196,1108 2095,1150 1953,1108 1846,1147 1742,1108 1487,1108 1428,1153 1331,1117 871,1159 288,1137" rendition="Line" xml:id="facs_0103_07_01_1335-01_tr_1_tl_6" subtype="default"/>
+         <zone points="298,1273 797,1270 894,1318 933,1279 1179,1263 2886,1250 2886,1202 2782,1185 2416,1211 2244,1179 2115,1215 1846,1182 816,1231 473,1198 298,1237" rendition="Line" xml:id="facs_0103_07_01_1335-01_tr_1_tl_7" subtype="default"/>
+         <zone points="298,1347 2899,1334 2853,1240 2779,1286 2552,1250 2397,1292 301,1292" rendition="Line" xml:id="facs_0103_07_01_1335-01_tr_1_tl_8" subtype="default"/>
+         <zone points="304,1435 2575,1409 2866,1444 2866,1338 2792,1367 2753,1334 2643,1367 1632,1334 1597,1370 1179,1338 1075,1383 972,1344 732,1393 304,1354" rendition="Line" xml:id="facs_0103_07_01_1335-01_tr_1_tl_9" subtype="default"/>
+         <zone points="295,1506 2886,1509 2886,1428 2759,1415 2303,1448 1017,1419 926,1464 295,1435" rendition="Line" xml:id="facs_0103_07_01_1335-01_tr_1_tl_10" subtype="default"/>
+         <zone points="295,1587 2714,1561 2772,1600 2899,1564 2899,1493 2478,1522 2432,1483 2393,1522 2206,1487 2108,1519 1299,1487 295,1522" rendition="Line" xml:id="facs_0103_07_01_1335-01_tr_1_tl_11" subtype="default"/>
+         <zone points="282,1687 337,1713 657,1658 771,1697 810,1658 1176,1674 1500,1629 1934,1642 2070,1687 2138,1645 2257,1642 2306,1687 2387,1652 2840,1658 2840,1597 2675,1561 2406,1606 1966,1561 1917,1597 1781,1561 709,1584 440,1636 282,1597" rendition="Line" xml:id="facs_0103_07_01_1335-01_tr_1_tl_12" subtype="default"/>
+         <zone points="291,1791 483,1752 1091,1765 1441,1710 1658,1717 1704,1762 1768,1713 2429,1726 2491,1768 2513,1652 2309,1691 1542,1642 1451,1684 952,1704 810,1665 291,1713" rendition="Line" xml:id="facs_0103_07_01_1335-01_tr_1_tl_13" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0103_07_01_1335-01" n="0103_07_01_1335-01" xml:id="img_0103_07_01_1335-01"/>
+            <ab>
+               <l facs="#facs_0103_07_01_1335-01_tr_1_tl_1">Wi Willem drake en̄ Jan vanden wʼue scepenē Jn Antwʼpen maken cond dat vore ans quā mathijs vanden</l>
+               <l facs="#facs_0103_07_01_1335-01_tr_1_tl_2">ende de parkem̄teʼ . en̄ bekende dat hi om ene sūme ghelds die hem al es vʼgouden vʼcocht heeft wetteleke</l>
+               <l facs="#facs_0103_07_01_1335-01_tr_1_tl_3">janne van borchstᵃten twee scellinghe sjaers grotʼ oudʼ tornoyse van monten scoenings van vᵃncrike oft</l>
+               <l facs="#facs_0103_07_01_1335-01_tr_1_tl_4">de wʼde daeraf in goeden andren ghelde jaerlikʼ en̄ euwelikeʼ renten op sijn huis ghestaen inde cāmʼstᵃte</l>
+               <l facs="#facs_0103_07_01_1335-01_tr_1_tl_5">tusschen willems des potʼghietʼs huis . en̄ claus huis vandʼ losguen en̄ op alle dit recht dat hi heeft ane</l>
+               <l facs="#facs_0103_07_01_1335-01_tr_1_tl_6">den grond en̄ hof en̄ ane aldat daertoe hoert . dat welke huis metden vorseiden rechte de vorseide</l>
+               <l facs="#facs_0103_07_01_1335-01_tr_1_tl_7">mathijs vʼband tenen pande ouʼ de vorseide jaerlike en̄ euwelike rente tegheldene en̄ tegheuene alle jare</l>
+               <l facs="#facs_0103_07_01_1335-01_tr_1_tl_8">vanden seluen mathise en̄ van sinen nacomelinghen .. Den vorseiden Janne en̄ sinen nacomelinghen deen he-</l>
+               <l facs="#facs_0103_07_01_1335-01_tr_1_tl_9">left altoes in sente Jans daghe in midden someʼ . en̄ dandʼ heleft te kerssauonde . En̄ de vorseide mathijs ghe</l>
+               <l facs="#facs_0103_07_01_1335-01_tr_1_tl_10">loefde dit vorseide huis en̄ hof tewaerne den vorseiden Janne jaer en̄ dach van allen cūmeʼ en̄ calangen</l>
+               <l facs="#facs_0103_07_01_1335-01_tr_1_tl_11">vtghenom̄ des heʼn cheins en̄ recht vanden gronde . dats tewetene drie scellinghe cheinsghelds en̄ twee</l>
+               <l facs="#facs_0103_07_01_1335-01_tr_1_tl_12">linnen siaers also hi mathijs seide . Jn kennessen van desen lettren . beseghelt met onsen seghlen . Ghegheuen</l>
+               <l facs="#facs_0103_07_01_1335-01_tr_1_tl_13">jnt jaer ons heren alsm̄ screef . M . CCC . viere . en̄ derttech des zatʼdaegs na derttien dach .</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="2048" lry="1536" xml:id="facs_0337_22_05_1347-02">
+         <graphic url="0337_22_05_1347-02.jpg" width="2048px" height="1536px"/>
+         <zone points="329,617 1791,632 1770,547 1626,584 1265,526 1135,581 329,526" rendition="Line" xml:id="facs_0337_22_05_1347-02_tr_1_tl_6" subtype="default"/>
+         <zone points="310,673 1827,679 1825,628 1719,622 308,613" rendition="Line" xml:id="facs_0337_22_05_1347-02_tr_1_tl_7" subtype="default"/>
+         <zone points="314,715 1135,692 1785,738 1817,687 312,668" rendition="Line" xml:id="facs_0337_22_05_1347-02_tr_1_tl_8" subtype="default"/>
+         <zone points="314,774 756,738 1814,774 1812,738 1662,711 314,715" rendition="Line" xml:id="facs_0337_22_05_1347-02_tr_1_tl_9" subtype="default"/>
+         <zone points="314,821 768,785 1799,830 1799,781 1415,749 314,774" rendition="Line" xml:id="facs_0337_22_05_1347-02_tr_1_tl_10" subtype="default"/>
+         <zone points="314,872 923,840 1787,872 1787,830 1504,804 314,823" rendition="Line" xml:id="facs_0337_22_05_1347-02_tr_1_tl_11" subtype="default"/>
+         <zone points="327,929 908,889 1823,910 1823,866 1362,845 327,879" rendition="Line" xml:id="facs_0337_22_05_1347-02_tr_1_tl_12" subtype="default"/>
+         <zone points="327,974 978,934 1819,953 1819,912 1521,895 327,923" rendition="Line" xml:id="facs_0337_22_05_1347-02_tr_1_tl_13" subtype="default"/>
+         <zone points="318,1025 1797,1006 1749,957 1447,944 320,978" rendition="Line" xml:id="facs_0337_22_05_1347-02_tr_1_tl_14" subtype="default"/>
+         <zone points="329,1087 792,1055 1059,1106 1314,1063 1316,1002 1280,993 331,1033" rendition="Line" xml:id="facs_0337_22_05_1347-02_tr_1_tl_15" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0337_22_05_1347-02" n="0337_22_05_1347-02" xml:id="img_0337_22_05_1347-02"/>
+            <ab>
+               <l facs="#facs_0337_22_05_1347-02_tr_1_tl_6">Wj jan Wilmaer en̄ wouteʼ vanden brueke scepenē Jn antwʼpen maken cont . dat vore</l>
+               <l facs="#facs_0337_22_05_1347-02_tr_1_tl_7">ons quā peter bode . En̄ bekende en̄ vʼlide alse van dien zestienden ghedele . dat Janne bodē</l>
+               <l facs="#facs_0337_22_05_1347-02_tr_1_tl_8">sinē brudʼ vʼstarf en̄ behoerde van doede jans boeds sijns vaders jnt huis ghestaen op</l>
+               <l facs="#facs_0337_22_05_1347-02_tr_1_tl_9">den hoeck bidʼ vischmaerct daer jacop vanden Wʼue nv in woent . daer af de selue peter</l>
+               <l facs="#facs_0337_22_05_1347-02_tr_1_tl_10">nv heeft dat wederdeel dat hi peter ane dat sestiende ghedeel en gheen recht en heeft</l>
+               <l facs="#facs_0337_22_05_1347-02_tr_1_tl_11">en̄ gheloefde mede dat hi hem daertoe nīmʼmeer rechts vʼmeten en sal maer dat hi des</l>
+               <l facs="#facs_0337_22_05_1347-02_tr_1_tl_12">vrilec sal laten ghebruken den quente vanden begarden in Antwʼpen . diet also wij vʼstaē</l>
+               <l facs="#facs_0337_22_05_1347-02_tr_1_tl_13">vʼcreghen hebben jeghen den vorseiden janne boden sinen brudʼ . Jn kennessen van desen</l>
+               <l facs="#facs_0337_22_05_1347-02_tr_1_tl_14">lrēn bezeghelt met onsen zeghlen . Ghegheuen jnt jaer ons heʼn alsm̄ screef . M . CCC .</l>
+               <l facs="#facs_0337_22_05_1347-02_tr_1_tl_15">viertech en zeuene des dinsendaegs inde chinxsendaghe</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

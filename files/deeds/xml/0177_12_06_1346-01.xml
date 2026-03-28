@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="2048" lry="1536" xml:id="facs_0177_12_06_1346-01">
+         <graphic url="0177_12_06_1346-01.jpg" width="2048px" height="1536px"/>
+         <zone points="383,444 1621,480 1645,345 1489,399 1314,338 1133,409 381,353" rendition="Line" xml:id="facs_0177_12_06_1346-01_tr_1_tl_4" subtype="default"/>
+         <zone points="368,478 1647,503 1645,470 1420,450 368,445" rendition="Line" xml:id="facs_0177_12_06_1346-01_tr_1_tl_5" subtype="default"/>
+         <zone points="364,546 1669,567 1645,500 364,483" rendition="Line" xml:id="facs_0177_12_06_1346-01_tr_1_tl_6" subtype="default"/>
+         <zone points="369,589 1624,587 1495,542 368,546" rendition="Line" xml:id="facs_0177_12_06_1346-01_tr_1_tl_7" subtype="default"/>
+         <zone points="368,655 1639,630 1639,590 368,590" rendition="Line" xml:id="facs_0177_12_06_1346-01_tr_1_tl_8" subtype="default"/>
+         <zone points="373,694 1654,671 1627,628 1199,666 758,620 373,641" rendition="Line" xml:id="facs_0177_12_06_1346-01_tr_1_tl_9" subtype="default"/>
+         <zone points="361,762 1662,737 1636,673 361,701" rendition="Line" xml:id="facs_0177_12_06_1346-01_tr_1_tl_10" subtype="default"/>
+         <zone points="363,795 1682,782 1682,735 1372,727 364,760" rendition="Line" xml:id="facs_0177_12_06_1346-01_tr_1_tl_11" subtype="default"/>
+         <zone points="368,849 1528,846 1682,823 1683,785 369,795" rendition="Line" xml:id="facs_0177_12_06_1346-01_tr_1_tl_12" subtype="default"/>
+         <zone points="368,899 1518,899 1664,866 1665,816 368,851" rendition="Line" xml:id="facs_0177_12_06_1346-01_tr_1_tl_13" subtype="default"/>
+         <zone points="361,950 450,981 979,936 1278,1001 1390,941 1578,955 1683,912 1685,867 1443,907 361,902" rendition="Line" xml:id="facs_0177_12_06_1346-01_tr_1_tl_14" subtype="default"/>
+         <zone points="366,1024 406,1014 447,1030 490,1019 534,1029 564,1009 696,1021 688,961 594,963 546,946 531,961 498,958 462,976 392,948 368,953" rendition="Line" xml:id="facs_0177_12_06_1346-01_tr_1_tl_16" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0177_12_06_1346-01" n="0177_12_06_1346-01" xml:id="img_0177_12_06_1346-01"/>
+            <ab>
+               <l facs="#facs_0177_12_06_1346-01_tr_1_tl_4">Wj jan van dorne Riddʼ . En̄ Gilijs de stoeuʼe scepenē Jn Antwʼpen maken cont . dat vore</l>
+               <l facs="#facs_0177_12_06_1346-01_tr_1_tl_5">ons quā heinric vanden brueke . En̄ bekende dat hi om ene sūme ghelds daeraf hem es</l>
+               <l facs="#facs_0177_12_06_1346-01_tr_1_tl_6">gnoech ghedaen . vʼcocht heeft wetteleke . meestʼ janne peters den tīmʼman . viere . ghe-</l>
+               <l facs="#facs_0177_12_06_1346-01_tr_1_tl_7">mete lands . min viue en̄ twintech roeden . gheleghen in lillo op den ghemenē mour .</l>
+               <l facs="#facs_0177_12_06_1346-01_tr_1_tl_8">daeraf . dat wederdeel es brudʼs jans van wineghē brudʼ vandʼ derder ordinē sente</l>
+               <l facs="#facs_0177_12_06_1346-01_tr_1_tl_9">fᵃnciscus . dat welke land de vorseide heinric quite scout tes vorseids mestʼs Jans be-</l>
+               <l facs="#facs_0177_12_06_1346-01_tr_1_tl_10">hoef en̄ bekende dat hi selue en gheen recht daer ane en belilt . En̄ dat gheloefde hi</l>
+               <l facs="#facs_0177_12_06_1346-01_tr_1_tl_11">te waerne den vorseiden meestʼ janne quite en̄ los van alre achtʼstelre dicagen en̄</l>
+               <l facs="#facs_0177_12_06_1346-01_tr_1_tl_12">van allen andren cūmʼe die daerop mochte ghegaen sijn tote opden dach vandʼ daten</l>
+               <l facs="#facs_0177_12_06_1346-01_tr_1_tl_13">van derre letteʼn . Jn kennessen van desen letteʼn . beseghelt met onsen zeghelen . Gheghe-</l>
+               <l facs="#facs_0177_12_06_1346-01_tr_1_tl_14">uen jnt jaer ons heʼn alsm̄ screef . M . CCC . viertech en̄ sesse des maendaegs na be</l>
+               <l facs="#facs_0177_12_06_1346-01_tr_1_tl_16">lokenen chinxsenen</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

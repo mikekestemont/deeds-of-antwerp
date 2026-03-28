@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3507" lry="2480" xml:id="facs_0083_06_01_1323-01">
+         <graphic url="0083_06_01_1323-01.jpg" width="3507px" height="2480px"/>
+         <zone points="308,944 610,921 681,966 960,989 1070,950 1475,995 1550,960 1634,995 1926,966 2114,1025 2169,989 2853,995 2847,781 2802,772 1929,778 1835,856 1647,856 1563,914 1239,914 1073,853 853,905 713,853 645,888 558,850 506,885 308,863" rendition="Line" xml:id="facs_0083_06_01_1323-01_tr_1_tl_1" subtype="default"/>
+         <zone points="292,1005 1527,1031 1650,1070 1686,1034 2075,1034 2160,1089 2279,1047 2860,1051 2889,992 2140,1012 1926,966 1271,989 1070,950 970,986 289,937" rendition="Line" xml:id="facs_0083_06_01_1323-01_tr_1_tl_2" subtype="default"/>
+         <zone points="292,1080 561,1054 759,1099 1268,1073 1417,1125 1855,1096 2078,1138 2231,1099 2289,1135 2695,1135 2886,1119 2886,1044 2140,1073 2065,1031 1644,1064 551,995 477,1025 431,979 289,1008" rendition="Line" xml:id="facs_0083_06_01_1323-01_tr_1_tl_3" subtype="default"/>
+         <zone points="289,1135 561,1135 639,1174 733,1135 1086,1135 1787,1196 2853,1187 2850,1125 2714,1102 2014,1132 1851,1096 1410,1125 1268,1073 995,1106 762,1099 713,1057 289,1077" rendition="Line" xml:id="facs_0083_06_01_1323-01_tr_1_tl_4" subtype="default"/>
+         <zone points="276,1222 749,1239 872,1193 1021,1242 1187,1206 1303,1245 1602,1213 1712,1252 2030,1222 2860,1261 2857,1174 2782,1219 1099,1138 276,1167" rendition="Line" xml:id="facs_0083_06_01_1323-01_tr_1_tl_5" subtype="default"/>
+         <zone points="259,1323 363,1287 762,1323 814,1278 1119,1316 1206,1278 2840,1333 2840,1248 1300,1245 1190,1206 1025,1245 863,1193 691,1245 259,1229" rendition="Line" xml:id="facs_0083_06_01_1323-01_l" subtype="default"/>
+         <zone points="269,1368 772,1381 921,1342 982,1381 1109,1346 1196,1388 1887,1339 2007,1378 2169,1346 2315,1385 2477,1355 2876,1388 2876,1333 2759,1303 2555,1336 2224,1287 269,1316" rendition="Line" xml:id="facs_0083_06_01_1323-01_tr_1_tl_8" subtype="default"/>
+         <zone points="272,1433 2847,1433 2811,1372 2565,1388 2477,1352 2315,1385 1887,1339 1213,1391 918,1342 768,1385 269,1368" rendition="Line" xml:id="facs_0083_06_01_1323-01_tr_1_tl_9" subtype="default"/>
+         <zone points="259,1527 548,1501 674,1537 749,1498 908,1537 1025,1495 1125,1540 1365,1498 1417,1530 1699,1501 1751,1537 1916,1485 2023,1534 2247,1495 2451,1540 2558,1498 2853,1521 2853,1433 2377,1453 2325,1410 2121,1446 1822,1407 1608,1446 1083,1417 1018,1449 979,1417 259,1449" rendition="Line" xml:id="facs_0083_06_01_1323-01_tr_1_tl_10" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0083_06_01_1323-01" n="0083_06_01_1323-01" xml:id="img_0083_06_01_1323-01"/>
+            <ab>
+               <l facs="#facs_0083_06_01_1323-01_tr_1_tl_1">Wi jan van wineghē en̄ gheraerd van wisplaer scepenē in Antwʼpen maken cont . Dat vore</l>
+               <l facs="#facs_0083_06_01_1323-01_tr_1_tl_2">ons qᵃm̄ . de montboren vandʼ firmerien in claepdorp en̄ scouden quite vandʼ seluʼ firmerien</l>
+               <l facs="#facs_0083_06_01_1323-01_tr_1_tl_3">weghen . Eeen stucke lands dat men heet smeedsbloc gheleghen tusschen wineghē en̄ we-</l>
+               <l facs="#facs_0083_06_01_1323-01_tr_1_tl_4">sele . en̄ ene heide die daer toe behoert . En̄ dit was ghedaen om achte pēninghe grotʼ oudʼ</l>
+               <l facs="#facs_0083_06_01_1323-01_tr_1_tl_5">tornoise siaers eflec die lijsbeth van hackendonc . dochtʼ shʼ jans van hackendonc wilen was ane</l>
+               <l facs="#facs_0083_06_01_1323-01_l">horen montbore gaf en̄ bewijsde dʼ vorseidʼ firmerien op dene heleft vanden huise ghestaen . bidʼ</l>
+               <l facs="#facs_0083_06_01_1323-01_tr_1_tl_8">royen naest diederijcs maders huise en̄ opden gront . teheffene elcs jaers in sentē sine</l>
+               <l facs="#facs_0083_06_01_1323-01_tr_1_tl_9">daghe in midden somʼe . Jn kinnessen van desen letteʼn beseghelt met onsen seglen . Ghe</l>
+               <l facs="#facs_0083_06_01_1323-01_tr_1_tl_10">gheuen int jaer ons heʼn alsm̄ screef . M . CCC . en̄ tuee en̄ tuintech in dertien dagh</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

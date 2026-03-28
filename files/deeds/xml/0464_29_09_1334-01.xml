@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="2048" lry="1536" xml:id="facs_0464_29_09_1334-01">
+         <graphic url="0464_29_09_1334-01.jpg" width="2048px" height="1536px"/>
+         <zone points="448,86 1032,48 1788,101 1787,29 1732,7 1586,51 1220,0 652,0 448,43" rendition="Line" xml:id="facs_0464_29_09_1334-01_tr_1_tl_1" subtype="default"/>
+         <zone points="460,104 1063,77 1790,142 1751,87 1306,58 460,68" rendition="Line" xml:id="facs_0464_29_09_1334-01_tr_1_tl_2" subtype="default"/>
+         <zone points="438,157 979,116 1773,156 1727,120 1063,77 438,99" rendition="Line" xml:id="facs_0464_29_09_1334-01_tr_1_tl_3" subtype="default"/>
+         <zone points="443,193 1093,159 1790,200 1788,151 982,118 442,152" rendition="Line" xml:id="facs_0464_29_09_1334-01_tr_1_tl_4" subtype="default"/>
+         <zone points="445,228 1788,228 1763,193 1427,166 445,190" rendition="Line" xml:id="facs_0464_29_09_1334-01_tr_1_tl_5" subtype="default"/>
+         <zone points="433,272 1116,240 1792,276 1778,224 1410,205 433,233" rendition="Line" xml:id="facs_0464_29_09_1334-01_tr_1_tl_6" subtype="default"/>
+         <zone points="438,315 1070,276 1788,299 1692,248 438,270" rendition="Line" xml:id="facs_0464_29_09_1334-01_tr_1_tl_7" subtype="default"/>
+         <zone points="445,351 1795,344 1773,298 1071,277 445,310" rendition="Line" xml:id="facs_0464_29_09_1334-01_tr_1_tl_8" subtype="default"/>
+         <zone points="442,387 1787,382 1787,344 1256,322 442,356" rendition="Line" xml:id="facs_0464_29_09_1334-01_tr_1_tl_9" subtype="default"/>
+         <zone points="436,428 1797,419 1780,378 1651,370 436,388" rendition="Line" xml:id="facs_0464_29_09_1334-01_tr_1_tl_10" subtype="default"/>
+         <zone points="426,472 1802,459 1778,414 1701,412 426,426" rendition="Line" xml:id="facs_0464_29_09_1334-01_tr_1_tl_11" subtype="default"/>
+         <zone points="430,508 1780,491 1780,452 1728,448 430,469" rendition="Line" xml:id="facs_0464_29_09_1334-01_tr_1_tl_12" subtype="default"/>
+         <zone points="436,558 1648,544 1800,532 1802,479 436,507" rendition="Line" xml:id="facs_0464_29_09_1334-01_tr_1_tl_13" subtype="default"/>
+         <zone points="436,592 1787,563 1787,527 1212,524 436,566" rendition="Line" xml:id="facs_0464_29_09_1334-01_tr_1_tl_14" subtype="default"/>
+         <zone points="430,623 1787,596 1787,561 1727,560 431,585" rendition="Line" xml:id="facs_0464_29_09_1334-01_tr_1_tl_15" subtype="default"/>
+         <zone points="436,657 1614,654 1788,633 1790,597 436,621" rendition="Line" xml:id="facs_0464_29_09_1334-01_tr_1_tl_16" subtype="default"/>
+         <zone points="436,700 1795,676 1795,631 436,657" rendition="Line" xml:id="facs_0464_29_09_1334-01_tr_1_tl_17" subtype="default"/>
+         <zone points="493,724 1800,719 1800,676 493,684" rendition="Line" xml:id="facs_0464_29_09_1334-01_tr_1_tl_18" subtype="default"/>
+         <zone points="426,768 1797,772 1797,732 1583,717 426,732" rendition="Line" xml:id="facs_0464_29_09_1334-01_tr_1_tl_19" subtype="default"/>
+         <zone points="438,815 897,779 1793,804 1756,763 1049,743 438,770" rendition="Line" xml:id="facs_0464_29_09_1334-01_tr_1_tl_20" subtype="default"/>
+         <zone points="433,845 1787,837 1732,796 926,780 433,813" rendition="Line" xml:id="facs_0464_29_09_1334-01_tr_1_tl_21" subtype="default"/>
+         <zone points="430,888 1061,854 1797,880 1797,837 1716,832 430,844" rendition="Line" xml:id="facs_0464_29_09_1334-01_tr_1_tl_22" subtype="default"/>
+         <zone points="436,922 1788,907 1759,869 1061,856 436,885" rendition="Line" xml:id="facs_0464_29_09_1334-01_tr_1_tl_23" subtype="default"/>
+         <zone points="438,958 1790,936 1790,905 1064,892 438,921" rendition="Line" xml:id="facs_0464_29_09_1334-01_tr_1_tl_24" subtype="default"/>
+         <zone points="462,991 1780,967 1780,934 1092,926 462,958" rendition="Line" xml:id="facs_0464_29_09_1334-01_tr_1_tl_25" subtype="default"/>
+         <zone points="445,1025 1739,1016 1781,972 1076,953 445,998" rendition="Line" xml:id="facs_0464_29_09_1334-01_tr_1_tl_26" subtype="default"/>
+         <zone points="442,1080 1797,1037 1797,991 443,1027" rendition="Line" xml:id="facs_0464_29_09_1334-01_tr_1_tl_27" subtype="default"/>
+         <zone points="452,1109 1805,1066 1797,1032 453,1073" rendition="Line" xml:id="facs_0464_29_09_1334-01_tr_1_tl_28" subtype="default"/>
+         <zone points="462,1145 1800,1116 1759,1064 462,1102" rendition="Line" xml:id="facs_0464_29_09_1334-01_tr_1_tl_29" subtype="default"/>
+         <zone points="462,1159 647,1167 671,1153 703,1176 856,1188 857,1119 806,1135 762,1119 700,1136 688,1124 613,1136 572,1123 553,1140 513,1126 462,1145" rendition="Line" xml:id="facs_0464_29_09_1334-01_tr_1_tl_30" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0464_29_09_1334-01" n="0464_29_09_1334-01" xml:id="img_0464_29_09_1334-01"/>
+            <ab>
+               <l facs="#facs_0464_29_09_1334-01_tr_1_tl_1">Jnden name des vaders . en̄ des zoens en̄ des heilegs gheests Amen Jc Jan strubolle marchtech mier senne en̄ mier vʼstannessen en̄</l>
+               <l facs="#facs_0464_29_09_1334-01_tr_1_tl_2">mier redenen bidʼ gᵃcien van gode om de zalecheit van mier zielen . make en̄ ordinʼe mij testam̄t en̄ minē votʼsten</l>
+               <l facs="#facs_0464_29_09_1334-01_tr_1_tl_3">Wille in deser manieren en̄ vorm̄ alse hier na volght jerstwʼf willic en̄ beghʼe dat men ghelde mijn scout en̄ mijn on-</l>
+               <l facs="#facs_0464_29_09_1334-01_tr_1_tl_4">rechte y ghewelken diet redenlec betoghen mach Voert gheuic in aelmoesenen om gode der capitlen van onser vrouwē kʼke</l>
+               <l facs="#facs_0464_29_09_1334-01_tr_1_tl_5">in Antwʼpen te minen jarechtide euwelec staende xxx f. den cōuente vanden pʼdekeʼn in Antwʼpen te minen euweleken ja-</l>
+               <l facs="#facs_0464_29_09_1334-01_tr_1_tl_6">rechtide xxx f. Den ghestichte van onser vrouwē kʼke vorseit . xy f . Der taflen des heilighs gheests daer xij f. Den ghe</l>
+               <l facs="#facs_0464_29_09_1334-01_tr_1_tl_7">stichte van sente jorijs kʼke in Antwʼpen xij f. der taflen des heilegs gheests daer xij f. den ghestichte vandʼ kʼken te sente</l>
+               <l facs="#facs_0464_29_09_1334-01_tr_1_tl_8">willebords xij f. Den heileghen gheest daer xij f. den heileghen gheest in de borch tantwʼpen xij f. Der fermerien in claepdorp</l>
+               <l facs="#facs_0464_29_09_1334-01_tr_1_tl_9">xij f. Der fermerien inden beghinen hof xij f. Den nuwen gasthuise xvj f. Jn doude gasthuis den arm̄ inden mont x f.</l>
+               <l facs="#facs_0464_29_09_1334-01_tr_1_tl_10">Den charteroesen bi Antwʼpen xij f. Den nonnen bi Antwʼpen xij f. Jonfrouwē aeghten van vinnīghen x. f . Der lazarien bi Antwʼpen .v. f.</l>
+               <l facs="#facs_0464_29_09_1334-01_tr_1_tl_11">Den witten susteʼn inde cāmʼstᵃte .v. f. Den cōuente van sente bʼnards te pitanchen iiij lb. Voert gheuic kallen minē jongwiue</l>
+               <l facs="#facs_0464_29_09_1334-01_tr_1_tl_12">tharen liue durende Een halster rogs siaers op mijn goed te brochem Der taflen des heileghs gheests in loenhout xl f. Der taflen des</l>
+               <l facs="#facs_0464_29_09_1334-01_tr_1_tl_13">heilechs gheests in woestwesele xxx f. Voert gheuic margrieten en̄ katlinen woutʼs mījs vaders dochtʼe wilen was vanden achtʼsten bedde</l>
+               <l facs="#facs_0464_29_09_1334-01_tr_1_tl_14">mijn huis ghestaen opde dilf heʼn mechiele en̄ heʼn heinrike den ondʼꝓchiaen xxiiij f. ondʼ hen beiden . Elken van tweleue caplanen in</l>
+               <l facs="#facs_0464_29_09_1334-01_tr_1_tl_15">onser vrouwen kʼke den maetsten daert best ane bestaedt elken elken euen groten tornoysen . Janne minen knecht xx f. melise</l>
+               <l facs="#facs_0464_29_09_1334-01_tr_1_tl_16">minen knecht was vore onrecht en̄ in aelmoesenen xl f. lijskene strubols mier dochtʼ xxx lb. De ambachte van den vleeschouwʼs</l>
+               <l facs="#facs_0464_29_09_1334-01_tr_1_tl_17">xl f. Vore mijn ombekent recht settic iij lb. tebekeerne daer ics best ghewaert si ane mijn ziele . Om gheliet tegane xl f. Den</l>
+               <l facs="#facs_0464_29_09_1334-01_tr_1_tl_18">conuente vanden mindʼbrudeʼn in mechelne ij f. grotʼ torn̄ Den cōuenten vanden austinen en̄ vanden witten brudeʼn daer el-</l>
+               <l facs="#facs_0464_29_09_1334-01_tr_1_tl_19">ken van hen vj dʼ gᵒtʼ torn̄ . Van desen testam̄te make ic en̄ ordenʼe mine executore heʼn Janne minen sone den priestʼ marsoeten</l>
+               <l facs="#facs_0464_29_09_1334-01_tr_1_tl_20">mijn wijf mʼsoeten van edenghem wilen noues wijf van edenghem en̄ margrieten harre dochtʼ jndʼ welkʼ hande jc sette en̄ op-</l>
+               <l facs="#facs_0464_29_09_1334-01_tr_1_tl_21">draghe alle mijn goed rurende en̄ onrurende dat ic laten sal na mijn lijf en̄ dat vʼbinde jc daertoe tenen pande . Voert</l>
+               <l facs="#facs_0464_29_09_1334-01_tr_1_tl_22">ordinʼe jc en̄ wille dat ware jeman van minen erfghenam̄ die dit testam̄t wedʼseide ofte breken woude in enen dele ofte in altema</l>
+               <l facs="#facs_0464_29_09_1334-01_tr_1_tl_23">le . dat hi die dat dade en gheen ghedeel noch recht en hebbe in enegherhande goed dat jc laten sal na mijn lijf . maer dat van sinen</l>
+               <l facs="#facs_0464_29_09_1334-01_tr_1_tl_24">ghedele heffe en̄ hebbe dene heleft de biscop van camʼke . en̄ dandʼ heleft de hʼtoghe van braband . en̄ dat si daer ōme mijn testa</l>
+               <l facs="#facs_0464_29_09_1334-01_tr_1_tl_25">ent selen doen voertgaen . En̄ jc bidde minen vorseiden executoren dat si dit testam̄t ghelden en̄ voldoen also ic hen betrouwe .</l>
+               <l facs="#facs_0464_29_09_1334-01_tr_1_tl_26">Voert biddic beschedenen lieden mijn hʼe mijn heʼn clause van wineghem riddʼ en̄ heʼn janne draken scepenen jn</l>
+               <l facs="#facs_0464_29_09_1334-01_tr_1_tl_27">Antwʼpen dat si hoer seghele hanghen willen ane dit testam̄t om de meerre sekʼheide . En̄ wi claus van wineghē</l>
+               <l facs="#facs_0464_29_09_1334-01_tr_1_tl_28">ridder en̄ jan drake scepenen vorseit om de bede en̄ tvʼlien jans strubols vorseit hebben onse seghele ane dit testa</l>
+               <l facs="#facs_0464_29_09_1334-01_tr_1_tl_29">ment ghehanghen jn kennessen der waerheit . Ghegheuen jnt jaer ons heʼn alsm̄ screef M . CCC . viere en̄ derttech in sen-</l>
+               <l facs="#facs_0464_29_09_1334-01_tr_1_tl_30">te mechiels daghe des archangels</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

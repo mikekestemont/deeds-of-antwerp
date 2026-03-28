@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="4078" lry="1449" xml:id="facs_0059_04_05_1347-01">
+         <graphic url="0059_04_05_1347-01.jpg" width="4078px" height="1449px"/>
+         <zone points="79,330 182,369 325,325 807,315 931,359 1059,325 1280,364 1320,325 1448,364 1664,320 3378,369 3525,330 3939,340 3939,271 3850,231 3653,281 3260,217 3063,271 2935,192 2787,202 2708,256 2541,217 2408,266 2068,256 1871,197 1763,246 1630,192 1507,251 1398,202 1300,246 1236,202 1000,241 591,192 394,256 79,207" rendition="Line" xml:id="facs_0059_04_05_1347-01_tr_1_tl_1" subtype="default"/>
+         <zone points="79,423 3722,438 3939,404 3939,340 3530,330 3422,364 2157,325 1728,355 1699,320 1457,359 1324,320 1285,359 1216,325 1123,359 1059,325 320,325 182,364 79,330" rendition="Line" xml:id="facs_0059_04_05_1347-01_tr_1_tl_2" subtype="default"/>
+         <zone points="79,537 315,492 3555,512 3949,478 3949,404 79,423" rendition="Line" xml:id="facs_0059_04_05_1347-01_tr_1_tl_3" subtype="default"/>
+         <zone points="79,586 1497,551 2413,586 2659,547 3988,576 3993,497 3934,473 3550,512 315,492 84,532" rendition="Line" xml:id="facs_0059_04_05_1347-01_tr_1_tl_4" subtype="default"/>
+         <zone points="94,689 364,640 724,670 1049,625 3983,640 3983,576 3663,551 3456,586 1787,547 98,591" rendition="Line" xml:id="facs_0059_04_05_1347-01_tr_1_tl_5" subtype="default"/>
+         <zone points="123,748 1320,689 3983,719 3983,635 3781,625 3284,660 1049,625 419,675 364,640 123,689" rendition="Line" xml:id="facs_0059_04_05_1347-01_tr_1_tl_6" subtype="default"/>
+         <zone points="98,807 1521,748 1635,783 2171,758 3998,812 3998,714 3845,704 3043,729 1320,684 98,748" rendition="Line" xml:id="facs_0059_04_05_1347-01_tr_1_tl_7" subtype="default"/>
+         <zone points="79,886 1078,832 1206,862 1310,822 1497,867 1615,827 2093,822 2669,837 2738,876 3146,847 4003,886 4003,812 3713,783 2900,798 1817,748 379,783 187,827 79,798" rendition="Line" xml:id="facs_0059_04_05_1347-01_tr_1_tl_8" subtype="default"/>
+         <zone points="94,990 369,975 433,931 867,960 980,911 1270,940 1935,896 3092,955 4033,940 4033,857 2944,872 2073,822 94,891" rendition="Line" xml:id="facs_0059_04_05_1347-01_tr_1_tl_9" subtype="default"/>
+         <zone points="103,1054 556,1004 1034,1024 2014,970 4062,1039 4062,950 4018,940 3087,955 1935,896 1123,940 980,911 891,955 581,926 103,985" rendition="Line" xml:id="facs_0059_04_05_1347-01_tr_1_tl_10" subtype="default"/>
+         <zone points="113,1157 355,1108 404,1142 862,1078 1029,1103 1201,1059 1457,1083 1891,1039 4052,1108 4052,1029 3993,1014 3343,1034 2048,970 1073,995 1019,1029 561,1009 113,1064" rendition="Line" xml:id="facs_0059_04_05_1347-01_tr_1_tl_11" subtype="default"/>
+         <zone points="113,1226 1974,1118 4047,1206 4047,1113 3988,1093 3747,1123 3614,1083 2994,1093 2457,1039 2418,1073 1201,1059 650,1123 527,1098 448,1137 359,1108 113,1162" rendition="Line" xml:id="facs_0059_04_05_1347-01_tr_1_tl_12" subtype="default"/>
+         <zone points="103,1324 428,1305 507,1260 694,1275 758,1236 1014,1265 1374,1206 1487,1246 1546,1196 1600,1226 1832,1192 2555,1236 2944,1201 3018,1265 3225,1226 3397,1275 3698,1256 3890,1315 4047,1300 4047,1206 3831,1172 3644,1196 2304,1113 1408,1162 1251,1132 1083,1177 832,1157 724,1206 103,1231" rendition="Line" xml:id="facs_0059_04_05_1347-01_tr_1_tl_13" subtype="default"/>
+         <zone points="98,1384 325,1364 384,1418 640,1423 812,1384 950,1423 1147,1354 1270,1398 1571,1315 1881,1334 2034,1428 2206,1448 2388,1359 2447,1403 2506,1369 2792,1433 2939,1364 3077,1448 3245,1403 3304,1448 1448,1448 3343,1448 3343,1241 3028,1256 2718,1206 2546,1236 2358,1196 1546,1196 98,1324" rendition="Line" xml:id="facs_0059_04_05_1347-01_tr_1_tl_14" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0059_04_05_1347-01" n="0059_04_05_1347-01" xml:id="img_0059_04_05_1347-01"/>
+            <ab>
+               <l facs="#facs_0059_04_05_1347-01_tr_1_tl_1">Wij Jan vanden mortʼe ende Jan bode Scepenen Jn antwʼpen maken cond dat vore ons quamen Ghisbrect taye sone ghisbrect tays van</l>
+               <l facs="#facs_0059_04_05_1347-01_tr_1_tl_2">brucelle dien hi hadde bi joncvrouwen katlinen drakuin̄e ende vranke de swaef die te wiue heeft Joncvrouwen marien suster des</l>
+               <l facs="#facs_0059_04_05_1347-01_tr_1_tl_3">vorghenomds ghisbrect tays des jonghers ende bekinden dat si wittelec vʼcocht hebben . willeme scatte den spechier Neghene bundʼe</l>
+               <l facs="#facs_0059_04_05_1347-01_tr_1_tl_4">lands luttel min ofte meer die gheleghen siin te beʼnscot die michiels kindeʼ van beʼnscot nv winnen ende diemen houdt van onsen</l>
+               <l facs="#facs_0059_04_05_1347-01_tr_1_tl_5">heʼ den h̄toghe van brabant en̄ daer toe ene clene hofstat die daer bi gheleghen es int heʼscap van kiele met allen dien dattʼ toe behoert</l>
+               <l facs="#facs_0059_04_05_1347-01_tr_1_tl_6">ende rechte dat si . ende de vorghenomde joncvrouwe marie daer ane houdende siin ōme ene sūme van pēninghen daer hen de vor-</l>
+               <l facs="#facs_0059_04_05_1347-01_tr_1_tl_7">ghenomde ghisbrect en̄ vranke af bekinten al vʼgouden jndat welke land de vorghenomde ghisbrect taye en̄ vᵃnke de swaef gheloeft</l>
+               <l facs="#facs_0059_04_05_1347-01_tr_1_tl_8">hebben tedoene ende te eruene metden vonnesse den seluēn willeme scatte also dat hem vast ende ghestade sal wesen . en̄ tewaerne dat</l>
+               <l facs="#facs_0059_04_05_1347-01_tr_1_tl_9">land Jaer ende dach jeghen alle deghene die te rechte comen willen . Oec soe gheloefden vore ons de vorghenomde ghisbrect en̄ vranke</l>
+               <l facs="#facs_0059_04_05_1347-01_tr_1_tl_10"> te vʼuane der vorghenomdʼ joncvrouwen marien dat si desen coep en̄ alle die dinghen die daer toe ghesciet en̄ ghedaen siin vast ende</l>
+               <l facs="#facs_0059_04_05_1347-01_tr_1_tl_11">ghestade sal houden en̄ dac si oec dat land vʼtien en̄ quite schelden sal tote des vorgh̄ willens stats behoef nimmʼmeer hore rechts</l>
+               <l facs="#facs_0059_04_05_1347-01_tr_1_tl_12">te vʼmetene daer ane bi hore ofte bi anders yemene van haren weghen . Oec soe scout quite met vʼtienne de vorghenomde ghis-</l>
+               <l facs="#facs_0059_04_05_1347-01_tr_1_tl_13">brech taye de vader de liftocht en̄ alle dat recht dat hi houdende was ane dat vorghenomde land Jn kennissen van desen lrēn beseghelt</l>
+               <l facs="#facs_0059_04_05_1347-01_tr_1_tl_14">met onsen seglen Ghegheuen int jaer ons hēn als mē screef M CCC seuene en̄ veertecht des vridaghs na meydach</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

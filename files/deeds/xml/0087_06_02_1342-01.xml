@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="2048" lry="1536" xml:id="facs_0087_06_02_1342-01">
+         <graphic url="0087_06_02_1342-01.jpg" width="2048px" height="1536px"/>
+         <zone points="481,448 1682,442 1682,382 1620,418 1271,379 1009,423 483,390" rendition="Line" xml:id="facs_0087_06_02_1342-01_tr_1_tl_3" subtype="default"/>
+         <zone points="475,496 1680,484 1680,442 1590,438 475,444" rendition="Line" xml:id="facs_0087_06_02_1342-01_tr_1_tl_4" subtype="default"/>
+         <zone points="481,507 1674,519 1673,487 1257,469 481,495" rendition="Line" xml:id="facs_0087_06_02_1342-01_tr_1_tl_5" subtype="default"/>
+         <zone points="487,549 1643,555 1619,513 487,508" rendition="Line" xml:id="facs_0087_06_02_1342-01_tr_1_tl_6" subtype="default"/>
+         <zone points="484,591 1637,583 1565,544 484,558" rendition="Line" xml:id="facs_0087_06_02_1342-01_tr_1_tl_7" subtype="default"/>
+         <zone points="475,611 1673,611 1442,573 475,592" rendition="Line" xml:id="facs_0087_06_02_1342-01_tr_1_tl_8" subtype="default"/>
+         <zone points="478,652 1676,667 1646,607 478,616" rendition="Line" xml:id="facs_0087_06_02_1342-01_tr_1_tl_9" subtype="default"/>
+         <zone points="484,685 1659,688 1659,646 484,656" rendition="Line" xml:id="facs_0087_06_02_1342-01_tr_1_tl_10" subtype="default"/>
+         <zone points="484,730 1649,718 1454,680 484,686" rendition="Line" xml:id="facs_0087_06_02_1342-01_tr_1_tl_11" subtype="default"/>
+         <zone points="481,751 715,773 823,748 871,772 920,748 983,773 1013,751 1066,772 1156,751 1156,728 1034,707 860,731 522,716 481,736" rendition="Line" xml:id="facs_0087_06_02_1342-01_tr_1_tl_12" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0087_06_02_1342-01" n="0087_06_02_1342-01" xml:id="img_0087_06_02_1342-01"/>
+            <ab>
+               <l facs="#facs_0087_06_02_1342-01_tr_1_tl_3">Wj jan Wilmʼ de Roede ende Willem de molnʼe scepenen in Antwʼpen maken Cont dat vore ons quā Jan bode onse mede scepene en̄</l>
+               <l facs="#facs_0087_06_02_1342-01_tr_1_tl_4">bekinde dat hi om̄e eene sūme van penin̄ghen die hen al es vʼgouden vʼcocht heeft wittelec . danckarde den loddʼe alselken cheins</l>
+               <l facs="#facs_0087_06_02_1342-01_tr_1_tl_5">ende jaerlecke Rente als hi hadde en̄ hen aen quā van sinē vordeʼn op een huis met sinē toe behoerchten ghestaen op den hoec vander</l>
+               <l facs="#facs_0087_06_02_1342-01_tr_1_tl_6">vischmarct en̄ gheheeten jacobs huis van den wʼfue . Dats te wetene seuenthiene pennīghe tsiaers ouder gᵒtʼ torn̄ twee</l>
+               <l facs="#facs_0087_06_02_1342-01_tr_1_tl_7">pennīghe enghelsche van enghelant en̄ twee mūten jaerlecker en̄ erfleckʼ Renten . aen welc huis met sinē toe behoerchten ende</l>
+               <l facs="#facs_0087_06_02_1342-01_tr_1_tl_8">erflecke Rente voergh̄ de voerseide jan bode bekinde dat hi en gheen Recht daer aene en behilt ende scoude Claerlec quite te danckʼes</l>
+               <l facs="#facs_0087_06_02_1342-01_tr_1_tl_9">behoef voerghenoempt also dat danckaerd voerseit ende sine nacomenlinghe dese voerseide jaerlecke Rente alle jaere erflec ende</l>
+               <l facs="#facs_0087_06_02_1342-01_tr_1_tl_10">emmʼmeer heffen ende ghebruken selen op den voerseiden pand en̄ daer mede moghen doen selen als met horen ꝓpeʼn goede sonder</l>
+               <l facs="#facs_0087_06_02_1342-01_tr_1_tl_11">yemans calengiʼen jn kennissen van desen lrēn beseghelt met onsen seghelen ghegheuen jnt jaer ons hēn alsm̄ screef M CCC</l>
+               <l facs="#facs_0087_06_02_1342-01_tr_1_tl_12">een en̄ viertich tswoensdaghes na onsʼ vᵒuwen dagh tʼ lijchtmissen</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

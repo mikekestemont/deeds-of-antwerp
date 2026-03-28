@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="2048" lry="1536" xml:id="facs_0316_20_09_1348-01">
+         <graphic url="0316_20_09_1348-01.jpg" width="2048px" height="1536px"/>
+         <zone points="224,329 1841,334 1856,241 1383,296 978,249 866,283 825,245 222,268" rendition="Line" xml:id="facs_0316_20_09_1348-01_tr_1_tl_6" subtype="default"/>
+         <zone points="215,355 1856,378 1854,331 1778,325 215,319" rendition="Line" xml:id="facs_0316_20_09_1348-01_tr_1_tl_7" subtype="default"/>
+         <zone points="215,395 1862,418 1862,367 213,355" rendition="Line" xml:id="facs_0316_20_09_1348-01_tr_1_tl_8" subtype="default"/>
+         <zone points="213,422 1873,437 1847,401 1507,388 213,388" rendition="Line" xml:id="facs_0316_20_09_1348-01_tr_1_tl_9" subtype="default"/>
+         <zone points="213,467 1431,450 1883,490 1883,426 213,424" rendition="Line" xml:id="facs_0316_20_09_1348-01_tr_1_tl_10" subtype="default"/>
+         <zone points="213,494 1900,507 1837,460 1476,450 213,464" rendition="Line" xml:id="facs_0316_20_09_1348-01_tr_1_tl_11" subtype="default"/>
+         <zone points="213,545 1883,536 1883,502 1567,488 213,496" rendition="Line" xml:id="facs_0316_20_09_1348-01_l" subtype="default"/>
+         <zone points="209,568 1864,585 1839,536 1558,524 209,545" rendition="Line" xml:id="facs_0316_20_09_1348-01_tr_1_tl_14" subtype="default"/>
+         <zone points="213,627 1873,623 1873,581 1689,564 213,568" rendition="Line" xml:id="facs_0316_20_09_1348-01_l_1" subtype="default"/>
+         <zone points="207,661 1883,648 1653,597 207,623" rendition="Line" xml:id="facs_0316_20_09_1348-01_tr_1_tl_17" subtype="default"/>
+         <zone points="203,705 1900,701 1900,644 1579,635 203,659" rendition="Line" xml:id="facs_0316_20_09_1348-01_l_2" subtype="default"/>
+         <zone points="207,752 1355,709 1858,743 1858,697 1645,676 207,703" rendition="Line" xml:id="facs_0316_20_09_1348-01_tr_1_tl_20" subtype="default"/>
+         <zone points="209,781 1864,756 1495,709 209,749" rendition="Line" xml:id="facs_0316_20_09_1348-01_l_3" subtype="default"/>
+         <zone points="209,832 1142,779 1871,806 1854,756 1324,743 209,787" rendition="Line" xml:id="facs_0316_20_09_1348-01_l_4" subtype="default"/>
+         <zone points="209,874 1151,819 1835,838 1795,794 1324,781 211,828" rendition="Line" xml:id="facs_0316_20_09_1348-01_l_5" subtype="default"/>
+         <zone points="207,921 1389,859 1668,870 1843,946 1875,817 207,880" rendition="Line" xml:id="facs_0316_20_09_1348-01_l_6" subtype="default"/>
+         <zone points="203,952 1130,990 1332,897 1567,969 1569,878 1064,861 203,918" rendition="Line" xml:id="facs_0316_20_09_1348-01_tr_1_tl_29" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0316_20_09_1348-01" n="0316_20_09_1348-01" xml:id="img_0316_20_09_1348-01"/>
+            <ab>
+               <l facs="#facs_0316_20_09_1348-01_tr_1_tl_6">Wi Jan bode en̄ Woutʼe vādē brueke . Scepenē in Antwʼpen makē cont dat vore ons quā willem wʼre . Ende bekende dat</l>
+               <l facs="#facs_0316_20_09_1348-01_tr_1_tl_7">hi om ene sūme ghelds die hem al es vʼgouden vʼcocht heeft wetteleke dē ministʼ en̄ den cōuēte vandʼ derdʼ ordenē sinte frā-</l>
+               <l facs="#facs_0316_20_09_1348-01_tr_1_tl_8">chiscus wonachtech in Antwʼpē viue guldene hellinghe van florenchen min een viereʼdeel van ene gulden hellinghe Erflekʼ renten</l>
+               <l facs="#facs_0316_20_09_1348-01_tr_1_tl_9">die machiel spithoen en̄ peter dapē sculdech waeren jaerlics den vorꞩ willeme vā achte ghemetē moers gheleghē op dē ghemenē</l>
+               <l facs="#facs_0316_20_09_1348-01_tr_1_tl_10">moer in lilloe moer . en̄ daer toe op drie ghemetē moers gheleghē in ene stede ghehetē de ribben . Daer af es een onderpand twee ghe-</l>
+               <l facs="#facs_0316_20_09_1348-01_tr_1_tl_11">metē lands gheleglē ane tvorꞩ . moer . Ende dʼ toe drie ghemetē lands gheleghen in lilloe tusschē heinrics land vā oerdrē en̄ bruedʼ</l>
+               <l facs="#facs_0316_20_09_1348-01_l">Jans land van winegheē bruedʼ vādʼ derdʼ ordenē sinte frāchiscus . Also dat dese vorꞩ pand en̄ ondʼpand gherecht pand siin vʼbōdē</l>
+               <l facs="#facs_0316_20_09_1348-01_tr_1_tl_14">te zamē ouʼ de vorꞩ erfleke rēte tegheldene en̄ tegheuene alle jare vanden vorꞩ machiele en̄ petre also si voer ons vʼliden en̄ van</l>
+               <l facs="#facs_0316_20_09_1348-01_l_1">harē nacomelinghē . Den vorꞩ muistʼ en̄ Cōuēte alle jare binnē den viere chinxsendaghē . Voert willecordē en̄ gheloefdē de vorꞩ</l>
+               <l facs="#facs_0316_20_09_1348-01_tr_1_tl_17">machiel en̄ peter dat waert dat sin ghebreke warē van gheldene dese vorꞩ rente also dat si die met en goudē binnē deseʼ viere</l>
+               <l facs="#facs_0316_20_09_1348-01_l_2">daghen dat si dan na de viere chinxendaghe gheuē souden en̄ elc voer al den vorꞩ . cōuēte elcs daeghs twee grote tornoyse alse vā</l>
+               <l facs="#facs_0316_20_09_1348-01_tr_1_tl_20">gherechtʼ scout tote dat si hieraf hoerachtʼstelle al haddē vʼgoudē sondʼ afslaen vandʼ pⁱncepaelre scout . Ende om alle dese</l>
+               <l facs="#facs_0316_20_09_1348-01_l_3">vorꞩ voerwaerdē te voldoene den vorꞩ cōuēte tallen daghen soe vʼbondē daer toe de vorꞩ machiel en̄ peter te pande Alle</l>
+               <l facs="#facs_0316_20_09_1348-01_l_4">dit vorꞩ moer en̄ land gheliic dat vore bescreuē en̄ benoemt es .. Jn kennessen van desen lrēn bezeghelt met onsē zeghelen</l>
+               <l facs="#facs_0316_20_09_1348-01_l_5">Ende ic Jan kiekē rentemeestʼ ons here tshʼtoghē vā brabāt jn lilloe kenne dat alle dese vorꞩ dinghen ghedaen sijn also vor</l>
+               <l facs="#facs_0316_20_09_1348-01_l_6">bescreuē es . En jn kennessen daer af hebbic minē zeghel daer mede ghehangē ane dese lrē om de meerre zekerheit. Gheghe-</l>
+               <l facs="#facs_0316_20_09_1348-01_tr_1_tl_29">uē jn jaer ons herē alsmē screef M . C . C . C . viertech en̄ achte des saterdaeghs na sente lambrechsdach</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

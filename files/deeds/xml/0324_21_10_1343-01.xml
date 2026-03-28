@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3507" lry="2480" xml:id="facs_0324_21_10_1343-01">
+         <graphic url="0324_21_10_1343-01.jpg" width="3507px" height="2480px"/>
+         <zone points="537,774 1077,739 1756,780 1851,823 1938,788 2847,829 2844,736 2795,774 2169,754 2041,716 1357,705 1294,658 1221,693 1167,653 1008,699 843,653 696,696 595,629 531,644" rendition="Line" xml:id="facs_0324_21_10_1343-01_tr_1_tl_1" subtype="default"/>
+         <zone points="566,834 1279,823 1421,860 1499,826 2001,904 2102,869 2853,892 2853,840 2220,846 1424,754 1357,794 1317,759 1106,788 904,745 563,774" rendition="Line" xml:id="facs_0324_21_10_1343-01_tr_1_tl_2" subtype="default"/>
+         <zone points="554,927 1276,892 1331,927 1617,912 2036,973 2290,947 2596,996 2836,950 2833,898 2786,892 1998,904 1276,823 1129,866 1054,823 552,852" rendition="Line" xml:id="facs_0324_21_10_1343-01_tr_1_tl_3" subtype="default"/>
+         <zone points="543,1005 811,970 976,999 1054,956 2275,1063 2859,1019 2856,950 2408,993 2293,950 2044,982 1230,892 1181,927 1014,892 641,944 540,915" rendition="Line" xml:id="facs_0324_21_10_1343-01_tr_1_tl_4" subtype="default"/>
+         <zone points="557,1091 1395,1037 2677,1115 2838,1100 2836,1025 2275,1063 1296,970 554,1005" rendition="Line" xml:id="facs_0324_21_10_1343-01_tr_1_tl_5" subtype="default"/>
+         <zone points="552,1141 681,1169 936,1164 1011,1120 1545,1123 2065,1190 2532,1172 2573,1207 2838,1172 2862,1117 2033,1120 1574,1091 1392,1034 1213,1080 549,1091" rendition="Line" xml:id="facs_0324_21_10_1343-01_tr_1_tl_6" subtype="default"/>
+         <zone points="549,1245 1493,1187 2102,1262 2656,1239 2752,1273 2856,1259 2856,1204 1357,1123 1198,1158 1117,1120 546,1187" rendition="Line" xml:id="facs_0324_21_10_1343-01_tr_1_tl_7" subtype="default"/>
+         <zone points="554,1363 1172,1273 1649,1308 1758,1279 1966,1343 2073,1308 2492,1325 2622,1366 2847,1325 2844,1268 2694,1253 1903,1262 1487,1193 1256,1230 1169,1195 907,1256 863,1227 719,1276 552,1245" rendition="Line" xml:id="facs_0324_21_10_1343-01_tr_1_tl_8" subtype="default"/>
+         <zone points="543,1395 733,1429 938,1374 1025,1415 1467,1351 1617,1406 1813,1380 2076,1438 2246,1386 2345,1429 2688,1409 2752,1450 2859,1418 2856,1328 2628,1369 2538,1331 1917,1343 1761,1288 1146,1331 1011,1285 936,1340 837,1305 540,1363" rendition="Line" xml:id="facs_0324_21_10_1343-01_tr_1_tl_9" subtype="default"/>
+         <zone points="560,1487 863,1502 936,1470 988,1510 1022,1478 1178,1487 1276,1450 1363,1496 1418,1476 1421,1377 1395,1369 1299,1372 1253,1409 1175,1372 1014,1421 936,1383 794,1426 563,1418" rendition="Line" xml:id="facs_0324_21_10_1343-01_tr_1_tl_10" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0324_21_10_1343-01" n="0324_21_10_1343-01" xml:id="img_0324_21_10_1343-01"/>
+            <ab>
+               <l facs="#facs_0324_21_10_1343-01_tr_1_tl_1">Wj jan Wilmaer en̄ willem lympiaes scepenē Jn Antwʼpen maken cont . dat vore ons quā Woutʼe</l>
+               <l facs="#facs_0324_21_10_1343-01_tr_1_tl_2">vanden brueke alse meestʼ en̄ berechtʼe vandʼ taflen des heileghs van onser vrouwē kʼke in ant-</l>
+               <l facs="#facs_0324_21_10_1343-01_tr_1_tl_3">wʼpen . en̄ bekende hem wel vʼgouden en̄ volcom̄lec gnoech ghedaen van meestʼ falcoene</l>
+               <l facs="#facs_0324_21_10_1343-01_tr_1_tl_4">den montemeestʼ van aldʼ huishuren die marke jacop vʼseten heeft indʼ vorseidʼ taflen</l>
+               <l facs="#facs_0324_21_10_1343-01_tr_1_tl_5">huis ghestaen inde hoghestᵃte . Dats tewetene van alle den tide dat de vorseide woutʼe be-</l>
+               <l facs="#facs_0324_21_10_1343-01_tr_1_tl_6">rechtʼe heeft gheweest vandʼ seluʼ taflen tote op sente mechiels dach die naest es leden vo-</l>
+               <l facs="#facs_0324_21_10_1343-01_tr_1_tl_7">re de date van dʼre letteʼn . also dat de vorseide woutre daeraf claerlike quite scout den vor-</l>
+               <l facs="#facs_0324_21_10_1343-01_tr_1_tl_8">seiden marke alse vandʼ vorseidʼ taflen weghen . Jn kennessen van desen letteʼn . beseghelt met</l>
+               <l facs="#facs_0324_21_10_1343-01_tr_1_tl_9">onsen zeghlen . Ghegheuen jnt jaer ons heʼn alsm̄ screef . M . CCC . viertech en̄ drie . opder</l>
+               <l facs="#facs_0324_21_10_1343-01_tr_1_tl_10">Ellef dusentach maeghden dach</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

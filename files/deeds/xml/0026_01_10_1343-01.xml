@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3317" lry="1745" xml:id="facs_0026_01_10_1343-01">
+         <graphic url="0026_01_10_1343-01.jpg" width="3317px" height="1745px"/>
+         <zone points="246,314 1036,408 1429,423 1576,382 1743,431 2260,374 2378,408 2858,352 2930,386 3122,333 3122,215 3009,208 2797,261 2684,231 2627,272 2378,215 1837,340 1576,284 1429,318 1297,242 1126,295 699,261 612,212 246,215" rendition="Line" xml:id="facs_0026_01_10_1343-01_tr_1_tl_1" subtype="default"/>
+         <zone points="234,359 476,408 813,404 869,446 1663,484 2510,423 3032,435 3032,355 2922,386 2854,344 1735,427 1576,382 1440,420 1096,408 234,310" rendition="Line" xml:id="facs_0026_01_10_1343-01_l" subtype="default"/>
+         <zone points="234,442 964,518 2884,488 3058,522 3054,412 3005,408 2911,454 2453,423 2079,469 1641,472 1580,435 1300,472 234,359" rendition="Line" xml:id="facs_0026_01_10_1343-01_l_1" subtype="default"/>
+         <zone points="231,499 1077,575 2797,544 2775,495 1281,518 231,461" rendition="Line" xml:id="facs_0026_01_10_1343-01_l_2" subtype="default"/>
+         <zone points="242,556 1225,627 3035,567 3035,529 2937,514 1194,563 242,491" rendition="Line" xml:id="facs_0026_01_10_1343-01_l_3" subtype="default"/>
+         <zone points="231,620 1285,680 1610,650 1697,684 3066,631 3066,563 1497,624 231,556" rendition="Line" xml:id="facs_0026_01_10_1343-01_l_4" subtype="default"/>
+         <zone points="212,699 790,684 1459,737 1588,699 1663,745 2310,707 2434,748 2752,684 3077,699 3081,624 1705,684 208,609" rendition="Line" xml:id="facs_0026_01_10_1343-01_l_5" subtype="default"/>
+         <zone points="208,745 1523,794 2166,760 2362,801 2672,748 3115,748 3115,696 2888,677 2491,733 208,699" rendition="Line" xml:id="facs_0026_01_10_1343-01_l_6" subtype="default"/>
+         <zone points="185,824 3122,835 3122,756 3005,745 2378,794 2155,760 911,775 601,733 185,771" rendition="Line" xml:id="facs_0026_01_10_1343-01_l_7" subtype="default"/>
+         <zone points="185,885 3134,885 3134,835 2722,813 185,824" rendition="Line" xml:id="facs_0026_01_10_1343-01_l_8" subtype="default"/>
+         <zone points="178,956 1070,919 1474,960 1588,919 3013,983 3187,956 3187,866 2888,907 2589,873 2514,907 1743,900 1576,854 1501,900 1221,869 556,900 344,862 178,892" rendition="Line" xml:id="facs_0026_01_10_1343-01_l_9" subtype="default"/>
+         <zone points="166,1009 990,990 1191,1024 1588,968 1758,1013 1867,979 2763,1047 3168,1028 3168,956 1886,956 1591,915 1474,956 1077,922 166,956" rendition="Line" xml:id="facs_0026_01_10_1343-01_l_10" subtype="default"/>
+         <zone points="200,1089 1017,1055 1232,1085 1580,1024 1705,1070 3149,1085 3149,1032 3032,1017 2763,1047 2608,1009 2219,1024 2155,987 1758,1013 1576,964 1380,1017 200,1017" rendition="Line" xml:id="facs_0026_01_10_1343-01_tr_1_tl_24" subtype="default"/>
+         <zone points="215,1149 843,1104 1470,1104 1588,1145 1667,1104 2586,1157 3217,1134 3217,1077 3175,1074 2313,1092 1584,1028 1467,1070 215,1074" rendition="Line" xml:id="facs_0026_01_10_1343-01_tr_1_tl_25" subtype="default"/>
+         <zone points="219,1191 476,1210 714,1160 1240,1198 1334,1160 1588,1202 1705,1164 2117,1176 2283,1217 3247,1198 3247,1134 3145,1123 2589,1157 1845,1104 1610,1138 850,1104 219,1142" rendition="Line" xml:id="facs_0026_01_10_1343-01_tr_1_tl_26" subtype="default"/>
+         <zone points="219,1266 3251,1278 3217,1191 2287,1217 1709,1164 1319,1206 714,1157 480,1206 219,1194" rendition="Line" xml:id="facs_0026_01_10_1343-01_tr_1_tl_27" subtype="default"/>
+         <zone points="208,1387 442,1319 847,1357 1005,1323 1058,1361 1160,1323 1565,1365 1610,1323 1652,1357 1984,1315 2234,1357 3247,1357 3247,1278 3054,1255 2771,1297 2056,1247 1614,1285 1232,1244 208,1266" rendition="Line" xml:id="facs_0026_01_10_1343-01_tr_1_tl_28" subtype="default"/>
+         <zone points="208,1448 873,1399 1077,1467 1274,1418 1440,1467 1746,1421 2068,1455 2143,1414 2294,1463 2468,1421 2582,1463 3213,1440 3179,1349 2986,1372 2895,1334 2816,1376 2574,1338 2211,1357 2079,1315 1799,1353 1606,1327 1565,1365 1470,1327 1160,1323 1058,1365 1005,1323 915,1357 699,1319 208,1361" rendition="Line" xml:id="facs_0026_01_10_1343-01_tr_1_tl_29" subtype="default"/>
+         <zone points="189,1508 888,1557 896,1402 775,1406 714,1444 620,1406 541,1448 484,1421 420,1459 374,1421 314,1463 249,1433 189,1463" rendition="Line" xml:id="facs_0026_01_10_1343-01_tr_1_tl_30" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0026_01_10_1343-01" n="0026_01_10_1343-01" xml:id="img_0026_01_10_1343-01"/>
+            <ab>
+               <l facs="#facs_0026_01_10_1343-01_tr_1_tl_1">Wj Jan bode en̄ peter van hoboken scepenē jn Antw'pen maken cont . dat vore ons qᵃm̄ her heinric schauaerd de priester</l>
+               <l facs="#facs_0026_01_10_1343-01_l">en̄ claus sijn sone in dene ꝑtie . En̄ Arnoud fʼraguit van scoten in dandr' ꝑtie . En̄ bekenden dat de selue hʼ heinric</l>
+               <l facs="#facs_0026_01_10_1343-01_l_1">en̄ claus . ghegheuē hebben . desen seluē arnoude tʼue en̄ jn erfleken rechte . hoer land gheleghen in scoten houdende</l>
+               <l facs="#facs_0026_01_10_1343-01_l_2">omtrēt drie bundeʼ . Min een vierdendeel bunders . gheleghen in drien stucken . dats tewetene . dine vierdendele</l>
+               <l facs="#facs_0026_01_10_1343-01_l_3">@@@ ane de noertside van dē heestʼ . viue vierdendele bunders ane de zuitside vandē seluē heestʼ. En̄ vierdhalue</l>
+               <l facs="#facs_0026_01_10_1343-01_l_4">vierdendele bundʼs gheleghen int bloc nestens der papen hof . tehebbene en̄ teghebruikene erfleke . den vor-</l>
+               <l facs="#facs_0026_01_10_1343-01_l_5">seiden arnoude en̄ sinē nacomelinghen Omme Elleue viertelen Rogs sjaers goed en̄ custbaer erflekʼ en̄ en-</l>
+               <l facs="#facs_0026_01_10_1343-01_l_6">welekʼ renten . tegheldene en̄ tegheuene alle jare van den seluē arnoude en̄ van sindʼ nacomelinghē . den vor-</l>
+               <l facs="#facs_0026_01_10_1343-01_l_7">seiden heren heinrike en̄ clause sinē sone en̄ horē nacomelīghen oft den hebbeʼ van derre letteʼn telken kerssauōde</l>
+               <l facs="#facs_0026_01_10_1343-01_l_8">en̄ in Antwʼpen telenne mettʼ antwʼpsch maten sondʼ dat shʼ heinrics en̄ claus vorseit en̄ des hebbers van derre</l>
+               <l facs="#facs_0026_01_10_1343-01_l_9">letteʼn . en̄ die ierste paye tedoene van kerssauonde nacht toe com̄de ouʼ een jaer . met desen vorwarden . dat de vorseide</l>
+               <l facs="#facs_0026_01_10_1343-01_l_10">arnoud en̄ sijn nacomelīghe selen altoes ghelden den cheins en̄ den cūmʼ die vten vorseiden lande gaen ofte gaen moghē</l>
+               <l facs="#facs_0026_01_10_1343-01_tr_1_tl_24">sondʼ cost en̄ scade shʼ heinrics en̄ claus sijns soens . en̄ des hebbers van dʼre letteʼn . Voert heeft de vorseide arnoud gheloeft</l>
+               <l facs="#facs_0026_01_10_1343-01_tr_1_tl_25">dat hi op dit vorseide @nd binnē viere jaren na kerssauond dat lesten leden es . een huis setten sal van sesse stilen goed</l>
+               <l facs="#facs_0026_01_10_1343-01_tr_1_tl_26">en̄ custbaer van twintech scellinghen groten ouden toroysen in betuessen des vorseids goeds . also dat dit selue huis</l>
+               <l facs="#facs_0026_01_10_1343-01_tr_1_tl_27">altoes ondʼpand sal sijn en̄ bliuen vʼbonden ouʼ de vorseide erfleke rente . En̄ ome dit huis wel en̄ loflec temakene ende</l>
+               <l facs="#facs_0026_01_10_1343-01_tr_1_tl_28">te setterne opt vorseide land ghelijc voerseit es . so vʼbant de vorseide arnoud te pande hem en̄ alle sijn goed . Jn kennesse</l>
+               <l facs="#facs_0026_01_10_1343-01_tr_1_tl_29">van desen lrēn . beseghelt met onsen zeghelen . Ghegheuen jnt jaer ons heʼn alsm̄ screef . M . CCC . viertech en̄ drie op sente</l>
+               <l facs="#facs_0026_01_10_1343-01_tr_1_tl_30">Remijs en̄ sente bauen dach .</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

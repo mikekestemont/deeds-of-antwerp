@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3300" lry="1020" xml:id="facs_0037_02_10_1347-01">
+         <graphic url="0037_02_10_1347-01.jpg" width="3300px" height="1020px"/>
+         <zone points="137,420 1434,343 3094,359 3094,286 2938,237 2793,278 2636,233 2548,286 2384,294 2289,248 2232,290 2022,240 1633,278 1228,225 946,294 858,259 687,332 610,282 439,320 252,240 141,271" rendition="Line" xml:id="facs_0037_02_10_1347-01_tr_1_tl_1" subtype="default"/>
+         <zone points="141,469 1293,408 3041,397 3041,340 1427,343 141,416" rendition="Line" xml:id="facs_0037_02_10_1347-01_tr_1_tl_2" subtype="default"/>
+         <zone points="149,523 2224,450 3018,481 3083,462 3086,397 149,458" rendition="Line" xml:id="facs_0037_02_10_1347-01_tr_1_tl_3" subtype="default"/>
+         <zone points="145,591 328,614 473,568 557,603 614,565 1270,526 1530,553 1724,511 1816,542 3170,526 3170,458 3086,450 2724,481 2236,450 561,504 145,561" rendition="Line" xml:id="facs_0037_02_10_1347-01_tr_1_tl_4" subtype="default"/>
+         <zone points="160,702 1385,584 3159,572 3159,530 3056,511 1789,515 164,614" rendition="Line" xml:id="facs_0037_02_10_1347-01_tr_1_tl_5" subtype="default"/>
+         <zone points="160,771 1183,660 3220,645 3205,538 3002,599 1373,584 164,706" rendition="Line" xml:id="facs_0037_02_10_1347-01_tr_1_tl_6" subtype="default"/>
+         <zone points="172,847 996,767 1072,721 1293,744 1694,694 1778,729 2796,706 2854,744 3151,706 3155,637 1286,656 175,767" rendition="Line" xml:id="facs_0037_02_10_1347-01_tr_1_tl_7" subtype="default"/>
+         <zone points="164,897 332,919 427,870 732,870 828,824 1740,763 2506,816 2598,774 2781,816 2835,771 3220,786 3224,721 1110,717 1000,763 244,813 164,858" rendition="Line" xml:id="facs_0037_02_10_1347-01_tr_1_tl_8" subtype="default"/>
+         <zone points="179,1003 1019,1019 538,1003 1019,1019 664,1007 958,889 1175,874 1396,942 1728,893 1858,965 1976,950 2049,885 2354,885 2358,778 2232,755 2125,790 1404,778 1312,816 1179,786 546,893 427,870 336,919 187,904" rendition="Line" xml:id="facs_0037_02_10_1347-01_tr_1_tl_9" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0037_02_10_1347-01" n="0037_02_10_1347-01" xml:id="img_0037_02_10_1347-01"/>
+            <ab>
+               <l facs="#facs_0037_02_10_1347-01_tr_1_tl_1">Wij Jan vanden mortʼe ende Woutʼe vanden broeke scepenē in Antwʼpen maken cond dat vore ons quame Jan brame</l>
+               <l facs="#facs_0037_02_10_1347-01_tr_1_tl_2">ane doene ꝑtie . ende Jan dieroel ane dandʼ ꝑtie ende bekinden onderlinghe dat de vorghenomde Jan brame gheghe</l>
+               <l facs="#facs_0037_02_10_1347-01_tr_1_tl_3">uen heeft terue ende in erflaken rechte te houdene en̄ te hebbene den seluen Janne dieroele ene hofstat die gheleghē</l>
+               <l facs="#facs_0037_02_10_1347-01_tr_1_tl_4">es in de keiserstrate naest margrietē van vorssele met allen dien datter toe behoerd siaers ōme dertienne pēnin-</l>
+               <l facs="#facs_0037_02_10_1347-01_tr_1_tl_5">ghe oudʼ grotʼ tornoise goed en̄ custbaer van mūten sconings van vᵃncrike jaerleckʼ ende erflakʼ rentē te gheldene</l>
+               <l facs="#facs_0037_02_10_1347-01_tr_1_tl_6">ende te gheuene alle jaers vanden vorgh̄ janne dierole en̄ van sinē nacomenlinghe den vorghenomden Janne brame</l>
+               <l facs="#facs_0037_02_10_1347-01_tr_1_tl_7">ende sinen nacomenlinghen deene heelft daer af te kerssauonde ende dandʼ heelft op sente Jans dach bap̄ten in</l>
+               <l facs="#facs_0037_02_10_1347-01_tr_1_tl_8">midden somʼe Jn kennissen van desen lrēn beseghelt met onsen seglen . Ghegheuen int jaer ons heʼn alsmen</l>
+               <l facs="#facs_0037_02_10_1347-01_tr_1_tl_9">screef M CCC seuene ende viertech des dinsendags na sente bauen dach</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

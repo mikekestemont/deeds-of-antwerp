@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3580" lry="1676" xml:id="facs_0283_18_08_1355-01">
+         <graphic url="0283_18_08_1355-01.jpg" width="3580px" height="1676px"/>
+         <zone points="40,316 149,268 756,347 1661,281 3490,294 3529,281 3534,149 3041,163 2949,202 2888,158 2830,198 2721,132 2589,167 2444,141 2268,193 2079,119 1802,229 1696,176 1538,220 1398,136 1253,220 989,176 752,251 413,167 132,220 44,176" rendition="Line" xml:id="facs_0283_18_08_1355-01_tr_1_tl_1" subtype="default"/>
+         <zone points="53,369 365,356 769,409 1134,360 1200,396 2575,356 2619,391 2769,352 3068,387 3336,347 3507,378 3507,281 3432,268 3134,303 2699,268 2303,316 2259,277 2149,312 1666,277 817,338 352,277 53,294" rendition="Line" xml:id="facs_0283_18_08_1355-01_tr_1_tl_2" subtype="default"/>
+         <zone points="57,439 264,466 396,431 686,483 1248,470 1297,435 1424,470 1556,435 1591,475 1736,431 1828,470 2114,431 2584,466 2835,426 3432,475 3512,435 3512,378 3248,352 3068,387 3006,352 2655,387 1130,369 888,409 57,365" rendition="Line" xml:id="facs_0283_18_08_1355-01_tr_1_tl_3" subtype="default"/>
+         <zone points="48,505 804,563 1182,514 2198,510 2281,549 2373,514 3503,519 3503,426 3437,470 2949,422 2896,461 2835,426 2589,466 1587,431 848,479 48,435" rendition="Line" xml:id="facs_0283_18_08_1355-01_tr_1_tl_4" subtype="default"/>
+         <zone points="48,607 3494,593 3494,523 3393,514 3287,545 3090,510 2536,541 1679,510 1644,545 1169,514 593,558 48,505" rendition="Line" xml:id="facs_0283_18_08_1355-01_tr_1_tl_5" subtype="default"/>
+         <zone points="48,681 589,716 659,686 721,721 1138,668 3472,677 3472,589 1318,589 927,637 48,607" rendition="Line" xml:id="facs_0283_18_08_1355-01_tr_1_tl_6" subtype="default"/>
+         <zone points="44,774 650,765 747,804 1116,760 1195,791 1283,747 1340,782 1736,774 1833,734 2180,774 2373,730 2448,774 2742,730 3068,774 3512,760 3512,677 3375,659 2312,690 2149,655 1929,694 1674,659 1446,699 1138,668 730,716 44,686" rendition="Line" xml:id="facs_0283_18_08_1355-01_tr_1_tl_7" subtype="default"/>
+         <zone points="35,870 233,835 360,870 738,839 782,875 993,835 1820,853 1863,817 2584,853 2791,813 2852,848 3191,822 3296,861 3336,822 3463,875 3538,857 3538,760 3397,782 3244,743 3164,778 2738,730 2448,774 2373,734 2176,774 2061,738 1982,774 1833,734 1754,774 1406,782 1283,747 1081,795 1006,760 734,795 35,752" rendition="Line" xml:id="facs_0283_18_08_1355-01_tr_1_tl_8" subtype="default"/>
+         <zone points="31,941 382,910 1358,949 1428,910 1674,936 1798,897 2022,936 2189,888 2439,936 2892,892 2962,941 3076,892 3556,958 3556,870 3336,822 3292,861 3239,826 2782,817 2580,853 1987,822 1925,857 1859,817 1820,853 1692,822 1538,861 1420,822 835,875 281,835 31,861" rendition="Line" xml:id="facs_0283_18_08_1355-01_tr_1_tl_9" subtype="default"/>
+         <zone points="35,1024 330,993 927,1037 1103,998 1244,1046 1538,993 1674,1046 1903,993 2167,1050 2400,984 2492,1033 2764,1006 2844,1046 2958,980 3186,1055 3454,1015 3547,1042 3547,949 3076,892 2962,936 2896,897 2505,901 2452,936 2184,888 2030,936 1428,901 1244,945 378,910 35,941" rendition="Line" xml:id="facs_0283_18_08_1355-01_tr_1_tl_10" subtype="default"/>
+         <zone points="22,1086 360,1090 400,1125 976,1090 976,1015 879,1006 444,1028 325,993 272,1028 224,1002 22,1024" rendition="Line" xml:id="facs_0283_18_08_1355-01_tr_1_tl_11" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0283_18_08_1355-01" n="0283_18_08_1355-01" xml:id="img_0283_18_08_1355-01"/>
+            <ab>
+               <l facs="#facs_0283_18_08_1355-01_tr_1_tl_1">Wij Woutʼe vander molen ende petʼ van hoboken gilijs zone scepenē Jn Antwʼpen maken cont dat vore ons quam . daneel van Rupelmonde</l>
+               <l facs="#facs_0283_18_08_1355-01_tr_1_tl_2">ende verlide dat hi ōme eene sōme ghelds daer hi hem af bekinde al vergouden wittelec vʼcocht heeft . lijsbetten keysers diemē heet</l>
+               <l facs="#facs_0283_18_08_1355-01_tr_1_tl_3">van arscot tote tsher Jans van arscots behoef hors zoens capellaen te sente willebords bi Antwʼpen . alle dat lant huisinghe met</l>
+               <l facs="#facs_0283_18_08_1355-01_tr_1_tl_4">den gronde houe bogarde met allen dat daer toe behoert . gheleghen binnen der vesten tusschen goesseins Rouwen lande . ende Jans molē</l>
+               <l facs="#facs_0283_18_08_1355-01_tr_1_tl_5">van wineghem met allen den rechte dat de vorghenomde daneel ane tvorghenomde lant huisinghe bogart hof gront ende ane alle de</l>
+               <l facs="#facs_0283_18_08_1355-01_tr_1_tl_6">daer toe behoert hadde en̄ houdende was . dwelke vorseide lant met allen sinen vorseiden toe behoerten . de vorghenomde daneel der</l>
+               <l facs="#facs_0283_18_08_1355-01_tr_1_tl_7">vorghenomdē lijsbetten tote des vorghes heʼn Jans hors zoens behoef op droech met vʼtiene ende quitē scout tsinen behoef ende bekinde</l>
+               <l facs="#facs_0283_18_08_1355-01_tr_1_tl_8">dat hi en gheen Recht daer ane en behilt . ende ghelouet oec te waerne los ende vrij van allen kōmʼe ende calaingē jaerende dach jeghen</l>
+               <l facs="#facs_0283_18_08_1355-01_tr_1_tl_9">alle die ghene die te Rechte comen willen vtghenomē . tween Royalen . sessen capoenē die daer tsiaers vte gaen tʼ stat Rechte also si ons</l>
+               <l facs="#facs_0283_18_08_1355-01_tr_1_tl_10">seiden Jn kennissen van desen rēn bezegl̄t met onsen seglen . Ghegheuē jnt jaer ons heʼn alsmen screef . M . CCC viue en̄ vijftech des an-</l>
+               <l facs="#facs_0283_18_08_1355-01_tr_1_tl_11">ders sdaghs na sente laureins dach</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

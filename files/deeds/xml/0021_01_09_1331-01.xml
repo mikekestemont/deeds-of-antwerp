@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3507" lry="2480" xml:id="facs_0021_01_09_1331-01">
+         <graphic url="0021_01_09_1331-01.jpg" width="3507px" height="2480px"/>
+         <zone points="308,769 627,825 1016,792 1422,841 1526,808 2156,870 2827,864 2792,721 2620,786 2500,753 2068,795 1542,708 1344,747 1260,672 1065,717 909,636 708,711 305,656" rendition="Line" xml:id="facs_0021_01_09_1331-01_tr_1_tl_1" subtype="default"/>
+         <zone points="315,857 1458,902 1571,870 1753,919 1805,880 1876,925 2172,906 2292,948 2565,906 2824,945 2821,864 2130,870 1016,792 623,825 312,773" rendition="Line" xml:id="facs_0021_01_09_1331-01_tr_1_tl_2" subtype="default"/>
+         <zone points="299,961 1003,932 1214,974 1350,938 1458,993 1568,961 1906,1003 2055,971 2136,1019 2370,974 2733,1013 2844,997 2844,935 1974,935 1227,860 295,870" rendition="Line" xml:id="facs_0021_01_09_1331-01_tr_1_tl_3" subtype="default"/>
+         <zone points="299,1036 678,1006 740,1045 893,997 1045,1042 1234,1000 1513,1055 1623,1016 1678,1055 2019,1039 2298,1087 2425,1052 2477,1091 2866,1078 2863,987 2130,1013 2055,971 1896,1006 688,925 607,964 299,961" rendition="Line" xml:id="facs_0021_01_09_1331-01_tr_1_tl_4" subtype="default"/>
+         <zone points="308,1130 1380,1065 1487,1117 1867,1094 2675,1156 2873,1133 2873,1084 2480,1091 2425,1052 2298,1087 1617,1023 1526,1052 1234,1000 1045,1042 815,1000 740,1045 578,1006 305,1052" rendition="Line" xml:id="facs_0021_01_09_1331-01_tr_1_tl_5" subtype="default"/>
+         <zone points="357,1195 1548,1152 1996,1211 2120,1175 2814,1221 2814,1162 2720,1120 2678,1156 2399,1156 1688,1091 1487,1117 1380,1068 357,1136" rendition="Line" xml:id="facs_0021_01_09_1331-01_tr_1_tl_6" subtype="default"/>
+         <zone points="305,1292 1039,1221 2866,1266 2863,1221 2675,1198 2574,1224 2107,1175 1993,1208 1665,1156 302,1198" rendition="Line" xml:id="facs_0021_01_09_1331-01_tr_1_tl_7" subtype="default"/>
+         <zone points="312,1334 1247,1282 1548,1328 2198,1315 2461,1357 2639,1321 2899,1360 2899,1286 2840,1256 2646,1289 2457,1243 2074,1276 1100,1221 312,1276" rendition="Line" xml:id="facs_0021_01_09_1331-01_tr_1_tl_8" subtype="default"/>
+         <zone points="321,1432 672,1367 961,1399 1133,1347 1276,1389 1581,1357 1805,1409 1983,1376 2870,1412 2866,1321 2805,1315 2435,1360 1321,1289 1149,1321 1081,1282 318,1334" rendition="Line" xml:id="facs_0021_01_09_1331-01_tr_1_tl_9" subtype="default"/>
+         <zone points="305,1506 1201,1428 1831,1484 2006,1445 2081,1490 2354,1497 2428,1451 2519,1490 2909,1454 2909,1406 2318,1425 2263,1376 2201,1425 1558,1360 1208,1386 1143,1347 961,1399 672,1370 594,1415 305,1425" rendition="Line" xml:id="facs_0021_01_09_1331-01_tr_1_tl_10" subtype="default"/>
+         <zone points="312,1565 432,1597 487,1548 594,1578 958,1516 1039,1552 1201,1503 1750,1561 2045,1529 2139,1574 2204,1532 2866,1535 2866,1464 2814,1448 2519,1487 2438,1454 2354,1500 1565,1441 1399,1477 1282,1428 312,1503" rendition="Line" xml:id="facs_0021_01_09_1331-01_tr_1_tl_11" subtype="default"/>
+         <zone points="295,1665 1269,1587 1977,1613 2032,1649 2237,1617 2282,1656 2899,1600 2899,1542 2837,1526 2139,1574 2048,1532 1750,1561 1204,1503 1049,1552 967,1516 594,1578 490,1548 435,1597 295,1561" rendition="Line" xml:id="facs_0021_01_09_1331-01_tr_1_tl_12" subtype="default"/>
+         <zone points="299,1730 902,1675 1139,1708 1185,1672 2078,1717 2766,1714 2824,1678 2896,1714 2896,1600 2279,1656 2165,1613 2032,1646 1756,1597 1646,1633 883,1597 295,1678" rendition="Line" xml:id="facs_0021_01_09_1331-01_tr_1_tl_13" subtype="default"/>
+         <zone points="308,1785 467,1769 575,1811 627,1766 818,1759 951,1792 1062,1746 1805,1792 1896,1750 2233,1811 2269,1776 2493,1756 2594,1792 2691,1756 2902,1805 2902,1717 2837,1688 2425,1730 1247,1669 308,1724" rendition="Line" xml:id="facs_0021_01_09_1331-01_tr_1_tl_14" subtype="default"/>
+         <zone points="295,1870 2750,1837 2750,1772 2701,1756 2227,1811 1893,1746 1617,1795 1065,1737 948,1792 295,1805" rendition="Line" xml:id="facs_0021_01_09_1331-01_tr_1_tl_15" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0021_01_09_1331-01" n="0021_01_09_1331-01" xml:id="img_0021_01_09_1331-01"/>
+            <ab>
+               <l facs="#facs_0021_01_09_1331-01_tr_1_tl_1">Wi willem noese en̄ claus van hoboken scepenen in Antwʼpen maken cond . dat vore ons qᵃmen arnoud</l>
+               <l facs="#facs_0021_01_09_1331-01_tr_1_tl_2">van houorst en̄ arnoud canteman in deen side . en̄ Gilijs vanden lare in dandʼ side . en̄ bekenden</l>
+               <l facs="#facs_0021_01_09_1331-01_tr_1_tl_3">dat de selue arnoud en̄ arnaud alse montboren dʼ firmerien in claepdorp en̄ vandʼ seluʼ firmeri</l>
+               <l facs="#facs_0021_01_09_1331-01_tr_1_tl_4">en weghen ghegheuen hebben . den vorseiden gilise tʼue en̄ in erfleken rechte een huis ghestaen in</l>
+               <l facs="#facs_0021_01_09_1331-01_tr_1_tl_5">craywijc biden holen vliere dat wilen was shʼ heinrics vandʼ borch des priestʼs met alle dien</l>
+               <l facs="#facs_0021_01_09_1331-01_tr_1_tl_6">rechte dat de firmerie vorseit houdende was ane den grond en̄ ane al dat daer te hoert ōme</l>
+               <l facs="#facs_0021_01_09_1331-01_tr_1_tl_7">achte oude gᵒte tornoyse sjaers van monten sconings van vᵃncrike jaerlijcs en̄ euwelijcs cheins</l>
+               <l facs="#facs_0021_01_09_1331-01_tr_1_tl_8">tegheldene en̄ tegheuene alle jare vanden vorseiden gilise en̄ van sinen nacomelinghen . der vor</l>
+               <l facs="#facs_0021_01_09_1331-01_tr_1_tl_9">seidʼ firmerien tekerssauonde oft de wʼde daer in goeden andren ghelde . voert es ondʼsproken .</l>
+               <l facs="#facs_0021_01_09_1331-01_tr_1_tl_10">dat de vorseide firmerie en sal maer heffen en̄ hebben vanden vorseiden cheinse viere grote tor</l>
+               <l facs="#facs_0021_01_09_1331-01_tr_1_tl_11">noyse sjaers binnen den tide dat alijt des vorseids gilijs wijf leeft . maer dat de selue firmerie na</l>
+               <l facs="#facs_0021_01_09_1331-01_tr_1_tl_12">der seluen alten liue heffen en̄ hebben sal de vorseide achte grote tornoyse siaers euweleke du</l>
+               <l facs="#facs_0021_01_09_1331-01_tr_1_tl_13">rende En̄ dat oec de vorseide gilijs en̄ sijn nacomelinghe dat vorseide huis altoes houden selen</l>
+               <l facs="#facs_0021_01_09_1331-01_tr_1_tl_14">wel in sinen ghereke sondʼ argheʼn Jn kennessen van desen letteʼn beseghelt met onsen seglen</l>
+               <l facs="#facs_0021_01_09_1331-01_tr_1_tl_15">Ghegheuen jnt jaer ons heʼn alsm̄ screef . M . CCC . een en̄ derttech in sente gilijs daghe</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

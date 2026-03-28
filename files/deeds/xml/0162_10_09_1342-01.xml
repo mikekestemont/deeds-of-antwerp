@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="2048" lry="1536" xml:id="facs_0162_10_09_1342-01">
+         <graphic url="0162_10_09_1342-01.jpg" width="2048px" height="1536px"/>
+         <zone points="259,502 1932,493 1932,444 259,436" rendition="Line" xml:id="facs_0162_10_09_1342-01_tr_1_tl_5" subtype="default"/>
+         <zone points="266,533 1936,529 1917,478 266,504" rendition="Line" xml:id="facs_0162_10_09_1342-01_tr_1_tl_6" subtype="default"/>
+         <zone points="261,567 1940,567 1940,529 1842,518 261,533" rendition="Line" xml:id="facs_0162_10_09_1342-01_tr_1_tl_7" subtype="default"/>
+         <zone points="287,618 1925,608 1925,561 1796,552 287,567" rendition="Line" xml:id="facs_0162_10_09_1342-01_tr_1_tl_8" subtype="default"/>
+         <zone points="261,648 1887,633 1755,595 261,618" rendition="Line" xml:id="facs_0162_10_09_1342-01_tr_1_tl_9" subtype="default"/>
+         <zone points="242,693 1823,688 1953,627 242,635" rendition="Line" xml:id="facs_0162_10_09_1342-01_tr_1_tl_10" subtype="default"/>
+         <zone points="253,733 1925,699 1851,667 253,693" rendition="Line" xml:id="facs_0162_10_09_1342-01_tr_1_tl_11" subtype="default"/>
+         <zone points="253,761 1951,754 1936,697 253,733" rendition="Line" xml:id="facs_0162_10_09_1342-01_tr_1_tl_12" subtype="default"/>
+         <zone points="244,805 1946,799 1946,752 1878,742 244,784" rendition="Line" xml:id="facs_0162_10_09_1342-01_tr_1_tl_13" subtype="default"/>
+         <zone points="261,854 1921,829 1921,797 1762,778 261,810" rendition="Line" xml:id="facs_0162_10_09_1342-01_tr_1_tl_14" subtype="default"/>
+         <zone points="246,892 1927,867 1923,831 1785,818 249,861" rendition="Line" xml:id="facs_0162_10_09_1342-01_tr_1_tl_15" subtype="default"/>
+         <zone points="251,931 1883,907 1883,856 253,895" rendition="Line" xml:id="facs_0162_10_09_1342-01_tr_1_tl_16" subtype="default"/>
+         <zone points="246,982 778,960 863,994 986,950 1111,997 1643,937 1902,1016 1904,903 1859,897 249,924" rendition="Line" xml:id="facs_0162_10_09_1342-01_tr_1_tl_17" subtype="default"/>
+         <zone points="244,1014 353,1031 434,1005 578,1035 686,1001 718,1022 797,1005 797,980 693,963 597,986 525,967 504,982 480,963 244,984" rendition="Line" xml:id="facs_0162_10_09_1342-01_tr_1_tl_18" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0162_10_09_1342-01" n="0162_10_09_1342-01" xml:id="img_0162_10_09_1342-01"/>
+            <ab>
+               <l facs="#facs_0162_10_09_1342-01_tr_1_tl_5">Wij Willem de molnʼe en̄ jan danijs scepenen in Antwʼpen maken cont dat vore ons quam jan bode onse mede scepene op</l>
+               <l facs="#facs_0162_10_09_1342-01_tr_1_tl_6">desen tijd en̄ bekinde . dat hi terfue gaf en̄ ghegheuen heeft janne sone willem . Eueraerds . sijn aengedeel en̄ Rechte</l>
+               <l facs="#facs_0162_10_09_1342-01_tr_1_tl_7">dat hi hebbende en̄ houdende es aene een huis . ende aen den gᵒnd met allen sinen toe behoerten voren achtʼ en̄ besiden</l>
+               <l facs="#facs_0162_10_09_1342-01_tr_1_tl_8">ghestaen aen die vischmaerct van antwʼpen tusschen willem euʼraerds in deene side en̄ eene huissinghe gheheeten de</l>
+               <l facs="#facs_0162_10_09_1342-01_tr_1_tl_9">draye in dandeʼ side also si seyden . den seluē Janne sinē oeʼn en̄ nacomenlinghen erflec eeuwelec en̄ emʼmeer te</l>
+               <l facs="#facs_0162_10_09_1342-01_tr_1_tl_10">hebbene to besittene en̄ te ghebrukene Ōme viue scellinghe tsiaers ouder gᵒetʼ tornoise van monten tsconings van vᵃcrike</l>
+               <l facs="#facs_0162_10_09_1342-01_tr_1_tl_11">of die wʼde daer af jaerleckʼ erfleckʼ ende eeuwelekʼ Renten te gheldene en̄ te gheuene alle jaʼe van den selue janne</l>
+               <l facs="#facs_0162_10_09_1342-01_tr_1_tl_12">sone willem euʼraerds . en̄ van sinē nacomenlinghē den seluen janne boden en̄ sinē nacomenlinghen . deene heelft</l>
+               <l facs="#facs_0162_10_09_1342-01_tr_1_tl_13">aliaers . te kerssauonde van midde wintʼe . En̄ dandeʼ heelft telken sente jans daghe baptēn van midden soemʼe mede</l>
+               <l facs="#facs_0162_10_09_1342-01_tr_1_tl_14">gheloefde de voerseide jan sone Willem euʼraerds . op hen en̄ op alle sijn goed . dat hi noch sine nacomenlinghe die</l>
+               <l facs="#facs_0162_10_09_1342-01_tr_1_tl_15">voerseide Recht van den voerseiden huise en̄ gᵒude nymmʼmeer op gheuen selen moghen noch quite wordden met</l>
+               <l facs="#facs_0162_10_09_1342-01_tr_1_tl_16">vʼwandelue of met vʼtierne in eynichgher manieʼn dan met dubblen cheinse jn kennissen van desen lrēn</l>
+               <l facs="#facs_0162_10_09_1342-01_tr_1_tl_17">beseghelt met Onsen seghelen ghegheuen jnt jaer ons heʼn alsm̄ screef M CCC twee en̄ viertech tsdinsendaghes</l>
+               <l facs="#facs_0162_10_09_1342-01_tr_1_tl_18">na onsʼ vᵒuwen dagh tʼ nativiteit</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

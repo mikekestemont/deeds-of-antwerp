@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="4025" lry="1260" xml:id="facs_0207_14_03_1346-01">
+         <graphic url="0207_14_03_1346-01.jpg" width="4025px" height="1260px"/>
+         <zone points="176,427 311,469 543,422 1234,473 1777,441 2455,473 2580,436 2960,483 3025,445 3290,445 3406,483 3499,441 3642,492 3814,459 3814,394 3707,334 3461,288 3104,385 2914,283 2584,334 2390,283 2037,385 1958,325 1856,380 1694,316 1568,367 1448,316 1332,353 1225,278 775,316 677,264 473,339 408,292 176,283" rendition="Line" xml:id="facs_0207_14_03_1346-01_tr_1_tl_1" subtype="default"/>
+         <zone points="158,524 329,566 371,529 654,524 858,599 937,543 993,585 1415,552 1592,603 1847,548 1986,599 2056,548 2181,599 2320,561 2501,608 2858,552 2984,594 3095,561 3234,603 3573,561 3856,589 3856,473 3615,487 3503,445 3452,483 3234,455 2886,496 2584,436 2455,478 2028,441 1104,473 529,408 316,469 158,436" rendition="Line" xml:id="facs_0207_14_03_1346-01_tr_1_tl_2" subtype="default"/>
+         <zone points="139,631 320,664 515,631 640,687 970,645 1090,687 1183,650 1244,701 1503,710 1712,640 1902,696 2139,696 2246,650 2547,705 3225,654 3299,696 3424,659 3684,701 3837,650 3837,599 3758,561 3216,608 2946,561 2705,599 2274,561 2158,599 2065,552 1991,599 1851,548 1592,603 1415,552 1174,594 1100,557 993,585 937,538 872,594 770,594 664,529 329,561 139,524" rendition="Line" xml:id="facs_0207_14_03_1346-01_tr_1_tl_3" subtype="default"/>
+         <zone points="144,752 705,738 905,756 960,803 1058,756 1438,789 2130,752 2172,793 2223,756 2390,789 2468,756 2575,798 2696,752 2807,812 2937,752 3276,798 3364,761 3508,812 3577,766 3828,770 3782,687 3610,710 3424,659 3332,696 3225,654 3072,696 2714,664 2510,705 2404,668 1902,691 1712,645 1503,710 1244,701 1137,645 1090,687 998,650 650,687 524,636 144,659" rendition="Line" xml:id="facs_0207_14_03_1346-01_tr_1_tl_4" subtype="default"/>
+         <zone points="125,854 817,849 965,905 1123,849 1489,900 1912,849 2056,905 2385,854 2812,900 2937,858 3847,877 3819,770 3508,812 3364,761 3276,798 2937,752 2807,812 2696,752 2571,803 2468,756 2390,793 2255,756 2172,793 2107,752 1531,756 1443,793 1072,752 960,803 886,752 770,784 557,738 339,784 125,752" rendition="Line" xml:id="facs_0207_14_03_1346-01_tr_1_tl_5" subtype="default"/>
+         <zone points="153,984 418,942 645,993 1053,951 1239,1012 1332,960 1875,951 1958,998 2246,960 2311,1002 2482,951 2571,988 2747,947 3086,988 3485,947 3661,1007 3703,965 3874,993 3874,896 3800,877 3332,896 3225,854 2816,900 2390,849 2065,905 1921,849 1573,900 1327,858 998,900 798,849 715,882 153,872" rendition="Line" xml:id="facs_0207_14_03_1346-01_tr_1_tl_6" subtype="default"/>
+         <zone points="162,1104 371,1109 622,1039 1141,1095 1234,1053 1448,1058 1545,1114 3095,1086 3137,1118 3373,1030 3512,1100 3559,1072 3870,1118 3870,988 3819,965 3656,1002 3485,947 3081,984 2742,951 2566,998 2478,951 2311,998 2213,960 2120,998 2069,960 1944,993 1888,947 1545,956 1271,1012 1044,951 691,1002 422,937 162,951" rendition="Line" xml:id="facs_0207_14_03_1346-01_tr_1_tl_7" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0207_14_03_1346-01" n="0207_14_03_1346-01" xml:id="img_0207_14_03_1346-01"/>
+            <ab>
+               <l facs="#facs_0207_14_03_1346-01_tr_1_tl_1">Wij Jan van dorne riddʼ en̄ willem noese Scepenen jn antwʼpen makeʼn cond . dat vore ons comē es</l>
+               <l facs="#facs_0207_14_03_1346-01_tr_1_tl_2">Jan vanden bossche ende bekinde dat hi wittelec vʼcocht heeft Janne bacelere . Ander half ghemet lands</l>
+               <l facs="#facs_0207_14_03_1346-01_tr_1_tl_3">luttel min ofte meer alsoet gheleghen es indes vorghenomds jans bacelers land dat hi cochte jeghen</l>
+               <l facs="#facs_0207_14_03_1346-01_tr_1_tl_4">petre valken te vriessendonc binnen Ekeʼn . ōme ene sūme van penninghen daer hem de vorghenomde</l>
+               <l facs="#facs_0207_14_03_1346-01_tr_1_tl_5">Jan af bekinde al vʼgouden . dat welke land de vorgh̄ Jan vanden bossche gheloefde tewaerne jaer en̄ dach</l>
+               <l facs="#facs_0207_14_03_1346-01_tr_1_tl_6">jegghen alle de ghene die te rechte comen willen . Jn kennissen van desen lrēn beseghelt met onsen seglen</l>
+               <l facs="#facs_0207_14_03_1346-01_tr_1_tl_7">Ghegheuen int jaer ons heʼn alsmen screef M CCC viue ende veertech des dinsendaghs na Reminisceʼ</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

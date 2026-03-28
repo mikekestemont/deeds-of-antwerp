@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3507" lry="2480" xml:id="facs_0069_05_01_1353-01">
+         <graphic url="0069_05_01_1353-01.jpg" width="3507px" height="2480px"/>
+         <zone points="637,862 1910,886 2673,849 2673,789 2482,779 1889,810 1821,765 1455,820 1215,776 972,763 867,807 637,773" rendition="Line" xml:id="facs_0069_05_01_1353-01_tr_1_tl_1" subtype="default"/>
+         <zone points="651,917 1761,893 2678,938 2665,846 651,867" rendition="Line" xml:id="facs_0069_05_01_1353-01_tr_1_tl_2" subtype="default"/>
+         <zone points="648,956 1150,990 1379,954 2670,967 2670,922 2602,893 2356,930 1756,893 1669,925 648,917" rendition="Line" xml:id="facs_0069_05_01_1353-01_l_1" subtype="default"/>
+         <zone points="637,1006 2639,1003 2602,946 637,961" rendition="Line" xml:id="facs_0069_05_01_1353-01_l_2" subtype="default"/>
+         <zone points="637,1048 2675,1048 2675,993 637,1001" rendition="Line" xml:id="facs_0069_05_01_1353-01_tr_1_tl_7" subtype="default"/>
+         <zone points="627,1097 2644,1131 2644,1050 627,1055" rendition="Line" xml:id="facs_0069_05_01_1353-01_tr_1_tl_8" subtype="default"/>
+         <zone points="640,1155 2631,1168 2631,1100 640,1113" rendition="Line" xml:id="facs_0069_05_01_1353-01_tr_1_tl_9" subtype="default"/>
+         <zone points="630,1210 2646,1220 2646,1176 2542,1150 1001,1173 630,1136" rendition="Line" xml:id="facs_0069_05_01_1353-01_tr_1_tl_10" subtype="default"/>
+         <zone points="624,1264 2660,1257 2628,1217 2370,1204 624,1210" rendition="Line" xml:id="facs_0069_05_01_1353-01_l_3" subtype="default"/>
+         <zone points="624,1288 2633,1311 2633,1254 624,1246" rendition="Line" xml:id="facs_0069_05_01_1353-01_tr_1_tl_13" subtype="default"/>
+         <zone points="622,1353 2660,1366 2660,1298 622,1285" rendition="Line" xml:id="facs_0069_05_01_1353-01_tr_1_tl_14" subtype="default"/>
+         <zone points="611,1390 2673,1411 2612,1356 611,1348" rendition="Line" xml:id="facs_0069_05_01_1353-01_tr_1_tl_15" subtype="default"/>
+         <zone points="624,1484 948,1481 1121,1531 2654,1520 2652,1447 2137,1479 624,1439" rendition="Line" xml:id="facs_0069_05_01_1353-01_l_4" subtype="default"/>
+         <zone points="635,1445 2145,1479 2675,1442 2675,1411 2484,1398 635,1385" rendition="Line" xml:id="facs_0069_05_01_1353-01_tr_1_tl_16" subtype="default"/>
+         <zone points="614,1547 1040,1536 1147,1575 1254,1544 1358,1581 2636,1552 2612,1497 2103,1531 614,1494" rendition="Line" xml:id="facs_0069_05_01_1353-01_tr_1_tl_19" subtype="default"/>
+         <zone points="590,1581 1481,1635 2678,1620 2678,1544 2307,1581 590,1554" rendition="Line" xml:id="facs_0069_05_01_1353-01_tr_1_tl_20" subtype="default"/>
+         <zone points="601,1646 2662,1667 2605,1604 1479,1635 601,1588" rendition="Line" xml:id="facs_0069_05_01_1353-01_l_5" subtype="default"/>
+         <zone points="585,1685 1270,1735 1450,1701 2654,1716 2654,1669 2592,1648 1902,1688 585,1641" rendition="Line" xml:id="facs_0069_05_01_1353-01_l_6" subtype="default"/>
+         <zone points="580,1743 1288,1753 1361,1792 1562,1761 1622,1800 2683,1787 2680,1716 2607,1703 1693,1735 580,1680" rendition="Line" xml:id="facs_0069_05_01_1353-01_l" subtype="default"/>
+         <zone points="590,1868 773,1881 857,1831 974,1826 1160,1863 1583,1844 1581,1761 1358,1792 1152,1743 585,1745" rendition="Line" xml:id="facs_0069_05_01_1353-01_tr_1_tl_30" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0069_05_01_1353-01" n="0069_05_01_1353-01" xml:id="img_0069_05_01_1353-01"/>
+            <ab>
+               <l facs="#facs_0069_05_01_1353-01_tr_1_tl_1">Wij Jan van dorne Riddeʼ . Ende wouter vander molen Scepenen in Antwerpen . maken cond dat voer ons quamen . Claus Wil-</l>
+               <l facs="#facs_0069_05_01_1353-01_tr_1_tl_2">maer gielijs wilmaers sone . Daniel volkard . ende Joncfrouwe yde peter scats dochter . met eenen montbore haer ghegheuen metten rechte</l>
+               <l facs="#facs_0069_05_01_1353-01_l_1">Ende bekenden . dat si sculdech sijn van gherecter scout . Den groten gasthuise van Antwerpen . ghestaen bider kerken van sente Jorijs</l>
+               <l facs="#facs_0069_05_01_1353-01_l_2">tiene ghuldenē hallinghe dan florencien . ende goet . ende custbaer . Jaerliker . ende erfeliker renten . ofte de werde daer af in goeden</l>
+               <l facs="#facs_0069_05_01_1353-01_tr_1_tl_7">andren ghelde te gheldene ende te gheuene . alle Jare . deene helft daer af . op Sente Jans dach baptiste in midden Somere . Ende dander</l>
+               <l facs="#facs_0069_05_01_1353-01_tr_1_tl_8">helft te kersauonde . den vorꞩ gasthuise . oft den hebbeʼ van deser lrēn . De welke rente . Claus . Daneel . ende joncfrouwē yde vorseit</l>
+               <l facs="#facs_0069_05_01_1353-01_tr_1_tl_9">bewijst hebben den vorꞩ gasthuise . te heffene op de sesse ghuldene hallinghe . die si hebben op een huis gheheeten de Oemer . ghe-</l>
+               <l facs="#facs_0069_05_01_1353-01_tr_1_tl_10">staen . aen de corenmaerct . ende daer nv in woent langhe willem . ende op viere ghuldene hallinghe die si hebben op de helft van</l>
+               <l facs="#facs_0069_05_01_1353-01_l_3">eenen huise dat gheheeten es de Wan . Ende op viere ghuldene hallinghe . die si houden op een huis ghestaen inde ziluersmitstrate</l>
+               <l facs="#facs_0069_05_01_1353-01_tr_1_tl_13">tusschen adaems backers huis ane deene zide . Ende Jacops baertmakers huis bide vischmaerct ane dandre . also si ons seiden</l>
+               <l facs="#facs_0069_05_01_1353-01_tr_1_tl_14">Also dat de vorseide renten . die si iaerlijcs hebben op de vorꞩ huisen . ghelijc dat vorꞩ es . ende alle dat recht . dat si Claus Da-</l>
+               <l facs="#facs_0069_05_01_1353-01_tr_1_tl_15">neel ende joncfrouwe yde vorgh̄ houden op de vorꞩ Renten ende huisen . gherect onderpant sijn . ende bliuen selen . voer de vorꞩ</l>
+               <l facs="#facs_0069_05_01_1353-01_l_4">sculderen . daer toe verbonden . hem seluen . ende al hoer goet dat si hebben . ende ghewinnen moghen . Voert eest vorwarde</l>
+               <l facs="#facs_0069_05_01_1353-01_tr_1_tl_16">tiene ghuldene hallinghe Jaerliker . ende erfeliker rentē . Ende waert dat hier an eenech ghebrech ware . soe hebben de vorꞩ</l>
+               <l facs="#facs_0069_05_01_1353-01_tr_1_tl_19">dat de vorꞩ sculdeʼn dese vorgh̄ renten . selen moghen bewisen . op eenen goeden andren pant . gheleghen op de twee milen</l>
+               <l facs="#facs_0069_05_01_1353-01_tr_1_tl_20">na Antwerpen binnen brabant . Ende binnen drien jaren naest volghende de date van deser lrēn daert den vorꞩ gasthuise</l>
+               <l facs="#facs_0069_05_01_1353-01_l_5">goet gnoech wesen sal hi goetdunkene . der meester partien der scepenen van Antwerpen . Ende so wanneer dat si dat vol-</l>
+               <l facs="#facs_0069_05_01_1353-01_l_6">daen hebben . ghelijc dat vorseit es . soe selen de vorꞩ sculdenʼ . ende hoer andre goede . los . ende vri sijn van desen vorghescre-</l>
+               <l facs="#facs_0069_05_01_1353-01_l">uenen gheloefden Jn kennissen van desen lrēn bezeghelt met onsen zeghelen . ghegheuen int Jaer ons heʼen alsmen screef . M .</l>
+               <l facs="#facs_0069_05_01_1353-01_tr_1_tl_30">. CCC . vijftech ende twee . op de vigelie van Dertien daghe .</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

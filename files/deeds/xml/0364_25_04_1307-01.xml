@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3507" lry="2480" xml:id="facs_0364_25_04_1307-01">
+         <graphic url="0364_25_04_1307-01.jpg" width="3507px" height="2480px"/>
+         <zone points="359,822 632,784 1022,825 1157,780 1640,818 1864,777 2061,829 2199,791 2520,808 2593,863 2859,815 2859,632 2807,628 2351,632 2272,684 1968,722 1764,639 1505,639 1419,715 1271,732 1084,659 884,711 701,649 466,715 359,684" rendition="Line" xml:id="facs_0364_25_04_1307-01_tr_1_tl_1" subtype="default"/>
+         <zone points="545,918 708,870 791,918 849,873 949,905 1233,870 1295,911 1409,877 1505,915 1806,856 1926,911 2096,891 2154,939 2196,901 2379,939 2417,898 2676,905 2755,960 2876,936 2872,839 2738,815 2589,863 2517,804 2410,846 1851,777 1654,818 1533,780 1464,818 1167,773 1070,829 894,787 829,829 639,777 545,798" rendition="Line" xml:id="facs_0364_25_04_1307-01_tr_1_tl_2" subtype="default"/>
+         <zone points="421,970 666,1008 766,956 908,987 1419,960 1464,994 1502,956 1685,1005 1847,963 2078,1012 2313,970 2821,1036 2817,939 2658,908 2417,894 2365,946 2116,891 1937,915 1809,860 1505,911 1239,873 421,911" rendition="Line" xml:id="facs_0364_25_04_1307-01_tr_1_tl_3" subtype="default"/>
+         <zone points="483,1077 801,1101 1170,1039 1253,1094 1429,1046 1474,1084 1781,1091 1913,1046 2051,1094 2120,1046 2227,1101 2534,1067 2800,1129 2769,1029 2330,981 2078,1012 1564,1001 1419,956 1115,987 766,956 670,1005 483,977" rendition="Line" xml:id="facs_0364_25_04_1307-01_l" subtype="default"/>
+         <zone points="432,1184 497,1143 594,1181 1039,1143 1426,1177 1498,1136 1567,1177 1719,1132 1875,1174 2127,1126 2251,1181 2317,1146 2821,1167 2821,1132 2593,1081 2227,1101 2113,1039 2054,1091 1913,1050 1536,1094 1429,1050 1253,1094 1167,1036 801,1101 432,1088" rendition="Line" xml:id="facs_0364_25_04_1307-01_l_1" subtype="default"/>
+         <zone points="504,1233 894,1222 960,1257 1005,1219 1115,1253 1222,1219 1371,1274 1460,1222 1712,1215 2092,1264 2324,1222 2396,1274 2486,1233 2624,1284 2855,1257 2821,1160 2593,1191 2386,1146 2248,1184 2134,1126 1871,1174 1764,1136 1561,1174 1502,1132 1419,1184 1250,1146 504,1160" rendition="Line" xml:id="facs_0364_25_04_1307-01_l_2" subtype="default"/>
+         <zone points="476,1308 801,1302 873,1340 1063,1302 1201,1360 1315,1305 1491,1353 1650,1308 1771,1346 2196,1315 2507,1353 2610,1315 2828,1353 2790,1250 2624,1284 2472,1233 2396,1274 2324,1222 2109,1267 1712,1219 1464,1222 1388,1271 1205,1219 1122,1257 891,1222 476,1260" rendition="Line" xml:id="facs_0364_25_04_1307-01_l_3" subtype="default"/>
+         <zone points="480,1419 639,1384 1163,1422 1312,1384 1433,1433 1474,1391 1664,1381 2807,1416 2807,1350 2434,1322 480,1319" rendition="Line" xml:id="facs_0364_25_04_1307-01_l_6" subtype="default"/>
+         <zone points="456,1488 718,1464 870,1516 946,1464 1115,1512 1195,1464 1350,1519 1633,1457 1688,1509 1940,1467 2096,1502 2182,1460 2268,1526 2503,1474 2655,1523 2838,1488 2838,1412 2496,1391 2382,1433 2330,1395 1871,1416 1640,1378 1436,1429 1312,1384 1188,1419 639,1381 456,1412" rendition="Line" xml:id="facs_0364_25_04_1307-01_l_5" subtype="default"/>
+         <zone points="466,1550 545,1595 1036,1564 1129,1605 1264,1564 1308,1602 1474,1547 1550,1585 1636,1557 1685,1605 1726,1574 1899,1602 2141,1543 2261,1585 2334,1554 2551,1592 2593,1550 2852,1592 2852,1488 2803,1478 2676,1523 2551,1474 2272,1523 2158,1460 2096,1502 1844,1467 1692,1505 1581,1464 1350,1519 1243,1467 1126,1516 466,1481" rendition="Line" xml:id="facs_0364_25_04_1307-01_tr_1_tl_19" subtype="default"/>
+         <zone points="463,1650 680,1692 863,1636 1170,1681 1429,1633 1933,1692 1985,1654 2382,1640 2700,1685 2841,1661 2845,1592 2141,1543 1902,1602 1799,1564 1685,1609 1636,1561 1478,1550 1384,1605 1264,1564 1136,1595 863,1561 594,1602 466,1554" rendition="Line" xml:id="facs_0364_25_04_1307-01_tr_1_tl_20" subtype="default"/>
+         <zone points="476,1781 777,1778 839,1716 1802,1761 2234,1726 2320,1781 2399,1771 2368,1640 2068,1654 2027,1695 1543,1681 1440,1636 1160,1685 1015,1640 694,1688 476,1657" rendition="Line" xml:id="facs_0364_25_04_1307-01_tr_1_tl_21" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0364_25_04_1307-01" n="0364_25_04_1307-01" xml:id="img_0364_25_04_1307-01"/>
+            <ab>
+               <l facs="#facs_0364_25_04_1307-01_tr_1_tl_1">Wi claus van winengheem en̄ arnoud nose . Scepenen in Andwerpen maken kond allen den ghenen</l>
+               <l facs="#facs_0364_25_04_1307-01_tr_1_tl_2">die dese lettre zullen zien ochte horen lesen . dat vore ons comen is in ꝓpre ꝑsone heinric vā scille</l>
+               <l facs="#facs_0364_25_04_1307-01_tr_1_tl_3">die men heet muile en̄ verliede vore ons dat hi ghegheuen heeft andriese vlaming teruen</l>
+               <l facs="#facs_0364_25_04_1307-01_l">ene hofstad ligghende op die dilf jeghen die zieric strate naest den steghere ten vleeschuse</l>
+               <l facs="#facs_0364_25_04_1307-01_l_1">waerd . om viue en̄ dartegh scellinghe sjaers . te gheldene en̄ te gheuene heinrike vore-</l>
+               <l facs="#facs_0364_25_04_1307-01_l_2">ghenoomd . ende zinen nacomelinghen . ochte den hebbere van deser lettre . van Andrese voreghe-</l>
+               <l facs="#facs_0364_25_04_1307-01_l_3">noomd . en̄ van zinen na comelinghen alle jare telken kersauonde in al sulken paijemente als</l>
+               <l facs="#facs_0364_25_04_1307-01_l_6">telken kersauonde in borsen sal gaen . Ende andries voreghenoomd ghelouede vore ons . dese vo-</l>
+               <l facs="#facs_0364_25_04_1307-01_l_5">reghenoomde hofstad te betimmerne zo dat heinric voreghenoomd zeker is van zinē cinse</l>
+               <l facs="#facs_0364_25_04_1307-01_tr_1_tl_19">voord belouede andries voreghenoomd die hofstad hachter te be@@@erne ghelijc zinen ghe-</l>
+               <l facs="#facs_0364_25_04_1307-01_tr_1_tl_20">buers . Jn orkonde van desen brieue beseghelt med onsen zeghelen . Dit was ghedaen int</l>
+               <l facs="#facs_0364_25_04_1307-01_tr_1_tl_21">jaer ons heʼn als men screef . M . CCC . en̄ zeuene . op sente maercs dagh</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="1883" lry="962" xml:id="facs_0350_24_04_1338-01">
+         <graphic url="0350_24_04_1338-01.jpg" width="1883px" height="962px"/>
+         <zone points="177,227 574,275 1711,241 1709,177 1513,217 1358,163 1188,237 969,177 879,227 738,191 580,223 479,171 311,201 177,140" rendition="Line" xml:id="facs_0350_24_04_1338-01_tr_1_tl_1" subtype="default"/>
+         <zone points="173,305 1238,327 1745,289 1745,231 1268,283 576,277 173,219" rendition="Line" xml:id="facs_0350_24_04_1338-01_tr_1_tl_2" subtype="default"/>
+         <zone points="160,357 1111,375 1717,329 1717,295 1587,291 1087,329 160,307" rendition="Line" xml:id="facs_0350_24_04_1338-01_tr_1_tl_3" subtype="default"/>
+         <zone points="160,423 1733,371 1689,333 1001,377 160,357" rendition="Line" xml:id="facs_0350_24_04_1338-01_tr_1_tl_4" subtype="default"/>
+         <zone points="160,455 1645,457 1749,439 1751,375 160,425" rendition="Line" xml:id="facs_0350_24_04_1338-01_tr_1_tl_5" subtype="default"/>
+         <zone points="169,514 1465,522 1778,498 1780,431 169,461" rendition="Line" xml:id="facs_0350_24_04_1338-01_tr_1_tl_6" subtype="default"/>
+         <zone points="156,570 1481,574 1699,564 1768,500 156,526" rendition="Line" xml:id="facs_0350_24_04_1338-01_tr_1_tl_7" subtype="default"/>
+         <zone points="156,644 1216,646 1252,610 1567,644 1749,602 1751,540 1459,576 156,572" rendition="Line" xml:id="facs_0350_24_04_1338-01_tr_1_tl_8" subtype="default"/>
+         <zone points="163,704 1055,678 1168,714 1254,674 1360,704 1766,670 1753,596 1563,648 1426,616 163,640" rendition="Line" xml:id="facs_0350_24_04_1338-01_tr_1_tl_9" subtype="default"/>
+         <zone points="171,774 209,758 237,770 249,758 273,768 287,756 299,762 345,756 385,772 385,702 361,692 351,698 267,688 235,710 229,704 205,716 187,706 171,710" rendition="Line" xml:id="facs_0350_24_04_1338-01_tr_1_tl_10" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0350_24_04_1338-01" n="0350_24_04_1338-01" xml:id="img_0350_24_04_1338-01"/>
+            <ab>
+               <l facs="#facs_0350_24_04_1338-01_tr_1_tl_1">Wj Woutre de liue en̄ Jan bode scepenē Jn Antwʼpen maken cond . dat vore ons qᵃmen Jan de buc . en̄ jan arnouds sone vandʼ</l>
+               <l facs="#facs_0350_24_04_1338-01_tr_1_tl_2">hofstad en̄ bekenden dat de selue jan de buc ghegheuen heeft den vorseiden jāne arnouds sonen tʼue en̄ in erfleken</l>
+               <l facs="#facs_0350_24_04_1338-01_tr_1_tl_3">rechte sijn goed gheleghen tewesele dat m̄ heet sgreuen wesele in lande in arde en̄ jn huisinghen om viue</l>
+               <l facs="#facs_0350_24_04_1338-01_tr_1_tl_4">scellinghe grotʼ oudʼ tornoyse sjaers van monten sconings van vᵃncrike oft de werde daeraf in goeden andren</l>
+               <l facs="#facs_0350_24_04_1338-01_tr_1_tl_5">ghelde erflekʼ renten tegheldene en̄ tegheuene alle jare vanden vorseiden laet en̄ van sinen nacomelinghen . den</l>
+               <l facs="#facs_0350_24_04_1338-01_tr_1_tl_6">vorseiden Janne den buc en̄ sinen nacomelinghen altoes te kerssauonde . Jn desen vorwarden dat de vorseide</l>
+               <l facs="#facs_0350_24_04_1338-01_tr_1_tl_7">laet en̄ sijn nacomelinghe selen altoes ghelden allen cheins en̄ kūmʼ die gaen ofte gaen moghen vten vor-</l>
+               <l facs="#facs_0350_24_04_1338-01_tr_1_tl_8">seiden goede sondʼ cost Jans bucs vorseit en̄ sier nacomelīghe . Jn kennessen van desen lrēn . beseghelt met</l>
+               <l facs="#facs_0350_24_04_1338-01_tr_1_tl_9">onsen zeghlen . Ghegheuen jnt jaer ons heʼn alsm̄ screef . M . CCC . achte en̄ derttech des vridaegs na beloke-</l>
+               <l facs="#facs_0350_24_04_1338-01_tr_1_tl_10">nen paesschen</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

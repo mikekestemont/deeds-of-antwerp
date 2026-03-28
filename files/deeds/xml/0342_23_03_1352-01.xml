@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="2048" lry="1536" xml:id="facs_0342_23_03_1352-01">
+         <graphic url="0342_23_03_1352-01.jpg" width="2048px" height="1536px"/>
+         <zone points="642,545 1880,557 1879,447 1508,510 642,476" rendition="Line" xml:id="facs_0342_23_03_1352-01_tr_1_tl_3" subtype="default"/>
+         <zone points="641,590 1814,594 1862,550 639,547" rendition="Line" xml:id="facs_0342_23_03_1352-01_tr_1_tl_4" subtype="default"/>
+         <zone points="642,614 1870,618 1848,582 642,588" rendition="Line" xml:id="facs_0342_23_03_1352-01_tr_1_tl_5" subtype="default"/>
+         <zone points="645,667 1877,654 1794,614 645,614" rendition="Line" xml:id="facs_0342_23_03_1352-01_tr_1_tl_6" subtype="default"/>
+         <zone points="642,693 1865,693 1834,648 642,664" rendition="Line" xml:id="facs_0342_23_03_1352-01_tr_1_tl_7" subtype="default"/>
+         <zone points="642,736 1850,728 1769,685 642,693" rendition="Line" xml:id="facs_0342_23_03_1352-01_tr_1_tl_8" subtype="default"/>
+         <zone points="642,785 1865,787 1865,732 1783,725 642,736" rendition="Line" xml:id="facs_0342_23_03_1352-01_tr_1_tl_9" subtype="default"/>
+         <zone points="645,829 1853,804 1805,765 645,785" rendition="Line" xml:id="facs_0342_23_03_1352-01_tr_1_tl_10" subtype="default"/>
+         <zone points="642,869 1876,845 1876,788 642,825" rendition="Line" xml:id="facs_0342_23_03_1352-01_tr_1_tl_11" subtype="default"/>
+         <zone points="642,901 1842,890 1823,838 642,869" rendition="Line" xml:id="facs_0342_23_03_1352-01_tr_1_tl_12" subtype="default"/>
+         <zone points="636,952 1568,921 1643,967 1828,924 1783,881 636,902" rendition="Line" xml:id="facs_0342_23_03_1352-01_tr_1_tl_13" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0342_23_03_1352-01" n="0342_23_03_1352-01" xml:id="img_0342_23_03_1352-01"/>
+            <ab>
+               <l facs="#facs_0342_23_03_1352-01_tr_1_tl_3">Wij Jan vanden mortʼe Ende laureins volkaerd . Scepenen Jn Antwʼpen maken cond . dat vore ons quamen Gielijs</l>
+               <l facs="#facs_0342_23_03_1352-01_tr_1_tl_4">de drayselʼe Ende lijsbeth siin wettelec wiif met eenen montbore ghegheuen hare metten Rechte bi orloue</l>
+               <l facs="#facs_0342_23_03_1352-01_tr_1_tl_5">ende consente des selfs gielijs haers mans . Ende bekenden willecoerden Consenteerden ende wouden . dat de</l>
+               <l facs="#facs_0342_23_03_1352-01_tr_1_tl_6">langhstleuende van hen tween hebbe ende behoude te sinen liue durende ende niet langhʼe hore huis ghestaen</l>
+               <l facs="#facs_0342_23_03_1352-01_tr_1_tl_7">neuen de mere porte binnen der binnenster vesten tusschen katelinen scatinnen huis in deen zide . ende Jans</l>
+               <l facs="#facs_0342_23_03_1352-01_tr_1_tl_8">hofstat van halen in dandeʼ zide met houe gronde ende met al dattʼ toe behoert alsoe dat de langhst</l>
+               <l facs="#facs_0342_23_03_1352-01_tr_1_tl_9">leuende van hen tween dies huis met allen sinen toe behoerten Rastelec onde paysiuelec ghebruken sal</l>
+               <l facs="#facs_0342_23_03_1352-01_tr_1_tl_10">sander calengieren ofte wederzegghen van yemene Ende dat na des langhstleuende liif dit selue huis</l>
+               <l facs="#facs_0342_23_03_1352-01_tr_1_tl_11">wedʼ keren ende bliuen sal met allen sinen toe behoerten . daert sculdech sal siin te keerne ende te bliuene</l>
+               <l facs="#facs_0342_23_03_1352-01_tr_1_tl_12">na den rechte vander stat . Jn kinnessen van desen lrēn . bezeghelt met onsen zeghelen . Ghegheuē jnt</l>
+               <l facs="#facs_0342_23_03_1352-01_tr_1_tl_13">Jaer ons hʼen alsmen screef . M . CCC . viiftech ende een des vriendaeghs na sente gheertruden dach</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

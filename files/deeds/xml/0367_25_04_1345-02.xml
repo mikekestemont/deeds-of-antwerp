@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3300" lry="1041" xml:id="facs_0367_25_04_1345-02">
+         <graphic url="0367_25_04_1345-02.jpg" width="3300px" height="1041px"/>
+         <zone points="78,300 1315,386 3203,265 3203,203 2949,207 2832,152 2731,215 2637,160 1779,293 1443,218 1159,289 741,289 577,191 425,261 78,117" rendition="Line" xml:id="facs_0367_25_04_1345-02_tr_1_tl_1" subtype="default"/>
+         <zone points="117,378 1221,456 2926,324 3098,347 3219,328 3222,269 1315,382 117,300" rendition="Line" xml:id="facs_0367_25_04_1345-02_tr_1_tl_2" subtype="default"/>
+         <zone points="101,456 1358,515 3023,378 3230,406 3234,320 3148,316 1498,445 749,441 632,398 105,371" rendition="Line" xml:id="facs_0367_25_04_1345-02_tr_1_tl_3" subtype="default"/>
+         <zone points="117,534 1588,566 3203,425 3203,390 3023,378 1229,519 121,456" rendition="Line" xml:id="facs_0367_25_04_1345-02_tr_1_tl_4" subtype="default"/>
+         <zone points="121,585 1151,655 1229,616 1479,640 1525,605 1896,612 2235,546 2840,550 3250,492 3250,429 3090,425 3051,460 1205,581 121,538" rendition="Line" xml:id="facs_0367_25_04_1345-02_tr_1_tl_5" subtype="default"/>
+         <zone points="133,659 671,714 1155,683 1217,730 1373,679 1428,726 1900,632 2235,652 2770,577 3250,570 3250,492 3164,488 3113,523 3039,495 2423,570 2111,558 2005,601 1525,605 1381,652 137,597" rendition="Line" xml:id="facs_0367_25_04_1345-02_tr_1_tl_6" subtype="default"/>
+         <zone points="129,749 355,730 499,780 679,741 815,780 944,745 1151,784 3258,616 3258,566 3172,550 1205,714 133,659" rendition="Line" xml:id="facs_0367_25_04_1345-02_tr_1_tl_7" subtype="default"/>
+         <zone points="129,796 1284,850 1572,792 1681,819 2349,730 3027,710 3258,679 3261,616 1155,784 129,749" rendition="Line" xml:id="facs_0367_25_04_1345-02_tr_1_tl_8" subtype="default"/>
+         <zone points="117,878 1003,925 1713,847 2044,870 2153,823 2692,808 2957,745 3113,819 3183,788 3242,819 3250,671 1284,850 121,796" rendition="Line" xml:id="facs_0367_25_04_1345-02_tr_1_tl_9" subtype="default"/>
+         <zone points="98,979 601,948 784,1010 1182,995 1362,1038 1670,921 1791,979 1935,917 2103,956 2622,913 2750,862 2922,901 3059,850 3062,753 3023,745 2271,847 2165,823 2036,870 1720,847 1007,925 105,870" rendition="Line" xml:id="facs_0367_25_04_1345-02_tr_1_tl_10" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0367_25_04_1345-02" n="0367_25_04_1345-02" xml:id="img_0367_25_04_1345-02"/>
+            <ab>
+               <l facs="#facs_0367_25_04_1345-02_tr_1_tl_1">WJ Jan vanden mortʼe ende Woutʼe vanden broeke . Scepenē in Antwʼpen maken Cont dat vore ons qᵃm willem Euerard . Ende</l>
+               <l facs="#facs_0367_25_04_1345-02_tr_1_tl_2">bekende dat hi om ennd sūme ghelds die hem wel vʼgouden es vʼcocht heeft wetteleke Janne Symare . sone wilen Claus Symars</l>
+               <l facs="#facs_0367_25_04_1345-02_tr_1_tl_3">die viue scellinghe ouder grotʼ torn̄ siaers erfleke . Die hi hadde ende teheffene plach van enen huise ghestaen bidʼ vischmʼct tus-</l>
+               <l facs="#facs_0367_25_04_1345-02_tr_1_tl_4">schen iacobs huise van den wʼue des baerdmakʼs . e en̄ Jan Euerards huis daer wilen lan steckein woende . Met alle den</l>
+               <l facs="#facs_0367_25_04_1345-02_tr_1_tl_5">rechte dat hi willem daer ane en̄ ane den grond houdende was ghelijc dat he willem die vormaels ghecreech ieghē Claus</l>
+               <l facs="#facs_0367_25_04_1345-02_tr_1_tl_6">couken also de lrēn spreken die tier tijt dʼ op ghemaect wordden . De welke lrēn de vorꞩ willem ouer ghegheuē heeft</l>
+               <l facs="#facs_0367_25_04_1345-02_tr_1_tl_7">de vorhseiden Janne symare . De welke erfleke rente de vorꞩ willem claerlike quite scoudt Ende bekende dat hi en gheen</l>
+               <l facs="#facs_0367_25_04_1345-02_tr_1_tl_8">recht dʼ ane en̄ behilt . Oec gheloefde de selue willem . dese vorseide erfleke rentē te waerne den vorꞩ Janne symare iaer</l>
+               <l facs="#facs_0367_25_04_1345-02_tr_1_tl_9">ende dach quite ende los van allen cōmere ende calaengen . Jn kēnessen van desen lettren bezeghelt met onsen zeghelen</l>
+               <l facs="#facs_0367_25_04_1345-02_tr_1_tl_10">ghegheuē int iaer ons heʼn alsm̄ scef . M . CCC . viertech ende viue op sente Marcs dach des Ewangelisten</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

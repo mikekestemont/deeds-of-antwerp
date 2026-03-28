@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3507" lry="2480" xml:id="facs_0355_24_08_1303-01">
+         <graphic url="0355_24_08_1303-01.jpg" width="3507px" height="2480px"/>
+         <zone points="342,589 801,547 1409,573 1637,531 1816,563 1875,527 2021,589 2187,550 2519,566 2669,618 2851,596 2851,449 2506,472 2418,433 2334,488 2119,430 1872,469 1624,430 1540,469 1247,430 1012,462 840,400 492,452 342,410" rendition="Line" xml:id="facs_0355_24_08_1303-01_tr_1_tl_5" subtype="default"/>
+         <zone points="355,658 602,684 1113,605 1243,658 1517,612 1582,661 1842,615 1950,664 2122,625 2396,687 2474,651 2536,687 2627,648 2783,671 2783,599 2392,592 2301,553 2246,583 2184,547 2093,592 1641,531 1403,576 1295,540 954,586 882,547 544,599 355,579" rendition="Line" xml:id="facs_0355_24_08_1303-01_tr_1_tl_6" subtype="default"/>
+         <zone points="339,742 599,778 729,700 843,768 1068,697 1354,723 1553,680 1807,742 1917,700 1956,736 2324,713 2506,755 2607,710 2763,752 2763,661 2396,687 2116,625 1582,658 1501,612 1247,658 1107,602 726,677 339,661" rendition="Line" xml:id="facs_0355_24_08_1303-01_tr_1_tl_7" subtype="default"/>
+         <zone points="342,817 810,843 866,801 1156,820 1224,775 1754,824 1865,778 2900,814 2900,745 2715,758 2614,713 2503,755 2324,710 1979,736 1917,703 1807,742 1745,700 1491,687 1217,729 1175,700 1116,745 918,723 850,762 729,706 602,771 342,739" rendition="Line" xml:id="facs_0355_24_08_1303-01_tr_1_tl_8" subtype="default"/>
+         <zone points="345,902 505,944 719,895 814,928 889,876 937,911 1133,856 1383,915 1758,859 1986,859 2096,905 2288,866 2493,915 2620,872 2884,895 2884,804 2741,827 2695,791 2529,827 2262,784 2168,824 2028,778 1725,820 1227,775 1169,817 869,801 739,846 345,817" rendition="Line" xml:id="facs_0355_24_08_1303-01_tr_1_tl_9" subtype="default"/>
+         <zone points="348,1019 501,980 840,1009 928,960 993,1006 1396,963 1530,999 1686,963 1732,996 1810,960 2005,983 2064,947 2168,983 2233,944 2672,993 2900,970 2890,892 2389,908 2288,866 2096,905 1986,856 1383,911 1055,866 505,941 348,911" rendition="Line" xml:id="facs_0355_24_08_1303-01_tr_1_tl_10" subtype="default"/>
+         <zone points="348,1081 452,1123 934,1038 1090,1087 1234,1042 1432,1081 1540,1038 1907,1068 2028,1025 2210,1071 2350,1032 2646,1071 2708,1029 2900,1038 2900,976 2819,960 2663,996 2575,954 2331,980 2233,944 2168,983 2096,934 1946,990 1387,967 1035,1009 924,963 804,1009 498,980 348,1022" rendition="Line" xml:id="facs_0355_24_08_1303-01_tr_1_tl_11" subtype="default"/>
+         <zone points="352,1195 651,1146 749,1178 937,1123 1087,1165 1569,1113 2194,1159 2327,1110 2526,1149 2581,1116 2871,1133 2871,1045 2708,1025 2650,1068 2344,1032 2204,1077 2119,1032 1960,1081 1800,1042 1432,1077 1201,1042 1097,1087 924,1035 449,1123 352,1081" rendition="Line" xml:id="facs_0355_24_08_1303-01_tr_1_tl_12" subtype="default"/>
+         <zone points="329,1250 641,1289 892,1227 1103,1269 1175,1227 1585,1250 1826,1195 2246,1247 2308,1211 2412,1243 2868,1208 2868,1133 2591,1116 2510,1156 2334,1110 2262,1159 1881,1113 1823,1156 1754,1116 1159,1129 1097,1165 947,1116 749,1178 651,1146 332,1195" rendition="Line" xml:id="facs_0355_24_08_1303-01_l" subtype="default"/>
+         <zone points="326,1344 1240,1351 1601,1289 2161,1315 2213,1273 2903,1338 2903,1221 2409,1243 2314,1211 2249,1247 2142,1211 1950,1237 1836,1191 1585,1250 1322,1224 1237,1273 889,1230 641,1289 329,1247" rendition="Line" xml:id="facs_0355_24_08_1303-01_tr_1_tl_15" subtype="default"/>
+         <zone points="332,1448 1322,1393 1367,1429 1514,1383 1761,1419 2012,1361 2409,1400 2650,1370 2842,1413 2845,1318 2659,1338 2213,1273 2161,1315 1891,1292 1767,1341 1598,1289 1234,1354 332,1344" rendition="Line" xml:id="facs_0355_24_08_1303-01_l_1" subtype="default"/>
+         <zone points="339,1520 667,1540 729,1494 950,1481 1224,1517 1302,1475 1504,1507 1660,1452 2005,1497 2213,1439 2760,1471 2819,1403 2008,1364 1758,1419 1510,1383 1370,1429 1322,1393 339,1448" rendition="Line" xml:id="facs_0355_24_08_1303-01_tr_1_tl_18" subtype="default"/>
+         <zone points="312,1588 570,1618 934,1585 1016,1621 1243,1572 1409,1614 1497,1562 1986,1572 2067,1530 2236,1569 2412,1520 2506,1566 2633,1530 2877,1559 2848,1442 2448,1481 2340,1439 2220,1478 2080,1452 2005,1494 1670,1452 1504,1510 1302,1475 1224,1517 986,1484 732,1494 644,1540 316,1530" rendition="Line" xml:id="facs_0355_24_08_1303-01_tr_1_tl_19" subtype="default"/>
+         <zone points="319,1709 573,1715 648,1676 833,1725 1071,1660 1279,1706 1331,1667 1588,1689 1771,1634 1976,1657 2331,1608 2793,1637 2816,1549 2633,1530 2506,1569 2415,1520 2236,1572 2044,1527 1986,1572 1868,1540 1588,1592 1501,1559 1409,1614 1247,1572 1019,1621 527,1585 322,1637" rendition="Line" xml:id="facs_0355_24_08_1303-01_l_2" subtype="default"/>
+         <zone points="322,1780 898,1758 1019,1790 1221,1751 1514,1803 1699,1738 1868,1777 1986,1706 2057,1745 2119,1709 2210,1741 2285,1702 2643,1741 2796,1712 2796,1644 2601,1601 1976,1654 1784,1621 1488,1712 1100,1663 960,1663 830,1725 658,1676 573,1715 322,1699" rendition="Line" xml:id="facs_0355_24_08_1303-01_l_3" subtype="default"/>
+         <zone points="293,1894 404,1846 794,1846 840,1885 1393,1829 1507,1894 1614,1836 1787,1865 1894,1813 1969,1852 2165,1797 2246,1833 2887,1794 2887,1712 2594,1738 2327,1702 2060,1745 1982,1706 1878,1777 1595,1748 1514,1800 1383,1751 1318,1787 1227,1754 1110,1790 296,1784" rendition="Line" xml:id="facs_0355_24_08_1303-01_tr_1_tl_24" subtype="default"/>
+         <zone points="290,1953 1084,1982 1517,1924 1725,2005 2907,1979 2910,1780 2106,1813 1969,1855 1894,1810 1787,1862 1618,1836 1546,1878 397,1846 290,1891" rendition="Line" xml:id="facs_0355_24_08_1303-01_l_4" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0355_24_08_1303-01" n="0355_24_08_1303-01" xml:id="img_0355_24_08_1303-01"/>
+            <ab>
+               <l facs="#facs_0355_24_08_1303-01_tr_1_tl_5">Wi andries tuclant ende reinere bode scepenen van antwʼpen maken cont alden ghenen die dese letre</l>
+               <l facs="#facs_0355_24_08_1303-01_tr_1_tl_6">selen sien ende horen lesen dat vore ons quā willem . die men hiet den caestickʼe portʼe van antwʼpen</l>
+               <l facs="#facs_0355_24_08_1303-01_tr_1_tl_7">ende gaf enen die men hiet claes voerd ende van wineghem ende aliten sinen wiue . een stic</l>
+               <l facs="#facs_0355_24_08_1303-01_tr_1_tl_8">lans ten erfleken tseinse . dat houd drie vierdediel . van enen boenre ende . viertech roeden</l>
+               <l facs="#facs_0355_24_08_1303-01_tr_1_tl_9">welc lant dat gheleghen es te wineghem ant tguet dat m̄ hiet volkaers guet . ane die</l>
+               <l facs="#facs_0355_24_08_1303-01_tr_1_tl_10">strate . Om dertech scellinghe ende enen capoen ende ene hinne . Elcs jaers te kersauonde</l>
+               <l facs="#facs_0355_24_08_1303-01_tr_1_tl_11">te gheldene met alselken paymente alse dat in borse gaet . behoudelec willeme . dat hi vore</l>
+               <l facs="#facs_0355_24_08_1303-01_tr_1_tl_12">@@@@@@@ en̄ wech hebben sal ouer dat dlant dat vore ghenoemt es tote den lande</l>
+               <l facs="#facs_0355_24_08_1303-01_l">dat si ligghende hebbende daer bi alse dit @@ ouʼ dien wech varen ende gaen al horen</l>
+               <l facs="#facs_0355_24_08_1303-01_tr_1_tl_15">lande @@@er ende behoefte . te done aloe alse al den lande behoert tallen tiden . ende tallen sayson̄e</l>
+               <l facs="#facs_0355_24_08_1303-01_l_1">voert willekoerde . claes ende wijf die vore ghenoemt siin ware dat sake dat dien van hen</l>
+               <l facs="#facs_0355_24_08_1303-01_tr_1_tl_18">tween storue . dat dander die daer leuende bleue dat sticke lans houden soude tsinē liue</l>
+               <l facs="#facs_0355_24_08_1303-01_tr_1_tl_19">Ende na de  doet van hen beiden soe soud dat lant com̄ op clase haren sone sondʼ delinghe</l>
+               <l facs="#facs_0355_24_08_1303-01_l_2">van @@@@@are dat sake dat elcs storue ier dachterste van hen tweente soe</l>
+               <l facs="#facs_0355_24_08_1303-01_l_3">soude dat lant gaen na h@rre bieder do@@@daert sculdegh ware te gane in beiden siden</l>
+               <l facs="#facs_0355_24_08_1303-01_tr_1_tl_24">Jn kīnessen dʼ waerheit soe hebbe wi scepenē voerseit . vthanghende gheseghelt dese lettre</l>
+               <l facs="#facs_0355_24_08_1303-01_l_4">met onsen seghelen . Die ghegheuen was in djaer ons hʼen M  . CCC ende . iij . op sente barthelme⁹ dach</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

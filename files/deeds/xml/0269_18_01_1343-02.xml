@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3507" lry="2480" xml:id="facs_0269_18_01_1343-02">
+         <graphic url="0269_18_01_1343-02.jpg" width="3507px" height="2480px"/>
+         <zone points="318,734 1488,752 2161,709 2601,749 2677,715 2628,627 2155,657 2106,608 1984,660 1806,614 1724,660 1400,672 758,627 697,682 556,633 492,657 318,565" rendition="Line" xml:id="facs_0269_18_01_1343-02_tr_1_tl_1" subtype="default"/>
+         <zone points="339,807 2735,798 2735,727 2598,752 2457,715 339,734" rendition="Line" xml:id="facs_0269_18_01_1343-02_tr_1_tl_2" subtype="default"/>
+         <zone points="342,859 2760,871 2760,804 2537,792 2372,825 2191,792 819,819 620,779 342,810" rendition="Line" xml:id="facs_0269_18_01_1343-02_tr_1_tl_3" subtype="default"/>
+         <zone points="345,941 917,954 1180,911 1507,957 1614,923 2084,969 2745,957 2720,892 2460,865 2332,899 1785,862 1550,889 1421,850 1381,886 345,865" rendition="Line" xml:id="facs_0269_18_01_1343-02_tr_1_tl_4" subtype="default"/>
+         <zone points="327,1006 1183,993 1394,1039 1681,1006 1794,1051 1904,1006 1959,1039 2723,1021 2723,963 2601,941 2301,972 2240,938 1712,966 1614,923 1519,957 327,938" rendition="Line" xml:id="facs_0269_18_01_1343-02_tr_1_tl_5" subtype="default"/>
+         <zone points="364,1088 1131,1070 1235,1109 1470,1070 2812,1116 2812,1027 2741,1009 1895,1015 1803,1051 1687,1009 1641,1042 703,993 364,1018" rendition="Line" xml:id="facs_0269_18_01_1343-02_tr_1_tl_6" subtype="default"/>
+         <zone points="351,1158 2766,1167 2766,1106 2598,1122 2521,1085 351,1100" rendition="Line" xml:id="facs_0269_18_01_1343-02_tr_1_tl_7" subtype="default"/>
+         <zone points="342,1244 517,1213 2769,1250 2787,1152 2680,1189 2466,1155 2081,1186 2039,1152 1647,1183 1608,1143 1516,1177 339,1158" rendition="Line" xml:id="facs_0269_18_01_1343-02_tr_1_tl_8" subtype="default"/>
+         <zone points="321,1296 2732,1323 2714,1238 1901,1268 1693,1229 1522,1259 1455,1222 513,1210 321,1247" rendition="Line" xml:id="facs_0269_18_01_1343-02_tr_1_tl_9" subtype="default"/>
+         <zone points="345,1360 1770,1415 2763,1391 2760,1308 2210,1345 1977,1314 1870,1351 1400,1296 345,1296" rendition="Line" xml:id="facs_0269_18_01_1343-02_tr_1_tl_10" subtype="default"/>
+         <zone points="336,1433 1174,1430 2259,1498 2714,1482 2738,1403 1809,1421 1730,1384 984,1391 675,1348 333,1375" rendition="Line" xml:id="facs_0269_18_01_1343-02_tr_1_tl_11" subtype="default"/>
+         <zone points="321,1537 461,1513 535,1571 596,1510 776,1550 938,1498 1348,1516 1568,1611 1666,1559 1818,1601 1922,1546 2491,1556 2488,1488 2442,1467 2243,1501 318,1433" rendition="Line" xml:id="facs_0269_18_01_1343-02_tr_1_tl_12" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0269_18_01_1343-02" n="0269_18_01_1343-02" xml:id="img_0269_18_01_1343-02"/>
+            <ab>
+               <l facs="#facs_0269_18_01_1343-02_tr_1_tl_1">Wj Gilijs vandʼ borgh . Ridder . Ende Jan danijs . Scepenen in Antwʼpen maken Cont dat vore ons qᵃmen</l>
+               <l facs="#facs_0269_18_01_1343-02_tr_1_tl_2">heinric daen en̄ lijsbeth sijn wetteleke wijf met haren mōbore ghegheuē hare bi orloue des selfs heinrics metdē</l>
+               <l facs="#facs_0269_18_01_1343-02_tr_1_tl_3">rechte en̄ wilcoerden en ordeneerden dat de lancst leuende van hē tween . hebbe en̄ behoude te sinē liue durende</l>
+               <l facs="#facs_0269_18_01_1343-02_tr_1_tl_4">hoer huisinghe ghestaen tusschen onser vrouwen kʼchof en̄ de cāmʼstrate metten gronde en̄ met al dat daer toe</l>
+               <l facs="#facs_0269_18_01_1343-02_tr_1_tl_5">hoet . Ghelijc dat dese selue heinric die vʼcreech ieghen heʼn Janne spronghe den landeken . En̄ dat na hoerre</l>
+               <l facs="#facs_0269_18_01_1343-02_tr_1_tl_6">beider liue deen helft vandʼ vorseidʼ huisinghen en̄ gronde . keren en̄ bliuen sal op der tafle des heileghs gheeste</l>
+               <l facs="#facs_0269_18_01_1343-02_tr_1_tl_7">van onser vrouwen kerke in Antwʼpen . Ende dandʼ heleft op den deken en̄ Capitele vandʼ seluʼ kerken om dat</l>
+               <l facs="#facs_0269_18_01_1343-02_tr_1_tl_8">si des heinrics en̄ lijsbeth tē jarechtide euwelec houden selen . met desen vorwʼden dat de vorꞩ Deken en̄ Capitele</l>
+               <l facs="#facs_0269_18_01_1343-02_tr_1_tl_9">na den liue des vorseids heinrics en̄ lijsbettē . hebben en̄ behouden moghē eest dat si willen die andʼ helft</l>
+               <l facs="#facs_0269_18_01_1343-02_tr_1_tl_10">vandʼ vorseidʼ huisingheʼ en̄ gronde . ōme sestech guldene pēninghe ghehetē scilde . te gheldene en̄ te betael-</l>
+               <l facs="#facs_0269_18_01_1343-02_tr_1_tl_11">tie der vorseidʼ taflen . Jn kennessen van desen letteʼn bezeghelt met onsen zeghlen . Ghegheuē int jaer ons</l>
+               <l facs="#facs_0269_18_01_1343-02_tr_1_tl_12">heʼn alsmen screef . M . CCC . viertech en̄ twee des saterdaeghs na den andach van dertiendaghe</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

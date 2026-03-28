@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3507" lry="2480" xml:id="facs_0061_04_06_1324-01">
+         <graphic url="0061_04_06_1324-01.jpg" width="3507px" height="2480px"/>
+         <zone points="440,1066 1108,1030 2746,1054 2746,933 2415,985 2033,943 1879,985 1364,930 1183,985 831,933 705,982 440,921" rendition="Line" xml:id="facs_0061_04_06_1324-01_tr_1_tl_1" subtype="default"/>
+         <zone points="422,1129 1448,1084 2731,1099 2731,1042 2620,1027 952,1066 831,1033 566,1084 422,1045" rendition="Line" xml:id="facs_0061_04_06_1324-01_tr_1_tl_2" subtype="default"/>
+         <zone points="443,1214 933,1159 2716,1144 2716,1078 2644,1111 1849,1078 446,1141" rendition="Line" xml:id="facs_0061_04_06_1324-01_l" subtype="default"/>
+         <zone points="397,1271 1126,1214 1418,1244 1662,1198 2030,1229 2361,1192 2532,1229 2819,1198 2822,1117 2448,1168 1816,1135 397,1204" rendition="Line" xml:id="facs_0061_04_06_1324-01_tr_1_tl_5" subtype="default"/>
+         <zone points="404,1346 1798,1259 2752,1271 2755,1198 2030,1229 1668,1198 1418,1244 1126,1214 404,1277" rendition="Line" xml:id="facs_0061_04_06_1324-01_tr_1_tl_6" subtype="default"/>
+         <zone points="425,1394 2171,1313 2517,1346 2704,1325 2752,1268 1307,1277 425,1349" rendition="Line" xml:id="facs_0061_04_06_1324-01_tr_1_tl_7" subtype="default"/>
+         <zone points="404,1463 1575,1400 1641,1433 2264,1367 2514,1400 2758,1379 2761,1304 2532,1346 2165,1310 2120,1343 1704,1325 404,1406" rendition="Line" xml:id="facs_0061_04_06_1324-01_tr_1_tl_8" subtype="default"/>
+         <zone points="388,1530 2668,1445 2776,1427 2779,1376 391,1469" rendition="Line" xml:id="facs_0061_04_06_1324-01_tr_1_tl_9" subtype="default"/>
+         <zone points="416,1587 1114,1581 1361,1530 1581,1563 2063,1509 2231,1626 2394,1668 2517,1605 2761,1614 2770,1427 1942,1482 1737,1454 1379,1506 961,1485 419,1542" rendition="Line" xml:id="facs_0061_04_06_1324-01_tr_1_tl_10" subtype="default"/>
+         <zone points="400,1662 1385,1599 1578,1626 1617,1593 1942,1719 1951,1515 404,1596" rendition="Line" xml:id="facs_0061_04_06_1324-01_tr_1_tl_11" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0061_04_06_1324-01" n="0061_04_06_1324-01" xml:id="img_0061_04_06_1324-01"/>
+            <ab>
+               <l facs="#facs_0061_04_06_1324-01_tr_1_tl_1">Wi willem vandʼborch en̄ Jan Wilmaer de roede scepenen in Antwʼpen maken cond . Dat loduwijc</l>
+               <l facs="#facs_0061_04_06_1324-01_tr_1_tl_2">loduwijcs sone broeders wilen shʼ gherards die ꝓchiaen es in woestwesele . gaf en̄ bewijsde in</l>
+               <l facs="#facs_0061_04_06_1324-01_l">urre aelmosenen om gode . den groten gasthuse in Antwʼpen alle dat gred dat hi houdende . en̄</l>
+               <l facs="#facs_0061_04_06_1324-01_tr_1_tl_5">hebbende was . Dats tewetenē neghene ponde en̄ vier scellinghe paiments doe hem ansem sijn oem</l>
+               <l facs="#facs_0061_04_06_1324-01_tr_1_tl_6">sculdech ware also hi loduwijc seide . Dat derdendeel van enen huise en̄ houe ghestaen in woest</l>
+               <l facs="#facs_0061_04_06_1324-01_tr_1_tl_7">wesele dat vʼhuert es also hi seeght drie jare lanc om elleue grote torn̄ siaers . En̄ dat der</l>
+               <l facs="#facs_0061_04_06_1324-01_tr_1_tl_8">dendeel van enen bemde houdende en̄ bundeʼ also hi seide gheleghen in loenhout die vʼhuert es also</l>
+               <l facs="#facs_0061_04_06_1324-01_tr_1_tl_9">hi seide enen wouteʼn vandʼ heyden vijf jare lanc om derttech scellinghe sjaers paiments . Jn kin</l>
+               <l facs="#facs_0061_04_06_1324-01_tr_1_tl_10">nessen van desen lettʼ bezeghelt met onsen selen. Ghegheuen int jaer ons heʼn alsm̄ screef . M .</l>
+               <l facs="#facs_0061_04_06_1324-01_tr_1_tl_11">. C . C . C . en̄ viere en̄ tuintech des maendaegs na chinxsen dach</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

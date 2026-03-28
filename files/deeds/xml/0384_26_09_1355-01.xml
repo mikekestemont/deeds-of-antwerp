@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="4073" lry="1118" xml:id="facs_0384_26_09_1355-01">
+         <graphic url="0384_26_09_1355-01.jpg" width="4073px" height="1118px"/>
+         <zone points="87,378 213,407 325,354 775,373 833,339 983,378 1230,325 1264,363 1434,325 1676,354 1831,310 1875,344 2238,305 2306,334 3245,257 3483,291 3730,213 3977,247 3982,121 3749,111 3647,53 3483,107 3207,111 2950,208 2780,131 2703,174 2635,136 2485,218 2373,170 2315,199 2000,150 1933,218 1787,189 1642,232 1608,194 1482,262 1332,266 1230,208 1109,242 1046,199 901,242 823,199 731,237 586,199 349,223 295,170 203,189 97,136" rendition="Line" xml:id="facs_0384_26_09_1355-01_tr_1_tl_1" subtype="default"/>
+         <zone points="82,480 591,426 906,455 1085,421 1192,465 1288,421 1385,465 1468,426 1603,455 1661,402 2068,402 2131,450 2277,392 3139,407 3420,329 3880,358 3923,349 3928,218 3609,228 3473,291 3245,252 3076,305 2960,266 2645,325 2562,286 2301,334 1933,310 1884,349 1836,310 1681,354 1434,325 1371,363 1225,325 683,383 480,339 82,402" rendition="Line" xml:id="facs_0384_26_09_1355-01_tr_1_tl_2" subtype="default"/>
+         <zone points="82,562 392,513 1124,542 1240,504 1400,547 1889,489 2315,533 2465,480 2979,465 3052,499 3478,426 3536,455 3885,417 3885,363 3560,329 3323,334 3134,407 2262,392 2141,446 2068,402 1661,407 1603,450 1337,465 1274,421 1196,465 1104,421 901,455 814,421 765,465 591,426 82,480" rendition="Line" xml:id="facs_0384_26_09_1355-01_tr_1_tl_3" subtype="default"/>
+         <zone points="87,620 1037,591 1104,630 1526,601 1681,635 1734,591 2238,615 2373,567 2422,610 2490,562 2630,615 2712,562 2775,610 3134,533 3289,533 3328,572 3517,523 3662,552 3725,509 3909,538 3914,402 3052,499 2945,465 2465,484 2388,528 1899,489 1652,533 654,509 87,557" rendition="Line" xml:id="facs_0384_26_09_1355-01_tr_1_tl_4" subtype="default"/>
+         <zone points="63,702 354,731 460,683 770,717 969,678 1255,722 1928,673 2281,702 2340,668 2553,707 2993,644 3207,678 3405,625 3502,668 3560,620 3642,664 3938,620 3938,523 3720,509 3676,552 3134,538 2785,605 2703,562 2650,615 2485,567 2252,610 1763,581 1676,630 790,591 63,635" rendition="Line" xml:id="facs_0384_26_09_1355-01_tr_1_tl_5" subtype="default"/>
+         <zone points="44,799 639,760 736,809 790,775 1032,814 1569,785 1768,823 1918,775 2122,765 2189,809 2475,756 2611,814 2737,756 2892,799 2974,746 3182,780 3308,736 3425,765 3928,712 3923,625 3657,664 3555,620 3507,668 3371,630 3202,678 2911,659 2795,698 2751,664 2698,707 2432,712 2340,668 2039,707 1768,683 1642,727 1303,693 1245,731 935,678 765,722 659,683 44,717" rendition="Line" xml:id="facs_0384_26_09_1355-01_tr_1_tl_6" subtype="default"/>
+         <zone points="39,886 988,867 1419,920 1463,877 1657,872 1845,920 1962,867 2199,915 2436,862 2683,901 2805,848 2853,886 2955,843 3303,872 3376,823 3517,857 3599,814 3919,872 3923,722 3347,770 3274,741 3187,780 3047,741 2892,799 2742,756 2611,809 2456,756 2272,814 2122,765 1768,823 1555,780 935,819 857,770 751,809 630,760 586,799 402,770 281,809 247,775 39,828" rendition="Line" xml:id="facs_0384_26_09_1355-01_tr_1_tl_7" subtype="default"/>
+         <zone points="44,998 223,959 625,988 668,954 794,998 1114,974 1337,1012 1618,954 1753,1027 1855,978 1971,1027 2524,974 2630,1022 3008,940 3110,978 3391,935 3633,1017 3914,964 3914,862 3599,819 3071,882 2436,862 2199,915 1967,867 1845,920 1792,877 1322,920 1056,877 983,911 804,872 664,906 513,867 44,886" rendition="Line" xml:id="facs_0384_26_09_1355-01_tr_1_tl_8" subtype="default"/>
+         <zone points="1117,1117 208,1114 1117,1117 242,1114 1117,1117 334,1114 1117,1117 344,1114 1117,1117 421,1114 1117,1117 450,1114 1117,1117 494,1114 823,1080 877,1114 1657,1114 1724,1080 2092,1114 1117,1117 2727,1114 2795,1066 3115,1085 3158,1051 3342,1114 1117,1117 3458,1114 1117,1117 3492,964 3391,935 3352,969 2892,954 2630,1022 2528,978 2427,1022 2209,983 1933,1032 1889,988 1753,1027 1628,969 1216,1008 877,969 799,998 668,954 421,1008 223,964 0,1008" rendition="Line" xml:id="facs_0384_26_09_1355-01_tr_1_tl_9" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0384_26_09_1355-01" n="0384_26_09_1355-01" xml:id="img_0384_26_09_1355-01"/>
+            <ab>
+               <l facs="#facs_0384_26_09_1355-01_tr_1_tl_1">Wij Jan vanden mortʼe ende Jan bode Scepenen Jn Antwʼpen maken cont dat vore ons quam Jacop goessem de cordu-</l>
+               <l facs="#facs_0384_26_09_1355-01_tr_1_tl_2">anier ende bekinde dat hi wittelec vʼcocht heeft Janne vander borssē drie camʼen met der houinghen die daer toe behoerē</l>
+               <l facs="#facs_0384_26_09_1355-01_tr_1_tl_3">ende met allen den rechte dat hi ane den gront en̄ ane al dat daer toe behoerd houdende was ghestaen jnde nuwestrate</l>
+               <l facs="#facs_0384_26_09_1355-01_tr_1_tl_4">tusschen Jans van ekeʼn en̄ des vorgh̄ Jans huisinghe ōme ene sūme van pēninghen daer hem de vorgh̄ Jacop af bekin-</l>
+               <l facs="#facs_0384_26_09_1355-01_tr_1_tl_5">de al vʼgouden . de welke camʼen met gronde houinghen ende met al dat daer toe behoerd de vorghenomde Jacop gheloeft</l>
+               <l facs="#facs_0384_26_09_1355-01_tr_1_tl_6">heeft te waerne jaer ende dach van allen calaingien en̄ kūmʼe . wtghenomen achte pēninghen oudʼ grotʼ tornoise</l>
+               <l facs="#facs_0384_26_09_1355-01_tr_1_tl_7">en̄ viere hoendreʼn die daer siaers wtgaen ende die onser vrouwen kerke in antwʼpen toe behoeren also si ons seiden</l>
+               <l facs="#facs_0384_26_09_1355-01_tr_1_tl_8">jeghen alle de ghene die te rechte comen willen . Jn kennissen van desen lrēn beseghelt met onsen seglen Ghegheuen</l>
+               <l facs="#facs_0384_26_09_1355-01_tr_1_tl_9">Jnt Jaer ons heʼn alsmen screef . M . CCC vuftech ende viue des saterdags vore sente michiels dach</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

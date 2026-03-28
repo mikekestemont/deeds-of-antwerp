@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="4013" lry="1323" xml:id="facs_0130_08_10_1349-01">
+         <graphic url="0130_08_10_1349-01.jpg" width="4013px" height="1323px"/>
+         <zone points="58,394 360,399 433,360 511,414 594,370 667,404 905,365 1436,384 1538,428 1582,389 1771,423 1820,380 1990,433 2204,394 2647,438 3854,350 3854,287 3689,277 3582,204 3231,263 2978,209 2808,287 2657,248 2501,341 2034,229 1956,273 1874,224 1703,273 1455,219 1372,277 1255,219 1134,277 998,243 925,287 871,248 453,219 341,287 234,224 58,219" rendition="Line" xml:id="facs_0130_08_10_1349-01_tr_1_tl_2" subtype="default"/>
+         <zone points="54,457 599,453 822,501 1037,467 1158,506 1309,472 1971,511 2297,482 2574,535 3820,443 3820,355 2633,443 2141,394 1990,428 1825,380 1655,428 1596,384 1406,423 1246,375 54,389" rendition="Line" xml:id="facs_0130_08_10_1349-01_tr_1_tl_3" subtype="default"/>
+         <zone points="49,555 428,540 530,584 871,550 1061,589 1221,550 1270,594 1328,555 1533,555 1698,599 1981,555 2058,599 2745,579 2852,618 3178,564 3353,603 3543,545 3630,584 3718,535 3864,579 3864,438 2934,521 2681,496 2642,530 2204,482 2165,521 2024,482 808,496 662,457 603,496 360,457 49,487" rendition="Line" xml:id="facs_0130_08_10_1349-01_tr_1_tl_4" subtype="default"/>
+         <zone points="49,652 1119,676 1187,642 1309,681 1416,647 1562,696 1728,647 1995,696 2234,662 2384,706 2672,667 2895,706 3022,662 3869,633 3864,550 3718,535 3630,589 3440,550 3363,599 3119,564 2861,613 2282,569 2063,599 1981,555 1703,599 1513,555 1358,599 1319,564 1275,599 1221,555 1061,589 584,545 506,589 423,540 248,579 44,550" rendition="Line" xml:id="facs_0130_08_10_1349-01_tr_1_tl_5" subtype="default"/>
+         <zone points="49,745 579,715 900,774 1231,735 1372,779 1625,745 1689,783 1737,745 2000,779 2146,745 2706,798 2929,754 3075,793 3431,740 3513,774 3582,735 3650,774 3805,730 3961,754 3961,637 3883,623 3669,681 3251,652 2900,706 2672,667 2521,701 2428,662 2384,701 2088,662 657,672 380,628 326,672 49,657" rendition="Line" xml:id="facs_0130_08_10_1349-01_tr_1_tl_6" subtype="default"/>
+         <zone points="58,818 564,808 779,847 1153,813 1484,861 1893,827 2019,871 2394,842 2676,886 2745,847 3037,886 3105,842 3951,842 3951,749 3805,730 3698,774 3596,740 3513,779 3440,745 3075,788 2837,759 2720,803 2472,745 2000,779 1810,740 1684,783 1630,745 1562,779 1212,735 861,774 633,759 579,715 472,749 58,730" rendition="Line" xml:id="facs_0130_08_10_1349-01_tr_1_tl_7" subtype="default"/>
+         <zone points="58,920 375,881 526,934 827,891 1187,939 1635,910 1737,954 2122,920 2681,968 3552,910 3606,949 3718,915 3839,954 3947,910 3947,842 3718,822 2579,886 2530,847 2127,871 2078,837 2019,871 1908,827 1484,861 1007,813 803,847 720,813 58,818" rendition="Line" xml:id="facs_0130_08_10_1349-01_tr_1_tl_8" subtype="default"/>
+         <zone points="73,993 165,1032 516,988 822,1022 895,978 988,1027 1182,993 1596,1041 1684,998 1747,1037 1976,1007 2214,1046 2511,1012 2613,1061 3951,998 3947,920 3066,925 2861,973 2243,929 1990,959 1942,920 1732,949 1679,910 1606,944 1494,910 1056,934 827,891 530,934 428,895 360,934 73,915" rendition="Line" xml:id="facs_0130_08_10_1349-01_tr_1_tl_9" subtype="default"/>
+         <zone points="63,1080 146,1114 292,1080 346,1124 472,1080 983,1119 1134,1085 1182,1129 1260,1085 1479,1129 1766,1090 2088,1134 2141,1100 2667,1100 2749,1139 3932,1105 3932,998 2730,1056 2638,1002 2268,1051 1971,1007 983,1027 895,978 759,1027 297,988 161,1032 63,988" rendition="Line" xml:id="facs_0130_08_10_1349-01_tr_1_tl_10" subtype="default"/>
+         <zone points="73,1182 428,1173 545,1226 662,1182 871,1212 978,1178 1051,1226 1251,1168 1528,1221 2180,1187 2224,1231 2384,1197 2477,1236 2574,1182 2720,1236 2998,1192 3148,1236 3314,1178 3635,1236 3703,1187 3815,1217 3893,1182 3893,1110 3849,1090 3431,1134 3246,1095 2754,1139 2652,1105 2584,1139 2346,1100 2029,1134 1766,1085 1689,1129 1533,1095 1484,1134 1241,1085 1129,1134 1061,1090 336,1119 73,1075" rendition="Line" xml:id="facs_0130_08_10_1349-01_tr_1_tl_11" subtype="default"/>
+         <zone points="97,1285 170,1270 253,1319 1322,1322 302,1319 1322,1322 350,1319 1322,1322 384,1319 1322,1322 496,1319 696,1270 769,1319 1322,1322 793,1319 1322,1322 813,1319 1322,1322 822,1319 871,1280 1322,1322 1114,1304 1723,1290 1849,1319 1322,1322 1985,1319 2078,1280 2151,1319 1322,1322 3046,1304 3046,1197 2477,1236 2083,1182 1538,1221 1338,1212 1255,1163 1056,1221 988,1178 501,1221 428,1168 97,1178" rendition="Line" xml:id="facs_0130_08_10_1349-01_tr_1_tl_12" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0130_08_10_1349-01" n="0130_08_10_1349-01" xml:id="img_0130_08_10_1349-01"/>
+            <ab>
+               <l facs="#facs_0130_08_10_1349-01_tr_1_tl_2">Wij Willem lympiaes ende Woutʼe vanden broeke Scepenen Jn antwʼpen maken cond dat vore ons quam katline cantinne dochter</l>
+               <l facs="#facs_0130_08_10_1349-01_tr_1_tl_3">wilen Jans cants des vedermakers met horen montbore die hare ghegheuen was met den rechte ende bekinde dat si ghegheuē heeft</l>
+               <l facs="#facs_0130_08_10_1349-01_tr_1_tl_4">in aelmosenē purlec ōme gode Janne thedis horen sone dien si heeft bi thedis van faltmelle lombard tienne ponde oudʼ groter</l>
+               <l facs="#facs_0130_08_10_1349-01_tr_1_tl_5">tornoise van mūten Sconings van vᵃncrike te heffene ende tehebbene den seluen Janne na der vorgh̄ katlinen sier moedʼ doet en̄ met</l>
+               <l facs="#facs_0130_08_10_1349-01_tr_1_tl_6">eer van alsulken goede alse hier na staet bescreuen dats te wetene de huisinghe die ghestaen siin inde hoeghstᵃte noest henrijcs proefsts</l>
+               <l facs="#facs_0130_08_10_1349-01_tr_1_tl_7">die wilen Jans hors vaders waren vore zeuene ponde oudʼ grotʼ tornʼ . ende dandeʼ drie ponde oudʼ grotʼ tornʼ van alselken hauelakē goede</l>
+               <l facs="#facs_0130_08_10_1349-01_tr_1_tl_8">alse na dʼ vorgh̄ katlinen doede sal bliuen . dat welke vorghenomde goed alnv de vorghenomde katline met horen montbore vʼbonde ende</l>
+               <l facs="#facs_0130_08_10_1349-01_tr_1_tl_9">te pande gheste heeft vore dese tienne ponde grotʼ tornoise ende met alselken vorwʼdden waert dat de vorghenomde jan thedis storue en̄</l>
+               <l facs="#facs_0130_08_10_1349-01_tr_1_tl_10">van liue te doede quame sondʼ wittech oyr van sinen liue comende dat dan de vorghenomde tienne ponde oudʼ grotʼ tornoise wederkʼen</l>
+               <l facs="#facs_0130_08_10_1349-01_tr_1_tl_11">ende comen souden op der vorghenomdʼ katlinen witteghe erfghenamen Jn kennissen van desen lrēn beseghelt met onsen seglen Dat</l>
+               <l facs="#facs_0130_08_10_1349-01_tr_1_tl_12">was ghedaen int jaer ons heʼn alsmē screef M CCC veertech ende neghene op sente dyonisius auond</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

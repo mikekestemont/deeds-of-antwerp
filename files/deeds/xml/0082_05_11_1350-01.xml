@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3930" lry="1455" xml:id="facs_0082_05_11_1350-01">
+         <graphic url="0082_05_11_1350-01.jpg" width="3930px" height="1455px"/>
+         <zone points="284,329 428,293 1244,374 2127,360 2181,397 2605,401 3830,320 3830,243 3537,185 3438,266 3249,194 3060,297 2776,257 2578,302 2411,252 2262,315 2213,266 2140,297 1879,261 1645,180 1424,243 1293,216 1199,279 1104,216 933,243 870,203 712,257 464,194 374,261 284,248" rendition="Line" xml:id="facs_0082_05_11_1350-01_tr_1_tl_1" subtype="default"/>
+         <zone points="288,406 442,379 1338,455 1654,419 1699,460 2321,437 2375,469 2524,437 2816,464 2884,428 2961,469 3821,406 3821,315 3659,356 3506,324 2605,397 901,356 428,288 284,329" rendition="Line" xml:id="facs_0082_05_11_1350-01_tr_1_tl_2" subtype="default"/>
+         <zone points="284,509 545,455 928,509 1072,482 1136,523 1433,491 2542,545 2956,500 2997,536 3596,491 3695,527 3821,482 3821,415 3659,397 3299,455 2943,460 2861,424 2816,460 2393,464 284,401" rendition="Line" xml:id="facs_0082_05_11_1350-01_tr_1_tl_3" subtype="default"/>
+         <zone points="275,536 1510,595 2240,572 2456,613 2569,577 3105,608 3573,568 3785,608 3857,572 3857,478 3700,523 3587,491 3402,532 2650,536 275,464" rendition="Line" xml:id="facs_0082_05_11_1350-01_tr_1_tl_4" subtype="default"/>
+         <zone points="275,617 1374,635 1415,671 1514,635 1870,676 2533,649 2582,685 2708,644 3835,653 3830,595 3686,563 2451,608 275,536" rendition="Line" xml:id="facs_0082_05_11_1350-01_tr_1_tl_5" subtype="default"/>
+         <zone points="275,698 1884,744 2190,712 2312,748 2623,716 2803,757 2870,721 3263,753 3443,716 3619,753 3704,716 3830,762 3830,649 2131,676 270,626" rendition="Line" xml:id="facs_0082_05_11_1350-01_tr_1_tl_6" subtype="default"/>
+         <zone points="275,771 852,789 915,757 1663,816 2077,784 2487,825 2596,784 2731,829 2807,798 2861,843 2988,798 3542,798 3614,834 3776,798 3776,735 3655,712 2528,753 2190,712 2001,744 275,698" rendition="Line" xml:id="facs_0082_05_11_1350-01_tr_1_tl_7" subtype="default"/>
+         <zone points="279,870 942,834 1298,892 1352,856 1672,892 1830,852 2420,861 2524,901 2929,874 3006,915 3078,874 3353,910 3483,870 3610,906 3790,883 3790,802 3704,798 2952,829 2866,793 2762,829 2605,789 2478,825 2086,784 1667,816 1532,780 1239,811 987,766 279,775" rendition="Line" xml:id="facs_0082_05_11_1350-01_tr_1_tl_8" subtype="default"/>
+         <zone points="279,937 2988,955 3235,1000 3276,964 3839,969 3839,865 3600,910 3483,870 3006,915 2929,874 2487,901 2420,861 1478,892 942,838 590,883 279,856" rendition="Line" xml:id="facs_0082_05_11_1350-01_tr_1_tl_9" subtype="default"/>
+         <zone points="275,1009 360,1045 410,1014 572,1045 608,1005 829,1032 865,996 1018,1045 1834,1014 2082,1050 2136,1018 2510,1059 2992,1041 3078,1082 3691,1041 3799,1077 3853,1072 3853,973 3371,960 3249,1000 2992,955 2636,982 2560,942 2393,973 270,942" rendition="Line" xml:id="facs_0082_05_11_1350-01_tr_1_tl_10" subtype="default"/>
+         <zone points="288,1127 626,1086 915,1118 1000,1082 1045,1122 1176,1091 1613,1127 1667,1091 2708,1145 2830,1113 2979,1163 3033,1118 3844,1131 3844,1072 3628,1036 3510,1072 1834,1014 1009,1041 861,996 825,1032 288,1023" rendition="Line" xml:id="facs_0082_05_11_1350-01_tr_1_tl_11" subtype="default"/>
+         <zone points="279,1185 3902,1221 3902,1113 3380,1154 3060,1118 2893,1145 2821,1109 2758,1145 2668,1109 2168,1131 2100,1095 1974,1131 1672,1095 1230,1127 1000,1082 915,1122 667,1086 279,1122" rendition="Line" xml:id="facs_0082_05_11_1350-01_tr_1_tl_12" subtype="default"/>
+         <zone points="279,1275 780,1244 901,1284 1109,1248 1595,1302 1726,1253 2055,1257 2100,1298 2357,1262 3033,1266 3154,1311 3402,1275 3497,1325 3880,1298 3880,1221 3686,1239 3628,1199 3519,1235 2294,1176 1870,1217 1559,1172 1397,1212 919,1163 762,1199 279,1185" rendition="Line" xml:id="facs_0082_05_11_1350-01_tr_1_tl_13" subtype="default"/>
+         <zone points="261,1370 518,1334 590,1383 789,1325 1424,1374 1821,1347 1956,1424 2974,1415 3123,1374 3740,1410 3884,1401 3884,1311 2898,1262 2172,1298 1726,1253 1609,1293 671,1248 388,1253 338,1298 257,1262" rendition="Line" xml:id="facs_0082_05_11_1350-01_tr_1_tl_14" subtype="default"/>
+         <zone points="288,1447 631,1451 671,1415 1454,1454 820,1451 1454,1454 843,1451 1454,1454 874,1451 1454,1454 915,1451 1454,1454 1045,1451 1100,1406 1230,1447 1230,1343 288,1338" rendition="Line" xml:id="facs_0082_05_11_1350-01_tr_1_tl_15" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0082_05_11_1350-01" n="0082_05_11_1350-01" xml:id="img_0082_05_11_1350-01"/>
+            <ab>
+               <l facs="#facs_0082_05_11_1350-01_tr_1_tl_1">Wij Willem de molennʼe ende Wouteʼ vanden broeke Scepenen Jn Antwʼpen maken cond dat vore ons quam Willem de boch zone</l>
+               <l facs="#facs_0082_05_11_1350-01_tr_1_tl_2">wilen woutʼs bocs . ende bekinde dat hi wittelec vercocht heeft . Eenen Eersamen manne miin heʼn gillise vander borch Riddeʼ</l>
+               <l facs="#facs_0082_05_11_1350-01_tr_1_tl_3">siaers . drie guldene penin̄ghe diemen heet scilde goede ende custbaer die in ons heʼn shertoghen munte siin ghemaect . oft de</l>
+               <l facs="#facs_0082_05_11_1350-01_tr_1_tl_4">de werdde daer af in andeʼn goeden ghelde jaerlakeʼ ende erflakeʼ renten . Op sinē huisinghe die ghestaen siin inde munsterstᵃte</l>
+               <l facs="#facs_0082_05_11_1350-01_tr_1_tl_5">bider munten ende op al dat recht dat hi ane den grond ende ane aldat daer toe behoert vore achter ende besiden houdende es</l>
+               <l facs="#facs_0082_05_11_1350-01_tr_1_tl_6">ghelijc dat se hem bleuen siin dan sinen vordeʼn . Ōue eene sūme van pennīghen daer hem de vorgh̄ willem de boch af be-</l>
+               <l facs="#facs_0082_05_11_1350-01_tr_1_tl_7">kinde al vergouden Soe dat de vorghenomde huisinghen met allen horen toe behoerten gherecht pand siin ende bliuen selen</l>
+               <l facs="#facs_0082_05_11_1350-01_tr_1_tl_8">verbouden ouʼ de vorgh̄ drie guldene penin̄ghe jaerlakeʼ ende erflakeʼ renten . te gheldene ende te gheuene alle jaere vanden</l>
+               <l facs="#facs_0082_05_11_1350-01_tr_1_tl_9">vorgh̄ willeme den boch ende van sinen nacomelinghen . den vorgh̄ miin heʼn gillise vander borch ende sinen nacomelinghē</l>
+               <l facs="#facs_0082_05_11_1350-01_tr_1_tl_10">deene helft daer af op den yersten dach vander maent van meye . Ende dandeʼ helft op alreheileghen dach . Ende de vorseide</l>
+               <l facs="#facs_0082_05_11_1350-01_tr_1_tl_11">willem de boch gheloefde op alle dat goed dat hi heeft ende mach ghewinnē de vorgh̄ huisinghen met allen dien dat daer</l>
+               <l facs="#facs_0082_05_11_1350-01_tr_1_tl_12">toe behoert te claerne ende te vriene van allen kūmer ende calaingen die daerop siin mochten totē opden dach dat dese lrēn</l>
+               <l facs="#facs_0082_05_11_1350-01_tr_1_tl_13">ghemaect waren Wtghenomen viue ponden paeyments die de heʼn vanden dunen daer siaers op hebben also si ons seidē</l>
+               <l facs="#facs_0082_05_11_1350-01_tr_1_tl_14">Jn kennissen van desen lrē̄n besegel̄t met onsen segl̄en . Ghegheuen int jaer ons heʼn alsmen screef . M . CCC ende viiftech des</l>
+               <l facs="#facs_0082_05_11_1350-01_tr_1_tl_15">vridaghs na alreheileghen dach</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

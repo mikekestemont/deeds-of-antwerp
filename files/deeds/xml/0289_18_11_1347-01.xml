@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="2048" lry="1536" xml:id="facs_0289_18_11_1347-01">
+         <graphic url="0289_18_11_1347-01.jpg" width="2048px" height="1536px"/>
+         <zone points="287,455 1817,457 1784,400 1611,385 791,426 287,377" rendition="Line" xml:id="facs_0289_18_11_1347-01_tr_1_tl_6" subtype="default"/>
+         <zone points="251,504 1825,500 1825,457 251,461" rendition="Line" xml:id="facs_0289_18_11_1347-01_tr_1_tl_7" subtype="default"/>
+         <zone points="257,561 1835,546 1747,497 257,512" rendition="Line" xml:id="facs_0289_18_11_1347-01_tr_1_tl_8" subtype="default"/>
+         <zone points="267,618 1819,602 1819,546 1715,542 267,557" rendition="Line" xml:id="facs_0289_18_11_1347-01_tr_1_tl_9" subtype="default"/>
+         <zone points="257,646 1815,661 1792,597 257,618" rendition="Line" xml:id="facs_0289_18_11_1347-01_tr_1_tl_10" subtype="default"/>
+         <zone points="269,708 1788,689 1743,644 267,655" rendition="Line" xml:id="facs_0289_18_11_1347-01_tr_1_tl_11" subtype="default"/>
+         <zone points="269,740 1823,759 1802,677 1756,714 269,708" rendition="Line" xml:id="facs_0289_18_11_1347-01_tr_1_tl_12" subtype="default"/>
+         <zone points="269,807 1788,809 1788,742 269,740" rendition="Line" xml:id="facs_0289_18_11_1347-01_tr_1_tl_13" subtype="default"/>
+         <zone points="269,850 1788,838 1788,805 1652,789 269,807" rendition="Line" xml:id="facs_0289_18_11_1347-01_tr_1_tl_14" subtype="default"/>
+         <zone points="267,879 1772,873 1772,838 1552,832 267,848" rendition="Line" xml:id="facs_0289_18_11_1347-01_tr_1_tl_15" subtype="default"/>
+         <zone points="257,928 1835,934 1835,877 1758,867 257,883" rendition="Line" xml:id="facs_0289_18_11_1347-01_tr_1_tl_16" subtype="default"/>
+         <zone points="263,969 1813,975 1786,932 1450,922 263,944" rendition="Line" xml:id="facs_0289_18_11_1347-01_tr_1_tl_17" subtype="default"/>
+         <zone points="251,1019 1456,1036 1456,987 1401,969 251,971" rendition="Line" xml:id="facs_0289_18_11_1347-01_tr_1_tl_18" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0289_18_11_1347-01" n="0289_18_11_1347-01" xml:id="img_0289_18_11_1347-01"/>
+            <ab>
+               <l facs="#facs_0289_18_11_1347-01_tr_1_tl_6">WJ Jan Wilmaer . ende Jan vanden mortʼe Scepenē in Antwʼpen maken cond . dat vore ons quam Daneel volkaert</l>
+               <l facs="#facs_0289_18_11_1347-01_tr_1_tl_7">Ende bekende . dat hi sculdech es . den Conuente der bruedeʼ vandʼ derdʼ ordenen Sente franciscus in Antwʼpen twintech</l>
+               <l facs="#facs_0289_18_11_1347-01_tr_1_tl_8">oude grote tornoyse tsiaers van monten tsconigs van vrancrike . ende drie hinnen erflekʼ renten . En̄ daer toe Ne-</l>
+               <l facs="#facs_0289_18_11_1347-01_tr_1_tl_9">ghene en̄ twintech scellinghe payments jaerlikʼ renten in paym̄te daer men cleine penincwʼde ōme copen sal telken</l>
+               <l facs="#facs_0289_18_11_1347-01_tr_1_tl_10">cheinsdaghe van sinen houe gheleghen in de nvwestᵃte buten dʼ hameyden . ende op de huisinghe die daer toe hoert</l>
+               <l facs="#facs_0289_18_11_1347-01_tr_1_tl_11">tusschen Jans boys huis . ende heʼn Jans colueths huis des priestʼs . ghelijc dat hi daneel dien hof vʼcreech ieghen</l>
+               <l facs="#facs_0289_18_11_1347-01_tr_1_tl_12">marien gortʼinnen . tegheldene en̄ tegheuene alle jane vanden vorꞩ danele . en̄ van sinen nacomelinghen .. den vor-</l>
+               <l facs="#facs_0289_18_11_1347-01_tr_1_tl_13">seiden Conuente ewelec durende . ten tʼminē die hier na bescreuen staen . Dats tewetene de vorseide twintech</l>
+               <l facs="#facs_0289_18_11_1347-01_tr_1_tl_14">grote torn̄ . ende drie hinnen alle jare tekerssauonde Ende de vorꞩ Neghene ende twintech scellinghe paym̄ts</l>
+               <l facs="#facs_0289_18_11_1347-01_tr_1_tl_15">tsiaers . alle jare die ene helft tehalf merte . ende dander helft op sente lauwereins dach . also dat de vorꞩ</l>
+               <l facs="#facs_0289_18_11_1347-01_tr_1_tl_16">hof en̄ huisinghe . gherecht pand es . des vorseids Conuents ouʼ de vorseide erfleke en̄ eweleke rente . Jn kin-</l>
+               <l facs="#facs_0289_18_11_1347-01_tr_1_tl_17">nissen van desen lettʼen beseghelt met onsen seghelen . Ghegheuen int Jaer ons heʼn alse men screef . M . CCC .</l>
+               <l facs="#facs_0289_18_11_1347-01_tr_1_tl_18">viertech ende zeuene . Op den andach van sente mertens daghe in den winter</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

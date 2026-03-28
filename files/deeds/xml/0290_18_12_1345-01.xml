@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="2048" lry="1536" xml:id="facs_0290_18_12_1345-01">
+         <graphic url="0290_18_12_1345-01.jpg" width="2048px" height="1536px"/>
+         <zone points="704,501 1756,504 1756,465 1630,471 1472,413 1319,415 1250,465 702,413" rendition="Line" xml:id="facs_0290_18_12_1345-01_tr_1_tl_2" subtype="default"/>
+         <zone points="709,554 1797,555 1797,484 709,502" rendition="Line" xml:id="facs_0290_18_12_1345-01_tr_1_tl_3" subtype="default"/>
+         <zone points="699,590 1756,595 1732,531 1386,557 699,524" rendition="Line" xml:id="facs_0290_18_12_1345-01_tr_1_tl_4" subtype="default"/>
+         <zone points="691,625 1774,625 1774,587 1653,577 691,574" rendition="Line" xml:id="facs_0290_18_12_1345-01_tr_1_tl_5" subtype="default"/>
+         <zone points="679,672 1772,679 1746,620 679,621" rendition="Line" xml:id="facs_0290_18_12_1345-01_tr_1_tl_6" subtype="default"/>
+         <zone points="704,718 1780,711 1780,674 1719,669 704,672" rendition="Line" xml:id="facs_0290_18_12_1345-01_tr_1_tl_7" subtype="default"/>
+         <zone points="674,764 1800,754 1790,698 1726,732 674,715" rendition="Line" xml:id="facs_0290_18_12_1345-01_tr_1_tl_8" subtype="default"/>
+         <zone points="667,797 1810,809 1810,752 667,777" rendition="Line" xml:id="facs_0290_18_12_1345-01_tr_1_tl_9" subtype="default"/>
+         <zone points="669,855 1772,858 1772,812 1694,801 669,799" rendition="Line" xml:id="facs_0290_18_12_1345-01_tr_1_tl_10" subtype="default"/>
+         <zone points="664,914 1769,901 1750,849 664,856" rendition="Line" xml:id="facs_0290_18_12_1345-01_tr_1_tl_11" subtype="default"/>
+         <zone points="652,944 1753,936 1753,906 1543,884 652,924" rendition="Line" xml:id="facs_0290_18_12_1345-01_tr_1_tl_12" subtype="default"/>
+         <zone points="637,996 1780,976 1753,934 637,962" rendition="Line" xml:id="facs_0290_18_12_1345-01_tr_1_tl_13" subtype="default"/>
+         <zone points="644,1036 1789,1045 1770,975 644,995" rendition="Line" xml:id="facs_0290_18_12_1345-01_tr_1_tl_14" subtype="default"/>
+         <zone points="631,1086 886,1059 1286,1068 1268,1019 916,1026 876,1046 631,1024" rendition="Line" xml:id="facs_0290_18_12_1345-01_tr_1_tl_15" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0290_18_12_1345-01" n="0290_18_12_1345-01" xml:id="img_0290_18_12_1345-01"/>
+            <ab>
+               <l facs="#facs_0290_18_12_1345-01_tr_1_tl_2">Wj jan bode en̄ peter van hoboken scepenē Jn Antwʼpen maken cont . dat</l>
+               <l facs="#facs_0290_18_12_1345-01_tr_1_tl_3">vore ons quā jan bloc . En̄ bekende dat hi ghegheuē heeft tʼue . mase vol-</l>
+               <l facs="#facs_0290_18_12_1345-01_tr_1_tl_4">harde . Een vierdendeel bunders lands luttel meer ofte min gheleghen</l>
+               <l facs="#facs_0290_18_12_1345-01_tr_1_tl_5">achtʼ claepdorp niet vʼre vandʼ wintmolen tusschen jans des rams</l>
+               <l facs="#facs_0290_18_12_1345-01_tr_1_tl_6">land en̄ jans gherics land . om drie gulden hellinghe van florenche</l>
+               <l facs="#facs_0290_18_12_1345-01_tr_1_tl_7">siaers oft de wʼde daeraf in goeden andren ghelde erflekʼ renten . en̄</l>
+               <l facs="#facs_0290_18_12_1345-01_tr_1_tl_8">drie capone sjaers erfleke . tegheldene en̄ tegheuene alle jare vandē</l>
+               <l facs="#facs_0290_18_12_1345-01_tr_1_tl_9">vorꞩ mase en̄ van sine nacomelighē . den vorꞩ janne en̄ sinē nacome-</l>
+               <l facs="#facs_0290_18_12_1345-01_tr_1_tl_10">linghen op sente bauen dach . en̄ die ierste paye tedoene ouʼ een jaer na</l>
+               <l facs="#facs_0290_18_12_1345-01_tr_1_tl_11">sente bauen dach naest toecom̄de . Jn desen vorwarden . dat de vorꞩ maes</l>
+               <l facs="#facs_0290_18_12_1345-01_tr_1_tl_12">oft sijn nacomelinghe dit vorꞩ land selen moghē op gheuē alsi willen met</l>
+               <l facs="#facs_0290_18_12_1345-01_tr_1_tl_13">dubblen cheinse . Jn kennessen van desen letterʼn . beseghelt met onsen zeghelen</l>
+               <l facs="#facs_0290_18_12_1345-01_tr_1_tl_14">Ghegheuē int jaer ons heʼn alsm̄ screef . M . CCC . viertech en̄ viue . des son-</l>
+               <l facs="#facs_0290_18_12_1345-01_tr_1_tl_15">daegs vore sente thomas dach des apostels</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

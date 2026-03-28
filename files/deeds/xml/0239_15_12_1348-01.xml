@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3507" lry="2480" xml:id="facs_0239_15_12_1348-01">
+         <graphic url="0239_15_12_1348-01.jpg" width="3507px" height="2480px"/>
+         <zone points="17,999 2003,1008 2351,962 2380,995 2898,991 2989,954 3205,983 3309,945 3313,883 2359,916 2280,871 2222,920 1484,937 1194,883 925,949 655,887 576,937 373,945 187,941 112,858 21,858" rendition="Line" xml:id="facs_0239_15_12_1348-01_tr_1_tl_1" subtype="default"/>
+         <zone points="21,1074 3354,1037 3354,949 1219,1020 21,999" rendition="Line" xml:id="facs_0239_15_12_1348-01_tr_1_tl_2" subtype="default"/>
+         <zone points="17,1107 929,1136 3296,1078 3296,1028 3201,1024 17,1070" rendition="Line" xml:id="facs_0239_15_12_1348-01_tr_1_tl_3" subtype="default"/>
+         <zone points="17,1169 3271,1157 3271,1074 900,1132 17,1103" rendition="Line" xml:id="facs_0239_15_12_1348-01_tr_1_tl_4" subtype="default"/>
+         <zone points="4,1244 3317,1211 3317,1136 3276,1128 1824,1178 4,1173" rendition="Line" xml:id="facs_0239_15_12_1348-01_tr_1_tl_5" subtype="default"/>
+         <zone points="21,1289 788,1314 838,1281 3292,1265 3296,1211 3205,1194 1833,1244 25,1236" rendition="Line" xml:id="facs_0239_15_12_1348-01_tr_1_tl_6" subtype="default"/>
+         <zone points="29,1343 1887,1360 3267,1319 3267,1260 3047,1252 2479,1294 29,1294" rendition="Line" xml:id="facs_0239_15_12_1348-01_tr_1_tl_7" subtype="default"/>
+         <zone points="33,1401 2272,1422 3093,1377 3288,1443 3288,1319 3255,1314 2446,1352 33,1339" rendition="Line" xml:id="facs_0239_15_12_1348-01_tr_1_tl_8" subtype="default"/>
+         <zone points="41,1497 315,1455 377,1501 435,1468 717,1505 1016,1464 1049,1497 1107,1464 1609,1505 1650,1464 1878,1497 1974,1459 2081,1509 2260,1459 2508,1497 2562,1447 2637,1484 2712,1447 3130,1468 3130,1389 3081,1372 2052,1418 41,1401" rendition="Line" xml:id="facs_0239_15_12_1348-01_tr_1_tl_9" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0239_15_12_1348-01" n="0239_15_12_1348-01" xml:id="img_0239_15_12_1348-01"/>
+            <ab>
+               <l facs="#facs_0239_15_12_1348-01_tr_1_tl_1">Wij Jan vanden mortʼe ende Jan bode Scepenen Jn antwʼpen maken cond . dat vore ons quam Peter wittekele de vischere ende bekende dat hi wittelec vʼcocht</l>
+               <l facs="#facs_0239_15_12_1348-01_tr_1_tl_2">heeft lisbetten wultoissinnen siaers sesse pēninghe oudʼ grotʼ tornoise van m sconings van vᵃncrike ofte de wʼdde daer af in andeʼn ghelde jaerleckʼ</l>
+               <l facs="#facs_0239_15_12_1348-01_tr_1_tl_3">ende erflakʼ renten op siin huis dat ghestaen es in craywijch tusschen Jans torfmans ane dene side . en̄ matheus torfmans ane dander side . ende op</l>
+               <l facs="#facs_0239_15_12_1348-01_tr_1_tl_4">alle dat recht dat hi ane grond ende ane al dattʼ toe behoerd houdende es ōme ene sūme van pēninghen daer hem de vorghenomde peter af bekende al</l>
+               <l facs="#facs_0239_15_12_1348-01_tr_1_tl_5">vʼgouden . Soe dat tvorghenomde huis met allen sinen toebehoerten gherecht pand es en̄ bliuen sal vʼbonden ouʼ de vorghenomde sesse pēninghe grotʼ torn̄</l>
+               <l facs="#facs_0239_15_12_1348-01_tr_1_tl_6">erflaker rente tegheldene ende te gheuene alle jaere vanden vorgh̄ petre wittekelen ende van sinen nacomenlinghen der vorghenomdʼ lisbetten en̄ horen</l>
+               <l facs="#facs_0239_15_12_1348-01_tr_1_tl_7">nacomenlinghen op sente Jans dach baptēn in midden zomʼe . Ende de vorghenomde peter gheloefde dat vorgh̄ huis tewaerne van allen calaingen en̄</l>
+               <l facs="#facs_0239_15_12_1348-01_tr_1_tl_8">kūmʼe wtghenomen viue scellinghen paim̄ts die dat cloester van sente michiels daer siaers op heeft also si ons seiden Jn kennissen van desen lrēn be-</l>
+               <l facs="#facs_0239_15_12_1348-01_tr_1_tl_9">seghelt met onsen seglen . Ghegheuen int Jaer ons heʼn alsmen screef M CCC veertech ende achte des maendaghs na sente lucien dach .</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

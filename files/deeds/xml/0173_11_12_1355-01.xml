@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="2048" lry="1536" xml:id="facs_0173_11_12_1355-01">
+         <graphic url="0173_11_12_1355-01.jpg" width="2048px" height="1536px"/>
+         <zone points="287,313 787,287 1673,328 1759,310 1759,248 1514,272 1384,233 1285,267 1039,207 285,241" rendition="Line" xml:id="facs_0173_11_12_1355-01_tr_1_tl_5" subtype="default"/>
+         <zone points="300,369 684,332 1775,356 1761,311 1542,298 300,310" rendition="Line" xml:id="facs_0173_11_12_1355-01_tr_1_tl_6" subtype="default"/>
+         <zone points="300,395 1759,386 1171,332 300,373" rendition="Line" xml:id="facs_0173_11_12_1355-01_tr_1_tl_7" subtype="default"/>
+         <zone points="287,453 1770,431 1749,384 287,394" rendition="Line" xml:id="facs_0173_11_12_1355-01_tr_1_tl_8" subtype="default"/>
+         <zone points="297,498 983,455 1761,487 1761,435 1662,425 757,418 297,461" rendition="Line" xml:id="facs_0173_11_12_1355-01_tr_1_tl_9" subtype="default"/>
+         <zone points="297,541 472,558 737,502 1749,520 1749,487 1595,464 297,496" rendition="Line" xml:id="facs_0173_11_12_1355-01_tr_1_tl_10" subtype="default"/>
+         <zone points="302,586 1326,539 1757,574 1775,509 739,502 302,543" rendition="Line" xml:id="facs_0173_11_12_1355-01_tr_1_tl_11" subtype="default"/>
+         <zone points="302,636 1054,589 1442,589 1483,629 1774,604 1775,569 1326,537 302,591" rendition="Line" xml:id="facs_0173_11_12_1355-01_tr_1_tl_12" subtype="default"/>
+         <zone points="287,679 1764,653 1766,593 1475,625 1210,587 289,649" rendition="Line" xml:id="facs_0173_11_12_1355-01_tr_1_tl_13" subtype="default"/>
+         <zone points="285,750 905,684 1665,709 1762,692 1764,655 763,647 287,711" rendition="Line" xml:id="facs_0173_11_12_1355-01_tr_1_tl_14" subtype="default"/>
+         <zone points="291,783 1279,724 1779,752 1751,694 1309,681 293,750" rendition="Line" xml:id="facs_0173_11_12_1355-01_tr_1_tl_15" subtype="default"/>
+         <zone points="295,836 1770,781 1755,740 1360,757 1279,724 297,800" rendition="Line" xml:id="facs_0173_11_12_1355-01_tr_1_tl_16" subtype="default"/>
+         <zone points="300,878 1539,822 1753,849 1755,778 300,836" rendition="Line" xml:id="facs_0173_11_12_1355-01_tr_1_tl_17" subtype="default"/>
+         <zone points="295,929 1718,886 1766,841 297,877" rendition="Line" xml:id="facs_0173_11_12_1355-01_tr_1_tl_18" subtype="default"/>
+         <zone points="295,955 1777,921 1779,869 1298,865 1214,901 297,927" rendition="Line" xml:id="facs_0173_11_12_1355-01_tr_1_tl_19" subtype="default"/>
+         <zone points="295,1005 1242,1005 1341,1056 1617,964 1789,1037 1792,919 1714,912 297,955" rendition="Line" xml:id="facs_0173_11_12_1355-01_tr_1_tl_20" subtype="default"/>
+         <zone points="287,1067 608,1041 673,1059 718,1035 791,1059 793,994 679,994 660,1013 619,996 509,1026 395,1002 343,1024 289,1000" rendition="Line" xml:id="facs_0173_11_12_1355-01_tr_1_tl_21" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0173_11_12_1355-01" n="0173_11_12_1355-01" xml:id="img_0173_11_12_1355-01"/>
+            <ab>
+               <l facs="#facs_0173_11_12_1355-01_tr_1_tl_5">Wij Willem de moelneʼ Ende Ramond vanden Werue . Scepenen jn Antwʼpen maken cond dat vore ons quamen</l>
+               <l facs="#facs_0173_11_12_1355-01_tr_1_tl_6">jan colibrant de vleeschouweʼ Ende lijsbeth jans jacobs dochtʼ siin wettelec wijf Ende bekenden dat si ōme</l>
+               <l facs="#facs_0173_11_12_1355-01_tr_1_tl_7">ene sum̄e ghelds die hen al ende wel es vʼgouden . vercocht hebben wetteleke . Eenen bescedenen manne</l>
+               <l facs="#facs_0173_11_12_1355-01_tr_1_tl_8">heʼn janne struybollen priestʼ hore een stucke lands . dat dykende ende dammende es . vore vijfthalue</l>
+               <l facs="#facs_0173_11_12_1355-01_tr_1_tl_9">ghemete lands gheleghen . Jn outsherwele achter de huisinghen die wilen waren Jans van Rykenrode</l>
+               <l facs="#facs_0173_11_12_1355-01_tr_1_tl_10">alder naest ghijsbrechts soys lande ten scinkeldyke waert alsoe si ons seiden . De welke vorseide</l>
+               <l facs="#facs_0173_11_12_1355-01_tr_1_tl_11">vijfthalue ghemete lands . ghehelec ende al de vorseide jan colibrant ende lijsbeth sijn wettelec wijf</l>
+               <l facs="#facs_0173_11_12_1355-01_tr_1_tl_12">ghesamender hand op droeghen met vʼtiene ende claerleke quite stonden . tes vorseids heʼn Jans struy-</l>
+               <l facs="#facs_0173_11_12_1355-01_tr_1_tl_13">bols behoef . met al den Rechte dat si daer ane hadden ende houdende waren Ende bekenden dat si</l>
+               <l facs="#facs_0173_11_12_1355-01_tr_1_tl_14">gheen Recht daer ane en behilden . Ende dat gheloefden si te waerne den seluen heʼen Janne tallen</l>
+               <l facs="#facs_0173_11_12_1355-01_tr_1_tl_15">daghen jeghen alle die ghene die te Rechte comen willen ende daer toe quite ende vri van allen cōmeʼ</l>
+               <l facs="#facs_0173_11_12_1355-01_tr_1_tl_16">ende calaengen Jn gherechten eyghendome . Ende ōme dese vorseide waernisse wel tehoudene ende</l>
+               <l facs="#facs_0173_11_12_1355-01_tr_1_tl_17">voldoene ghelijc vorscreuen es . Soe hebben de vorseide jan colibrand ende lijsbeth siin wettelec wijf</l>
+               <l facs="#facs_0173_11_12_1355-01_tr_1_tl_18">ōme de meere zekerheit hier toe vʼbonden ende te pande gheset hen seluen ende al hoer goed rue-</l>
+               <l facs="#facs_0173_11_12_1355-01_tr_1_tl_19">rende ende onruerende dat si hebben ende ghewinnen moghen Jn kennessen van desen lettʼen . bezeghelt</l>
+               <l facs="#facs_0173_11_12_1355-01_tr_1_tl_20">met onsen zeghelen . Ghegheuen Jnt Jaer ons heʼen alsmen screef M . CCC . vijftech ende viue des vriend-</l>
+               <l facs="#facs_0173_11_12_1355-01_tr_1_tl_21">daeghs vore sente lucien dach</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

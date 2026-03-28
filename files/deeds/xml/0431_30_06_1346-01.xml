@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3507" lry="2480" xml:id="facs_0431_30_06_1346-01">
+         <graphic url="0431_30_06_1346-01.jpg" width="3507px" height="2480px"/>
+         <zone points="534,903 2775,903 2775,831 620,854 534,808" rendition="Line" xml:id="facs_0431_30_06_1346-01_tr_1_tl_1" subtype="default"/>
+         <zone points="531,964 2784,949 2784,903 2547,891 531,915" rendition="Line" xml:id="facs_0431_30_06_1346-01_tr_1_tl_2" subtype="default"/>
+         <zone points="516,1036 915,1001 1059,1039 1105,1001 2793,1027 2793,958 2547,941 516,966" rendition="Line" xml:id="facs_0431_30_06_1346-01_tr_1_tl_3" subtype="default"/>
+         <zone points="528,1079 1503,1053 1705,1085 1794,1050 2328,1085 2464,1047 2735,1085 2735,1013 2524,1001 528,1030" rendition="Line" xml:id="facs_0431_30_06_1346-01_tr_1_tl_4" subtype="default"/>
+         <zone points="519,1122 2758,1134 2758,1079 2458,1047 2247,1091 2095,1056 519,1079" rendition="Line" xml:id="facs_0431_30_06_1346-01_tr_1_tl_5" subtype="default"/>
+         <zone points="514,1174 2761,1171 2761,1137 2628,1119 514,1119" rendition="Line" xml:id="facs_0431_30_06_1346-01_tr_1_tl_6" subtype="default"/>
+         <zone points="516,1217 2767,1241 2767,1168 2360,1200 2126,1166 2095,1197 516,1174" rendition="Line" xml:id="facs_0431_30_06_1346-01_tr_1_tl_7" subtype="default"/>
+         <zone points="508,1287 1457,1261 1665,1295 1740,1255 2747,1290 2747,1232 2700,1229 508,1232" rendition="Line" xml:id="facs_0431_30_06_1346-01_tr_1_tl_8" subtype="default"/>
+         <zone points="508,1321 2712,1353 2712,1304 2608,1278 508,1287" rendition="Line" xml:id="facs_0431_30_06_1346-01_tr_1_tl_9" subtype="default"/>
+         <zone points="505,1373 2752,1393 2752,1336 2395,1318 505,1339" rendition="Line" xml:id="facs_0431_30_06_1346-01_tr_1_tl_10" subtype="default"/>
+         <zone points="514,1454 802,1422 871,1457 2790,1442 2790,1382 514,1385" rendition="Line" xml:id="facs_0431_30_06_1346-01_tr_1_tl_11" subtype="default"/>
+         <zone points="505,1492 2784,1509 2752,1437 505,1448" rendition="Line" xml:id="facs_0431_30_06_1346-01_tr_1_tl_12" subtype="default"/>
+         <zone points="496,1543 2787,1564 2787,1509 2677,1492 496,1483" rendition="Line" xml:id="facs_0431_30_06_1346-01_tr_1_tl_13" subtype="default"/>
+         <zone points="493,1595 2744,1616 2744,1558 2700,1546 1255,1526 493,1564" rendition="Line" xml:id="facs_0431_30_06_1346-01_l" subtype="default"/>
+         <zone points="488,1647 897,1682 978,1642 2019,1670 2331,1630 2441,1679 2510,1642 2807,1679 2807,1595 2444,1584 488,1618" rendition="Line" xml:id="facs_0431_30_06_1346-01_tr_1_tl_16" subtype="default"/>
+         <zone points="488,1708 1062,1740 1414,1702 1509,1743 1546,1705 1676,1734 1745,1702 1797,1745 1861,1705 2083,1737 2406,1691 2334,1630 2230,1665 978,1642 488,1676" rendition="Line" xml:id="facs_0431_30_06_1346-01_tr_1_tl_17" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0431_30_06_1346-01" n="0431_30_06_1346-01" xml:id="img_0431_30_06_1346-01"/>
+            <ab>
+               <l facs="#facs_0431_30_06_1346-01_tr_1_tl_1">Wj Willem de Moelnʼe ende Wouteʼ vanden brueke scepenen in Antwʼpen maken Cond dat vore ons qᵃmen Jan van ykle</l>
+               <l facs="#facs_0431_30_06_1346-01_tr_1_tl_2">sone wilen dyederijs van ykle . en̄ margriete sijn moeder met eenen monboʼe hʼ ghegheuen met den Rechte En̄</l>
+               <l facs="#facs_0431_30_06_1346-01_tr_1_tl_3">bekinden en̄ vʼlieden bescheidenliken en̄ openbaʼe . dat hore goede die hier na sijn bescreuen in desen lrēn . Gherechte</l>
+               <l facs="#facs_0431_30_06_1346-01_tr_1_tl_4">pande zijn erflec en̄ emmʼmeer des gasthuis in Antwerpen . dat men heet tgroete gasthuis . ouʼ viue ende</l>
+               <l facs="#facs_0431_30_06_1346-01_tr_1_tl_5">viertich scellinghe tsiaers erflec . payements . alse elcs jaers oppe sente jans dach in midde zoemʼe ghemeenlec</l>
+               <l facs="#facs_0431_30_06_1346-01_tr_1_tl_6">in borsen lopen zal . daer men mede vʼcoept ende coept . broed ende bier Te gheldene en̄ te gheuene alle jaʼe</l>
+               <l facs="#facs_0431_30_06_1346-01_tr_1_tl_7">van ten vorseiden janne en̄ van vʼ mʼgⁱeten zier moeder of van horen nacomenlinghē den voerseiden gasthuisse</l>
+               <l facs="#facs_0431_30_06_1346-01_tr_1_tl_8">oppe sente jans dagh in midden zoemʼe . Dats te wetene alselc erfue en̄ alselc goed alse jan van ykle voerꞩ ende</l>
+               <l facs="#facs_0431_30_06_1346-01_tr_1_tl_9">margriete sijn moeder ligghende hebben en̄ houdende zijn jnt ghehuchte van boschouen dat voermaels her</l>
+               <l facs="#facs_0431_30_06_1346-01_tr_1_tl_10">heinrijc van ykle ꝓchiaen wilen der kerken van ouden vʼcreech jeghen wouteʼn van galmoert . en̄ janne</l>
+               <l facs="#facs_0431_30_06_1346-01_tr_1_tl_11">sinen brueder ghelijc das het gheleghen es binnē der grachte van dʼ woeninghen daer de voerseide hʼ heinrijc</l>
+               <l facs="#facs_0431_30_06_1346-01_tr_1_tl_12">te woenne plach . Ende daer toe alselken eenen beempt alse si ligghende hebben En̄ houdende sijn aen den pulre</l>
+               <l facs="#facs_0431_30_06_1346-01_tr_1_tl_13">dijc Coemende met eenē ende alsoe dat dese voerseide goede gherechte erflecke pande zijn des voerseits gasthuis</l>
+               <l facs="#facs_0431_30_06_1346-01_l">ouʼ den voerseiden jaerlecken en̄ erflecken cheyns ghelike dat hi voerscreuē es te gheldene sonder weder zegghen</l>
+               <l facs="#facs_0431_30_06_1346-01_tr_1_tl_16">iemans . Jn kennissen van desen lrēn beseghelt mꝫ onsen zeghelen ghegheuen jnt jaer ons heʼn alsmen screef</l>
+               <l facs="#facs_0431_30_06_1346-01_tr_1_tl_17">M CCC sesse en̄ viertich tsvrydaghes na sente petʼs en̄ sente pauwels dach midde zoemʼs</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

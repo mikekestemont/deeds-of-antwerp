@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3507" lry="2480" xml:id="facs_0264_17_09_1336-01">
+         <graphic url="0264_17_09_1336-01.jpg" width="3507px" height="2480px"/>
+         <zone points="269,1647 3377,1612 3377,1522 3291,1546 3185,1468 3131,1511 2936,1476 2690,1550 2229,1476 1796,1558 1729,1495 1554,1542 1409,1507 1312,1562 1132,1495 902,1565 746,1472 671,1519 550,1464 269,1464" rendition="Line" xml:id="facs_0264_17_09_1336-01_tr_1_tl_2" subtype="default"/>
+         <zone points="293,1725 3412,1698 3412,1597 2779,1651 2576,1608 2494,1651 2159,1608 1870,1651 1573,1612 1316,1651 1245,1616 293,1640" rendition="Line" xml:id="facs_0264_17_09_1336-01_tr_1_tl_3" subtype="default"/>
+         <zone points="269,1815 492,1776 789,1807 949,1764 1070,1800 1776,1776 1944,1811 2479,1768 2530,1807 2783,1811 2889,1776 2967,1815 3029,1772 3408,1772 3408,1686 3213,1679 2729,1737 2338,1694 2198,1725 2151,1690 269,1733" rendition="Line" xml:id="facs_0264_17_09_1336-01_tr_1_tl_4" subtype="default"/>
+         <zone points="258,1905 699,1858 800,1897 1003,1850 1245,1886 1304,1854 1339,1889 1452,1850 2151,1886 2350,1846 2861,1878 3346,1846 3346,1768 3275,1764 2975,1811 2534,1811 2487,1772 1944,1811 1331,1772 1167,1807 1097,1772 262,1804" rendition="Line" xml:id="facs_0264_17_09_1336-01_tr_1_tl_5" subtype="default"/>
+         <zone points="269,1983 351,2007 777,1925 894,1971 1343,1921 1452,1956 2354,1928 2413,1971 2553,1928 2627,1967 2955,1917 3385,1936 3385,1858 3306,1835 3049,1878 3006,1843 2865,1878 2194,1850 2143,1886 1429,1843 1339,1886 1089,1850 792,1893 707,1858 269,1928" rendition="Line" xml:id="facs_0264_17_09_1336-01_tr_1_tl_6" subtype="default"/>
+         <zone points="273,2069 1448,2003 1882,2010 2053,2100 2401,2018 2768,2077 2904,2034 3119,2061 3400,1983 3404,1928 2397,1967 2331,1925 1499,1960 1343,1921 1089,1971 761,1928 375,2003 273,1983" rendition="Line" xml:id="facs_0264_17_09_1336-01_tr_1_tl_7" subtype="default"/>
+         <zone points="281,2159 1081,2155 1265,2104 1362,2155 1370,2010 1152,2010 1089,2049 1058,2018 1003,2053 968,2010 863,2014 726,2069 656,2030 574,2065 531,2034 285,2057" rendition="Line" xml:id="facs_0264_17_09_1336-01_tr_1_tl_8" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0264_17_09_1336-01" n="0264_17_09_1336-01" xml:id="img_0264_17_09_1336-01"/>
+            <ab>
+               <l facs="#facs_0264_17_09_1336-01_tr_1_tl_2">Wj Willem drake en̄ Jan vanden Wʼue scepenē Jn Antwʼpen maken cond . dat vore ons qᵃmen simoen daen en̄ Joncfrouwe sa-</l>
+               <l facs="#facs_0264_17_09_1336-01_tr_1_tl_3">bine sijn wetteleke wijf en̄ gauen in purre aelmoesenē ane gode en̄ om zalecheit van horen zielen dʼ taflen des heileghs</l>
+               <l facs="#facs_0264_17_09_1336-01_tr_1_tl_4">gheests vandʼ kerken inde borch tantwʼpen sesse oude grote tornoyse siaers erfleke op een huis ghestaen in claepdorp bi ra-</l>
+               <l facs="#facs_0264_17_09_1336-01_tr_1_tl_5">duwards des joden wonīghe wilen was . dat wilen was gherards erfghenam̄ van beʼndrecht also wi vʼstaen . dats tewetene</l>
+               <l facs="#facs_0264_17_09_1336-01_tr_1_tl_6">naest raduwaerds inde zide tʼ stat wert teheffene en̄ tehebbene alle jare en̄ euwelec dʼ vorseidʼ taflen tʼ armʼe behoef op</l>
+               <l facs="#facs_0264_17_09_1336-01_tr_1_tl_7">sente bauen dach . Jn kennessen van desen lettren . beseghelt met onsen seghlen . Ghegheuen jnt jaer ons heʼn alsm̄ screef . M . CCC .</l>
+               <l facs="#facs_0264_17_09_1336-01_tr_1_tl_8">sesse en̄ derttech in sente lambrechts daghe</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="2048" lry="1536" xml:id="facs_0153_10_05_1339-01">
+         <graphic url="0153_10_05_1339-01.jpg" width="2048px" height="1536px"/>
+         <zone points="138,452 789,425 1098,477 1702,481 1698,341 1570,325 882,405 421,374 210,407 136,366" rendition="Line" xml:id="facs_0153_10_05_1339-01_tr_1_tl_6" subtype="default"/>
+         <zone points="148,499 1007,481 1632,538 1706,532 1704,479 789,425 146,450" rendition="Line" xml:id="facs_0153_10_05_1339-01_tr_1_tl_7" subtype="default"/>
+         <zone points="144,528 987,524 1605,578 1696,575 1694,528 637,475 142,499" rendition="Line" xml:id="facs_0153_10_05_1339-01_tr_1_tl_8" subtype="default"/>
+         <zone points="138,582 1698,615 1698,573 1352,538 138,553" rendition="Line" xml:id="facs_0153_10_05_1339-01_tr_1_tl_9" subtype="default"/>
+         <zone points="144,629 1317,619 1651,662 1692,619 142,578" rendition="Line" xml:id="facs_0153_10_05_1339-01_tr_1_tl_10" subtype="default"/>
+         <zone points="142,686 1196,658 1681,695 1618,641 1313,623 142,631" rendition="Line" xml:id="facs_0153_10_05_1339-01_tr_1_tl_11" subtype="default"/>
+         <zone points="138,715 1659,721 1367,658 138,687" rendition="Line" xml:id="facs_0153_10_05_1339-01_tr_1_tl_12" subtype="default"/>
+         <zone points="138,760 1061,742 1299,791 1681,785 1681,721 138,715" rendition="Line" xml:id="facs_0153_10_05_1339-01_tr_1_tl_13" subtype="default"/>
+         <zone points="132,791 351,822 575,789 956,824 997,810 999,742 876,771 132,765" rendition="Line" xml:id="facs_0153_10_05_1339-01_tr_1_tl_14" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0153_10_05_1339-01" n="0153_10_05_1339-01" xml:id="img_0153_10_05_1339-01"/>
+            <ab>
+               <l facs="#facs_0153_10_05_1339-01_tr_1_tl_6">Wj arnoud canteman en̄ Jan vanden Wʼue scepenē in Antwʼpen maken cont dat vore ons quā</l>
+               <l facs="#facs_0153_10_05_1339-01_tr_1_tl_7">petʼ valke en̄ gaf en̄ droech op in aelmosenē en̄ in vorm̄ vā testam̄te om gode den 9uente</l>
+               <l facs="#facs_0153_10_05_1339-01_tr_1_tl_8">vandʼ derddʼ ordenē sente fᵃnciscus in Antwʼpen de heleft van dien viue scellīghen grotē</l>
+               <l facs="#facs_0153_10_05_1339-01_tr_1_tl_9">tornoysen die hi hadde jaerlijcs opt huis dat m̄ heet die witvoet sghestaen opden hoech vā</l>
+               <l facs="#facs_0153_10_05_1339-01_tr_1_tl_10">dʼ nuwstᵃten met alden rechte dat hi hadde ane thuis en̄ ane den gront . van welken viue</l>
+               <l facs="#facs_0153_10_05_1339-01_tr_1_tl_11">scellīghen sjaers dandʼ heleft toe hoert janne sinē sone . also dat de vorꞩ petʼ quite scout</l>
+               <l facs="#facs_0153_10_05_1339-01_tr_1_tl_12">alle dat recht dat hi daer ane hadde . tes vorseids 9uents behoef . Jn kēnessen van desen</l>
+               <l facs="#facs_0153_10_05_1339-01_tr_1_tl_13">lrēn . beseghlt met onsen zeghlen . Ghegheuē jnt jaer ons heʼn alsm̄ screef . M . CCC . Neghe</l>
+               <l facs="#facs_0153_10_05_1339-01_tr_1_tl_14">ne en̄ dʼttech des maendaegs vore chinxsendach</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

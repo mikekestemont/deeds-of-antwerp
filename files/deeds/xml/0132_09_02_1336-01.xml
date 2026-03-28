@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3999" lry="1094" xml:id="facs_0132_09_02_1336-01">
+         <graphic url="0132_09_02_1336-01.jpg" width="3999px" height="1094px"/>
+         <zone points="128,284 706,270 763,317 1009,284 1976,346 2052,308 2459,332 2635,299 2706,336 3038,280 3829,261 3829,185 3620,199 3469,133 3379,185 3256,152 3132,213 2914,123 2730,227 2654,180 2459,237 2350,204 2260,265 2085,166 1744,242 1644,209 1351,251 1251,185 1109,223 834,142 711,194 644,156 559,218 128,137" rendition="Line" xml:id="facs_0132_09_02_1336-01_tr_1_tl_1" subtype="default"/>
+         <zone points="142,360 990,355 1090,393 1180,365 1213,403 1308,365 1787,426 1881,384 2374,417 2649,408 2791,355 3862,341 3862,251 3696,280 3549,242 3360,299 1981,341 1483,303 1384,332 1137,280 971,313 919,280 763,313 706,275 142,284" rendition="Line" xml:id="facs_0132_09_02_1336-01_tr_1_tl_2" subtype="default"/>
+         <zone points="142,464 441,417 1805,493 2426,450 2587,488 2962,431 3137,474 3620,403 3952,436 3952,317 3905,303 3355,374 2791,351 2649,403 1791,426 1308,365 1208,398 1090,351 142,360" rendition="Line" xml:id="facs_0132_09_02_1336-01_tr_1_tl_3" subtype="default"/>
+         <zone points="152,512 251,540 332,502 801,488 1000,540 1185,517 1526,564 1678,526 2028,573 2218,535 2322,573 2573,521 2995,550 3090,512 3151,540 3881,479 3853,403 3142,464 3033,422 2587,488 2455,450 2222,488 1322,445 1156,474 1061,431 730,417 152,464" rendition="Line" xml:id="facs_0132_09_02_1336-01_tr_1_tl_4" subtype="default"/>
+         <zone points="152,626 654,569 1976,644 2412,611 2521,649 2711,597 2763,640 2962,592 3189,621 3293,578 3398,626 3478,573 3601,611 3673,559 3734,597 3895,583 3895,479 1910,573 1673,521 1606,559 1526,521 1478,564 1223,517 995,535 791,483 730,517 152,512" rendition="Line" xml:id="facs_0132_09_02_1336-01_tr_1_tl_5" subtype="default"/>
+         <zone points="180,678 782,644 934,701 1194,668 1493,730 1578,692 1919,730 2123,692 2317,735 2507,682 3928,678 3928,583 3734,597 3677,554 3611,607 3431,564 3379,602 2706,597 2526,644 2407,611 1516,630 1478,597 1412,635 659,569 180,602" rendition="Line" xml:id="facs_0132_09_02_1336-01_l" subtype="default"/>
+         <zone points="185,749 450,763 573,716 905,758 1033,711 1455,796 1692,763 1957,810 2407,772 2559,806 2876,753 3066,791 3241,749 3289,782 3431,744 3914,768 3914,678 3748,654 3511,692 3383,663 3293,706 2862,673 2554,711 2507,678 2350,730 2128,692 1933,730 1734,692 1531,716 1128,663 924,692 787,644 185,682" rendition="Line" xml:id="facs_0132_09_02_1336-01_l_1" subtype="default"/>
+         <zone points="194,839 498,796 872,843 1109,796 1317,858 1815,843 2118,886 2279,839 2336,877 2739,839 2862,881 3128,829 3213,867 3393,829 3426,858 3483,815 3891,829 3891,758 3635,744 2943,796 2772,753 2568,806 1436,791 976,711 905,758 720,720 194,749" rendition="Line" xml:id="facs_0132_09_02_1336-01_l_2" subtype="default"/>
+         <zone points="209,915 502,915 564,877 938,924 1047,867 1289,952 1720,938 1787,971 2038,924 2113,962 2616,971 2853,924 3132,962 3350,896 3469,948 3606,896 3900,952 3900,829 3782,853 3611,810 3436,858 3274,829 2881,872 2829,834 2625,877 2507,839 2336,886 1412,829 1322,862 1104,791 744,839 493,796 209,815" rendition="Line" xml:id="facs_0132_09_02_1336-01_l_3" subtype="default"/>
+         <zone points="1093,1093 265,1090 1093,1093 313,1090 1093,1093 346,1090 512,1033 948,1090 1317,1090 1384,1052 1441,1090 1621,1000 2095,1071 2284,1028 2279,938 1265,943 1038,862 952,924 564,877 498,915 218,910" rendition="Line" xml:id="facs_0132_09_02_1336-01_l_4" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0132_09_02_1336-01" n="0132_09_02_1336-01" xml:id="img_0132_09_02_1336-01"/>
+            <ab>
+               <l facs="#facs_0132_09_02_1336-01_tr_1_tl_1">Wij Claus van Winenghem ridd@@ ende willem sprongh . Scepenen in antwʼpen maken cond . dat vore ons quamen her Jan de swerte ꝓchiaen van sente</l>
+               <l facs="#facs_0132_09_02_1336-01_tr_1_tl_2">Woutborghen kerke inde borch tantwerpen . ende michiel kieken alse ꝓuistere . ende berechtʼs vander vorgh̄ kerken . ane dene side . ende peter de wint de colneʼ</l>
+               <l facs="#facs_0132_09_02_1336-01_tr_1_tl_3">ane dander side . ende bekinden @@@@@erlinghe dat de vorseide hʼ jan de swerte ende michiel ōme nutscap en̄ pom@@@ der vorgh̄ kerken ghegheuen hebben met</l>
+               <l facs="#facs_0132_09_02_1336-01_tr_1_tl_4">consente en̄ goeddunken va@@@@ den vorghenoemden petre den wint ene hofstat die gheleghen es bider vorseider kerke ane den torre nortwaert . die</l>
+               <l facs="#facs_0132_09_02_1336-01_tr_1_tl_5">arnoud dibboutssone vormaels houdende was erflec . ende in erfleckene rechte te houdene ende te hebbene siaers ōme tiene pēnninghe oudʼ grotʼ tornoise</l>
+               <l facs="#facs_0132_09_02_1336-01_l">goed ende custbaer van mūnten @@@@@@@ van vrancrike jaerleckʼe ende erfleckeʼ te gheldene ende tegheuene @@@ jaer vanden vorgh̄ petre den wint</l>
+               <l facs="#facs_0132_09_02_1336-01_l_1">ende van sinen nacomenlingh@@ den vorghenoemden ꝓuisoren . ochte den ghenen die na hen ꝓuisoers in hare stede wesen selen te vorgh̄ kerken behoef . op</l>
+               <l facs="#facs_0132_09_02_1336-01_l_2">onser vrouwen dach tʼ @@@@@@ . Jn kennissen van desen lettren beseghelt met onsen seglen Ende @@@@ @@@@ vorghenoemt ōme de meerre</l>
+               <l facs="#facs_0132_09_02_1336-01_l_3">sekerheit van desen dinghen soe hebben wi onse segle mettʼ vorgh̄ scepenē segle ane dese lettrʼen ghehanghen @@@@@@ jnt jaer ons heʼn alsmen</l>
+               <l facs="#facs_0132_09_02_1336-01_l_4">screef  M CCC viue ende dertich @@@@tʼdags na onser vrouwen dach ter lichtmessen</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

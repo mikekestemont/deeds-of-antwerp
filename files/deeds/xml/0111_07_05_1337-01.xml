@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="1650" lry="540" xml:id="facs_0111_07_05_1337-01">
+         <graphic url="0111_07_05_1337-01.jpg" width="1650px" height="540px"/>
+         <zone points="57,115 1470,146 1617,126 1617,77 55,55" rendition="Line" xml:id="facs_0111_07_05_1337-01_tr_1_tl_1" subtype="default"/>
+         <zone points="30,154 1615,178 1615,132 30,111" rendition="Line" xml:id="facs_0111_07_05_1337-01_tr_1_tl_2" subtype="default"/>
+         <zone points="47,206 1617,215 1589,170 202,144 47,176" rendition="Line" xml:id="facs_0111_07_05_1337-01_tr_1_tl_3" subtype="default"/>
+         <zone points="59,243 949,225 1502,269 1619,259 1619,221 57,194" rendition="Line" xml:id="facs_0111_07_05_1337-01_tr_1_tl_4" subtype="default"/>
+         <zone points="53,287 1632,296 1632,255 1200,233 53,241" rendition="Line" xml:id="facs_0111_07_05_1337-01_tr_1_tl_5" subtype="default"/>
+         <zone points="55,316 1630,338 1628,294 1385,279 55,271" rendition="Line" xml:id="facs_0111_07_05_1337-01_tr_1_tl_6" subtype="default"/>
+         <zone points="51,354 1630,370 1595,324 1470,312 51,312" rendition="Line" xml:id="facs_0111_07_05_1337-01_tr_1_tl_7" subtype="default"/>
+         <zone points="51,385 1611,391 1611,360 1194,342 51,354" rendition="Line" xml:id="facs_0111_07_05_1337-01_tr_1_tl_8" subtype="default"/>
+         <zone points="53,441 1613,437 1601,395 53,387" rendition="Line" xml:id="facs_0111_07_05_1337-01_tr_1_tl_9" subtype="default"/>
+         <zone points="55,488 668,462 1634,502 1634,447 1569,435 55,441" rendition="Line" xml:id="facs_0111_07_05_1337-01_tr_1_tl_10" subtype="default"/>
+         <zone points="47,530 140,508 209,536 539,539 227,538 539,539 237,538 302,516 306,464 49,490" rendition="Line" xml:id="facs_0111_07_05_1337-01_tr_1_tl_11" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0111_07_05_1337-01" n="0111_07_05_1337-01" xml:id="img_0111_07_05_1337-01"/>
+            <ab>
+               <l facs="#facs_0111_07_05_1337-01_tr_1_tl_1">Wi Woutre de buc en̄ willem drake scepenen jn Antwʼpen maken cond . dat vore ons quā Jonfrouwe Lijsbeth</l>
+               <l facs="#facs_0111_07_05_1337-01_tr_1_tl_2">wettelec wijf wilen zeghers des buischers met haren montbore ghegheuen hare metden rechte . En̄ gaf</l>
+               <l facs="#facs_0111_07_05_1337-01_tr_1_tl_3">en̄ droech op in ghestadeghʼ ghiften . mier vrouwen der priorinnen en̄ den 9uente vanden nonnen des cloe</l>
+               <l facs="#facs_0111_07_05_1337-01_tr_1_tl_4">sters van sente margrieten bi Antwʼpen . achte ghemete en̄ een vierdendeel ghemeets lands gheleghen int</l>
+               <l facs="#facs_0111_07_05_1337-01_tr_1_tl_5">watʼland dats tewetene sesse ghemete int goer en̄ Neghene vierdendele ghemeets op dandre tenden</l>
+               <l facs="#facs_0111_07_05_1337-01_tr_1_tl_6">den hoghen wech . dat welke land de vorseide jonfrʼ lijsbeth met haren montbore quite scout tes vorꞩ</l>
+               <l facs="#facs_0111_07_05_1337-01_tr_1_tl_7">cōuents behoef en̄ bekende dat si en gheen recht daer ane en behilt . mede quā vore ons gilijs de buischeʼ sone</l>
+               <l facs="#facs_0111_07_05_1337-01_tr_1_tl_8">det vorꞩ jonfrʼ lijsbetten en̄ kekende dat hi en gheen recht en hadde ane dit vorseide land . en̄ hadde hi enech</l>
+               <l facs="#facs_0111_07_05_1337-01_tr_1_tl_9">recht daer ane dat scout hi claerlike quite tes vorseids cōuents behoef . Jn kennessen van desen lettren be</l>
+               <l facs="#facs_0111_07_05_1337-01_tr_1_tl_10">zeghelt met onsen zeghlen . Ghegheuen jnt jaer ons heren alsm̄ screef . M . CCC . zevene en̄ derttech des woens-</l>
+               <l facs="#facs_0111_07_05_1337-01_tr_1_tl_11">daegs na meydach</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

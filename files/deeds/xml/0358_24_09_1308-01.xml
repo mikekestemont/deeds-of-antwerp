@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="4096" lry="1107" xml:id="facs_0358_24_09_1308-01">
+         <graphic url="0358_24_09_1308-01.jpg" width="4096px" height="1107px"/>
+         <zone points="86,154 379,154 441,115 585,163 969,110 1190,149 1247,106 1401,139 1502,106 1545,149 1684,101 1905,158 1977,120 2327,168 2495,144 2571,201 2682,154 2797,201 2984,178 3051,230 3118,182 3281,221 3545,192 3771,254 3828,221 3824,29 82,24" rendition="Line" xml:id="facs_0358_24_09_1308-01_tr_1_tl_1" subtype="default"/>
+         <zone points="91,293 230,235 365,269 537,211 696,249 960,201 1526,249 1885,211 1933,254 2063,211 2106,245 2370,230 2480,288 2547,259 2648,307 2735,273 2864,321 3502,288 3584,355 3752,321 3833,360 3828,230 3761,254 3545,192 3344,225 3114,182 3046,230 2984,178 2816,216 2682,158 2576,201 2404,139 2236,168 1977,115 1857,158 1780,106 1598,101 1550,149 1502,106 1425,139 1247,101 1180,154 1031,106 585,163 518,120 86,154" rendition="Line" xml:id="facs_0358_24_09_1308-01_tr_1_tl_2" subtype="default"/>
+         <zone points="101,355 235,369 413,317 504,345 700,293 897,326 964,297 1022,341 1094,297 1550,331 1890,293 1953,341 2303,321 2533,389 2591,355 2811,398 2907,355 3008,403 3234,393 3291,441 3848,417 3848,360 3752,321 3579,350 3493,288 3339,326 3262,283 3214,321 2802,283 2768,317 2058,206 1842,249 1410,245 1238,201 1171,240 739,211 700,254 528,216 485,259 427,216 341,278 249,235 101,283" rendition="Line" xml:id="facs_0358_24_09_1308-01_tr_1_tl_3" subtype="default"/>
+         <zone points="115,413 1367,379 1425,422 1708,389 1948,432 2068,389 2212,441 2341,408 2576,470 2629,441 2912,494 3056,461 3186,518 3281,480 3872,537 3872,417 3742,393 3421,446 2912,360 2797,393 2255,317 2202,355 1953,341 1881,293 1334,326 1171,293 1022,336 705,297 499,345 350,321 317,360 115,345" rendition="Line" xml:id="facs_0358_24_09_1308-01_tr_1_tl_4" subtype="default"/>
+         <zone points="115,489 379,509 422,470 859,480 902,446 969,485 1137,456 1497,499 1574,461 1727,499 1780,465 2140,528 2308,489 2581,518 2744,576 2840,533 3267,609 3445,571 3579,633 3924,624 3920,518 3708,542 3622,499 3531,533 3291,480 3186,513 3046,461 2917,494 2346,408 2202,437 2082,389 1938,432 1828,389 1655,422 1017,374 883,413 724,379 115,417" rendition="Line" xml:id="facs_0358_24_09_1308-01_tr_1_tl_5" subtype="default"/>
+         <zone points="125,566 768,537 1175,576 1324,537 1487,580 1631,533 1962,590 2303,576 2384,624 2682,600 2960,662 3862,700 3910,739 3944,739 3939,619 3608,633 3449,571 3253,604 3147,557 3075,585 2831,533 2792,566 2725,523 2552,552 2495,504 2303,489 2173,528 1852,470 1694,504 1569,461 1492,499 1430,461 1372,494 1070,456 993,494 897,446 413,470 384,509 120,489" rendition="Line" xml:id="facs_0358_24_09_1308-01_tr_1_tl_6" subtype="default"/>
+         <zone points="125,686 461,628 854,657 1214,609 1362,657 1746,624 1837,662 1905,624 2308,696 2384,662 2452,700 2509,657 2562,710 2821,696 3138,768 3267,729 3368,792 3627,768 3848,825 3977,796 3972,700 3886,734 1631,533 1391,571 1324,537 1108,571 585,542 312,590 115,561" rendition="Line" xml:id="facs_0358_24_09_1308-01_tr_1_tl_7" subtype="default"/>
+         <zone points="154,729 307,768 753,700 983,729 1214,691 1425,734 1526,700 1646,739 1727,700 1943,758 2058,729 2197,772 2672,768 2730,811 3157,801 3517,840 3565,883 3723,854 3900,888 3900,816 3627,768 3521,801 3406,763 3353,792 3267,734 3138,763 2821,696 2663,724 2509,657 2447,700 2053,633 1315,652 1209,609 859,657 763,624 240,643 154,681" rendition="Line" xml:id="facs_0358_24_09_1308-01_tr_1_tl_8" subtype="default"/>
+         <zone points="158,825 983,777 1358,816 1530,782 1665,830 1732,792 1977,801 2389,868 2499,825 2600,868 2783,844 2902,907 3334,907 3478,964 3550,931 3804,998 3948,993 3944,868 3565,883 3162,801 3109,835 2907,787 2447,787 2380,734 2245,772 2049,729 1953,758 1727,696 1655,734 1521,700 1271,729 1199,691 470,753 417,724 369,758 154,734" rendition="Line" xml:id="facs_0358_24_09_1308-01_tr_1_tl_9" subtype="default"/>
+         <zone points="158,1031 336,960 825,1027 983,936 1175,1027 1305,955 1516,993 1617,883 1746,864 2346,988 2447,921 2528,950 2576,916 2648,983 2783,945 2888,1012 3152,1012 3147,888 2902,912 2826,859 2610,873 2504,825 2336,864 1674,782 1031,816 796,777 633,820 552,782 518,825 341,840 149,801" rendition="Line" xml:id="facs_0358_24_09_1308-01_tr_1_tl_10" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0358_24_09_1308-01" n="0358_24_09_1308-01" xml:id="img_0358_24_09_1308-01"/>
+            <ab>
+               <l facs="#facs_0358_24_09_1308-01_tr_1_tl_1">Wi claus cantman en̄ Jan Wilmaer de rode scepenen in Antwʼpen maken cont alle den ghenen die dese lettre zullen zien oft</l>
+               <l facs="#facs_0358_24_09_1308-01_tr_1_tl_2">horen lesen dat vor ons comen es in ꝓpre ꝑsone claus van den werue en̄ heeft verlijt dathi heeft ghegheuen henrike den leppere</l>
+               <l facs="#facs_0358_24_09_1308-01_tr_1_tl_3">ene hofstat ligghende te wommilghem bi tkercof omme tuentich scellinghe cleiner suerter tornoise van sconings munte van</l>
+               <l facs="#facs_0358_24_09_1308-01_tr_1_tl_4">vrancrike oft de werde daer af . en̄ vier cappune erfleke alle jaer te gheldene te paesken clause vorghenomt of den hebbʼe</l>
+               <l facs="#facs_0358_24_09_1308-01_tr_1_tl_5">van deser lettren . en̄ hier bi zal henric vorghenomt ofte zine nacomelinghe doen clause vorgenomt of den hebbeʼ van dese lettren</l>
+               <l facs="#facs_0358_24_09_1308-01_tr_1_tl_6">al dat erflaet sculdich es te dene bouen en̄ beneden . en̄ waert dat sake dat verscene oft verwandilde waer bi datter clais vor</l>
+               <l facs="#facs_0358_24_09_1308-01_tr_1_tl_7">ghenomt of des hebbers van deser lettren recht ane laghe so sout henric vorghenomt ofte zine nacomelinghe versoeken met tuentich</l>
+               <l facs="#facs_0358_24_09_1308-01_tr_1_tl_8">scelinghen cleiner suertʼ turnoise en̄ met vier cappunen . En̄ hier bi so heeft henric vorghenomt ghelouet dese hofstat vorghenomt te</l>
+               <l facs="#facs_0358_24_09_1308-01_tr_1_tl_9">betimmerenne waer bi dat clais vorghenomt ziins ciins zeker zi . Jn orconscepen van desen dinghen hebbe wi dese lettre besegilt</l>
+               <l facs="#facs_0358_24_09_1308-01_tr_1_tl_10">met onsen seglen . Dit was ghedaen int Jaer ons heren . M . CCC . en̄ achte acht daghe vor sint bauen dach</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

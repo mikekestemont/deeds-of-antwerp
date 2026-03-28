@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="2480" lry="3507" xml:id="facs_0335_22_05_1346-01">
+         <graphic url="0335_22_05_1346-01.jpg" width="2480px" height="3507px"/>
+         <zone points="112,910 250,957 401,916 565,948 1116,898 1322,937 1364,898 1399,934 1696,892 1802,937 1926,884 2459,904 2462,810 1991,813 1852,854 1743,810 1702,848 1652,819 1387,860 1196,807 1140,860 780,828 300,878 115,813" rendition="Line" xml:id="facs_0335_22_05_1346-01_tr_1_tl_3" subtype="default"/>
+         <zone points="124,990 1128,1001 1602,954 1676,998 1920,951 2438,987 2433,898 2206,886 124,954" rendition="Line" xml:id="facs_0335_22_05_1346-01_tr_1_tl_4" subtype="default"/>
+         <zone points="124,1075 981,1037 1408,1069 1455,1031 1882,1016 2347,1013 2424,1054 2459,975 2006,990 1926,948 1761,990 1637,954 1561,998 1478,963 1249,1004 689,978 486,1019 415,981 124,1022" rendition="Line" xml:id="facs_0335_22_05_1346-01_tr_1_tl_5" subtype="default"/>
+         <zone points="112,1157 191,1116 642,1157 707,1119 916,1149 1010,1098 1284,1140 1490,1093 1696,1131 1908,1084 2468,1090 2468,1028 1879,1019 1832,1057 1740,1025 1581,1063 1455,1031 1408,1069 1269,1037 981,1078 642,1043 112,1081" rendition="Line" xml:id="facs_0335_22_05_1346-01_tr_1_tl_6" subtype="default"/>
+         <zone points="106,1175 2474,1172 2441,1078 2368,1128 2044,1090 1157,1137 1010,1098 928,1146 586,1116 106,1149" rendition="Line" xml:id="facs_0335_22_05_1346-01_tr_1_tl_7" subtype="default"/>
+         <zone points="112,1269 942,1225 1534,1219 1579,1252 1634,1213 2117,1249 2459,1213 2462,1175 112,1184" rendition="Line" xml:id="facs_0335_22_05_1346-01_tr_1_tl_8" subtype="default"/>
+         <zone points="138,1311 2453,1287 2453,1231 1702,1246 1643,1207 1584,1249 359,1240 289,1278 194,1243 138,1278" rendition="Line" xml:id="facs_0335_22_05_1346-01_tr_1_tl_9" subtype="default"/>
+         <zone points="106,1378 2444,1349 2406,1281 2059,1278 1319,1284 1140,1328 1069,1284 872,1328 571,1302 474,1334 427,1299 106,1340" rendition="Line" xml:id="facs_0335_22_05_1346-01_tr_1_tl_10" subtype="default"/>
+         <zone points="109,1467 1043,1414 1181,1455 1941,1405 2044,1440 2329,1387 2459,1452 2459,1355 2312,1340 854,1393 695,1355 624,1399 327,1366 277,1411 186,1369 112,1405" rendition="Line" xml:id="facs_0335_22_05_1346-01_tr_1_tl_11" subtype="default"/>
+         <zone points="112,1523 492,1552 598,1502 698,1558 825,1478 990,1523 1063,1484 1107,1526 1311,1481 1411,1543 1472,1490 1640,1531 1714,1478 1888,1528 2056,1478 2173,1517 2412,1484 2415,1428 2191,1396 2000,1443 1690,1414 1178,1449 1040,1417 610,1464 259,1431 112,1470" rendition="Line" xml:id="facs_0335_22_05_1346-01_tr_1_tl_12" subtype="default"/>
+         <zone points="103,1590 133,1602 215,1602 233,1590 297,1587 327,1623 409,1632 415,1537 383,1520 339,1537 315,1537 303,1523 250,1528 215,1558 159,1540 138,1558 106,1552" rendition="Line" xml:id="facs_0335_22_05_1346-01_tr_1_tl_13" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0335_22_05_1346-01" n="0335_22_05_1346-01" xml:id="img_0335_22_05_1346-01"/>
+            <ab>
+               <l facs="#facs_0335_22_05_1346-01_tr_1_tl_3">Wi Jan vanden mortʼe ende Willem de moelnʼe . scepenen in Antwʼpen maken Cond . Dat vor</l>
+               <l facs="#facs_0335_22_05_1346-01_tr_1_tl_4">ons quam een eersaem man mijn heʼ godeuaert van der dilf Riddeʼ . Ende bekinde dat hi</l>
+               <l facs="#facs_0335_22_05_1346-01_tr_1_tl_5">mids den orloue dat hem arnoud de Rademakʼe 9sentʼde . den wech te vʼstaene in loebroec bj @@</l>
+               <l facs="#facs_0335_22_05_1346-01_tr_1_tl_6">godeuʼds voerꞩ woeninghe gheleghen . de selue heʼ godeuʼt voerꞩ 9sentʼde en̄ willecoerde den voer@@@</l>
+               <l facs="#facs_0335_22_05_1346-01_tr_1_tl_7">arnoude . sinen oyeʼn ende nacomenlinghen eeuwelec en̄ tallen daghen durende hebbende ende</l>
+               <l facs="#facs_0335_22_05_1346-01_tr_1_tl_8">vrylec ghebrukende eenen wech varende en̄ keeʼnde ouʼ heʼn godeuʼts voerseit erfue en̄ land to</l>
+               <l facs="#facs_0335_22_05_1346-01_tr_1_tl_9">es voerseids arnouds lande in loebroec gheleghen . houdende omtrent viue ghemeden luttel meer</l>
+               <l facs="#facs_0335_22_05_1346-01_tr_1_tl_10">af min lands . Onverꞩ van den seluē heʼn godeuʼde sinen oyeʼn en̄ nacomenlinghen jn eeneghen</l>
+               <l facs="#facs_0335_22_05_1346-01_tr_1_tl_11">tiden ochte iemans andʼs van horen weghen jn kennissen van desen letteʼn beseghelt met onsen</l>
+               <l facs="#facs_0335_22_05_1346-01_tr_1_tl_12">zeghelen Ghegheuē int Jaer ons heʼn alsmen screef M CCC sesse en̄ viertich tsmaendaghes in die</l>
+               <l facs="#facs_0335_22_05_1346-01_tr_1_tl_13">Cruce daghe</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

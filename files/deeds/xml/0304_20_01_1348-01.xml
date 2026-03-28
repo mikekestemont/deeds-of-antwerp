@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="1650" lry="596" xml:id="facs_0304_20_01_1348-01">
+         <graphic url="0304_20_01_1348-01.jpg" width="1650px" height="596px"/>
+         <zone points="125,158 1591,220 1610,139 1215,137 1082,85 697,131 558,87 302,129 123,91" rendition="Line" xml:id="facs_0304_20_01_1348-01_tr_1_tl_1" subtype="default"/>
+         <zone points="93,184 1568,254 1584,220 91,133" rendition="Line" xml:id="facs_0304_20_01_1348-01_tr_1_tl_2" subtype="default"/>
+         <zone points="95,224 1164,249 1570,302 1616,292 1614,237 93,186" rendition="Line" xml:id="facs_0304_20_01_1348-01_tr_1_tl_3" subtype="default"/>
+         <zone points="93,270 1614,327 1612,292 1166,249 91,222" rendition="Line" xml:id="facs_0304_20_01_1348-01_tr_1_tl_4" subtype="default"/>
+         <zone points="85,287 1160,330 1369,376 1599,372 1597,327 84,268" rendition="Line" xml:id="facs_0304_20_01_1348-01_tr_1_tl_5" subtype="default"/>
+         <zone points="91,327 1587,406 1585,372 1158,330 91,298" rendition="Line" xml:id="facs_0304_20_01_1348-01_tr_1_tl_6" subtype="default"/>
+         <zone points="89,448 349,454 450,406 632,448 803,418 1610,475 1570,410 82,323" rendition="Line" xml:id="facs_0304_20_01_1348-01_tr_1_tl_7" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0304_20_01_1348-01" n="0304_20_01_1348-01" xml:id="img_0304_20_01_1348-01"/>
+            <ab>
+               <l facs="#facs_0304_20_01_1348-01_tr_1_tl_1">Wij peter van hoboken en̄ Gielijs de stouʼe scepen̄ in Antwʼpē makē cont dat vore ons quam joncfrʼ</l>
+               <l facs="#facs_0304_20_01_1348-01_tr_1_tl_2">Aeghte vander pannē . nonne des cloestʼs van sente margrietē bi Antwʼpē . Ende gaf en̄ droech op harē</l>
+               <l facs="#facs_0304_20_01_1348-01_tr_1_tl_3">Conuēte des vorꞩ cloestʼs van sente margrietē bi antwʼpē . alle dat goed en̄ rentē die si vormaels vʼreech ieghē</l>
+               <l facs="#facs_0304_20_01_1348-01_tr_1_tl_4">Ramonde vanden Wʼue . gheleghē biden vorꞩ cloestʼe ane die holestᵃte . ghelijc dat die lrēn sprekē die daer op ghe-</l>
+               <l facs="#facs_0304_20_01_1348-01_tr_1_tl_5">maect siin . met onsen seghelen beseghelt . also dat dit vorꞩ conuent dit vorꞩ goed hebben en̄ heffen sal . en̄ des</l>
+               <l facs="#facs_0304_20_01_1348-01_tr_1_tl_6">vrilec ghebruken sonder wedersegghen van yemene . Jn kinnessen van desen lrēn beseghelt met onsen zeghelen</l>
+               <l facs="#facs_0304_20_01_1348-01_tr_1_tl_7">Ghegheuē int jaer ons heʼn alsmen screef . M . CCC . viertech en̄ zeuene . Des maendaghes naden andach van dʼtiendaghe</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3507" lry="2480" xml:id="facs_0208_14_03_1347-01">
+         <graphic url="0208_14_03_1347-01.jpg" width="3507px" height="2480px"/>
+         <zone points="416,762 840,733 1064,780 1244,736 1704,786 1776,759 1830,795 2072,756 2290,786 2661,777 2709,712 2550,676 2476,721 2144,721 2066,670 1946,721 1824,634 1743,697 1606,715 1561,676 1346,709 1205,646 1121,700 1061,646 607,700 413,649" rendition="Line" xml:id="facs_0208_14_03_1347-01_tr_1_tl_1" subtype="default"/>
+         <zone points="380,810 2147,822 2201,855 2727,813 2727,774 2604,753 1827,795 1776,759 1244,739 1041,777 837,730 380,777" rendition="Line" xml:id="facs_0208_14_03_1347-01_tr_1_tl_2" subtype="default"/>
+         <zone points="389,873 2769,882 2751,795 2613,843 2204,855 2138,819 1686,846 1124,792 389,822" rendition="Line" xml:id="facs_0208_14_03_1347-01_tr_1_tl_3" subtype="default"/>
+         <zone points="380,930 2679,936 2640,873 380,873" rendition="Line" xml:id="facs_0208_14_03_1347-01_tr_1_tl_4" subtype="default"/>
+         <zone points="386,993 2733,1002 2733,924 1988,963 1567,921 1507,954 1223,915 386,933" rendition="Line" xml:id="facs_0208_14_03_1347-01_tr_1_tl_5" subtype="default"/>
+         <zone points="383,1064 1079,1029 2631,1067 2667,1032 2781,1055 2778,972 2371,1017 795,972 697,1014 619,975 380,999" rendition="Line" xml:id="facs_0208_14_03_1347-01_tr_1_tl_6" subtype="default"/>
+         <zone points="389,1112 2359,1097 2440,1130 2655,1094 2793,1127 2793,1067 2667,1032 2631,1067 1079,1029 389,1067" rendition="Line" xml:id="facs_0208_14_03_1347-01_tr_1_tl_7" subtype="default"/>
+         <zone points="404,1190 876,1151 1498,1151 1639,1196 1845,1157 2802,1166 2802,1112 2652,1091 1737,1133 1232,1091 404,1115" rendition="Line" xml:id="facs_0208_14_03_1347-01_tr_1_tl_8" subtype="default"/>
+         <zone points="410,1247 888,1223 1008,1262 1154,1208 1241,1253 1334,1211 1905,1211 2060,1250 2108,1211 2410,1202 2467,1241 2787,1202 2694,1145 2649,1178 876,1151 410,1187" rendition="Line" xml:id="facs_0208_14_03_1347-01_tr_1_tl_9" subtype="default"/>
+         <zone points="422,1298 2811,1283 2811,1223 2461,1238 2407,1199 2066,1247 1905,1211 1334,1211 1244,1253 1187,1217 422,1235" rendition="Line" xml:id="facs_0208_14_03_1347-01_tr_1_tl_10" subtype="default"/>
+         <zone points="386,1372 1109,1325 1432,1363 1498,1328 1585,1375 1896,1325 2018,1363 2467,1316 2574,1357 2640,1310 2730,1328 2733,1268 386,1310" rendition="Line" xml:id="facs_0208_14_03_1347-01_tr_1_tl_11" subtype="default"/>
+         <zone points="380,1414 2254,1387 2383,1420 2458,1375 2536,1408 2751,1372 2751,1331 2640,1313 2589,1348 2464,1313 2018,1363 1902,1325 1558,1366 1495,1328 1453,1369 1109,1325 383,1372" rendition="Line" xml:id="facs_0208_14_03_1347-01_tr_1_tl_12" subtype="default"/>
+         <zone points="395,1486 813,1465 924,1504 1106,1450 1181,1495 1250,1453 1633,1495 1746,1453 1941,1480 2601,1435 2739,1468 2775,1396 395,1429" rendition="Line" xml:id="facs_0208_14_03_1347-01_tr_1_tl_13" subtype="default"/>
+         <zone points="410,1588 759,1534 846,1564 1005,1525 2329,1510 2398,1543 2697,1498 2697,1450 2604,1435 1914,1489 1250,1453 1181,1492 413,1495" rendition="Line" xml:id="facs_0208_14_03_1347-01_tr_1_tl_14" subtype="default"/>
+         <zone points="398,1633 972,1630 1046,1585 1435,1570 1537,1618 1752,1576 1845,1621 1917,1573 2643,1603 2751,1564 2754,1510 2395,1543 2314,1510 2251,1546 2213,1513 1668,1549 1002,1525 846,1564 577,1543 398,1597" rendition="Line" xml:id="facs_0208_14_03_1347-01_tr_1_tl_15" subtype="default"/>
+         <zone points="398,1680 562,1710 607,1671 661,1704 981,1647 1531,1677 1606,1636 1716,1665 1887,1633 2225,1665 2380,1621 2449,1662 2751,1647 2754,1567 2386,1600 1833,1567 1698,1612 1435,1570 398,1633" rendition="Line" xml:id="facs_0208_14_03_1347-01_tr_1_tl_16" subtype="default"/>
+         <zone points="419,1761 1510,1698 1908,1719 2075,1788 2278,1716 2419,1779 2589,1719 2751,1722 2751,1647 2709,1630 2434,1659 2383,1621 2237,1665 1169,1639 1100,1677 792,1659 422,1713" rendition="Line" xml:id="facs_0208_14_03_1347-01_tr_1_tl_17" subtype="default"/>
+         <zone points="395,1833 637,1851 843,1800 1005,1857 1157,1770 1256,1821 1369,1758 1447,1809 1725,1779 1728,1725 1501,1695 398,1782" rendition="Line" xml:id="facs_0208_14_03_1347-01_tr_1_tl_18" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0208_14_03_1347-01" n="0208_14_03_1347-01" xml:id="img_0208_14_03_1347-01"/>
+            <ab>
+               <l facs="#facs_0208_14_03_1347-01_tr_1_tl_1">Wj jan Wilmʼ de Roede en̄ jan bode scerenen in Antwʼpen maken Cond dat vore ons quam Een</l>
+               <l facs="#facs_0208_14_03_1347-01_tr_1_tl_2">eersaem man heʼ jan van doerne Riddeʼ ende bekinde dat hi ōme ene sū̄me van penninghen die hen al</l>
+               <l facs="#facs_0208_14_03_1347-01_tr_1_tl_3">es vʼgouden vʼcocht heeft wittelik . broedeʼ boudine broeder van den derder Ordinen sente franciscus en̄</l>
+               <l facs="#facs_0208_14_03_1347-01_tr_1_tl_4">berechtʼe des nuwes gasthuis jn Antwerpen tsgasthuis voerseit behoef die drie halstʼ sjaers goeds</l>
+               <l facs="#facs_0208_14_03_1347-01_tr_1_tl_5">custbaers Rogs erflec . die de selue heʼ jan voerseit alle jaʼe en̄ telken kerssauonde alsoe hi seyde te heffene</l>
+               <l facs="#facs_0208_14_03_1347-01_tr_1_tl_6">en̄ te hebbene plach van Janne tops . Van eenen goede dat de selue hʼe jan terfue gaf den voerseiden janne</l>
+               <l facs="#facs_0208_14_03_1347-01_tr_1_tl_7">cops in de ꝓchie van doerne gheleghen in eene stede datmen heet priestʼsvelt ōme den voerseiden erflecken</l>
+               <l facs="#facs_0208_14_03_1347-01_tr_1_tl_8">Rogghe jaerlijcs alsoe dat broeder boudijn voerseid tsvoerseits gasthuis behoef . en̄ die na hem comen en̄ wesen</l>
+               <l facs="#facs_0208_14_03_1347-01_tr_1_tl_9">sullen berechteʼn des selfs gasthuis voerseis erflic en̄ emmʼmeer alle jaʼe den tīmʼe voerseit op heffen ende</l>
+               <l facs="#facs_0208_14_03_1347-01_tr_1_tl_10">ghebruken sullen den voerseiden Rogghe in allen den vormen . Rechte en̄ manieʼn dat hʼe jan voerseid daer ane</l>
+               <l facs="#facs_0208_14_03_1347-01_tr_1_tl_11">hebbende was en̄ houdende . Ane den welken voerꞩ Rogghe erflec de voerꞩ hʼe jan bekinde dat hi en̄ gheen</l>
+               <l facs="#facs_0208_14_03_1347-01_tr_1_tl_12">Recht daer ane en heefs noch en behilt mʼ scelden claerlic quite te broeders boudins voerꞩ en̄ die na hen</l>
+               <l facs="#facs_0208_14_03_1347-01_tr_1_tl_13">berechteʼn des voerseids gasthuis wesen sullen te des selfs gasthuis behoef . den welken jaerliken en̄ erfleken</l>
+               <l facs="#facs_0208_14_03_1347-01_tr_1_tl_14">Rogghe de voerꞩ hʼe Jan te vrienne en̄ te waerne gheloefde kūmʼloes te des voerꞩ gasthuis behoef</l>
+               <l facs="#facs_0208_14_03_1347-01_tr_1_tl_15">eeuwelic en̄ tallen daghen durende . en̄ daer toe soe heeft heʼ jan van doerne Riddeʼ voerseit vʼbonden</l>
+               <l facs="#facs_0208_14_03_1347-01_tr_1_tl_16">en̄ te pande gheset hem en̄ alle sijn goed . Rurende en̄ onrurende dat hi nv heeft af ghewinnē mach</l>
+               <l facs="#facs_0208_14_03_1347-01_tr_1_tl_17">jn kennissen van desen lrēn beseghelt met sinen zeghelen Ghegheuen jnt jaer ons hen alsm̄ screef</l>
+               <l facs="#facs_0208_14_03_1347-01_tr_1_tl_18">M CCC sesse en̄ viertich tswoens daghes na half uastene</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

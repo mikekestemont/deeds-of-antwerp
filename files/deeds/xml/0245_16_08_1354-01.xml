@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3508" lry="2479" xml:id="facs_0245_16_08_1354-01">
+         <graphic url="0245_16_08_1354-01.jpg" width="3508px" height="2479px"/>
+         <zone points="1166,759 2362,797 2363,737 1164,711" rendition="Line" xml:id="facs_0245_16_08_1354-01_tr_1_tl_1" subtype="default"/>
+         <zone points="1164,803 2284,827 2358,793 1163,757" rendition="Line" xml:id="facs_0245_16_08_1354-01_l" subtype="default"/>
+         <zone points="1161,842 2254,860 2346,814 1159,806" rendition="Line" xml:id="facs_0245_16_08_1354-01_l_1" subtype="default"/>
+         <zone points="1156,888 2362,880 2332,844 1156,852" rendition="Line" xml:id="facs_0245_16_08_1354-01_tr_1_tl_6" subtype="default"/>
+         <zone points="1153,926 2382,920 2369,872 1153,887" rendition="Line" xml:id="facs_0245_16_08_1354-01_tr_1_tl_7" subtype="default"/>
+         <zone points="1174,946 2380,940 1174,910" rendition="Line" xml:id="facs_0245_16_08_1354-01_l_2" subtype="default"/>
+         <zone points="1167,997 2385,986 2368,943 1167,951" rendition="Line" xml:id="facs_0245_16_08_1354-01_tr_1_tl_10" subtype="default"/>
+         <zone points="1147,1043 1713,1006 2401,1029 2390,973 1148,983" rendition="Line" xml:id="facs_0245_16_08_1354-01_tr_1_tl_11" subtype="default"/>
+         <zone points="1152,1066 2380,1049 1712,1006 1152,1032" rendition="Line" xml:id="facs_0245_16_08_1354-01_tr_1_tl_12" subtype="default"/>
+         <zone points="1158,1114 2373,1100 2373,1049 1158,1066" rendition="Line" xml:id="facs_0245_16_08_1354-01_tr_1_tl_13" subtype="default"/>
+         <zone points="1147,1141 2376,1118 2333,1082 1147,1100" rendition="Line" xml:id="facs_0245_16_08_1354-01_tr_1_tl_14" subtype="default"/>
+         <zone points="1152,1175 2377,1171 2391,1112 1152,1136" rendition="Line" xml:id="facs_0245_16_08_1354-01_tr_1_tl_15" subtype="default"/>
+         <zone points="1152,1227 2316,1213 2391,1167 1153,1175" rendition="Line" xml:id="facs_0245_16_08_1354-01_tr_1_tl_16" subtype="default"/>
+         <zone points="1144,1270 2355,1234 2295,1194 1145,1224" rendition="Line" xml:id="facs_0245_16_08_1354-01_tr_1_tl_17" subtype="default"/>
+         <zone points="1131,1322 1279,1284 2283,1294 2387,1232 1133,1262" rendition="Line" xml:id="facs_0245_16_08_1354-01_tr_1_tl_18" subtype="default"/>
+         <zone points="1145,1336 2403,1322 2387,1271 1147,1301" rendition="Line" xml:id="facs_0245_16_08_1354-01_tr_1_tl_19" subtype="default"/>
+         <zone points="1148,1388 2231,1365 2393,1319 1150,1336" rendition="Line" xml:id="facs_0245_16_08_1354-01_tr_1_tl_20" subtype="default"/>
+         <zone points="1136,1413 2220,1401 2297,1352 1137,1382" rendition="Line" xml:id="facs_0245_16_08_1354-01_tr_1_tl_21" subtype="default"/>
+         <zone points="1153,1447 2308,1440 2403,1379 1153,1415" rendition="Line" xml:id="facs_0245_16_08_1354-01_tr_1_tl_22" subtype="default"/>
+         <zone points="1152,1489 2379,1462 2379,1413 1152,1447" rendition="Line" xml:id="facs_0245_16_08_1354-01_tr_1_tl_23" subtype="default"/>
+         <zone points="1150,1524 2262,1508 2396,1491 2398,1448 1152,1478" rendition="Line" xml:id="facs_0245_16_08_1354-01_tr_1_tl_24" subtype="default"/>
+         <zone points="1152,1568 2346,1546 2396,1505 1153,1522" rendition="Line" xml:id="facs_0245_16_08_1354-01_tr_1_tl_25" subtype="default"/>
+         <zone points="1139,1607 2145,1590 2390,1536 1141,1566" rendition="Line" xml:id="facs_0245_16_08_1354-01_tr_1_tl_26" subtype="default"/>
+         <zone points="1137,1648 2237,1611 2393,1566 1137,1614" rendition="Line" xml:id="facs_0245_16_08_1354-01_tr_1_tl_27" subtype="default"/>
+         <zone points="1133,1674 2213,1656 2382,1639 2384,1596 1134,1647" rendition="Line" xml:id="facs_0245_16_08_1354-01_tr_1_tl_28" subtype="default"/>
+         <zone points="1150,1701 2387,1685 2388,1637 1150,1685" rendition="Line" xml:id="facs_0245_16_08_1354-01_tr_1_tl_29" subtype="default"/>
+         <zone points="1131,1756 2388,1718 2373,1675 2259,1672 1133,1707" rendition="Line" xml:id="facs_0245_16_08_1354-01_tr_1_tl_30" subtype="default"/>
+         <zone points="1134,1784 2399,1748 2120,1705 1134,1757" rendition="Line" xml:id="facs_0245_16_08_1354-01_tr_1_tl_31" subtype="default"/>
+         <zone points="1145,1820 2387,1779 2388,1748 2196,1742 1147,1783" rendition="Line" xml:id="facs_0245_16_08_1354-01_tr_1_tl_32" subtype="default"/>
+         <zone points="1133,1846 2279,1827 2357,1778 1134,1814" rendition="Line" xml:id="facs_0245_16_08_1354-01_tr_1_tl_33" subtype="default"/>
+         <zone points="1128,1884 2313,1860 2376,1817 1129,1841" rendition="Line" xml:id="facs_0245_16_08_1354-01_tr_1_tl_34" subtype="default"/>
+         <zone points="1122,1931 2385,1888 2387,1843 1123,1890" rendition="Line" xml:id="facs_0245_16_08_1354-01_tr_1_tl_35" subtype="default"/>
+         <zone points="1120,1953 2368,1918 2347,1876 2153,1872 1122,1931" rendition="Line" xml:id="facs_0245_16_08_1354-01_tr_1_tl_36" subtype="default"/>
+         <zone points="1125,1981 2339,1977 2365,1917 1126,1948" rendition="Line" xml:id="facs_0245_16_08_1354-01_tr_1_tl_37" subtype="default"/>
+         <zone points="1112,2011 1543,2019 1601,1989 1603,1959 1488,1972 1413,1956 1388,1978 1369,1962 1246,1988 1114,1980" rendition="Line" xml:id="facs_0245_16_08_1354-01_tr_1_tl_38" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0245_16_08_1354-01" n="0245_16_08_1354-01" xml:id="img_0245_16_08_1354-01"/>
+            <ab>
+               <l facs="#facs_0245_16_08_1354-01_tr_1_tl_1">Wij Willem die moelnʼe Ende Woutʼ vanden broeke . Scepenen Jn Antwʼpen maken cond . dat vore ons quamen . peter</l>
+               <l facs="#facs_0245_16_08_1354-01_l">vander watermolen . alse montbore ende berechtʼe der taflen des heylechs gheeste jn de borgh kerke Jn</l>
+               <l facs="#facs_0245_16_08_1354-01_l_1">Antwʼpen . bi 9sente ende goeddunkene tsprochiaens ende een deel der andeʼ goeder liede der ꝓchien vandʼ</l>
+               <l facs="#facs_0245_16_08_1354-01_tr_1_tl_6">borgh diet ane gaet ende toe behoert na costume ende herbringhen . alsoe hi ons seide Jn deen zide . Ende</l>
+               <l facs="#facs_0245_16_08_1354-01_tr_1_tl_7">zeeghbrecht wellen Jn dandeʼ zide . Ende bekenden Jn beiden ziden . dat de vorseide peter met goeden kipen</l>
+               <l facs="#facs_0245_16_08_1354-01_l_2">ende vorsieneghen Rade der vorseide goed' liede . ōme dat grote porfijt ende oobore der vorseidʼe taflen</l>
+               <l facs="#facs_0245_16_08_1354-01_tr_1_tl_10">des heylechs gheests alsoe hi seide van des selfs heileghs gheests weghen . ghegheuen heeft den vorseiden</l>
+               <l facs="#facs_0245_16_08_1354-01_tr_1_tl_11">zeeghbrechte . Terue ende Jn erfleken Rechte . Dat een vierendeel vanden huise gheheten de leewe ghestaen</l>
+               <l facs="#facs_0245_16_08_1354-01_tr_1_tl_12">ane de maerct tantwʼpen op den hoec vandʼ ziluersmitstraten metten gronde ende met al dattʼ toe</l>
+               <l facs="#facs_0245_16_08_1354-01_tr_1_tl_13">behoert . alsoe verre alse dat den vorseiden heyleghen gheest daer toe behorende es . vore achter ende beyde</l>
+               <l facs="#facs_0245_16_08_1354-01_tr_1_tl_14">te houdene ende Erfleken teghebruykene den vorseiden zeeghbrechte ende sinen nacomelinghen . Siaers</l>
+               <l facs="#facs_0245_16_08_1354-01_tr_1_tl_15">ōme neghene scellinghe ouder groter tornoyse van monten tsconincs van vrancrike . ofte den ouden gulde</l>
+               <l facs="#facs_0245_16_08_1354-01_tr_1_tl_16">nen hellingh van florenchen goed ende custbaer van goude ende van ghewichte vore twaleue der vorseidere</l>
+               <l facs="#facs_0245_16_08_1354-01_tr_1_tl_17">grote tornoyse gherekent . oft de werde daer af in goeden andeʼn ghelde . Jaerlikeʼ ende erflekeʼ mon-</l>
+               <l facs="#facs_0245_16_08_1354-01_tr_1_tl_18">tegheldene ende tegheuene vanden vorseiden zeeghbrechte ende van sinen nacomelinghen . den vorseiden mon</l>
+               <l facs="#facs_0245_16_08_1354-01_tr_1_tl_19">bore ende berechtʼe die nv es . ende hier namaels wesen sal erflec ende eewelec durende . altoes tes vorseide</l>
+               <l facs="#facs_0245_16_08_1354-01_tr_1_tl_20">heylechs gheests behoef . alle jare . die eene heelft daer af te kerssauonde . Ende dandʼe heelft te sente</l>
+               <l facs="#facs_0245_16_08_1354-01_tr_1_tl_21">Jans daghe baptisten Jn midden zomʼe . Ende ōme de meere zekerheit aee heeft de vorseide zeeghbrecht hier</l>
+               <l facs="#facs_0245_16_08_1354-01_tr_1_tl_22">toe vʼbonden ende tote eenen gherechten onderpande gheset . siin andeʼ drie vierendele die hi heeft Jn dit</l>
+               <l facs="#facs_0245_16_08_1354-01_tr_1_tl_23">selue huis gheheten de leewe met allen haren toe behoerten . alsoe dat al dit vorseide huis met al sinen</l>
+               <l facs="#facs_0245_16_08_1354-01_tr_1_tl_24">toe behoerten ghehelec ende al gherecht ondʼpand sal siin des vorseids heyleghs gheests ende bliuen ver-</l>
+               <l facs="#facs_0245_16_08_1354-01_tr_1_tl_25">bonden ouer de vorseide erfleke Rente tallen daghen . mede soe gheloefde de vorseide peter alse mon-</l>
+               <l facs="#facs_0245_16_08_1354-01_tr_1_tl_26">bore ende berechtʼe des vorseids heileghs gheests . dit vorseide vierendeel vanden huise met allen sinen toe-</l>
+               <l facs="#facs_0245_16_08_1354-01_tr_1_tl_27">behoerten tewaerne den vorseiden zeeghbrechte Jaer ende dach quite ende vri van allen cōmeʼ ende calaen-</l>
+               <l facs="#facs_0245_16_08_1354-01_tr_1_tl_28">gen tote op siin gherecht ane ghedeel van achten ouden groten tornoysen tsiaers erflekeʼ Renten die vte al</l>
+               <l facs="#facs_0245_16_08_1354-01_tr_1_tl_29">hen vorseiden huise ende gronde gaen alsoe si ons seiden . mede es ondersproken dat . waert dat dese vor-</l>
+               <l facs="#facs_0245_16_08_1354-01_tr_1_tl_30">waerden jn der vormen ende manieren dat vorscreuen es . niet siin mochten mettʼ heyleghʼeʼ kerken</l>
+               <l facs="#facs_0245_16_08_1354-01_tr_1_tl_31">soe souden die alle quite siin ende te nieute gaen . Ende soe soude elc vanden heilieghen gheest voor</l>
+               <l facs="#facs_0245_16_08_1354-01_tr_1_tl_32">seit ende van zeeghbrechte . hebben ende behouden Jn dit vorꞩ huis ende grond . dat hi vore daer</l>
+               <l facs="#facs_0245_16_08_1354-01_tr_1_tl_33">Jn hadde eer dese ieghenwordeghe lrēn ghemaect wordden . behoudelec dien wʼtʼ dat de vorseide zeegh-</l>
+               <l facs="#facs_0245_16_08_1354-01_tr_1_tl_34">brecht ofte sinē nacomelinghe enech goed leiden ane dit vorseide huis . alse Jn tymeringhen ofte in metselrien</l>
+               <l facs="#facs_0245_16_08_1354-01_tr_1_tl_35">Jn beternissen des huis vorseit . dat dan daer af de vorseide heyleghe gheest ghelden ende betalen soude siin ane</l>
+               <l facs="#facs_0245_16_08_1354-01_tr_1_tl_36">ghedeel na dauenant dat hi daer Jn hadde ende houdende ware altoes sondʼ arghelist . Jn kinnessen van desen</l>
+               <l facs="#facs_0245_16_08_1354-01_tr_1_tl_37">lrēn . bezeghelt met onsen zeghelen Ghegheuen jnt jaer ons heʼen alsmen screef . M . CCC . vijftech ende viere des anders-</l>
+               <l facs="#facs_0245_16_08_1354-01_tr_1_tl_38">daeghs na onser vrouwen dach assumptio</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

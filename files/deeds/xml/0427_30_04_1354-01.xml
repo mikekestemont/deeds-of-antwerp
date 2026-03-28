@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3507" lry="2480" xml:id="facs_0427_30_04_1354-01">
+         <graphic url="0427_30_04_1354-01.jpg" width="3507px" height="2480px"/>
+         <zone points="321,572 1402,569 1468,610 1860,578 2168,616 2278,585 2511,625 2784,610 2784,556 2448,453 2291,531 2197,484 1980,537 1496,468 1342,528 1235,475 902,506 698,471 647,522 317,481" rendition="Line" xml:id="facs_0427_30_04_1354-01_l" subtype="default"/>
+         <zone points="321,638 2791,660 2791,610 2728,597 321,581" rendition="Line" xml:id="facs_0427_30_04_1354-01_l_1" subtype="default"/>
+         <zone points="324,704 396,735 556,701 613,738 669,691 1153,726 1188,691 1725,691 2137,704 2187,742 2303,701 2756,710 2753,663 2655,654 1823,663 1725,625 1603,663 321,650" rendition="Line" xml:id="facs_0427_30_04_1354-01_l_2" subtype="default"/>
+         <zone points="324,773 2844,773 2844,735 2699,710 2442,729 2259,691 2099,726 1735,691 324,710" rendition="Line" xml:id="facs_0427_30_04_1354-01_l_3" subtype="default"/>
+         <zone points="327,842 1276,804 1820,839 2134,801 2778,842 2778,779 2489,760 327,776" rendition="Line" xml:id="facs_0427_30_04_1354-01_l_4" subtype="default"/>
+         <zone points="327,889 1772,864 1842,905 2266,858 2715,896 2778,839 2121,798 1958,836 1276,804 902,839 808,804 745,842 327,848" rendition="Line" xml:id="facs_0427_30_04_1354-01_l_5" subtype="default"/>
+         <zone points="333,958 2806,933 2806,867 2712,896 2266,855 1845,899 1229,864 333,892" rendition="Line" xml:id="facs_0427_30_04_1354-01_l_6" subtype="default"/>
+         <zone points="339,1031 842,984 974,1021 1034,984 2794,987 2797,927 2662,921 343,955" rendition="Line" xml:id="facs_0427_30_04_1354-01_l_7" subtype="default"/>
+         <zone points="327,1094 867,1040 1094,1072 1248,1037 1304,1072 1490,1037 1697,1078 1750,1046 2769,1046 2769,996 2718,984 1886,1015 1571,974 327,1031" rendition="Line" xml:id="facs_0427_30_04_1354-01_l_8" subtype="default"/>
+         <zone points="321,1150 669,1153 748,1112 852,1150 1037,1100 1452,1134 2772,1112 2772,1043 2564,1037 1728,1075 1490,1037 1295,1068 1235,1031 1103,1075 867,1043 324,1094" rendition="Line" xml:id="facs_0427_30_04_1354-01_l_9" subtype="default"/>
+         <zone points="321,1219 1336,1156 2787,1153 2737,1106 2523,1100 1031,1103 962,1138 324,1153" rendition="Line" xml:id="facs_0427_30_04_1354-01_l_10" subtype="default"/>
+         <zone points="321,1273 808,1273 1270,1210 1411,1244 2266,1204 2530,1238 2608,1200 2765,1241 2787,1153 1119,1163 321,1232" rendition="Line" xml:id="facs_0427_30_04_1354-01_l_11" subtype="default"/>
+         <zone points="321,1326 1948,1263 2633,1263 2674,1295 2747,1263 2747,1229 2605,1200 2527,1238 1766,1207 1414,1244 1288,1210 1144,1251 321,1276" rendition="Line" xml:id="facs_0427_30_04_1354-01_l_12" subtype="default"/>
+         <zone points="324,1389 839,1392 1386,1329 1480,1361 1779,1320 2791,1329 2791,1263 2718,1260 327,1332" rendition="Line" xml:id="facs_0427_30_04_1354-01_tr_1_tl_28" subtype="default"/>
+         <zone points="314,1446 2813,1376 2813,1326 2753,1317 2303,1317 314,1389" rendition="Line" xml:id="facs_0427_30_04_1354-01_l_13" subtype="default"/>
+         <zone points="317,1521 559,1502 591,1534 632,1496 1204,1464 1326,1493 1420,1452 1788,1471 1955,1430 2809,1446 2813,1376 2360,1373 321,1452" rendition="Line" xml:id="facs_0427_30_04_1354-01_tr_1_tl_31" subtype="default"/>
+         <zone points="317,1565 434,1596 490,1556 701,1581 864,1540 908,1574 965,1537 1138,1578 1241,1527 1414,1552 1521,1512 1738,1537 1772,1502 2197,1521 2385,1486 2420,1521 2734,1518 2787,1512 2791,1439 1483,1449 1323,1493 1204,1464 317,1530" rendition="Line" xml:id="facs_0427_30_04_1354-01_tr_1_tl_32" subtype="default"/>
+         <zone points="311,1637 1656,1568 1829,1596 2209,1556 2281,1590 2373,1552 2486,1590 2835,1549 2838,1499 314,1571" rendition="Line" xml:id="facs_0427_30_04_1354-01_tr_1_tl_33" subtype="default"/>
+         <zone points="314,1703 996,1697 1138,1659 1213,1691 1276,1653 1637,1666 1728,1631 2021,1678 2087,1625 2253,1688 2464,1618 2772,1722 2750,1546 2492,1587 1688,1568 317,1644" rendition="Line" xml:id="facs_0427_30_04_1354-01_tr_1_tl_34" subtype="default"/>
+         <zone points="314,1776 729,1750 789,1788 892,1735 1075,1772 1210,1735 1301,1782 1442,1725 1681,1754 1810,1691 1813,1631 317,1703" rendition="Line" xml:id="facs_0427_30_04_1354-01_tr_1_tl_35" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0427_30_04_1354-01" n="0427_30_04_1354-01" xml:id="img_0427_30_04_1354-01"/>
+            <ab>
+               <l facs="#facs_0427_30_04_1354-01_l">Wij Willem de moelneʼ . Wouteʼ vanden broeke . Ende Enghbrecht de moelnʼe Scepenen jn Antwʼpen Saluut met kennissen der waerheit</l>
+               <l facs="#facs_0427_30_04_1354-01_l_1">want een Eersam man ende wise miin heʼe . her Alaerd van . Os . Proefst van louene ende Rentmeestʼ van Brabant . ghegheuen heeft</l>
+               <l facs="#facs_0427_30_04_1354-01_l_2">alse Rentmeester van ons sheʼn . shertoghen weghen . terue ende in Erfleken Rechte . Eersamen ende wisen lieden min heʼen Janne heʼ</l>
+               <l facs="#facs_0427_30_04_1354-01_l_3">van Wittam Ende vrouwen Amelberghen sinen witteghen wiue Die woeninghe die ghestaen es tantwʼpen in claepdorp die men</l>
+               <l facs="#facs_0427_30_04_1354-01_l_4">heet falconbroeke met alle hare toe behoerten hoe dat si gheleghen es met huisinghen . met houe . met wiingaerde . met grauen</l>
+               <l facs="#facs_0427_30_04_1354-01_l_5">met wateʼ ende met allen dien dat daer toe behoert ende ane hanghende es . ghelikerwijs dat meestʼ faucoen mūtmeestʼ van ant</l>
+               <l facs="#facs_0427_30_04_1354-01_l_6">wʼpen die houdende was jn den tiden dat hi leuede . Op eenen ouden Enghelschen penninc tsiaers Jaerlikeʼ ende Erflekeʼ Renten te-</l>
+               <l facs="#facs_0427_30_04_1354-01_l_7">gheldene ende te betaelne onsen heʼe den hertoghe van Brabant alle jare te kerssauonde . ghelijc dat des vorseids miins heʼen alaerds</l>
+               <l facs="#facs_0427_30_04_1354-01_l_8">Rentmeestʼs lrēn . bezeghelt met sinen zeghele Wthanghende . wel begrepen hebben . De welke lrēn vorghenōt onse lieue gheminde</l>
+               <l facs="#facs_0427_30_04_1354-01_l_9">ende gheduchte . heʼe . De .. Hertoghe van Brabant gheconfʼmeert . gheratificeert . ende gheapꝑbeert . heeft met sinen lrēn ghestekē</l>
+               <l facs="#facs_0427_30_04_1354-01_l_10">dore des vorghenoemds mins sheʼn Alaerds lrēn die wij daer af hebben ghesien ende horen lesen . Soe doen wij v te wetene . dat vore</l>
+               <l facs="#facs_0427_30_04_1354-01_l_11">ons quam Jan kyeken alse Rentmeester van ons heʼen shertoghen weghen jn Antwʼpen . Ende heeft den vorseiden miin heʼen Janne . heʼe</l>
+               <l facs="#facs_0427_30_04_1354-01_l_12">van Wittam te sinen behoef . ende te vrouwen amelberghen siins wittechs wijfs behoef . tote deser vorgh̄ woeninghen . tote den gronde</l>
+               <l facs="#facs_0427_30_04_1354-01_tr_1_tl_28">ende tote al datter toe behoert . ghedaen ende hen daer in gheerft bi manissen van hem alse Rentmeestʼ ons heʼen shertoghen ende</l>
+               <l facs="#facs_0427_30_04_1354-01_l_13">bi wisene der late . alsoe een Recht was gheen point van Rechte achtʼ ghelaten . dattʼ sculdech toe was te ghesciene . alsoe dat de vorseide</l>
+               <l facs="#facs_0427_30_04_1354-01_tr_1_tl_31">miin heʼ Jan heʼe van Wittam . Vrouwe amelbergh siin witteghe wijf . ende hore witteghe oere ende nacomelinghen deser vorseidʼ woe-</l>
+               <l facs="#facs_0427_30_04_1354-01_tr_1_tl_32">ninghen met allen haren toe behoerten . Rastelec ende paysiuelec selen moghen ghebruken te eweliken daghen op desen vorgh̄ enghel-</l>
+               <l facs="#facs_0427_30_04_1354-01_tr_1_tl_33">schen penninc tsiaers sonder calengieren ofte weder segghen van yemene . behoudelec altoes enen yeghewelken erfheʼ sinen cheins</l>
+               <l facs="#facs_0427_30_04_1354-01_tr_1_tl_34">dien hi daer ane hebben mochte . Jn kinnessen van desen lrēn bezeghelt met onsen zeghelen Ghegheuen jnt jaer ons heʼen alsmen</l>
+               <l facs="#facs_0427_30_04_1354-01_tr_1_tl_35">screef . M . CCC . vijftech ende viere op den achtersten dach van Aprille</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3300" lry="1000" xml:id="facs_0393_27_05_1334-01">
+         <graphic url="0393_27_05_1334-01.jpg" width="3300px" height="1000px"/>
+         <zone points="60,220 348,196 485,252 793,204 945,252 1057,204 1218,244 1382,204 1670,232 2247,184 2443,228 2659,172 3060,180 3064,80 2619,108 2367,56 2259,116 1986,80 1926,116 1754,60 1694,92 1382,40 1270,64 1193,16 957,140 793,28 721,72 565,12 437,60 64,0" rendition="Line" xml:id="facs_0393_27_05_1334-01_tr_1_tl_1" subtype="default"/>
+         <zone points="48,284 344,328 493,284 693,332 949,300 1029,352 1101,308 1193,336 1426,292 1594,340 1682,300 1926,328 2111,272 2359,308 2503,264 2575,300 2747,260 2787,300 2892,244 3072,256 3072,180 2924,156 2808,192 2643,168 2499,224 2263,184 1546,240 1410,200 1226,240 1069,204 945,248 821,200 465,252 328,196 48,224" rendition="Line" xml:id="facs_0393_27_05_1334-01_tr_1_tl_2" subtype="default"/>
+         <zone points="32,405 116,372 513,433 565,396 1065,433 1214,384 1534,437 1570,405 1642,433 2363,372 2623,405 2828,344 2972,388 3096,356 3096,268 3028,256 2900,300 2183,284 2123,328 1850,296 1758,344 1682,296 1594,340 1101,308 1029,352 949,304 693,336 240,296 204,328 32,288" rendition="Line" xml:id="facs_0393_27_05_1334-01_tr_1_tl_3" subtype="default"/>
+         <zone points="36,469 292,501 433,461 541,505 665,461 877,513 1077,469 1890,501 2015,461 2167,501 3104,417 3104,348 2952,380 2896,340 2775,396 2187,372 2091,417 1710,429 1430,429 1390,392 1065,437 1005,400 40,400" rendition="Line" xml:id="facs_0393_27_05_1334-01_tr_1_tl_4" subtype="default"/>
+         <zone points="8,561 805,589 1005,557 1073,605 1125,561 1382,597 1586,553 1710,597 1790,553 1894,589 2279,549 2379,581 2643,517 3132,517 3132,425 3072,421 2179,505 2015,461 1890,501 1093,473 1037,513 933,477 793,509 665,465 561,501 348,465 292,501 8,461" rendition="Line" xml:id="facs_0393_27_05_1334-01_tr_1_tl_5" subtype="default"/>
+         <zone points="0,673 172,701 324,645 541,681 813,649 1065,689 1117,649 1222,685 1302,649 1774,689 1874,645 2351,665 2387,629 2555,665 2719,605 3180,613 3184,493 2379,581 1758,557 1574,605 1125,561 973,597 913,553 805,589 761,557 0,557" rendition="Line" xml:id="facs_0393_27_05_1334-01_tr_1_tl_6" subtype="default"/>
+         <zone points="4,753 549,741 605,773 929,737 1242,801 1374,761 1626,793 1806,733 2119,785 2295,733 2359,773 2507,757 2599,705 3204,725 3208,625 3056,581 2948,645 2691,605 2603,661 2251,641 2107,689 2019,649 1818,653 1766,693 1298,649 1065,689 913,649 653,689 320,645 172,701 4,669" rendition="Line" xml:id="facs_0393_27_05_1334-01_tr_1_tl_7" subtype="default"/>
+         <zone points="0,849 128,881 589,833 901,877 965,833 1189,825 1346,889 1546,857 1738,897 2075,821 2171,869 2271,825 2379,857 2575,809 2667,849 3032,777 3192,813 3192,729 3056,681 2828,733 2767,705 2723,745 2563,721 2359,769 2299,733 2099,781 1834,741 1526,797 1378,761 1141,793 1025,749 833,785 749,741 0,765" rendition="Line" xml:id="facs_0393_27_05_1334-01_tr_1_tl_8" subtype="default"/>
+         <zone points="0,969 260,929 400,997 1698,997 1998,933 2267,969 3208,889 3208,821 3036,777 2663,849 2291,833 2159,873 1974,833 1726,897 1566,857 1342,889 1189,829 745,877 669,837 565,885 465,833 128,881 0,849" rendition="Line" xml:id="facs_0393_27_05_1334-01_tr_1_tl_9" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0393_27_05_1334-01" n="0393_27_05_1334-01" xml:id="img_0393_27_05_1334-01"/>
+            <ab>
+               <l facs="#facs_0393_27_05_1334-01_tr_1_tl_1">Wi Willem sprongh ende willem drake scepenen in Antwerpen maken cond . Dat vore ons quamen . Arnoud oem ende</l>
+               <l facs="#facs_0393_27_05_1334-01_tr_1_tl_2">margriete . sijn witteghe wijf ende bekinden dat si ane de huisinghen die ghestaen sijn op onser vrouwen kerchof daer si nv</l>
+               <l facs="#facs_0393_27_05_1334-01_tr_1_tl_3">in woenen en̄ achtʼ inde camerstrate op den hoech vander paddengracht jeghen willems vander haghe dwers ouer ane</l>
+               <l facs="#facs_0393_27_05_1334-01_tr_1_tl_4">hof noch te ane yet dattʼ toe behoerd andʼs en ghene recht en hebben dan purlec hore liftocht daer ane hebben . ende</l>
+               <l facs="#facs_0393_27_05_1334-01_tr_1_tl_5">ouʼmids dien soe gheloefden si de vorgh̄ huisinghen . te houdene van dake en̄ van weeghen loflec in horen ghereke en̄</l>
+               <l facs="#facs_0393_27_05_1334-01_tr_1_tl_6">te gheldene allen chiens . en̄ kūmer die daer siaers ute gaen . en̄ wanneer deen starft van hen beiden soe sal de langhst</l>
+               <l facs="#facs_0393_27_05_1334-01_tr_1_tl_7">leuende maer der ere heelft vander vorgh̄ huisinghen ghebruken en̄ die heelft houden van dake en̄ van weghen</l>
+               <l facs="#facs_0393_27_05_1334-01_tr_1_tl_8">en̄ ghelden kūmer en̄ cheins die daer ute gaen na ghelande . Jn kennissen van desen lettr'en beseghelt met on-</l>
+               <l facs="#facs_0393_27_05_1334-01_tr_1_tl_9">sen seglen . Ghegheuen int jaer ons heʼn alsmen screef M CCC viere en̄ dertech des satʼdags na sheilecs sacᵃmēts dach</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

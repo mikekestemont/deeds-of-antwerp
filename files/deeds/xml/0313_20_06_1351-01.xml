@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="2048" lry="1536" xml:id="facs_0313_20_06_1351-01">
+         <graphic url="0313_20_06_1351-01.jpg" width="2048px" height="1536px"/>
+         <zone points="208,614 1823,603 1823,550 795,578 520,529 356,580 208,543" rendition="Line" xml:id="facs_0313_20_06_1351-01_tr_1_tl_4" subtype="default"/>
+         <zone points="210,647 1836,649 1839,591 213,614" rendition="Line" xml:id="facs_0313_20_06_1351-01_tr_1_tl_5" subtype="default"/>
+         <zone points="208,688 1850,684 1850,640 208,663" rendition="Line" xml:id="facs_0313_20_06_1351-01_tr_1_tl_6" subtype="default"/>
+         <zone points="208,735 1853,730 1836,681 208,686" rendition="Line" xml:id="facs_0313_20_06_1351-01_tr_1_tl_7" subtype="default"/>
+         <zone points="217,760 1855,758 1827,723 217,732" rendition="Line" xml:id="facs_0313_20_06_1351-01_tr_1_tl_8" subtype="default"/>
+         <zone points="215,792 1866,797 1825,760 215,765" rendition="Line" xml:id="facs_0313_20_06_1351-01_tr_1_tl_9" subtype="default"/>
+         <zone points="217,829 1855,839 1855,797 217,788" rendition="Line" xml:id="facs_0313_20_06_1351-01_tr_1_tl_10" subtype="default"/>
+         <zone points="217,871 1684,887 1862,843 215,829" rendition="Line" xml:id="facs_0313_20_06_1351-01_tr_1_tl_11" subtype="default"/>
+         <zone points="229,894 1878,919 1878,869 1832,866 229,866" rendition="Line" xml:id="facs_0313_20_06_1351-01_tr_1_tl_12" subtype="default"/>
+         <zone points="224,945 1857,947 1811,908 224,894" rendition="Line" xml:id="facs_0313_20_06_1351-01_tr_1_tl_13" subtype="default"/>
+         <zone points="222,970 1862,998 1880,938 219,947" rendition="Line" xml:id="facs_0313_20_06_1351-01_tr_1_tl_14" subtype="default"/>
+         <zone points="229,1019 1642,1040 1830,1035 1855,989 226,968" rendition="Line" xml:id="facs_0313_20_06_1351-01_tr_1_tl_15" subtype="default"/>
+         <zone points="219,1037 1871,1065 1839,1023 219,1016" rendition="Line" xml:id="facs_0313_20_06_1351-01_tr_1_tl_16" subtype="default"/>
+         <zone points="226,1086 1866,1116 1823,1058 226,1042" rendition="Line" xml:id="facs_0313_20_06_1351-01_tr_1_tl_17" subtype="default"/>
+         <zone points="219,1125 527,1123 605,1157 686,1130 1123,1139 1123,1093 219,1081" rendition="Line" xml:id="facs_0313_20_06_1351-01_tr_1_tl_18" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0313_20_06_1351-01" n="0313_20_06_1351-01" xml:id="img_0313_20_06_1351-01"/>
+            <ab>
+               <l facs="#facs_0313_20_06_1351-01_tr_1_tl_4">Wij Jan bode ende claus coluche scepenen in antwʼpen maken cond dat vore ons quamē de minister ende dat conuent vanden brudʼen vander</l>
+               <l facs="#facs_0313_20_06_1351-01_tr_1_tl_5">derdeʼ ordenen in antwʼpen ane dene ꝑtie . ende Jan willems zone van borchfliete ane dandʼ ꝑtie ende bekinden dat si onderlinghe ghewillecort hebbē</l>
+               <l facs="#facs_0313_20_06_1351-01_tr_1_tl_6">ende ouʼeen ghedraghen siin met alselken vorwʼdden alse hierna staen bescreuen dats te wetene dat de vorghenomde minister en̄ conuēt ghegheuē</l>
+               <l facs="#facs_0313_20_06_1351-01_tr_1_tl_7">hebben terue ende in erflaken rechte te houdene ende te hebbene den seluē Janne willems zone een stucke lands houdende tienne ghemete luttel</l>
+               <l facs="#facs_0313_20_06_1351-01_tr_1_tl_8">min ofte meer dat gheleghen es t lilloe tusschen ons heʼn hertoghen land ane doestside ende Jans land van berghen ane de west side met allen</l>
+               <l facs="#facs_0313_20_06_1351-01_tr_1_tl_9">den rechte dat si daer ane houdende siin gheliic dadt hen miin hʼ jan van dornem aelmosenē vormaels hadde ghegheuē siaers . ōme sesse guldene</l>
+               <l facs="#facs_0313_20_06_1351-01_tr_1_tl_10">florine diemen heet hallinghe alselke alse onse heʼ de h̄toghe siaers van sinen cheince vore twaleue grote tornoise oude sal doen nemen jaer-</l>
+               <l facs="#facs_0313_20_06_1351-01_tr_1_tl_11">leckʼ ende erflaker renten te gheldene ende te gheuene dese vorgh̄ sesse florine alle jaere vanden vorgh̄ Janne willems zone en̄ van sinen naco</l>
+               <l facs="#facs_0313_20_06_1351-01_tr_1_tl_12">melinghen den vorgh̄ ministʼ ende conuente die nv sijn en̄ namaels daer wesen selen op onser vrouwen dach ter lichtmessen in antwʼpe binnē</l>
+               <l facs="#facs_0313_20_06_1351-01_tr_1_tl_13">horen godshuise ende met alselken vorwʼdden wʼt dat de vorgh̄ Jan willems zone elcs siaers den vorgh̄ cheins niet en gaue ten vorgh̄ ter-</l>
+               <l facs="#facs_0313_20_06_1351-01_tr_1_tl_14">mine ende also langhe daer na vʼbeidde en̄ merde dat dene cheins den andeʼn vʼhaelde dat dan de vorgh̄ minister en̄ conuent hore hand slaen</l>
+               <l facs="#facs_0313_20_06_1351-01_tr_1_tl_15">souden moghen ane hore vorghenomde goed en̄ dies dan vordane ghebruken ende dan soe souden dese vorwʼdden quite en̄ te nieutte wesen</l>
+               <l facs="#facs_0313_20_06_1351-01_tr_1_tl_16">behoudelec dien dat de vorghenomde Jan willems zone den achterstellen cheins daer hi in ghebreke af ware ghelden en̄ betalen soude</l>
+               <l facs="#facs_0313_20_06_1351-01_tr_1_tl_17">met sinen andeʼn ghereetsten goede Jn kennissen van desen lrēn beseghelt met onsen seglēn . Ghegheuen int jaer ons heʼn alsmē screef</l>
+               <l facs="#facs_0313_20_06_1351-01_tr_1_tl_18">M CCC vuftech ende een des maendaghs na sheilecs sacram̄ts daghe</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

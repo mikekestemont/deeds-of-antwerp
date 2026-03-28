@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3507" lry="2480" xml:id="facs_0445_31_10_1333-01">
+         <graphic url="0445_31_10_1333-01.jpg" width="3507px" height="2480px"/>
+         <zone points="330,641 1556,715 1669,689 1808,728 2844,715 2834,508 2763,482 2433,482 2177,660 2057,644 1957,566 1808,644 1423,582 1346,618 1071,605 980,550 861,598 488,589 327,521" rendition="Line" xml:id="facs_0445_31_10_1333-01_tr_1_tl_1" subtype="default"/>
+         <zone points="336,715 2873,799 2818,712 2294,744 2174,692 2135,734 2015,699 1808,728 333,644" rendition="Line" xml:id="facs_0445_31_10_1333-01_tr_1_tl_2" subtype="default"/>
+         <zone points="330,802 1556,806 1883,864 2844,851 2840,789 2785,776 2594,815 327,721" rendition="Line" xml:id="facs_0445_31_10_1333-01_tr_1_tl_3" subtype="default"/>
+         <zone points="330,870 628,851 818,890 899,854 1022,890 1469,873 1601,916 1640,877 1705,916 2873,948 2869,857 2378,873 2132,835 2067,870 1074,789 330,802" rendition="Line" xml:id="facs_0445_31_10_1333-01_tr_1_tl_4" subtype="default"/>
+         <zone points="356,980 495,941 744,974 841,935 1249,967 1491,938 1844,993 2737,993 2905,1035 2902,945 2462,951 2310,903 2148,938 2006,896 1708,919 1643,877 1608,912 1469,877 657,893 589,857 353,890" rendition="Line" xml:id="facs_0445_31_10_1333-01_tr_1_tl_5" subtype="default"/>
+         <zone points="330,1038 1637,1006 1773,1045 2821,1077 2818,1000 1844,990 1559,941 1440,974 495,941 330,983" rendition="Line" xml:id="facs_0445_31_10_1333-01_tr_1_tl_6" subtype="default"/>
+         <zone points="343,1139 1420,1084 1543,1123 1990,1097 2067,1142 2213,1110 2882,1142 2882,1055 2701,1093 2155,1029 1773,1058 1656,1013 1530,1051 1132,1006 343,1032" rendition="Line" xml:id="facs_0445_31_10_1333-01_tr_1_tl_7" subtype="default"/>
+         <zone points="346,1223 1440,1171 1508,1207 1983,1168 2708,1226 2743,1190 2905,1200 2905,1142 2844,1126 2067,1139 1996,1100 1789,1142 1643,1097 1482,1126 1423,1084 1291,1129 1194,1087 890,1132 838,1097 770,1139 498,1103 346,1145" rendition="Line" xml:id="facs_0445_31_10_1333-01_tr_1_tl_8" subtype="default"/>
+         <zone points="346,1294 780,1291 841,1252 1009,1284 1106,1252 1148,1288 1294,1245 1443,1284 1711,1239 2882,1284 2882,1203 2530,1220 2255,1174 1747,1210 977,1174 941,1210 763,1181 573,1236 346,1223" rendition="Line" xml:id="facs_0445_31_10_1333-01_tr_1_tl_9" subtype="default"/>
+         <zone points="330,1362 1171,1320 1488,1359 1698,1317 1818,1355 1928,1317 2882,1346 2882,1284 2429,1291 2345,1242 2222,1278 1711,1239 1520,1284 1291,1245 1148,1288 1106,1252 977,1294 822,1255 637,1304 586,1265 498,1310 330,1288" rendition="Line" xml:id="facs_0445_31_10_1333-01_tr_1_tl_10" subtype="default"/>
+         <zone points="324,1449 983,1401 1045,1440 1139,1401 1317,1430 1417,1388 1559,1436 1692,1391 2882,1423 2882,1346 2743,1372 2310,1320 327,1362" rendition="Line" xml:id="facs_0445_31_10_1333-01_tr_1_tl_11" subtype="default"/>
+         <zone points="327,1520 618,1498 702,1540 983,1478 1161,1537 1223,1482 1841,1465 2213,1508 2387,1465 2617,1520 2857,1495 2857,1436 2604,1394 2549,1436 2339,1401 2200,1433 2138,1394 2061,1433 1990,1398 1627,1436 1414,1394 1271,1440 1220,1398 1077,1449 880,1401 773,1446 327,1453" rendition="Line" xml:id="facs_0445_31_10_1333-01_tr_1_tl_12" subtype="default"/>
+         <zone points="324,1618 683,1572 919,1608 993,1566 1317,1601 1530,1559 1572,1595 1611,1556 1886,1543 2465,1546 2737,1595 2811,1553 2918,1572 2921,1485 2620,1520 2565,1482 2284,1508 2109,1469 1669,1517 1520,1475 1236,1485 1152,1530 980,1478 699,1537 615,1504 324,1527" rendition="Line" xml:id="facs_0445_31_10_1333-01_tr_1_tl_13" subtype="default"/>
+         <zone points="320,1705 1938,1614 2083,1650 2255,1611 2520,1656 2747,1630 2882,1676 2908,1572 1753,1546 1676,1582 1029,1572 912,1608 683,1572 320,1618" rendition="Line" xml:id="facs_0445_31_10_1333-01_tr_1_tl_14" subtype="default"/>
+         <zone points="317,1773 990,1727 1035,1766 1385,1711 1572,1744 1792,1702 1863,1737 1935,1705 2155,1740 2889,1724 2844,1650 2527,1663 2459,1618 2271,1663 2184,1618 2083,1650 1666,1621 1475,1663 1242,1647 1197,1689 1087,1637 320,1705" rendition="Line" xml:id="facs_0445_31_10_1333-01_tr_1_tl_15" subtype="default"/>
+         <zone points="317,1837 2886,1792 2886,1721 2497,1747 2213,1702 2164,1740 1918,1718 1770,1757 1524,1715 1326,1760 1249,1727 317,1773" rendition="Line" xml:id="facs_0445_31_10_1333-01_tr_1_tl_16" subtype="default"/>
+         <zone points="311,1922 469,1889 653,1928 712,1886 935,1954 1071,1876 1291,1880 1349,1922 1388,1883 1459,1912 1925,1870 1957,1902 2100,1867 2362,1912 2462,1870 2601,1928 2692,1880 2837,1896 2840,1805 311,1837" rendition="Line" xml:id="facs_0445_31_10_1333-01_tr_1_tl_17" subtype="default"/>
+         <zone points="301,2006 524,2006 527,1892 453,1889 437,1905 424,1896 382,1925 349,1915 327,1925 301,1915" rendition="Line" xml:id="facs_0445_31_10_1333-01_tr_1_tl_18" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0445_31_10_1333-01" n="0445_31_10_1333-01" xml:id="img_0445_31_10_1333-01"/>
+            <ab>
+               <l facs="#facs_0445_31_10_1333-01_tr_1_tl_1">Wi arnoud canteman en̄ Jan vanden Wʼue Scepenē jn antwʼpen maken cond . dat vore ons quā katline</l>
+               <l facs="#facs_0445_31_10_1333-01_tr_1_tl_2">die wilen wijf was jans van aerdren met haren montbore ghegheuen hare metden rechte . En̄ be</l>
+               <l facs="#facs_0445_31_10_1333-01_tr_1_tl_3">kende dat si om ene sūme ghelds die hare al es vʼgouden . vʼcocht heeft wetteleke arnoude van ho-</l>
+               <l facs="#facs_0445_31_10_1333-01_tr_1_tl_4">uorst en̄ der meestʼssen vandʼ firimerien in claepdorp tʼ seluʼ firimerien behoef viue scellinghe sjaers</l>
+               <l facs="#facs_0445_31_10_1333-01_tr_1_tl_5">grotʼ oudʼ tornoyse van monten sconings van vᵃncrike jaerlikʼ en̄ euwelikʼ renten dats tewe-</l>
+               <l facs="#facs_0445_31_10_1333-01_tr_1_tl_6">tene den guldenen pēninc gheheten en Royael ouʼ vijftiene oude grote tornoyse oft den gulden</l>
+               <l facs="#facs_0445_31_10_1333-01_tr_1_tl_7">hellinc van florenche en̄ tweleue grote tornoyse gherekent . Op al haer ghedeel int huis ende in</l>
+               <l facs="#facs_0445_31_10_1333-01_tr_1_tl_8">grand ghestaen opden hoech vandʼ hogherstᵃten bidʼ coren maret tʼ royen wert . dat m̄ heet der vogl-</l>
+               <l facs="#facs_0445_31_10_1333-01_tr_1_tl_9">ne sanc . en̄ op alle dat recht dat siere ane heeft . dats tewetene op dene heleft vanden seluen huise</l>
+               <l facs="#facs_0445_31_10_1333-01_tr_1_tl_10">en̄ gronde en̄ op alle dat recht dat siere ane heeft vtghenom̄ dat seste ghedeel in al tvorseide huis</l>
+               <l facs="#facs_0445_31_10_1333-01_tr_1_tl_11">en̄ grond . tegheldene altoes deen heleft vandʼ vorseidʼ renten vandʼ vorꞩ katlinen en̄ van haren naco</l>
+               <l facs="#facs_0445_31_10_1333-01_tr_1_tl_12">melinghen . der vorseidʼ firmerien deen heleft te sente Jans daghe in midden somʼe . en̄ dandʼ heleft te</l>
+               <l facs="#facs_0445_31_10_1333-01_tr_1_tl_13">kerssauonde . mede heeft de selue katline gheloeft met haren montbore dit vorseide huis en̄ grond</l>
+               <l facs="#facs_0445_31_10_1333-01_tr_1_tl_14">tewaerne dʼ vorꞩ sirmerien van allen chense en̄ kūmʼe vtghenom̄ derttech grote toenoyse</l>
+               <l facs="#facs_0445_31_10_1333-01_tr_1_tl_15">sjaers heʼn clause van wineghē ridder . en̄ tweleue scellinghe en̄ sesse pēninghe cheinsghelds ende</l>
+               <l facs="#facs_0445_31_10_1333-01_tr_1_tl_16">twee hinnen sjaers vanden landcheinse . Jn kennessen van desen letteʼn beseghelt met onsen se</l>
+               <l facs="#facs_0445_31_10_1333-01_tr_1_tl_17">ghlen . Ghegheuen Jnt jaer ons heren alsm̄ screef . M . CCC . drie en̄ derttech in aldʼ heileghen</l>
+               <l facs="#facs_0445_31_10_1333-01_tr_1_tl_18">auonde</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

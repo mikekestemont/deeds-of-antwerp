@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="5472" lry="3648" xml:id="facs_0180_12_07_1353-01">
+         <graphic url="0180_12_07_1353-01.jpg" width="5472px" height="3648px"/>
+         <zone points="305,562 628,526 1273,526 1423,568 1608,520 2804,532 3306,472 3378,508 3516,448 3832,484 4089,430 4406,466 4855,407 5106,442 5112,281 4801,245 4747,287 4598,257 4490,329 4299,317 4245,353 4101,251 3904,341 3767,311 3677,365 3504,245 3330,353 2995,323 2822,424 2559,430 2433,383 2320,419 2134,323 1883,436 1794,377 1423,448 1339,371 1238,395 1202,359 1082,365 992,436 891,395 789,454 454,353 395,287 317,305" rendition="Line" xml:id="facs_0180_12_07_1353-01_tr_1_tl_1" subtype="default"/>
+         <zone points="365,628 1327,664 1877,610 2021,658 2128,592 2451,646 2696,628 2738,586 2786,628 2965,634 3187,574 3444,598 3557,550 3635,586 3749,544 4239,568 4323,526 5100,526 5100,442 4938,407 4406,466 4089,430 4006,478 3516,448 3306,502 2744,496 2619,532 365,544" rendition="Line" xml:id="facs_0180_12_07_1353-01_tr_1_tl_2" subtype="default"/>
+         <zone points="347,717 2403,729 2816,676 3641,694 3701,652 3946,670 4048,628 4281,670 4574,670 4777,616 4891,652 5028,610 5142,634 5142,508 5046,538 4968,502 4460,568 4364,532 4263,574 3808,538 3635,592 3557,550 3426,604 3187,574 3121,616 2834,628 2732,592 2649,634 2296,640 2176,598 1943,652 1800,610 1704,652 347,622" rendition="Line" xml:id="facs_0180_12_07_1353-01_tr_1_tl_3" subtype="default"/>
+         <zone points="371,801 705,837 957,783 1847,825 2069,789 2105,825 2655,771 3205,795 3342,759 3384,795 3456,753 3779,741 3868,777 4466,723 4693,753 4849,705 4926,747 5094,741 5094,610 4580,664 3647,646 3300,700 2894,670 2517,717 371,717" rendition="Line" xml:id="facs_0180_12_07_1353-01_tr_1_tl_4" subtype="default"/>
+         <zone points="377,915 652,921 843,867 1214,903 1489,873 1698,915 1794,873 2649,903 2726,855 2918,897 3258,855 3324,897 3533,843 4036,873 4257,819 4347,861 4586,819 4645,855 4855,813 5076,837 5076,741 4843,711 4693,753 4460,723 4293,765 4227,729 4024,777 3940,741 3205,795 963,789 646,831 383,801" rendition="Line" xml:id="facs_0180_12_07_1353-01_tr_1_tl_5" subtype="default"/>
+         <zone points="371,986 837,1010 1052,957 1160,992 1423,957 1764,1004 1937,963 2164,1010 2577,945 2690,1010 2744,963 3175,945 3235,986 3270,951 4245,969 4364,927 5076,927 5076,825 4885,813 4705,855 4586,819 4508,867 4245,825 4203,867 4066,837 4030,873 3928,837 2936,897 2720,855 2655,903 2356,867 2116,903 1794,873 1728,909 837,873 783,909 371,921" rendition="Line" xml:id="facs_0180_12_07_1353-01_tr_1_tl_6" subtype="default"/>
+         <zone points="359,1064 520,1100 723,1064 903,1094 963,1058 1190,1094 1423,1040 1566,1088 1907,1046 2553,1082 2774,1076 2840,1028 3019,1076 3856,1022 4269,1022 4359,1064 4675,1052 4723,1004 5058,1046 5058,921 4837,915 4281,957 3844,933 3623,975 3181,945 2655,986 2571,945 2242,992 1931,963 1662,998 1423,957 1279,992 1214,957 975,998 359,981" rendition="Line" xml:id="facs_0180_12_07_1353-01_tr_1_tl_7" subtype="default"/>
+         <zone points="401,1196 1232,1142 1363,1184 1626,1136 1728,1178 1961,1148 2057,1196 2212,1130 2493,1172 3360,1124 3420,1166 3569,1124 4329,1148 4406,1106 5088,1130 5088,1028 4801,1040 4735,1004 4520,1052 4347,1004 4125,1052 3773,1022 3498,1064 3085,1046 3013,1082 2834,1028 2774,1076 2547,1082 1979,1082 1907,1046 1865,1082 401,1082" rendition="Line" xml:id="facs_0180_12_07_1353-01_tr_1_tl_8" subtype="default"/>
+         <zone points="395,1256 5082,1220 5082,1124 4956,1106 4915,1142 4406,1106 4329,1148 4006,1118 3946,1154 3629,1154 3575,1118 3527,1160 3133,1130 2750,1172 2206,1130 2134,1172 2027,1130 1889,1172 1620,1136 1142,1178 1022,1142 395,1190" rendition="Line" xml:id="facs_0180_12_07_1353-01_tr_1_tl_9" subtype="default"/>
+         <zone points="413,1351 628,1375 723,1333 1375,1345 1537,1309 1979,1351 2541,1309 2768,1357 2840,1315 3025,1357 3151,1309 3689,1297 3856,1333 4412,1309 4466,1345 4592,1309 4717,1351 5070,1315 5070,1232 4843,1244 4795,1208 4699,1250 3916,1214 413,1262" rendition="Line" xml:id="facs_0180_12_07_1353-01_tr_1_tl_10" subtype="default"/>
+         <zone points="436,1471 568,1429 981,1465 1100,1423 1262,1459 1297,1423 1590,1447 1752,1405 2433,1441 2535,1387 2768,1441 2828,1411 3252,1447 3336,1411 3527,1459 3719,1399 3988,1447 4072,1411 4119,1447 4544,1423 4586,1465 4663,1417 4873,1465 4980,1435 5070,1489 5070,1315 5004,1303 4741,1351 4167,1297 3785,1339 3713,1303 3079,1345 2541,1309 2200,1345 1537,1315 1375,1351 837,1321 628,1369 436,1339" rendition="Line" xml:id="facs_0180_12_07_1353-01_tr_1_tl_11" subtype="default"/>
+         <zone points="430,1590 903,1531 1004,1531 1106,1602 1345,1608 2045,1608 2164,1537 2236,1572 2523,1537 3456,1578 3677,1566 3779,1507 3952,1620 4257,1584 4370,1614 4424,1566 4520,1626 4568,1608 4568,1441 4496,1417 4119,1453 4078,1417 3988,1447 3719,1399 3498,1453 3300,1411 3240,1453 2989,1411 2607,1429 2547,1375 2427,1447 2374,1417 2302,1453 2254,1417 2170,1447 2116,1405 1752,1405 1596,1453 1453,1411 1339,1453 1297,1417 1250,1459 1124,1417 992,1465 568,1429 430,1471" rendition="Line" xml:id="facs_0180_12_07_1353-01_tr_1_tl_12" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0180_12_07_1353-01" n="0180_12_07_1353-01" xml:id="img_0180_12_07_1353-01"/>
+            <ab>
+               <l facs="#facs_0180_12_07_1353-01_tr_1_tl_1">Wj Jan vanden mortʼe ende Jan bode Scepenen in Antwʼpen maken cont dat vore ons quam Jan druis ende bekinde dat hi wittelec vʼcocht hoeft willeme limpiase</l>
+               <l facs="#facs_0180_12_07_1353-01_tr_1_tl_2">te joncvrouwen enghlen behoef sier dochtʼ gasthuissuster siaers eenen guldenen pēninc diemen heet scilt die tantwʼpen ghemaect es met den viere</l>
+               <l facs="#facs_0180_12_07_1353-01_tr_1_tl_3">leuwen ghetekent goet ende custbaer jaerleckʼ ende erflakʼ renten op enen boengart die ghestaen es te borssebeke die wilen engbrects gritters was houden-</l>
+               <l facs="#facs_0180_12_07_1353-01_tr_1_tl_4">de een half bunder luttel min ofte meer dat eyghen es alsomen ons seide ōme enē sūme van pēninghen daer hem de vorghenomde Jan druis af bekinde al-</l>
+               <l facs="#facs_0180_12_07_1353-01_tr_1_tl_5">vʼgouden . Soe dat de vorghenomde boengaert met allen den rechte dat hi Jan druis daer ane houdende es gherecht pant es ende bliuen sal vʼbonden</l>
+               <l facs="#facs_0180_12_07_1353-01_tr_1_tl_6">ouer den vorghenomden guldenē pēninc jaerleckʼ ende erfleckʼ renten te gheldene ende te gheuene alle jaere vanden vorghenomden Janne druis en̄</l>
+               <l facs="#facs_0180_12_07_1353-01_tr_1_tl_7">van sinen nacomenlinghen aer vorghenomder Joncvrouwen englēn also langhe alse leuen sal ende na hore doet den grote gasthuise daer si</l>
+               <l facs="#facs_0180_12_07_1353-01_tr_1_tl_8">joncvrouwe engle in es begheuen tantwʼpen te kerssauonde . Ende de vorghenomde Jan druis heeft gheloeft den vorghenomden boengaert</l>
+               <l facs="#facs_0180_12_07_1353-01_tr_1_tl_9">te vrienne en̄ te claerne van allen calaingien en̄ cūmʼe wtghenomen twintech pēninghen oudʼ grotʼ tornoise die de kerke van onser vrouwen</l>
+               <l facs="#facs_0180_12_07_1353-01_tr_1_tl_10">tantwʼpen daer siaers op heeft en̄ die in aelmosenen hare waren ghegheuen alsomen ons seide . ende te waerne in gherechten eyghendome</l>
+               <l facs="#facs_0180_12_07_1353-01_tr_1_tl_11">jaer ende dach jeghen alle de ghene die te rechte comen willen . Jn kennissen van desen lrēn beseghelt met onsen seglen alse scepene en̄ eyghen-</l>
+               <l facs="#facs_0180_12_07_1353-01_tr_1_tl_12">ghenoete Dat was ghedaen int Jaer ons heʼn alsmē screef M CCC viiftech ende drie des vridags vore alder apostellen dach</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

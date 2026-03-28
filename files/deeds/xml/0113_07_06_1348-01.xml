@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3507" lry="2480" xml:id="facs_0113_07_06_1348-01">
+         <graphic url="0113_07_06_1348-01.jpg" width="3507px" height="2480px"/>
+         <zone points="413,893 1340,918 1407,886 1552,930 1716,880 1927,924 2731,937 2766,867 2558,823 2510,861 2340,848 2277,804 2189,848 1832,845 1738,798 1681,839 1599,770 1441,839 1302,776 1047,839 937,785 618,814 410,744" rendition="Line" xml:id="facs_0113_07_06_1348-01_tr_1_tl_1" subtype="default"/>
+         <zone points="404,943 571,984 833,946 965,984 1870,962 2258,1022 2832,1003 2788,902 2715,937 2397,934 2340,896 1772,918 1716,880 1552,930 1407,886 1347,924 930,880 404,893" rendition="Line" xml:id="facs_0113_07_06_1348-01_tr_1_tl_2" subtype="default"/>
+         <zone points="391,1053 495,1022 555,1057 893,1034 1971,1094 2072,1044 2340,1094 2813,1088 2810,1012 2712,997 2592,1028 1940,971 1766,1009 1593,968 1485,1012 1334,968 391,965" rendition="Line" xml:id="facs_0113_07_06_1348-01_tr_1_tl_3" subtype="default"/>
+         <zone points="375,1126 2807,1145 2804,1091 2384,1063 2337,1098 1867,1060 1779,1098 372,1038" rendition="Line" xml:id="facs_0113_07_06_1348-01_tr_1_tl_4" subtype="default"/>
+         <zone points="388,1205 2394,1211 2719,1252 2845,1211 2845,1151 2801,1142 2387,1180 2081,1135 1769,1164 1659,1123 1492,1161 1274,1123 1161,1161 1088,1120 997,1154 804,1113 388,1123" rendition="Line" xml:id="facs_0113_07_06_1348-01_tr_1_tl_5" subtype="default"/>
+         <zone points="394,1302 700,1265 801,1309 1192,1265 1479,1321 1596,1274 1668,1315 1750,1284 1801,1315 2826,1302 2823,1227 2753,1221 391,1205" rendition="Line" xml:id="facs_0113_07_06_1348-01_tr_1_tl_6" subtype="default"/>
+         <zone points="382,1394 807,1340 1362,1388 1413,1356 1451,1391 1589,1353 2577,1388 2854,1350 2854,1296 2693,1284 1832,1318 1599,1274 1375,1318 1202,1265 801,1312 703,1265 382,1318" rendition="Line" xml:id="facs_0113_07_06_1348-01_tr_1_tl_7" subtype="default"/>
+         <zone points="385,1448 1394,1425 1649,1473 1798,1435 2327,1473 2876,1422 2876,1356 2819,1343 2406,1397 2327,1359 2189,1394 1593,1353 1536,1391 1167,1353 946,1384 798,1343 385,1388" rendition="Line" xml:id="facs_0113_07_06_1348-01_tr_1_tl_8" subtype="default"/>
+         <zone points="378,1545 533,1517 615,1561 732,1514 1006,1507 1047,1542 1192,1498 1381,1511 1425,1552 1523,1514 1602,1555 1678,1514 2463,1552 2835,1501 2835,1441 2725,1422 2655,1463 2602,1432 2561,1470 2517,1438 2116,1479 1924,1435 1665,1473 1394,1425 700,1470 643,1435 536,1479 378,1438" rendition="Line" xml:id="facs_0113_07_06_1348-01_tr_1_tl_9" subtype="default"/>
+         <zone points="350,1637 1359,1602 1495,1659 1589,1593 1757,1653 1854,1599 2208,1662 2277,1605 2337,1653 2523,1602 2886,1634 2864,1482 2558,1555 1905,1517 1605,1555 1542,1514 1429,1552 1192,1498 615,1561 353,1526" rendition="Line" xml:id="facs_0113_07_06_1348-01_tr_1_tl_10" subtype="default"/>
+         <zone points="353,1719 489,1728 552,1697 609,1722 643,1690 741,1716 807,1687 956,1712 1006,1671 1044,1675 1047,1630 993,1608 921,1640 773,1643 735,1605 700,1627 609,1605 542,1649 508,1618 426,1656 356,1630" rendition="Line" xml:id="facs_0113_07_06_1348-01_tr_1_tl_11" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0113_07_06_1348-01" n="0113_07_06_1348-01" xml:id="img_0113_07_06_1348-01"/>
+            <ab>
+               <l facs="#facs_0113_07_06_1348-01_tr_1_tl_1">Wj jan bode en̄ Woutre vanden brueke scepenē in Antwʼpen maken cont . dat vore</l>
+               <l facs="#facs_0113_07_06_1348-01_tr_1_tl_2">ons quā maes willems sone van ekeʼn . En̄ bekende dat hi om ene sūme ghelds die hē</l>
+               <l facs="#facs_0113_07_06_1348-01_tr_1_tl_3">al es vʼgouden . vʼcochte wetteleke der jnfirmerien ghestaen in claepdorp . Een halster</l>
+               <l facs="#facs_0113_07_06_1348-01_tr_1_tl_4">goeds custbaers Rogs sjaers erflekʼ Renten . de viertele in tween pēninghen na alsoe</l>
+               <l facs="#facs_0113_07_06_1348-01_tr_1_tl_5">goed . alse de beste die tʼ marct coemt . op sijn bundʼ lands luttel meer ofte min ghele-</l>
+               <l facs="#facs_0113_07_06_1348-01_tr_1_tl_6">ghen bi sente jacops capelle jnden hoghen staet . dat welle land de vorseide maes vʼbant</l>
+               <l facs="#facs_0113_07_06_1348-01_tr_1_tl_7">tepande ouʼ de vorseide erfleke rente tegheldene en̄ tegheuene van hē en̄ van sinē naco</l>
+               <l facs="#facs_0113_07_06_1348-01_tr_1_tl_8">melinghen . der vorseidʼ firmerien euwelec staende elcs jaers tekerssauonde . en̄ teleuʼne</l>
+               <l facs="#facs_0113_07_06_1348-01_tr_1_tl_9">inde vorseide firmerie sondʼ der seluʼ firmerien cost . Jn kennessen van desen letteʼn be</l>
+               <l facs="#facs_0113_07_06_1348-01_tr_1_tl_10">zeghels met onsen zeghelen . Ghegheuen jnt jaer ons heʼn alsm̄ screef . M . CCC . viertech en̄ achte</l>
+               <l facs="#facs_0113_07_06_1348-01_tr_1_tl_11">op den chinxsen auond</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3507" lry="2480" xml:id="facs_0389_27_02_1327-01">
+         <graphic url="0389_27_02_1327-01.jpg" width="3507px" height="2480px"/>
+         <zone points="561,902 694,927 801,895 939,917 984,892 1163,917 1226,886 1365,895 1365,807 1296,782 1125,788 1059,820 996,782 848,769 564,807" rendition="Line" xml:id="facs_0389_27_02_1327-01_tr_1_tl_4" subtype="default"/>
+         <zone points="277,990 1737,958 1775,990 2440,965 2541,1009 2733,971 2733,892 2645,883 2323,924 1753,876 1576,924 1393,873 1349,908 690,927 281,848" rendition="Line" xml:id="facs_0389_27_02_1327-01_tr_1_tl_5" subtype="default"/>
+         <zone points="290,1056 880,1028 1252,1066 1444,1018 1904,1062 1955,1031 2724,1047 2724,968 2560,1006 2440,968 1775,990 1649,958 1579,990 1176,952 290,996" rendition="Line" xml:id="facs_0389_27_02_1327-01_tr_1_tl_6" subtype="default"/>
+         <zone points="290,1122 974,1097 1015,1129 1245,1084 1302,1116 2740,1113 2740,1040 2626,1034 290,1056" rendition="Line" xml:id="facs_0389_27_02_1327-01_tr_1_tl_7" subtype="default"/>
+         <zone points="274,1179 936,1195 1192,1144 1381,1195 1469,1148 1661,1188 1718,1151 2762,1198 2762,1122 2566,1103 1450,1116 1374,1084 1296,1116 1248,1081 1154,1119 766,1100 274,1144" rendition="Line" xml:id="facs_0389_27_02_1327-01_tr_1_tl_8" subtype="default"/>
+         <zone points="271,1245 2790,1242 2790,1207 2566,1163 2314,1198 1728,1157 1680,1192 1444,1148 1346,1188 1179,1141 933,1192 271,1188" rendition="Line" xml:id="facs_0389_27_02_1327-01_tr_1_tl_9" subtype="default"/>
+         <zone points="281,1302 643,1296 681,1330 1236,1289 1334,1334 2141,1286 2799,1330 2762,1261 2112,1223 281,1252" rendition="Line" xml:id="facs_0389_27_02_1327-01_tr_1_tl_10" subtype="default"/>
+         <zone points="284,1384 757,1352 823,1390 908,1352 1154,1390 1340,1349 1466,1387 1639,1352 1923,1384 2030,1352 2090,1387 2386,1356 2784,1397 2821,1327 2147,1289 1901,1321 1772,1283 1598,1324 1236,1286 687,1327 287,1305" rendition="Line" xml:id="facs_0389_27_02_1327-01_tr_1_tl_11" subtype="default"/>
+         <zone points="284,1466 1217,1419 1252,1450 1743,1419 2112,1453 2185,1415 2304,1456 2465,1412 2787,1444 2758,1371 2390,1352 284,1384" rendition="Line" xml:id="facs_0389_27_02_1327-01_tr_1_tl_12" subtype="default"/>
+         <zone points="271,1501 2793,1513 2793,1419 2695,1460 2472,1415 2301,1460 2150,1415 2112,1453 1217,1419 271,1466" rendition="Line" xml:id="facs_0389_27_02_1327-01_tr_1_tl_13" subtype="default"/>
+         <zone points="271,1573 605,1595 744,1560 883,1598 996,1551 1450,1589 1869,1548 2790,1595 2790,1513 2613,1497 2506,1529 2396,1491 271,1507" rendition="Line" xml:id="facs_0389_27_02_1327-01_tr_1_tl_14" subtype="default"/>
+         <zone points="296,1649 615,1677 653,1639 861,1630 939,1677 1387,1677 1463,1627 1529,1680 1702,1624 1907,1661 1951,1620 2096,1658 2229,1627 2286,1677 2421,1633 2541,1652 2541,1567 1185,1589 993,1551 583,1595 296,1564" rendition="Line" xml:id="facs_0389_27_02_1327-01_l" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0389_27_02_1327-01" n="0389_27_02_1327-01" xml:id="img_0389_27_02_1327-01"/>
+            <ab>
+               <l facs="#facs_0389_27_02_1327-01_tr_1_tl_4">Mede . Jan coppen sone . Ende heine tac</l>
+               <l facs="#facs_0389_27_02_1327-01_tr_1_tl_5">Wij claus van winegheem en̄ gherardt van wispelaer scepenen in antwʼpen miken condt dat voer ons quā Jan van lobeke</l>
+               <l facs="#facs_0389_27_02_1327-01_tr_1_tl_6">Ende bekende dat hi vercocht heeft witteleke petren scaele omme eene sūme van ghelde daer af hem die vorseide Jan wel</l>
+               <l facs="#facs_0389_27_02_1327-01_tr_1_tl_7">vergouden kende viue scellinghe tsiaers grote onder tornoyse van muyntē sconinx van vrancrike iaerliker en̄ eweliker</l>
+               <l facs="#facs_0389_27_02_1327-01_tr_1_tl_8">renten op sine twee huyse ghestaen bider dilf tusschen willems sprongs huys in deene side en̄ jacops rutvoers huis in dan</l>
+               <l facs="#facs_0389_27_02_1327-01_tr_1_tl_9">der side en̄ op alle dat recht dat hi Jan houdende es ane de gronde en̄ ane alle dat daer toe hoert . dewelke vorgheseide</l>
+               <l facs="#facs_0389_27_02_1327-01_tr_1_tl_10">twe huise die voerseide Jan verbant en̄ sette teenen gerechten pande den voerseiden peteren en̄ sinen nacomelinghen en ouʼ</l>
+               <l facs="#facs_0389_27_02_1327-01_tr_1_tl_11">die voerꞩ jaerlike en̄ ewelike rente te gheldene en̄ tegheuene alle jare van den vorꞩ Janne en̄ van sinē nacomelīnghen</l>
+               <l facs="#facs_0389_27_02_1327-01_tr_1_tl_12">den vorꞩ petren en̄ sinen nacomelinghen deen helft altoer in sente Jans baptisten daghe in midden somere en̄ dander helft</l>
+               <l facs="#facs_0389_27_02_1327-01_tr_1_tl_13">te kerssauonde en̄ die voerꞩ Jan heeft gheloeft dese vorseide twee huise te waerne den voerꞩ petren Jaer en̄ dach vā</l>
+               <l facs="#facs_0389_27_02_1327-01_tr_1_tl_14">allen kūmeren wtghenomen der heeʼn rechte vanden gronden . Jn kennessen van desen lrēn beseghelt met onsen seghe</l>
+               <l facs="#facs_0389_27_02_1327-01_l">len Ghegheuen int Jaer ons heʼn alsemen screef . M° CCC sesse en̄ twintech des vridaghes na vastelauont</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

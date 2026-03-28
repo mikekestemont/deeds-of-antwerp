@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="4069" lry="1104" xml:id="facs_0259_17_05_1350-01">
+         <graphic url="0259_17_05_1350-01.jpg" width="4069px" height="1104px"/>
+         <zone points="44,341 780,336 1298,410 2019,346 4003,346 4003,232 3653,257 3520,193 3376,252 3238,227 3149,262 3046,197 2986,242 2804,212 2730,281 2661,227 2473,247 2300,193 2073,193 1812,301 1733,271 1535,311 1357,306 1219,232 992,252 938,212 805,271 637,227 267,252 163,183 44,188" rendition="Line" xml:id="facs_0259_17_05_1350-01_tr_1_tl_1" subtype="default"/>
+         <zone points="54,410 676,405 1353,489 1565,444 1812,474 1935,425 3085,454 3154,420 4003,405 4003,346 3954,326 3771,321 3204,370 2034,346 1372,405 780,336 54,326" rendition="Line" xml:id="facs_0259_17_05_1350-01_tr_1_tl_2" subtype="default"/>
+         <zone points="39,513 474,479 854,523 898,489 1313,553 2152,503 2419,548 2700,503 3031,528 3944,484 3944,425 3860,400 3130,420 3080,454 1935,429 1348,479 671,405 39,420" rendition="Line" xml:id="facs_0259_17_05_1350-01_tr_1_tl_3" subtype="default"/>
+         <zone points="35,573 884,573 1328,642 2073,582 2350,617 3016,573 3070,612 3125,578 3969,563 3969,484 3831,479 2680,538 2029,499 1580,553 1150,548 903,489 854,523 474,479 35,513" rendition="Line" xml:id="facs_0259_17_05_1350-01_tr_1_tl_4" subtype="default"/>
+         <zone points="39,671 617,647 1456,711 2211,657 2414,696 2468,661 3070,657 3110,691 3144,657 3302,681 3712,627 3890,671 3984,632 3984,553 2774,612 2068,582 1333,637 879,578 39,563" rendition="Line" xml:id="facs_0259_17_05_1350-01_tr_1_tl_5" subtype="default"/>
+         <zone points="25,740 829,740 1298,795 1866,745 3993,736 3993,627 1451,716 622,647 479,681 25,657" rendition="Line" xml:id="facs_0259_17_05_1350-01_tr_1_tl_6" subtype="default"/>
+         <zone points="30,819 958,819 1323,874 1402,839 2730,800 3949,814 3949,726 3860,711 3367,755 1841,750 1624,790 30,736" rendition="Line" xml:id="facs_0259_17_05_1350-01_tr_1_tl_7" subtype="default"/>
+         <zone points="44,923 716,889 1609,938 1728,898 1856,928 2522,884 2601,918 3169,869 3589,903 3969,864 3974,810 3885,780 3515,824 2172,814 1323,874 1175,829 44,814" rendition="Line" xml:id="facs_0259_17_05_1350-01_tr_1_tl_8" subtype="default"/>
+         <zone points="49,1017 578,963 622,1002 755,977 1348,1032 1703,977 2295,992 2330,958 2740,948 2903,987 3095,963 3258,992 3307,1046 3944,1051 3949,864 1728,898 1436,938 1367,908 1293,943 716,889 54,918" rendition="Line" xml:id="facs_0259_17_05_1350-01_tr_1_tl_9" subtype="default"/>
+         <zone points="49,1086 1103,1103 188,1101 326,1051 494,1101 1103,1103 508,1101 1103,1103 518,1101 617,1051 696,1101 1103,1103 740,1101 1103,1103 750,1101 795,1066 958,1101 2685,1101 2774,1086 2779,958 1836,968 1338,1027 568,968 365,1007 128,982 49,1027" rendition="Line" xml:id="facs_0259_17_05_1350-01_tr_1_tl_10" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0259_17_05_1350-01" n="0259_17_05_1350-01" xml:id="img_0259_17_05_1350-01"/>
+            <ab>
+               <l facs="#facs_0259_17_05_1350-01_tr_1_tl_1">Wij willem de molennʼe ende Jan van winenghem scepenen in antwʼpen maken cond dat vore ons quamē Joncvrouwe katline hugs dochter</l>
+               <l facs="#facs_0259_17_05_1350-01_tr_1_tl_2">was vander linden met Janne van rodenwelle horen witteghen manne ende montbore . ende bekinden dat si wittelec vʼcocht hebbē meestre</l>
+               <l facs="#facs_0259_17_05_1350-01_tr_1_tl_3">Janne van nodenbeke Canonc in onser vrouwen kerke tantwʼpen die twintech penninghe oudʼ grotʼ tornoise siaers die si hadden en̄ jaerlecs</l>
+               <l facs="#facs_0259_17_05_1350-01_tr_1_tl_4">te heffene plaghen op eene hofstat met der huisinghen die daer op staen die gheleghen es ane de paddengraft op onser vrouwen kerchoue strec-</l>
+               <l facs="#facs_0259_17_05_1350-01_tr_1_tl_5">kende van vore ane tkerchof achtʼ waert tote der cāmerstratē die wilen was ard oems ende die Janne den knepʼe nv toe behoerd also si ons seidē</l>
+               <l facs="#facs_0259_17_05_1350-01_tr_1_tl_6">met allen den rechte dat de vorgh̄ joncvrʼ katline Jan hore man ane de vorgh̄ erflec rente hofstat ende ane de huisinghe houdende waren ghe-</l>
+               <l facs="#facs_0259_17_05_1350-01_tr_1_tl_7">liic dat scepenē lrēn in hebben die daer op ghemaect siin ōme ene sūme van pēninghen daer hen de vorgh̄ joncvrʼ katline ende Jan hore man af</l>
+               <l facs="#facs_0259_17_05_1350-01_tr_1_tl_8">bekenden al vʼgouden De welke vorgh̄ erflec rente met allen horen toe behoerten de vorgh̄ joncvrʼ katline ende Jan hore man gheloeft hebben</l>
+               <l facs="#facs_0259_17_05_1350-01_tr_1_tl_9">te waerne Jaer ende dach jeghen alle de ghene die de rechte comen willen . Jn kennissen van desen lrēn beseghelt met onsen seglen . Ghe</l>
+               <l facs="#facs_0259_17_05_1350-01_tr_1_tl_10">gheuen int jaer ons heʼn alsmen screef M CCC ende viiftech des maendags na Chincendach</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

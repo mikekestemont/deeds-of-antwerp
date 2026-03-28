@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="1650" lry="821" xml:id="facs_0161_10_08_1348-01">
+         <graphic url="0161_10_08_1348-01.jpg" width="1650px" height="821px"/>
+         <zone points="125,123 1596,149 1594,30 1417,86 1241,24 1034,91 649,41 556,82 125,60" rendition="Line" xml:id="facs_0161_10_08_1348-01_tr_1_tl_1" subtype="default"/>
+         <zone points="132,167 932,154 1570,203 1601,151 130,117" rendition="Line" xml:id="facs_0161_10_08_1348-01_tr_1_tl_2" subtype="default"/>
+         <zone points="136,208 1598,225 1598,193 1371,171 136,166" rendition="Line" xml:id="facs_0161_10_08_1348-01_tr_1_tl_3" subtype="default"/>
+         <zone points="134,268 666,234 1382,286 1614,273 1614,225 132,208" rendition="Line" xml:id="facs_0161_10_08_1348-01_tr_1_tl_4" subtype="default"/>
+         <zone points="134,290 1624,324 1624,272 1510,260 432,234 134,266" rendition="Line" xml:id="facs_0161_10_08_1348-01_tr_1_tl_5" subtype="default"/>
+         <zone points="134,357 497,320 1605,359 1200,292 134,290" rendition="Line" xml:id="facs_0161_10_08_1348-01_tr_1_tl_6" subtype="default"/>
+         <zone points="140,415 612,370 1613,420 1574,368 1027,333 140,363" rendition="Line" xml:id="facs_0161_10_08_1348-01_tr_1_tl_7" subtype="default"/>
+         <zone points="143,456 766,420 1596,454 1596,415 766,372 143,413" rendition="Line" xml:id="facs_0161_10_08_1348-01_tr_1_tl_8" subtype="default"/>
+         <zone points="145,504 934,463 1613,525 1613,450 865,418 145,454" rendition="Line" xml:id="facs_0161_10_08_1348-01_tr_1_tl_9" subtype="default"/>
+         <zone points="138,552 1172,521 1428,584 1624,560 1553,506 924,461 882,497 796,467 136,504" rendition="Line" xml:id="facs_0161_10_08_1348-01_tr_1_tl_10" subtype="default"/>
+         <zone points="134,619 997,575 1107,619 1622,629 1620,558 1428,586 1198,530 134,552" rendition="Line" xml:id="facs_0161_10_08_1348-01_tr_1_tl_11" subtype="default"/>
+         <zone points="132,664 785,625 1605,677 1577,616 1347,634 945,578 817,610 448,577 132,629" rendition="Line" xml:id="facs_0161_10_08_1348-01_tr_1_tl_12" subtype="default"/>
+         <zone points="130,705 365,718 575,670 1624,751 1622,673 1120,642 130,664" rendition="Line" xml:id="facs_0161_10_08_1348-01_tr_1_tl_13" subtype="default"/>
+         <zone points="132,817 402,742 954,735 1084,802 1358,763 1611,787 1609,751 1427,709 1280,735 580,671 467,711 130,709" rendition="Line" xml:id="facs_0161_10_08_1348-01_tr_1_tl_14" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0161_10_08_1348-01" n="0161_10_08_1348-01" xml:id="img_0161_10_08_1348-01"/>
+            <ab>
+               <l facs="#facs_0161_10_08_1348-01_tr_1_tl_1">Wij Willem lympiaes en̄ Woutre vanden broeke Scepenē in Antwʼpen maken cond dat vore ons quam .</l>
+               <l facs="#facs_0161_10_08_1348-01_tr_1_tl_2">lijsbeth dochter gielijs crāmekens . met woutrē den backʼe haren witteghen man en̄ montbore . Ende</l>
+               <l facs="#facs_0161_10_08_1348-01_tr_1_tl_3">bekenden dat si om ene somme ghelds die hen wel vʼgouden es . vʼcocht hebben witteleke . Janne</l>
+               <l facs="#facs_0161_10_08_1348-01_tr_1_tl_4">tobbine den keersmakʼe . die tiene muddekene rogs tsiaers . erflekʼ renten . die hen gielijs crāmekē</l>
+               <l facs="#facs_0161_10_08_1348-01_tr_1_tl_5">der seluer lijsbette broeder guf en̄ sculdech was jaerlijs . op viere stucken lands gheleghen te kie-</l>
+               <l facs="#facs_0161_10_08_1348-01_tr_1_tl_6">le en̄ op een vierendeel van enē huise dat daer toe hoert . dat welke land gheleghen es tusschen</l>
+               <l facs="#facs_0161_10_08_1348-01_tr_1_tl_7">Willems brands land . en̄ des ouds gielijs crams land . te heffene alle jare tekerssauonde . ende</l>
+               <l facs="#facs_0161_10_08_1348-01_tr_1_tl_8">dierste paye te doene . te kʼssauonde naest toecom̄de . met alden andren vorwʼden die bescreuen</l>
+               <l facs="#facs_0161_10_08_1348-01_tr_1_tl_9">staen inden lrēn . die op de vorꞩ erfleke rente ghemaect wordden vormaels . De welke letteʼn</l>
+               <l facs="#facs_0161_10_08_1348-01_tr_1_tl_10">de vorꞩ lijsbeth en̄ haer man ouʼ ghegheuē hebben . den vorꞩ janne . in alle den rechte dat si die</l>
+               <l facs="#facs_0161_10_08_1348-01_tr_1_tl_11">hadden en̄ houdende warē . De welke vorꞩ erfleke rente de vorꞩ lisbeth en̄ haer man gheloef-</l>
+               <l facs="#facs_0161_10_08_1348-01_tr_1_tl_12">den te waerne . den vorꞩ janne quite en̄ vri van allen cōmere en̄ calaengen . tote opden ghe-</l>
+               <l facs="#facs_0161_10_08_1348-01_tr_1_tl_13">rechten landcheins vanden vorꞩ goeden . Jn kinnessen van desen lrēn beseghelt met onsen seghe</l>
+               <l facs="#facs_0161_10_08_1348-01_tr_1_tl_14">len . ghegheuē int jaer ons heʼn alsm̄ screef . M . CCC . viertech en̄ achte . op Sente laureins dach .</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3951" lry="1518" xml:id="facs_0401_28_05_1335-01">
+         <graphic url="0401_28_05_1335-01.jpg" width="3951px" height="1518px"/>
+         <zone points="0,366 132,342 225,391 283,332 327,371 840,381 908,337 1362,405 1426,371 2661,425 2832,420 2895,371 3066,415 3891,386 3886,161 3808,151 3657,244 3589,220 3452,269 3310,190 3056,288 2803,303 2554,225 2427,288 2041,181 1767,254 1553,200 1211,195 1020,269 684,215 605,249 547,200 386,249 298,190 190,264 0,210" rendition="Line" xml:id="facs_0401_28_05_1335-01_tr_1_tl_1" subtype="default"/>
+         <zone points="98,464 576,425 1514,488 1821,459 2051,503 3916,488 3916,400 3808,366 3032,420 2895,371 2778,425 1973,386 1870,425 1626,376 1099,391 908,337 840,381 327,371 283,332 220,391 98,347" rendition="Line" xml:id="facs_0401_28_05_1335-01_tr_1_tl_2" subtype="default"/>
+         <zone points="93,557 449,518 576,566 771,522 918,581 981,527 1055,561 1089,522 1421,566 1587,527 1689,586 1885,596 2143,547 2217,586 2397,552 2480,591 2876,557 3130,601 3242,557 3926,586 3926,503 3828,464 2641,513 2534,474 1973,503 1821,464 630,459 576,425 513,464 400,430 293,474 93,459" rendition="Line" xml:id="facs_0401_28_05_1335-01_tr_1_tl_3" subtype="default"/>
+         <zone points="88,625 298,659 561,610 688,659 889,615 1079,659 1118,620 1348,654 1396,615 1499,664 1743,630 1914,674 2114,630 2388,684 2568,635 2627,674 3017,649 3164,688 3398,640 3691,693 3930,664 3930,581 3847,561 3720,591 3247,557 3144,596 2656,561 2485,596 2407,557 2021,552 1953,596 1684,586 1577,527 1533,566 981,527 908,571 781,522 566,566 449,513 332,557 200,522 88,552" rendition="Line" xml:id="facs_0401_28_05_1335-01_tr_1_tl_4" subtype="default"/>
+         <zone points="78,747 405,708 469,747 576,703 820,747 1045,708 1118,752 1172,713 1406,752 2051,713 2524,762 2617,727 2773,771 2881,723 3257,776 3681,732 3930,776 3930,674 3550,684 3408,640 3247,684 3022,649 2778,684 2583,644 2402,679 2329,644 1802,664 1689,615 1562,664 1128,615 1079,659 972,620 679,659 561,610 298,664 244,620 78,620" rendition="Line" xml:id="facs_0401_28_05_1335-01_tr_1_tl_5" subtype="default"/>
+         <zone points="73,825 732,796 1079,835 1152,796 1279,835 1396,796 1870,850 2090,806 2539,845 2710,806 2944,859 3188,825 3305,869 3384,825 3608,859 3794,820 3926,864 3926,752 3681,737 3598,771 3335,737 3042,771 2881,732 2754,767 2051,713 1792,757 1684,713 1426,757 1318,708 1123,752 1050,703 820,747 576,703 469,747 410,708 73,747" rendition="Line" xml:id="facs_0401_28_05_1335-01_tr_1_tl_6" subtype="default"/>
+         <zone points="93,918 664,879 835,918 1108,923 1167,879 1523,923 1880,903 1997,942 2178,893 2412,947 2549,898 2583,933 3081,918 3115,952 3252,913 3476,947 3945,918 3945,854 3818,825 2905,864 2705,810 2539,845 2090,806 1992,859 1372,806 93,825" rendition="Line" xml:id="facs_0401_28_05_1335-01_tr_1_tl_7" subtype="default"/>
+         <zone points="83,1030 322,986 503,1016 547,967 937,1011 1709,986 1855,1025 1914,986 2056,1030 2134,991 2549,1025 2651,991 2803,1025 3940,1006 3940,913 3813,942 3716,903 3120,952 2544,903 2417,947 2178,893 2002,942 1885,903 1284,918 1172,879 1108,923 664,879 83,928" rendition="Line" xml:id="facs_0401_28_05_1335-01_tr_1_tl_8" subtype="default"/>
+         <zone points="78,1103 635,1069 845,1118 986,1064 1128,1118 1279,1074 3935,1118 3935,1001 3720,996 3471,1040 3183,996 2554,1030 2514,996 2143,986 2075,1025 1909,991 1865,1025 1313,972 1001,1011 547,972 508,1011 322,986 78,1030" rendition="Line" xml:id="facs_0401_28_05_1335-01_tr_1_tl_9" subtype="default"/>
+         <zone points="88,1196 317,1211 430,1167 527,1211 610,1167 1055,1216 1138,1172 1216,1211 1455,1172 1548,1216 1616,1182 1831,1221 1870,1182 2436,1172 2485,1206 2656,1172 2763,1216 2866,1167 2964,1221 3110,1182 3183,1226 3252,1182 3940,1201 3940,1108 3808,1084 3476,1133 3047,1084 2329,1113 2187,1074 2090,1118 1352,1079 1045,1113 1001,1069 850,1118 644,1069 88,1103" rendition="Line" xml:id="facs_0401_28_05_1335-01_tr_1_tl_10" subtype="default"/>
+         <zone points="88,1289 552,1299 591,1260 630,1294 864,1274 933,1318 1035,1274 1152,1318 1387,1269 1504,1323 1606,1279 2114,1313 2265,1265 2427,1313 2568,1265 2866,1323 3286,1304 3403,1260 3481,1318 3554,1279 3940,1318 3940,1206 3862,1182 3784,1221 3247,1186 3188,1226 2969,1226 2861,1172 2754,1221 2656,1177 2397,1177 2353,1216 2212,1172 1987,1211 1875,1177 1831,1221 1675,1186 1548,1216 1450,1172 1392,1226 1138,1177 1055,1216 610,1167 527,1211 430,1167 269,1211 88,1196" rendition="Line" xml:id="facs_0401_28_05_1335-01_tr_1_tl_11" subtype="default"/>
+         <zone points="88,1392 576,1377 742,1421 1045,1372 1133,1416 1206,1377 1431,1382 1665,1431 1909,1372 1987,1431 2114,1392 2236,1426 2319,1382 2505,1431 2554,1387 2837,1411 3081,1367 3193,1416 3364,1357 3432,1406 3940,1406 3940,1313 3716,1274 3481,1313 3398,1260 3208,1318 3081,1279 2851,1318 2617,1265 2431,1309 2197,1269 2060,1318 1841,1313 1792,1274 1504,1323 1382,1274 1260,1318 1147,1269 981,1318 864,1269 635,1294 591,1260 552,1299 88,1289" rendition="Line" xml:id="facs_0401_28_05_1335-01_tr_1_tl_12" subtype="default"/>
+         <zone points="88,1475 1543,1489 1504,1387 1206,1377 1133,1416 869,1377 732,1421 347,1367 269,1406 88,1392" rendition="Line" xml:id="facs_0401_28_05_1335-01_tr_1_tl_13" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0401_28_05_1335-01" n="0401_28_05_1335-01" xml:id="img_0401_28_05_1335-01"/>
+            <ab>
+               <l facs="#facs_0401_28_05_1335-01_tr_1_tl_1">Wj willem drake ende Jan drake . Scepenen in Antwʼpen maken cond . dat vore ons quamen . Jan uten houte scoutete nv van</l>
+               <l facs="#facs_0401_28_05_1335-01_tr_1_tl_2">antwʼpen . ende joncvrouwe katline sijn witteghe wijf met den seluen Janne horen witteghen montbore . en̄ bekinden dat</l>
+               <l facs="#facs_0401_28_05_1335-01_tr_1_tl_3">si wittelec vʼcocht hebben heʼn steuene wilmare Capllʼaen jn onser vrouwen kerke tantwʼpen . Seuene virtlēn Rogs die si hadden</l>
+               <l facs="#facs_0401_28_05_1335-01_tr_1_tl_4">ende jaerlecs te heffene plaghen also si ons seiden op een goed dat gheleghen es inde ꝓchie van mortsele en̄ dat si ghemene</l>
+               <l facs="#facs_0401_28_05_1335-01_tr_1_tl_5">houdende sijn met den seluen heʼn steuene met heʼn godeuʼde van brechte riddʼe . en̄ met matgrieten bollardinnen mijn shʼ</l>
+               <l facs="#facs_0401_28_05_1335-01_tr_1_tl_6">claus wiue vander dilf riddʼs . en̄ dat arnoud van adenrode nv wint . met al den rechte dat si ane den vorseiden roggh</l>
+               <l facs="#facs_0401_28_05_1335-01_tr_1_tl_7">en̄ ane tgoed houdende waren . omme ene sūme vā penninghen daer hen de vorghʼ Jan uten houte en̄ joncvrʼ katline</l>
+               <l facs="#facs_0401_28_05_1335-01_tr_1_tl_8">sijn wijf af bekinden al vʼgouden . den welken rogghe met allen dien rechte dat si daer ane ende ane dat vorseide</l>
+               <l facs="#facs_0401_28_05_1335-01_tr_1_tl_9">goed houdende sijn . Jan . en̄ joncvrʼ katline sijn wijf vorgh . op droghen met vʼtienne in gherechten eyghendome de</l>
+               <l facs="#facs_0401_28_05_1335-01_tr_1_tl_10">vorseiden heʼn steuene en̄ quite scouden tsinen behoef en̄ bekinden dat si en gheen recht daer ane en behilden . en̄</l>
+               <l facs="#facs_0401_28_05_1335-01_tr_1_tl_11">daer toe soe gheloefden sijt te waerne . Jaer ende dach jeghen alle de ghene die te rechte comen willen . Jn kennissen v</l>
+               <l facs="#facs_0401_28_05_1335-01_tr_1_tl_12">desen lettrʼen beseghelt met onsen seglen . Ghegheuen jnt jaer ons heʼn alsmen screef M . CCC viue en̄ dertech</l>
+               <l facs="#facs_0401_28_05_1335-01_tr_1_tl_13">des sondags na ons heʼn op vaert</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

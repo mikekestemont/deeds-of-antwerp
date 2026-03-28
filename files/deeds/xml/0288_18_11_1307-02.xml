@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3507" lry="2480" xml:id="facs_0288_18_11_1307-02">
+         <graphic url="0288_18_11_1307-02.jpg" width="3507px" height="2480px"/>
+         <zone points="451,776 685,763 740,800 849,763 922,800 1055,768 1133,813 1297,748 1599,792 2371,742 2532,787 2532,643 2467,628 2350,677 2196,643 2081,693 1756,667 1607,714 1302,649 990,716 922,667 620,683 555,630 451,638" rendition="Line" xml:id="facs_0288_18_11_1307-02_tr_1_tl_1" subtype="default"/>
+         <zone points="456,883 776,891 901,847 1024,880 1204,852 1256,896 1399,847 1469,878 1662,844 1904,891 1964,844 2115,875 2196,831 2550,878 2550,782 2368,742 2003,750 1818,810 1469,755 1188,808 1055,771 456,789" rendition="Line" xml:id="facs_0288_18_11_1307-02_tr_1_tl_2" subtype="default"/>
+         <zone points="456,966 1599,933 1902,938 1988,979 2063,925 2154,977 2303,930 2537,969 2537,862 2451,844 1964,847 1902,891 1662,844 1599,883 1357,847 1240,899 888,847 774,891 456,873" rendition="Line" xml:id="facs_0288_18_11_1307-02_tr_1_tl_3" subtype="default"/>
+         <zone points="451,1052 1078,1034 1201,1094 1329,1026 1560,1076 1761,1029 2191,1068 2423,1019 2537,1063 2537,966 2300,935 2165,979 2063,935 1988,979 1850,943 1524,977 1386,935 1269,990 1102,951 451,964" rendition="Line" xml:id="facs_0288_18_11_1307-02_tr_1_tl_4" subtype="default"/>
+         <zone points="443,1177 888,1128 974,1170 1357,1133 1485,1188 1646,1120 2529,1154 2529,1065 2402,1026 2136,1071 1709,1037 1248,1099 1128,1050 953,1086 779,1047 443,1071" rendition="Line" xml:id="facs_0288_18_11_1307-02_tr_1_tl_5" subtype="default"/>
+         <zone points="435,1243 1339,1274 1461,1232 1837,1230 1896,1274 2516,1230 2516,1141 2313,1175 2238,1123 2191,1157 2133,1125 1553,1138 1482,1188 1355,1133 1170,1180 880,1128 435,1183" rendition="Line" xml:id="facs_0288_18_11_1307-02_tr_1_tl_6" subtype="default"/>
+         <zone points="435,1347 722,1336 860,1378 933,1342 1016,1375 1164,1339 2483,1336 2483,1258 2371,1222 2126,1271 1521,1230 1243,1282 1060,1240 732,1276 435,1243" rendition="Line" xml:id="facs_0288_18_11_1307-02_tr_1_tl_7" subtype="default"/>
+         <zone points="435,1477 1024,1454 1099,1412 1243,1482 1323,1430 1365,1461 1568,1412 2506,1435 2506,1318 1883,1368 1751,1339 1685,1375 1422,1334 1016,1375 935,1342 857,1381 675,1334 435,1347" rendition="Line" xml:id="facs_0288_18_11_1307-02_tr_1_tl_8" subtype="default"/>
+         <zone points="425,1568 808,1521 1050,1581 1211,1516 1524,1568 1594,1511 1717,1555 1985,1524 2068,1558 2350,1503 2483,1550 2483,1459 2381,1415 2157,1474 1964,1420 1602,1472 1553,1430 1493,1464 1331,1433 1237,1480 1102,1415 912,1472 701,1435 625,1480 425,1469" rendition="Line" xml:id="facs_0288_18_11_1307-02_tr_1_tl_9" subtype="default"/>
+         <zone points="425,1649 701,1675 766,1631 935,1670 1383,1623 1472,1654 1610,1607 1745,1652 1792,1610 1855,1657 2011,1597 2308,1649 2373,1592 2483,1649 2483,1550 2235,1508 2066,1558 1589,1511 1527,1566 1217,1521 1149,1566 909,1573 797,1521 425,1571" rendition="Line" xml:id="facs_0288_18_11_1307-02_tr_1_tl_10" subtype="default"/>
+         <zone points="432,1756 826,1722 865,1756 907,1719 1248,1758 1519,1706 1652,1758 1758,1704 2509,1722 2509,1639 2011,1597 1860,1657 1792,1612 1745,1652 1527,1615 1308,1665 435,1657" rendition="Line" xml:id="facs_0288_18_11_1307-02_tr_1_tl_11" subtype="default"/>
+         <zone points="438,1852 683,1816 792,1860 1482,1824 1579,1855 1751,1803 1928,1837 2128,1787 2493,1860 2496,1725 2358,1748 2214,1696 1967,1758 1857,1704 1667,1764 1545,1709 1008,1769 901,1722 841,1766 672,1725 440,1756" rendition="Line" xml:id="facs_0288_18_11_1307-02_l" subtype="default"/>
+         <zone points="419,1909 529,1907 599,1959 849,1920 912,1969 979,1967 1076,1920 1237,1928 1240,1855 748,1855 698,1813 419,1868" rendition="Line" xml:id="facs_0288_18_11_1307-02_tr_1_tl_14" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0288_18_11_1307-02" n="0288_18_11_1307-02" xml:id="img_0288_18_11_1307-02"/>
+            <ab>
+               <l facs="#facs_0288_18_11_1307-02_tr_1_tl_1">Wi claus van winengheem en̄ pauwels bornecolue scepenen in Andwerpen maken kond allen . den</l>
+               <l facs="#facs_0288_18_11_1307-02_tr_1_tl_2">ghenen die dese lettre zelen zien ochte horen lesen . dat vore ons en̄ vorse die landsheʼn comen es</l>
+               <l facs="#facs_0288_18_11_1307-02_tr_1_tl_3">Jan van ordren en̄ beliede vore ons en̄ bekende dat hi ghegheuen heeft den gheleghen gheest</l>
+               <l facs="#facs_0288_18_11_1307-02_tr_1_tl_4">in onzer vᵒuwen kerke bin Andwerpen twelef pond sjaers te eweleken daghe zwarter tornoise</l>
+               <l facs="#facs_0288_18_11_1307-02_tr_1_tl_5">den groten ouden tornoisen van sconings monte van vrankereke goed en̄ custbaer vore vijf</l>
+               <l facs="#facs_0288_18_11_1307-02_tr_1_tl_6">tien pʼninghe gherekend . zwarter tornoise . die welke twelef pond tsjaers voreghenoomd . hi be-</l>
+               <l facs="#facs_0288_18_11_1307-02_tr_1_tl_7">wijsde vore ons te heffene en̄ te ontfane ant huus dat hi heeft staende in die zeluermin</l>
+               <l facs="#facs_0288_18_11_1307-02_tr_1_tl_8">stᵃte tusschen pieters huus vander leye . en̄ Claus van ackendonc . en̄ an alt recht dat hir</l>
+               <l facs="#facs_0288_18_11_1307-02_tr_1_tl_9">an heeft . alle jare . die ene helft telken Sente Jans daghe in midden zomere . en̄ die an</l>
+               <l facs="#facs_0288_18_11_1307-02_tr_1_tl_10">der helft telken kersauonde . behoudenlec der lettre die Jan die wayere heeft . Die</l>
+               <l facs="#facs_0288_18_11_1307-02_tr_1_tl_11">spreect van tien ponden sjaers . Jn orkonde van desen brieue beseghelt med onzen ze</l>
+               <l facs="#facs_0288_18_11_1307-02_l">ghelen . Dit was ghedaen jnt jaer ons heʼn als men screef . M . CCC . en̄ zeuene op</l>
+               <l facs="#facs_0288_18_11_1307-02_tr_1_tl_14">den andagh van Sente martine</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

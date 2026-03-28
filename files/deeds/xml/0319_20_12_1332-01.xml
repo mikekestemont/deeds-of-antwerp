@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3142" lry="1682" xml:id="facs_0319_20_12_1332-01">
+         <graphic url="0319_20_12_1332-01.jpg" width="3142px" height="1682px"/>
+         <zone points="243,296 493,328 1054,282 1226,331 1265,292 1374,331 1434,289 1748,331 2107,300 2467,338 2551,303 2724,342 2815,303 2939,338 2981,328 2981,222 2840,208 2766,254 2608,201 2470,261 2393,211 2171,250 2118,204 2047,250 1674,176 1600,243 1413,243 1357,187 1240,233 920,194 849,240 726,187 532,236 240,155" rendition="Line" xml:id="facs_0319_20_12_1332-01_tr_1_tl_1" subtype="default"/>
+         <zone points="250,419 448,374 789,374 835,409 923,366 1279,409 1336,374 1635,384 1758,423 2157,391 2512,430 2678,391 2731,426 2889,384 2999,419 2999,328 2868,342 2815,300 2699,349 2541,310 2216,307 2114,349 1952,303 1853,338 1811,303 1441,292 1367,331 1272,289 1212,331 1061,285 902,328 796,289 250,328" rendition="Line" xml:id="facs_0319_20_12_1332-01_tr_1_tl_2" subtype="default"/>
+         <zone points="250,493 391,448 560,493 631,448 973,444 1159,486 1353,451 1586,497 1744,462 2132,504 2551,469 2763,511 3048,462 3048,416 2812,388 2449,430 617,374 250,419" rendition="Line" xml:id="facs_0319_20_12_1332-01_tr_1_tl_3" subtype="default"/>
+         <zone points="243,557 631,529 677,571 1008,564 1043,529 1156,571 1406,529 2481,585 2534,543 2808,539 2939,585 3023,543 3023,472 2741,504 1772,465 1716,500 1357,451 1156,486 789,448 606,490 395,451 243,500" rendition="Line" xml:id="facs_0319_20_12_1332-01_tr_1_tl_4" subtype="default"/>
+         <zone points="250,631 655,641 818,592 1054,638 1346,606 3016,652 2988,539 2921,588 2808,539 2484,585 1406,529 1156,571 1054,539 677,571 571,529 250,553" rendition="Line" xml:id="facs_0319_20_12_1332-01_tr_1_tl_5" subtype="default"/>
+         <zone points="250,705 3016,719 3016,652 2808,624 2629,662 2231,620 2065,652 1977,613 1054,638 818,592 648,645 606,613 250,627" rendition="Line" xml:id="facs_0319_20_12_1332-01_tr_1_tl_6" subtype="default"/>
+         <zone points="250,800 980,765 3034,807 3006,719 2777,733 2692,694 2629,733 2453,698 2245,736 1364,691 1202,729 1004,684 800,726 469,698 416,744 250,708" rendition="Line" xml:id="facs_0319_20_12_1332-01_tr_1_tl_7" subtype="default"/>
+         <zone points="247,884 941,853 1226,895 1307,846 1410,892 1677,842 1942,895 2005,853 2097,884 2213,849 2276,884 2565,849 2660,892 2752,853 3020,877 3020,796 2759,821 2646,779 2262,818 1818,775 1691,810 1057,796 955,761 472,814 416,765 247,818" rendition="Line" xml:id="facs_0319_20_12_1332-01_tr_1_tl_8" subtype="default"/>
+         <zone points="236,987 1018,944 1265,980 1332,934 1639,966 1681,934 1783,973 1984,927 2523,934 2629,973 2699,934 2999,951 3037,881 2759,853 2664,892 2541,849 2280,884 2220,849 1762,892 1677,846 1505,892 1318,860 1223,899 1170,860 1099,902 941,856 881,895 807,860 666,902 603,863 483,906 240,870" rendition="Line" xml:id="facs_0319_20_12_1332-01_tr_1_tl_9" subtype="default"/>
+         <zone points="226,1032 405,1071 691,1022 810,1068 1029,1022 1244,1057 1290,1015 1515,1054 1603,1008 1963,1047 2061,1001 3023,1025 3023,955 2935,934 2639,973 2527,934 2107,973 1987,927 1790,973 1498,941 1177,983 1061,944 958,983 610,944 374,994 226,973" rendition="Line" xml:id="facs_0319_20_12_1332-01_tr_1_tl_10" subtype="default"/>
+         <zone points="229,1135 1057,1110 1212,1149 1441,1099 1522,1131 1836,1092 1889,1128 2033,1089 2449,1131 2541,1089 2826,1096 2942,1135 3030,1092 3030,1047 2907,1011 2833,1050 2090,1011 1970,1054 1903,1015 1600,1011 1512,1057 1420,1018 1367,1061 1290,1015 1237,1064 990,1025 708,1071 462,1040 416,1071 314,1029 229,1071" rendition="Line" xml:id="facs_0319_20_12_1332-01_tr_1_tl_11" subtype="default"/>
+         <zone points="229,1212 571,1198 645,1240 744,1191 846,1233 906,1198 1501,1180 1639,1219 1885,1170 2072,1216 2153,1173 2273,1173 2319,1216 2470,1173 3037,1216 3037,1096 2925,1135 2759,1096 2463,1138 2357,1099 2301,1135 1663,1092 1575,1138 229,1145" rendition="Line" xml:id="facs_0319_20_12_1332-01_tr_1_tl_12" subtype="default"/>
+         <zone points="236,1283 624,1283 677,1321 902,1283 962,1325 1082,1269 1166,1304 1501,1262 1956,1300 2403,1258 2579,1314 2727,1265 2928,1262 2974,1304 3041,1276 3041,1223 2911,1188 2682,1223 2484,1170 2322,1209 2121,1177 2079,1216 1945,1177 1639,1219 1533,1184 1131,1223 1047,1188 842,1240 761,1205 338,1240 236,1209" rendition="Line" xml:id="facs_0319_20_12_1332-01_tr_1_tl_13" subtype="default"/>
+         <zone points="229,1353 486,1406 1061,1360 1212,1399 1251,1360 1360,1388 1413,1357 1473,1392 1515,1353 1716,1388 1973,1339 2090,1395 2297,1353 2375,1385 2555,1353 2632,1402 2777,1343 3062,1374 3062,1279 2967,1300 2914,1262 2579,1314 2534,1276 2491,1311 2231,1265 1882,1307 1550,1262 1494,1304 1304,1276 1156,1318 1082,1272 962,1328 229,1293" rendition="Line" xml:id="facs_0319_20_12_1332-01_tr_1_tl_14" subtype="default"/>
+         <zone points="240,1480 1265,1445 1314,1491 1374,1445 1561,1431 2068,1466 2068,1385 1970,1343 1321,1399 987,1357 927,1406 715,1367 497,1406 240,1381" rendition="Line" xml:id="facs_0319_20_12_1332-01_tr_1_tl_15" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0319_20_12_1332-01" n="0319_20_12_1332-01" xml:id="img_0319_20_12_1332-01"/>
+            <ab>
+               <l facs="#facs_0319_20_12_1332-01_tr_1_tl_1">Wi claus van hoboken ende willem noese Scepenen in Antwʼpen maken cond . dat vore ons quam Jan vander leyen</l>
+               <l facs="#facs_0319_20_12_1332-01_tr_1_tl_2">petʼs sone was vander leyen . en̄ bekinde dat hi wittelec vʼcocht heeft . petre scatte siaers Sesse scellinghe ouder grotʼ tornoise</l>
+               <l facs="#facs_0319_20_12_1332-01_tr_1_tl_3">gued en̄ custbaer van mūten sconings van vᵃncrike erflecker renten op een huis datmen heet de smisse dat vor-</l>
+               <l facs="#facs_0319_20_12_1332-01_tr_1_tl_4">maels was meestʼ jans marscalcs ghestaen ane de coren maerct naest den huise dat men heet de keuie . en̄ op alle</l>
+               <l facs="#facs_0319_20_12_1332-01_tr_1_tl_5">dat recht dat hi daer ane . ane grond . hof . en̄ ane al dattʼ toe behoerd houdende es . ōme ene sūme van pēninghē</l>
+               <l facs="#facs_0319_20_12_1332-01_tr_1_tl_6">daer hem de vorseide Jan vander leyen af bekinde al vʼgouden . soe dat . dat vorghenoemde huis met al dattʼ toe be</l>
+               <l facs="#facs_0319_20_12_1332-01_tr_1_tl_7">hoerd gherecht pand es en̄ altoes bliuen sal vʼbonden ouer de vorseide sesse scellinghe oudʼ grotʼ tornʼ erfleckʼ renten</l>
+               <l facs="#facs_0319_20_12_1332-01_tr_1_tl_8">te gheldene en̄ te gheuene alle jaere vanden vorseider Janne en̄ van sinen nacomenlinghen de voergh̄ peter scatte ende</l>
+               <l facs="#facs_0319_20_12_1332-01_tr_1_tl_9">sinen nacomelinghen dene heelft daer af op sente jans dach baptisten in midden someʼ . en̄ dander heelft te kerssauonde .</l>
+               <l facs="#facs_0319_20_12_1332-01_tr_1_tl_10">voert soe gheloefde de vorghenoemde Jan dat vorseide huis met dattʼ toe behoerd te vrienne en̄ te claerne van kūmeʼ en̄</l>
+               <l facs="#facs_0319_20_12_1332-01_tr_1_tl_11">calaingien wte ghenomen veertiene scellinghen cheins ghelds en̄ enen hoene die de hʼe vanden gronde daer af te heffene</l>
+               <l facs="#facs_0319_20_12_1332-01_tr_1_tl_12">pleegt siaers also si ons seiden . En̄ ware daer af enech ghebrech inden vorghenoemden janne . dat heeft gheloeft te ghel</l>
+               <l facs="#facs_0319_20_12_1332-01_tr_1_tl_13">dene en̄ te veldene als gued borghe mathijs de wale . den welken borghe de vorghenoemde jan gheloefde hier af wel te qui-</l>
+               <l facs="#facs_0319_20_12_1332-01_tr_1_tl_14">tene ende scadeloes te houdene Jn kennissen van desen lrēn beseghelt met onsen seglen Ghegheuen int jaer ons heʼn alsm̄</l>
+               <l facs="#facs_0319_20_12_1332-01_tr_1_tl_15">screef M CCC . twee en̄ Dertech des sondags vore sente thomaes dach</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

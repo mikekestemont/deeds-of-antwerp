@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="2048" lry="1536" xml:id="facs_0308_20_04_1349-01">
+         <graphic url="0308_20_04_1349-01.jpg" width="2048px" height="1536px"/>
+         <zone points="316,677 1776,659 1750,589 1422,633 1214,586 1117,631 914,595 776,631 318,580" rendition="Line" xml:id="facs_0308_20_04_1349-01_tr_1_tl_4" subtype="default"/>
+         <zone points="312,714 1776,690 1728,650 312,684" rendition="Line" xml:id="facs_0308_20_04_1349-01_tr_1_tl_5" subtype="default"/>
+         <zone points="312,734 1774,725 1750,688 312,712" rendition="Line" xml:id="facs_0308_20_04_1349-01_tr_1_tl_6" subtype="default"/>
+         <zone points="321,770 1770,759 1770,721 321,737" rendition="Line" xml:id="facs_0308_20_04_1349-01_tr_1_tl_7" subtype="default"/>
+         <zone points="312,810 1765,794 1716,752 312,770" rendition="Line" xml:id="facs_0308_20_04_1349-01_tr_1_tl_8" subtype="default"/>
+         <zone points="316,847 1752,843 1732,787 316,808" rendition="Line" xml:id="facs_0308_20_04_1349-01_tr_1_tl_9" subtype="default"/>
+         <zone points="316,872 1767,874 1692,829 316,847" rendition="Line" xml:id="facs_0308_20_04_1349-01_tr_1_tl_10" subtype="default"/>
+         <zone points="316,914 1765,911 1765,867 1571,861 316,874" rendition="Line" xml:id="facs_0308_20_04_1349-01_tr_1_tl_11" subtype="default"/>
+         <zone points="312,949 1652,951 1571,902 312,911" rendition="Line" xml:id="facs_0308_20_04_1349-01_tr_1_tl_12" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0308_20_04_1349-01" n="0308_20_04_1349-01" xml:id="img_0308_20_04_1349-01"/>
+            <ab>
+               <l facs="#facs_0308_20_04_1349-01_tr_1_tl_4">Wij Willem de molennʼe ende Woutʼe vanden broeke Scepenen in antwʼpen maken cond dat vore ons quamē Jan wilmaer</l>
+               <l facs="#facs_0308_20_04_1349-01_tr_1_tl_5">laureins volcaert ende willem die sone es claus colucs en̄ bekinden dat si wittelec vʼcocht hebben heinrik zudʼmanne</l>
+               <l facs="#facs_0308_20_04_1349-01_tr_1_tl_6">die twintech scellinghe ende sesse hoendre die si siaers haddē tʼ stat rechte op huis en̄ op den grond dat wouters</l>
+               <l facs="#facs_0308_20_04_1349-01_tr_1_tl_7">was van louene dat ghestaen es inde nuwestrate met allen den rechte dat si ane den vorghenomden cheins ane</l>
+               <l facs="#facs_0308_20_04_1349-01_tr_1_tl_8">huis hof en̄ ane deyghendom vanden gronde houdende waren ōme ene sūme van pēninghen daer hen de vor-</l>
+               <l facs="#facs_0308_20_04_1349-01_tr_1_tl_9">ghenomde Jan wilmaer laureins volcaert en̄ willem colucs sone af bekinden al vʼgouden . den welken vorgh̄</l>
+               <l facs="#facs_0308_20_04_1349-01_tr_1_tl_10">cheins met den eyghendome de vorgh̄ Jan laureins en̄ willem gheloefden tewaerne jaer en̄ dach jeghen alle</l>
+               <l facs="#facs_0308_20_04_1349-01_tr_1_tl_11">de ghene die te rechte comen willen . Jn kennissen van desen lrēn beseghelt met onsen seglen Ghegheuē int</l>
+               <l facs="#facs_0308_20_04_1349-01_tr_1_tl_12">jaer ons heʼn alsmē screef M CCC veertech ende neghene des maendaghs na belokenen paeschen</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3113" lry="1047" xml:id="facs_0210_14_04_1349-01">
+         <graphic url="0210_14_04_1349-01.jpg" width="3113px" height="1047px"/>
+         <zone points="265,226 375,269 880,251 1004,297 1131,262 1191,300 1414,269 1471,311 2559,308 2733,262 3029,272 3029,184 2976,156 2913,205 2757,138 2531,205 2460,159 2277,187 2216,156 2061,237 1810,240 1396,159 1188,216 962,177 732,205 541,117 262,113" rendition="Line" xml:id="facs_0210_14_04_1349-01_tr_1_tl_1" subtype="default"/>
+         <zone points="272,308 506,361 619,325 689,371 771,332 877,375 976,332 1308,378 1640,346 1697,392 1813,350 2340,371 2987,325 2984,276 2807,255 2573,304 2482,272 1958,318 272,237" rendition="Line" xml:id="facs_0210_14_04_1349-01_tr_1_tl_2" subtype="default"/>
+         <zone points="262,403 442,445 573,403 756,438 1131,403 1237,452 1495,417 1838,460 1934,421 1990,456 2079,417 2414,435 3026,382 3026,311 1676,385 1517,343 1071,368 976,329 845,371 566,322 506,364 265,297" rendition="Line" xml:id="facs_0210_14_04_1349-01_tr_1_tl_3" subtype="default"/>
+         <zone points="258,488 467,523 658,481 813,516 1071,484 1209,530 1311,488 2202,520 3029,445 2998,375 1902,456 258,407" rendition="Line" xml:id="facs_0210_14_04_1349-01_tr_1_tl_4" subtype="default"/>
+         <zone points="255,562 612,601 689,569 735,604 891,562 933,601 1043,562 1170,601 1509,559 1608,601 1958,559 2026,594 2471,551 2740,580 2839,537 3015,548 3019,452 2195,520 2040,488 1983,527 1460,488 1290,488 1237,530 1000,484 810,516 658,477 467,527 417,484 255,484" rendition="Line" xml:id="facs_0210_14_04_1349-01_tr_1_tl_5" subtype="default"/>
+         <zone points="230,636 378,661 431,622 597,679 926,629 1294,672 1608,633 1669,679 2156,626 2216,668 2368,622 2945,629 3019,601 3022,548 2195,594 2079,566 2026,601 1934,569 615,601 233,566" rendition="Line" xml:id="facs_0210_14_04_1349-01_tr_1_tl_6" subtype="default"/>
+         <zone points="212,711 852,756 1029,703 1343,753 1555,721 1630,756 1729,714 1799,764 1891,721 2139,756 2549,686 3022,686 3022,601 2605,650 2368,622 2248,665 2142,626 1937,672 1750,643 1672,682 1612,633 1297,672 1124,629 827,675 661,647 587,679 435,622 371,668 212,647" rendition="Line" xml:id="facs_0210_14_04_1349-01_tr_1_tl_7" subtype="default"/>
+         <zone points="205,820 488,781 622,834 1089,788 1881,834 2125,781 2266,813 2436,778 2482,817 2634,771 2757,802 3012,774 3012,725 2931,689 2669,679 2351,742 1980,760 1891,725 1824,764 1478,718 1340,753 1266,714 1174,753 1029,703 863,760 608,711 205,732" rendition="Line" xml:id="facs_0210_14_04_1349-01_tr_1_tl_8" subtype="default"/>
+         <zone points="173,898 350,873 523,916 587,873 834,912 1043,873 1106,908 1301,866 1683,919 1905,873 2015,933 2192,884 2651,894 2810,841 2973,916 3015,905 3019,778 2634,771 2506,820 2308,778 1877,838 1711,799 1502,831 1015,792 714,848 445,781 364,824 173,820" rendition="Line" xml:id="facs_0210_14_04_1349-01_tr_1_tl_9" subtype="default"/>
+         <zone points="163,986 650,1015 1060,979 1184,1015 1269,976 1955,983 1955,880 1909,873 1679,916 1428,873 1106,912 926,873 834,908 587,873 523,916 357,877 163,901" rendition="Line" xml:id="facs_0210_14_04_1349-01_tr_1_tl_10" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0210_14_04_1349-01" n="0210_14_04_1349-01" xml:id="img_0210_14_04_1349-01"/>
+            <ab>
+               <l facs="#facs_0210_14_04_1349-01_tr_1_tl_1">Wij Willem nose en Willem lympiaes scepen̄ in Antwʼpen maken cont . dat vore ons quam Godeuaerd alsteens sone . Ende ghe-</l>
+               <l facs="#facs_0210_14_04_1349-01_tr_1_tl_2">loefde vaste en̄ ghestade te houdene tallen daghen . dien coep dien Eersame liede . De Deken en̄ de . Capittele van onser vrouwen</l>
+               <l facs="#facs_0210_14_04_1349-01_tr_1_tl_3">kerke Jn Antwʼpen ghedaen hebben met joncfrʼ machtilden van merxhem sine witteleke Wiue . en̄ harē montbore . heʼn Gheuarde</l>
+               <l facs="#facs_0210_14_04_1349-01_tr_1_tl_4">hʼmans sonē riddʼe . die hare daer toe ghegheuē es te montbore met orloue des selfs Godeuards. als vanden vierendele</l>
+               <l facs="#facs_0210_14_04_1349-01_tr_1_tl_5">vandʼ hoeuen . gheleghen jn de ꝓchie van conteke rechte ouʼ jeghen den goede . en̄ dē houe dat ghehetē vrisele ghelic dat die</l>
+               <l facs="#facs_0210_14_04_1349-01_tr_1_tl_6">lrēn sprekē die daer op ghemaect siin met onsen zeghelen beseghelt . also dat de vorꞩ Godeuʼd dat vorꞩ vierendeel vā</l>
+               <l facs="#facs_0210_14_04_1349-01_tr_1_tl_7">dʼ vorꞩ hoeuen claerleke qⁱte scout tʼ vorꞩ . Capittelē behoef . en̄ bekende dat hi en gheen recht daer ane en behilt . Ende</l>
+               <l facs="#facs_0210_14_04_1349-01_tr_1_tl_8">gheloefde dat hi hē gheēs rechts daer ane vʼmetē en̄ sal noch ane yet dat daer toe hoert bi hem seluē noch bi an-</l>
+               <l facs="#facs_0210_14_04_1349-01_tr_1_tl_9">drē in eneghʼande manierē . Jn kinnessen van desen lrēn beseghelt met onsen seghelen . Ghegheuen jnt jaer ons herē</l>
+               <l facs="#facs_0210_14_04_1349-01_tr_1_tl_10">alsm̄ screef . M . CCC . viertech en̄ achte Des maendaeghs Jn die paeschdaghe</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

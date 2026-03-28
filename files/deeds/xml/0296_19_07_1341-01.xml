@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="2048" lry="1536" xml:id="facs_0296_19_07_1341-01">
+         <graphic url="0296_19_07_1341-01.jpg" width="2048px" height="1536px"/>
+         <zone points="396,547 1874,562 1874,509 1548,483 1113,503 984,466 785,509 499,468 396,503" rendition="Line" xml:id="facs_0296_19_07_1341-01_tr_1_tl_2" subtype="default"/>
+         <zone points="429,571 1898,606 1898,555 427,531" rendition="Line" xml:id="facs_0296_19_07_1341-01_tr_1_tl_3" subtype="default"/>
+         <zone points="429,612 1128,595 1894,641 1831,586 429,571" rendition="Line" xml:id="facs_0296_19_07_1341-01_tr_1_tl_4" subtype="default"/>
+         <zone points="431,649 1881,674 1879,636 1454,608 431,610" rendition="Line" xml:id="facs_0296_19_07_1341-01_tr_1_tl_5" subtype="default"/>
+         <zone points="416,676 1881,706 1828,661 416,647" rendition="Line" xml:id="facs_0296_19_07_1341-01_tr_1_tl_6" subtype="default"/>
+         <zone points="435,713 1892,746 1892,706 1830,700 435,678" rendition="Line" xml:id="facs_0296_19_07_1341-01_tr_1_tl_7" subtype="default"/>
+         <zone points="435,744 1883,787 1859,746 1376,719 435,726" rendition="Line" xml:id="facs_0296_19_07_1341-01_tr_1_tl_8" subtype="default"/>
+         <zone points="431,787 1743,836 1863,798 429,748" rendition="Line" xml:id="facs_0296_19_07_1341-01_tr_1_tl_9" subtype="default"/>
+         <zone points="431,818 1577,842 1839,886 1870,824 429,787" rendition="Line" xml:id="facs_0296_19_07_1341-01_tr_1_tl_10" subtype="default"/>
+         <zone points="435,857 1852,914 1798,860 1577,844 433,816" rendition="Line" xml:id="facs_0296_19_07_1341-01_tr_1_tl_11" subtype="default"/>
+         <zone points="431,899 1339,929 1472,973 1551,930 1857,964 1874,912 429,859" rendition="Line" xml:id="facs_0296_19_07_1341-01_tr_1_tl_12" subtype="default"/>
+         <zone points="426,932 518,932 553,919 590,930 606,923 658,958 691,940 715,953 715,892 693,897 674,884 614,910 532,907 514,894 485,910 426,897" rendition="Line" xml:id="facs_0296_19_07_1341-01_tr_1_tl_13" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0296_19_07_1341-01" n="0296_19_07_1341-01" xml:id="img_0296_19_07_1341-01"/>
+            <ab>
+               <l facs="#facs_0296_19_07_1341-01_tr_1_tl_2">Wi willem limpiaes ende Jan danijs scepenen in Antwʼpen maken cond dat vore ons quam Jan boele zone wilen reyners</l>
+               <l facs="#facs_0296_19_07_1341-01_tr_1_tl_3">boels ende bekinde dat hi wittelec vʼcocht heeft lisebetten vulcoissinnen siaers sesse scellinghe ende sesse pēninghe</l>
+               <l facs="#facs_0296_19_07_1341-01_tr_1_tl_4">oudʼ grotʼ tornʼ van mūten sconings van vᵃncrike oft de wʼdde daer af in goeden andʼen ghelde erflaken en̄ jaerlecker</l>
+               <l facs="#facs_0296_19_07_1341-01_tr_1_tl_5">renten op een huis ende hofstat en̄ op dlant dattʼ toe behoerd dat daer achtʼ es gheleghen in claepdorp tusschen Jans van</l>
+               <l facs="#facs_0296_19_07_1341-01_tr_1_tl_6">chienen ane dene side en̄ tusschen wilmaer blouwels ane danderside . en̄ op alle dat recht dat hi Jan boele daer ane en̄</l>
+               <l facs="#facs_0296_19_07_1341-01_tr_1_tl_7">ant al dattʼ toe behoerd houdende es . ōme ene sūme van penninghen daer hem de vorghenoemde Jan boele af bekinde</l>
+               <l facs="#facs_0296_19_07_1341-01_tr_1_tl_8">al vʼgouden . Soe dat tvorgh̄ huis hof . ende land gherecht pand es ende bliuen sal vʼbonden ouer de vorghenoemde</l>
+               <l facs="#facs_0296_19_07_1341-01_tr_1_tl_9">sesse scellinghe ende sesse pēninghe oudʼ grotʼ tornʼ erflakʼ ende euwelakʼ renten . tegheldene ende te gheuene alle jaere</l>
+               <l facs="#facs_0296_19_07_1341-01_tr_1_tl_10">vanden vorgh̄ Janne boelen ende van sinen nacomenlinghen der vorseider lisebetten en̄ horen nacomenlinghen</l>
+               <l facs="#facs_0296_19_07_1341-01_tr_1_tl_11">dene heelft te kerssauonde ende dander heelft op sente jans dagh bap̄ten in midden somʼe . Jn kennissen van desen</l>
+               <l facs="#facs_0296_19_07_1341-01_tr_1_tl_12">lrēn beseghelt met onsen seglen . Ghegheuen int jaer ons heʼn alsmen screef M CCC een ende veertech des donderdags</l>
+               <l facs="#facs_0296_19_07_1341-01_tr_1_tl_13">na alder @@@@@@@@ach</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

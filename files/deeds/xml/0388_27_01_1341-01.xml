@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="2048" lry="1536" xml:id="facs_0388_27_01_1341-01">
+         <graphic url="0388_27_01_1341-01.jpg" width="2048px" height="1536px"/>
+         <zone points="300,569 1921,624 1919,560 1812,550 589,534 298,493" rendition="Line" xml:id="facs_0388_27_01_1341-01_tr_1_tl_3" subtype="default"/>
+         <zone points="298,620 1000,612 1804,671 1901,620 296,571" rendition="Line" xml:id="facs_0388_27_01_1341-01_tr_1_tl_4" subtype="default"/>
+         <zone points="298,673 1901,710 1899,649 296,620" rendition="Line" xml:id="facs_0388_27_01_1341-01_tr_1_tl_5" subtype="default"/>
+         <zone points="300,710 1309,710 1882,761 1899,708 298,673" rendition="Line" xml:id="facs_0388_27_01_1341-01_tr_1_tl_6" subtype="default"/>
+         <zone points="287,741 1890,800 1911,753 285,698" rendition="Line" xml:id="facs_0388_27_01_1341-01_tr_1_tl_7" subtype="default"/>
+         <zone points="291,792 1894,844 1892,809 1722,780 289,743" rendition="Line" xml:id="facs_0388_27_01_1341-01_tr_1_tl_8" subtype="default"/>
+         <zone points="287,837 1911,887 1872,839 1591,817 287,798" rendition="Line" xml:id="facs_0388_27_01_1341-01_tr_1_tl_9" subtype="default"/>
+         <zone points="294,901 589,883 688,969 761,917 1028,889 1940,948 1940,895 1745,872 294,844" rendition="Line" xml:id="facs_0388_27_01_1341-01_tr_1_tl_10" subtype="default"/>
+         <zone points="289,930 353,926 376,938 400,928 441,940 484,928 579,942 616,928 616,889 593,885 534,881 513,895 488,876 396,903 372,889 316,899 289,887" rendition="Line" xml:id="facs_0388_27_01_1341-01_tr_1_tl_11" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0388_27_01_1341-01" n="0388_27_01_1341-01" xml:id="img_0388_27_01_1341-01"/>
+            <ab>
+               <l facs="#facs_0388_27_01_1341-01_tr_1_tl_3">Wi ghisbrect vanden brule ende Willē limpiaes scepenen in Antwʼpē maken cond dat vore ons quam Jan Cantman zone wilen claus cantmans ende</l>
+               <l facs="#facs_0388_27_01_1341-01_tr_1_tl_4">bekinde dat hi wittelec vʼcocht heeft . den minister ende den Conuente vanden brudeʼn vander derdeʼ ordenen in Antwʼpen die veertienne oude</l>
+               <l facs="#facs_0388_27_01_1341-01_tr_1_tl_5">grote tornoise ende drie Capoene dit hi hadde ende jaerlecs te heffene plach van enen huise en̄ hofstat gheleghen inde corte mere naestʼ des vorgh̄</l>
+               <l facs="#facs_0388_27_01_1341-01_tr_1_tl_6">conuents huise die wilen was jans portiers met allen dien rechte dat hi Jan cantman daer ane houdende was ōme ene sūme van pēninghen</l>
+               <l facs="#facs_0388_27_01_1341-01_tr_1_tl_7">daer hem das vorghenoemde jan cantman . af bekinde al vʼgouden De Welke vorghenoemde jaerlecke rente met allen dien dattʼ toe behoerd en̄ rechte dat</l>
+               <l facs="#facs_0388_27_01_1341-01_tr_1_tl_8">hi daer ane houdende was de vorgh̄ jan cantman op droech met vʼtienne des vorghenoemden minister en̄ conuente ende quite scoud thoren</l>
+               <l facs="#facs_0388_27_01_1341-01_tr_1_tl_9">behoef ende bekinde dat hi en gheen recht daer ane en behilt . ende gheloeuet te waerne jaer ende dach jeghen alle de ghene die te rechte comen willen</l>
+               <l facs="#facs_0388_27_01_1341-01_tr_1_tl_10">Jn kennissen van desen letʼren beseghelt met onsen seglen . Ghegheuen int jaer ons heʼn alsmen screef M CCC ende veertech des saterdags vore onser</l>
+               <l facs="#facs_0388_27_01_1341-01_tr_1_tl_11">vrouwen dach ter lichtmessen</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

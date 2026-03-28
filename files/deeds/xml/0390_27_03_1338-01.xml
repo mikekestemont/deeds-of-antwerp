@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3507" lry="2480" xml:id="facs_0390_27_03_1338-01">
+         <graphic url="0390_27_03_1338-01.jpg" width="3507px" height="2480px"/>
+         <zone points="263,995 1904,1014 2126,1062 2709,1071 2703,884 2640,878 2377,985 1870,973 1800,935 1667,966 1439,909 1369,960 957,903 789,947 599,878 513,938 326,852 260,878" rendition="Line" xml:id="facs_0390_27_03_1338-01_tr_1_tl_1" subtype="default"/>
+         <zone points="263,1087 1546,1077 2218,1150 2725,1141 2798,1112 2798,1052 2709,1084 2573,1046 1993,1052 1904,1014 852,1033 669,989 260,1030" rendition="Line" xml:id="facs_0390_27_03_1338-01_tr_1_tl_2" subtype="default"/>
+         <zone points="254,1160 783,1157 849,1198 919,1157 1125,1153 1163,1191 1603,1163 1667,1201 1844,1172 2795,1239 2792,1119 2383,1157 2057,1109 1581,1115 1546,1081 970,1115 634,1074 361,1112 250,1071" rendition="Line" xml:id="facs_0390_27_03_1338-01_tr_1_tl_3" subtype="default"/>
+         <zone points="254,1271 361,1242 488,1274 599,1229 871,1283 995,1245 1115,1277 1166,1239 1492,1283 1534,1248 2129,1258 2174,1296 2348,1261 2792,1283 2792,1229 2560,1198 1505,1201 1363,1157 1172,1195 1093,1150 805,1201 716,1160 662,1198 254,1160" rendition="Line" xml:id="facs_0390_27_03_1338-01_tr_1_tl_4" subtype="default"/>
+         <zone points="276,1350 688,1315 840,1359 1220,1318 1309,1353 1898,1334 1977,1375 2060,1340 2792,1359 2792,1283 2446,1261 2174,1302 1990,1252 1508,1287 1287,1239 1125,1280 599,1233 504,1277 276,1258" rendition="Line" xml:id="facs_0390_27_03_1338-01_tr_1_tl_5" subtype="default"/>
+         <zone points="263,1416 846,1391 1454,1442 1667,1407 1708,1442 2003,1407 2240,1454 2370,1413 2446,1458 2538,1423 2766,1442 2735,1356 2659,1388 2145,1347 2006,1378 1813,1328 1717,1372 1626,1331 1416,1356 1226,1321 1052,1359 650,1315 523,1359 263,1340" rendition="Line" xml:id="facs_0390_27_03_1338-01_tr_1_tl_6" subtype="default"/>
+         <zone points="247,1489 551,1489 665,1531 970,1480 1201,1518 1920,1489 2066,1537 2342,1505 2421,1553 2754,1505 2750,1432 2361,1467 2003,1407 1724,1448 909,1394 650,1439 247,1429" rendition="Line" xml:id="facs_0390_27_03_1338-01_tr_1_tl_7" subtype="default"/>
+         <zone points="241,1588 780,1575 982,1613 1039,1578 1372,1629 1765,1597 1828,1645 2022,1591 2117,1638 2243,1591 2351,1635 2529,1597 2763,1641 2785,1508 2424,1556 1898,1496 1629,1537 1461,1505 1347,1537 1255,1486 1198,1518 970,1480 726,1534 618,1496 412,1537 238,1499" rendition="Line" xml:id="facs_0390_27_03_1338-01_tr_1_tl_8" subtype="default"/>
+         <zone points="244,1714 1033,1702 1033,1597 922,1610 716,1578 380,1613 323,1581 244,1588" rendition="Line" xml:id="facs_0390_27_03_1338-01_tr_1_tl_9" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0390_27_03_1338-01" n="0390_27_03_1338-01" xml:id="img_0390_27_03_1338-01"/>
+            <ab>
+               <l facs="#facs_0390_27_03_1338-01_tr_1_tl_1">Wj Arnoud canteman en̄ Jan bode scepenen in Antwʼpen maken cond dat vore ons quā Jan van doerne sone</l>
+               <l facs="#facs_0390_27_03_1338-01_tr_1_tl_2">mijns her Jans van doerne ridders . en̄ gaf en̄ bewijsde op alle sijn goed dat hi heeft en̄ ghewinnē mach</l>
+               <l facs="#facs_0390_27_03_1338-01_tr_1_tl_3">den nuwen gasthuise ghestaen tantwʼpen inde hoghestᵃte te heffene na sijn lijf en̄ met eer . twee sistʼe rogs</l>
+               <l facs="#facs_0390_27_03_1338-01_tr_1_tl_4">sjaers erfleke te heffene telken kʼssauonde . Jn desen vorwarden . eest dat brudʼ bouden die nv meestʼ es jnt</l>
+               <l facs="#facs_0390_27_03_1338-01_tr_1_tl_5">vorseide gasthuis langher leeft dan de vorseide Jan . dat hi dan den vorseiden rogghe jaerlijcs selue . hebbē</l>
+               <l facs="#facs_0390_27_03_1338-01_tr_1_tl_6">sal en̄ sinen wille daer met doen sal also langhe alse hi leuen sal . en̄ dat na sijn lijf de vorseide rogghe</l>
+               <l facs="#facs_0390_27_03_1338-01_tr_1_tl_7">keren sal op de vorseide tvorseide gasthuis tʼ armʼ behoef euwelec durende . Jn kennessen van desen</l>
+               <l facs="#facs_0390_27_03_1338-01_tr_1_tl_8">lettren . beseghlt̄ met onsen zeghlen . Ghegheuen jnt jaer ons heren alsm̄ screef . M . CCC . zeuene en̄ dʼttech</l>
+               <l facs="#facs_0390_27_03_1338-01_tr_1_tl_9">des vridaegs na half vasten</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

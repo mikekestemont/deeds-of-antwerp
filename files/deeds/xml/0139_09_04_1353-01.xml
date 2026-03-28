@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3300" lry="1425" xml:id="facs_0139_09_04_1353-01">
+         <graphic url="0139_09_04_1353-01.jpg" width="3300px" height="1425px"/>
+         <zone points="228,258 688,236 794,270 984,232 1204,274 1242,236 1428,236 1702,285 1755,236 1934,266 2192,232 3263,274 3263,194 3001,141 2678,175 2443,137 2370,190 2192,114 1975,194 1880,137 1823,186 1679,186 1121,110 802,194 551,125 425,163 228,125" rendition="Line" xml:id="facs_0139_09_04_1353-01_tr_1_tl_1" subtype="default"/>
+         <zone points="228,334 889,308 1371,342 1432,304 1573,342 2013,319 2051,353 2363,311 2416,361 2598,315 3244,338 3244,258 3195,251 3020,281 1755,236 1702,285 1428,239 1242,236 1204,274 980,232 794,270 228,258" rendition="Line" xml:id="facs_0139_09_04_1353-01_tr_1_tl_2" subtype="default"/>
+         <zone points="224,410 353,444 391,406 589,395 657,433 1045,387 1254,429 1326,384 1557,429 1637,391 1687,425 1983,391 2139,429 2568,380 2678,422 3271,425 3271,330 3077,319 2758,349 2587,315 2420,357 2367,315 2184,353 2124,311 2067,357 2013,319 1576,338 1432,304 1371,342 1235,311 1026,349 885,308 486,353 224,327" rendition="Line" xml:id="facs_0139_09_04_1353-01_tr_1_tl_3" subtype="default"/>
+         <zone points="224,505 1014,456 1090,498 1238,456 1763,505 1880,460 2086,490 2332,456 3259,498 3259,422 3214,399 2682,422 2568,376 2139,429 1983,391 1865,425 1637,391 1576,433 1330,387 1265,425 1075,387 972,425 399,403 334,444 224,410" rendition="Line" xml:id="facs_0139_09_04_1353-01_tr_1_tl_4" subtype="default"/>
+         <zone points="232,596 1440,536 1656,566 1998,532 2161,577 2306,532 2427,581 2515,543 2765,577 3271,547 3225,486 2784,460 232,490" rendition="Line" xml:id="facs_0139_09_04_1353-01_tr_1_tl_5" subtype="default"/>
+         <zone points="243,676 403,634 840,665 889,627 965,657 1326,604 1766,646 1949,608 2796,650 3153,623 3233,665 3271,661 3275,543 2765,574 2636,536 2427,581 2310,532 2139,581 2002,532 1652,566 1444,532 1010,589 881,551 695,596 243,589" rendition="Line" xml:id="facs_0139_09_04_1353-01_tr_1_tl_6" subtype="default"/>
+         <zone points="224,722 710,733 764,699 832,741 1307,684 1744,718 2427,676 2697,718 2952,680 3271,737 3271,661 3024,619 1956,604 1770,646 1337,604 783,665 585,631 285,665 224,631" rendition="Line" xml:id="facs_0139_09_04_1353-01_tr_1_tl_7" subtype="default"/>
+         <zone points="228,802 494,779 562,821 653,779 813,817 1231,764 1463,798 1569,748 1896,790 2158,764 2241,805 2587,764 3233,790 3233,718 2948,680 2701,718 2427,672 1880,676 1698,718 1576,672 832,741 760,699 710,733 228,726" rendition="Line" xml:id="facs_0139_09_04_1353-01_tr_1_tl_8" subtype="default"/>
+         <zone points="224,881 1242,836 1679,862 1801,824 2146,874 2538,836 2583,878 2815,840 3252,881 3252,809 2952,764 2830,805 2682,767 2234,802 1569,748 1466,798 1181,764 813,817 224,805" rendition="Line" xml:id="facs_0139_09_04_1353-01_tr_1_tl_9" subtype="default"/>
+         <zone points="217,957 1037,919 1216,969 1425,919 1702,946 1987,904 2131,957 2705,931 2758,984 2933,934 3233,938 3233,855 3005,885 2895,843 2644,885 2538,840 2154,874 1804,828 1675,866 1565,832 836,885 767,855 691,893 650,851 551,900 217,881" rendition="Line" xml:id="facs_0139_09_04_1353-01_tr_1_tl_10" subtype="default"/>
+         <zone points="224,1029 699,1010 805,1052 1079,995 1185,1045 1614,988 1858,1014 1903,1060 2017,1003 2298,1037 2420,1007 2549,1052 3244,1029 3244,931 2769,976 2625,919 2173,969 1975,908 1497,957 1428,919 1227,965 1037,919 904,965 805,923 224,961" rendition="Line" xml:id="facs_0139_09_04_1353-01_tr_1_tl_11" subtype="default"/>
+         <zone points="213,1098 874,1083 965,1121 1166,1079 1322,1113 1584,1064 1671,1109 1884,1075 2067,1128 2127,1086 2173,1128 2218,1090 2287,1124 2636,1090 2792,1136 2830,1102 3252,1132 3252,1033 3043,1014 2822,1014 2728,1060 2420,1007 2329,1041 2245,1007 2082,1037 2040,999 1698,1029 1630,991 1440,1037 1303,999 1189,1041 1136,999 847,1014 802,1052 699,1010 631,1045 213,1029" rendition="Line" xml:id="facs_0139_09_04_1353-01_tr_1_tl_12" subtype="default"/>
+         <zone points="224,1208 1037,1162 1200,1219 1345,1155 1485,1185 1546,1143 2074,1200 2340,1174 2424,1223 2674,1181 2864,1227 3005,1178 3214,1200 3187,1102 2826,1102 2792,1136 2595,1090 2313,1136 2218,1090 2063,1128 1975,1086 1930,1117 1880,1079 1671,1109 1425,1071 1314,1113 779,1083 224,1117" rendition="Line" xml:id="facs_0139_09_04_1353-01_tr_1_tl_13" subtype="default"/>
+         <zone points="209,1295 505,1273 547,1314 699,1276 767,1318 931,1276 1181,1326 1436,1284 1493,1326 1626,1322 1831,1242 1964,1322 2222,1246 2443,1311 3187,1295 3187,1231 3012,1178 2868,1223 2674,1181 2424,1223 2340,1174 1922,1166 1759,1208 1550,1147 1208,1208 1155,1170 270,1204 209,1166" rendition="Line" xml:id="facs_0139_09_04_1353-01_tr_1_tl_14" subtype="default"/>
+         <zone points="205,1371 285,1402 327,1379 365,1387 391,1360 403,1368 448,1345 475,1345 501,1368 555,1364 558,1307 498,1280 433,1311 365,1295 330,1311 308,1292 258,1284 209,1292" rendition="Line" xml:id="facs_0139_09_04_1353-01_tr_1_tl_15" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0139_09_04_1353-01" n="0139_09_04_1353-01" xml:id="img_0139_09_04_1353-01"/>
+            <ab>
+               <l facs="#facs_0139_09_04_1353-01_tr_1_tl_1">Wi Jan bode . En̄ Wouter van den broeke Scepenē in Antwʼpē maken Cont dat voer ons quamen Eersame liede her Wouter</l>
+               <l facs="#facs_0139_09_04_1353-01_tr_1_tl_2">kauwe En̄ her ian van courtselis Canoncke onser vrouwen kerke in Antwerpē alse meyeren van des Dekens en̄ dʼ capittelen</l>
+               <l facs="#facs_0139_09_04_1353-01_tr_1_tl_3">weghen der vorseider kerken aen deene side . En̄ bouden gheheeten Coeke die cleedermake aene dander zide . En̄ bekenden</l>
+               <l facs="#facs_0139_09_04_1353-01_tr_1_tl_4">aene beiden ziden . dat si van twiste en̄ tebatte die si ouderlinghe hadden ouermids vierdalue pont payments alselcs</l>
+               <l facs="#facs_0139_09_04_1353-01_tr_1_tl_5">alse altoes in borsen ghaen erflecs chiīs . Die si Deken en̄ Capittel vorseit houdende siin op diē hofstad die wilen was</l>
+               <l facs="#facs_0139_09_04_1353-01_tr_1_tl_6">ian Rampaerds gheleghen aene de Corenmerct tantwerpē . gheliic dat scepenē brieue van Antwerpē die daer op ghe</l>
+               <l facs="#facs_0139_09_04_1353-01_tr_1_tl_7">maect siin begrepen hebben . op de welke hofstad de voerghenoēde bouden nu woent . gheaccordeert siin en̄ eendrach</l>
+               <l facs="#facs_0139_09_04_1353-01_tr_1_tl_8">tech worden in deser manieren . dat hi bouden en̄ sine nacomelinghe ghelden en̄ gheuē selen voer de voerseide</l>
+               <l facs="#facs_0139_09_04_1353-01_tr_1_tl_9">vierdalfponde payments . En̄ voer twee Capoene . sesse en̄ twintech oude grote tornoyse van montē tsconinx</l>
+               <l facs="#facs_0139_09_04_1353-01_tr_1_tl_10">van vrankerike . oft de werde daer af in goeden anderen ghelde . en̄ twee Capoene jaerliker en̄ erfleker Renten</l>
+               <l facs="#facs_0139_09_04_1353-01_tr_1_tl_11">te gheldene en̄ te gheuene altoes op sente steuens dach gheleghē alder naest den kerstdaghe in den winter</l>
+               <l facs="#facs_0139_09_04_1353-01_tr_1_tl_12">den vorseiden Deken En̄ Capittelen . En̄ hiermet so selen de vorseide heeren hem ghepaeyt houden van den vor-</l>
+               <l facs="#facs_0139_09_04_1353-01_tr_1_tl_13">seiden boudene en̄ sinē nacomelinghe . van der vorseider Rentē . Jn kēnissen van desen lettʼen . bezeghelt met onser</l>
+               <l facs="#facs_0139_09_04_1353-01_tr_1_tl_14">zeghelen . ghegheuē jnt jaer ons heʼen alsmen screef . M . CCC . vuiftech en̄ drie op den neghenden dach van</l>
+               <l facs="#facs_0139_09_04_1353-01_tr_1_tl_15">aprille .</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

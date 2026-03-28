@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="1650" lry="438" xml:id="facs_0244_16_08_1353-01">
+         <graphic url="0244_16_08_1353-01.jpg" width="1650px" height="438px"/>
+         <zone points="63,122 1569,119 1569,78 1456,54 930,101 63,57" rendition="Line" xml:id="facs_0244_16_08_1353-01_tr_1_tl_2" subtype="default"/>
+         <zone points="65,165 1579,161 1579,121 1410,113 65,121" rendition="Line" xml:id="facs_0244_16_08_1353-01_tr_1_tl_3" subtype="default"/>
+         <zone points="63,184 1565,199 1565,159 1447,151 63,165" rendition="Line" xml:id="facs_0244_16_08_1353-01_tr_1_tl_4" subtype="default"/>
+         <zone points="55,220 1556,228 1447,186 55,184" rendition="Line" xml:id="facs_0244_16_08_1353-01_tr_1_tl_5" subtype="default"/>
+         <zone points="61,249 1573,266 1431,220 61,222" rendition="Line" xml:id="facs_0244_16_08_1353-01_tr_1_tl_6" subtype="default"/>
+         <zone points="57,306 1586,304 1541,260 1317,247 57,253" rendition="Line" xml:id="facs_0244_16_08_1353-01_tr_1_tl_7" subtype="default"/>
+         <zone points="55,323 1560,331 1560,293 1357,283 55,302" rendition="Line" xml:id="facs_0244_16_08_1353-01_tr_1_tl_8" subtype="default"/>
+         <zone points="57,358 1586,364 1586,320 1412,316 57,335" rendition="Line" xml:id="facs_0244_16_08_1353-01_tr_1_tl_9" subtype="default"/>
+         <zone points="55,400 1590,392 1590,360 1395,350 55,358" rendition="Line" xml:id="facs_0244_16_08_1353-01_tr_1_tl_10" subtype="default"/>
+         <zone points="437,437 1028,436 1010,385 65,396" rendition="Line" xml:id="facs_0244_16_08_1353-01_tr_1_tl_11" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0244_16_08_1353-01" n="0244_16_08_1353-01" xml:id="img_0244_16_08_1353-01"/>
+            <ab>
+               <l facs="#facs_0244_16_08_1353-01_tr_1_tl_2">Wij ian van den mortere En̄ laureins volkaert scepenē in Antwʼpē maken Cont dat voer ons quamen willem Claus choloets sone</l>
+               <l facs="#facs_0244_16_08_1353-01_tr_1_tl_3">En̄ claus choloets siin vader . En̄ bekenden dat sij gheloeft hebben en̄ gheloefden . dat si alselc Recht alse si vercreghē hebbē en̄ houdende siin</l>
+               <l facs="#facs_0244_16_08_1353-01_tr_1_tl_4">aene die helft van der molen diemen heet der ziekerliede molen en daer dat goedshuis van der ziekerliede bi Antwʼpen dander helft af</l>
+               <l facs="#facs_0244_16_08_1353-01_tr_1_tl_5">houdende es . ghelijc dat de brieue begrepē hebbe die daer op ghemaect siin . Nēmermeer vercopē en moghen noch en selen sonder weten</l>
+               <l facs="#facs_0244_16_08_1353-01_tr_1_tl_6">des Conuents en̄ des gheens die tvorseide cōuent van der ziekerliede heeft te berechtene noch verwisselen oft vervremden in Eene</l>
+               <l facs="#facs_0244_16_08_1353-01_tr_1_tl_7">gher manieren en waere eenen goeden witteghen ghemeenen Cnape dien si den vorseiden goedshuis openen selen seggen en̄ noemen</l>
+               <l facs="#facs_0244_16_08_1353-01_tr_1_tl_8">En̄ met deser vorwaerden dat tconuent des vorseids goedshuis altoes des vorseids Rechts de naste siin mach . en̄ dat quiten</l>
+               <l facs="#facs_0244_16_08_1353-01_tr_1_tl_9">moghe op dat wille . omme de seluē penninc . daert omme vercocht siin soude oft verandert sonder alle arghelist . Jn kennissen</l>
+               <l facs="#facs_0244_16_08_1353-01_tr_1_tl_10">van desen letteren . bezeghelt met onsen zeghelen . ghegheuē jnt jaer ons heen alsmen screef . M . CCC . viiftech en̄ drie deg</l>
+               <l facs="#facs_0244_16_08_1353-01_tr_1_tl_11">vriendaeghs na onser vrouwen dach die men heet assūptie gheleghen te halfoegste</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

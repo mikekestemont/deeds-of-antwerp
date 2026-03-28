@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3861" lry="965" xml:id="facs_0076_05_08_1336-01">
+         <graphic url="0076_05_08_1336-01.jpg" width="3861px" height="965px"/>
+         <zone points="14,219 864,186 1159,200 1198,239 1403,196 2476,234 2734,181 2992,239 3812,248 3807,172 3450,86 3311,138 3154,76 3035,143 2868,153 2686,76 2596,124 2524,86 2443,129 2252,124 2152,72 1932,129 1751,38 1613,57 1532,129 1279,129 1193,67 1040,119 911,62 778,119 725,86 553,129 463,67 301,129 177,124 105,67 14,105" rendition="Line" xml:id="facs_0076_05_08_1336-01_tr_1_tl_1" subtype="default"/>
+         <zone points="14,291 363,315 644,262 1250,320 1374,282 1422,315 1536,282 1908,320 2042,282 2266,320 2376,277 2643,324 3345,305 3459,348 3807,320 3803,239 3058,248 2782,224 2734,181 2314,243 2085,196 1870,239 1427,196 1026,234 864,186 10,219" rendition="Line" xml:id="facs_0076_05_08_1336-01_tr_1_tl_2" subtype="default"/>
+         <zone points="0,372 143,410 181,372 668,367 759,406 949,363 1102,401 1269,363 3831,410 3831,320 3693,310 3497,310 3459,348 3421,310 3197,305 2691,334 2500,286 2262,324 2033,282 1908,315 1345,282 1250,320 649,262 363,315 0,286" rendition="Line" xml:id="facs_0076_05_08_1336-01_tr_1_tl_3" subtype="default"/>
+         <zone points="0,482 468,448 620,482 1035,458 1212,501 1274,463 1355,501 1489,453 1761,501 1808,463 2276,458 2495,501 2557,458 3087,511 3512,487 3564,530 3798,506 3798,434 3717,401 3111,429 2977,386 2763,420 2362,377 1789,396 1742,363 1622,406 1269,363 1107,401 954,363 759,406 654,367 0,406" rendition="Line" xml:id="facs_0076_05_08_1336-01_tr_1_tl_4" subtype="default"/>
+         <zone points="0,563 91,606 267,544 577,577 1007,539 1212,582 1722,558 1770,601 1823,558 2042,592 2195,549 2271,601 2424,553 2572,601 2639,558 3030,606 3750,587 3712,491 3621,530 3440,487 3168,525 2557,458 2514,501 2099,453 1808,463 1761,506 1484,453 1355,501 1031,458 0,482" rendition="Line" xml:id="facs_0076_05_08_1336-01_tr_1_tl_5" subtype="default"/>
+         <zone points="5,663 196,692 267,639 501,639 568,692 615,639 926,673 1121,635 1293,687 1345,639 1570,687 1694,630 1823,678 2157,649 2352,697 2491,649 2576,692 2953,668 3039,716 3101,682 3163,720 3364,682 3526,720 3588,673 3688,720 3774,697 3769,606 3526,568 2920,615 2505,558 2262,601 2200,553 2037,592 1303,544 1241,582 854,544 601,577 291,549 110,606 5,573" rendition="Line" xml:id="facs_0076_05_08_1336-01_tr_1_tl_6" subtype="default"/>
+         <zone points="5,825 678,792 735,830 897,782 1283,835 1408,787 1551,821 1813,773 2529,825 2596,782 2648,821 2734,787 2777,821 2934,787 2977,821 3411,806 3407,697 3364,682 3039,716 2925,668 2576,697 2495,654 2314,697 2157,654 1808,673 1694,630 1575,687 1341,639 1279,678 1126,639 921,678 625,639 568,687 501,639 267,639 134,697 0,668" rendition="Line" xml:id="facs_0076_05_08_1336-01_tr_1_tl_7" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0076_05_08_1336-01" n="0076_05_08_1336-01" xml:id="img_0076_05_08_1336-01"/>
+            <ab>
+               <l facs="#facs_0076_05_08_1336-01_tr_1_tl_1">Wi willem drake . ende claus wilmaer scepenen in Antwʼpen maken cond . dat vore ons quamen . Jan Cantman diemen heet wine Jans</l>
+               <l facs="#facs_0076_05_08_1336-01_tr_1_tl_2">cantmans sone was en̄ katline siin witteghe wijf en̄ claus van haekendonc jans sone van hackendonc wilen was . en̄ stonden claer-</l>
+               <l facs="#facs_0076_05_08_1336-01_tr_1_tl_3">lec quite te margrietē behoef die witteghe wijf wilen was des vorgh̄ jans van hackendonc alle dat ghedeel . en̄ recht dat si hadden</l>
+               <l facs="#facs_0076_05_08_1336-01_tr_1_tl_4">ende houdende waren ane tgoed dat gheleghen es inde ꝓchie van wilrike dat volprechte @dden vader wilen der seluē margrietē . toe</l>
+               <l facs="#facs_0076_05_08_1336-01_tr_1_tl_5">behoerde . en̄ bekinden dat si ane dat vorghenoemde goed en gheen recht en behilden mochte recht hen daer ane ensouden vʼmeten</l>
+               <l facs="#facs_0076_05_08_1336-01_tr_1_tl_6">moghen bi hen ochte bi andʼs yemene van horen weghen . Jn kennissen van desen lrēn beseghelt met onsen seglen . Ghegheuen jnt</l>
+               <l facs="#facs_0076_05_08_1336-01_tr_1_tl_7">jaer ons heʼn alsmen screef M . CCC . sesse ende dertech . des maendags na sente petʼ dach ingaende oexftmaend .</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

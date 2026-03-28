@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="4031" lry="1114" xml:id="facs_0072_05_05_1336-01">
+         <graphic url="0072_05_05_1336-01.jpg" width="4031px" height="1114px"/>
+         <zone points="124,249 249,282 393,239 551,287 761,244 1197,321 1321,278 1436,321 1637,278 1805,321 2523,297 2973,340 3098,287 3193,316 3811,254 3806,144 3562,96 3495,129 3437,81 3342,139 3284,115 3098,235 2973,158 2920,187 2767,139 2480,239 2106,163 2030,201 1915,134 1819,211 1446,153 1388,196 1092,192 871,120 670,187 330,96 273,148 120,81" rendition="Line" xml:id="facs_0072_05_05_1336-01_tr_1_tl_1" subtype="default"/>
+         <zone points="101,383 417,340 527,402 742,345 1834,417 2068,373 2221,417 2858,397 2949,436 3892,340 3887,215 3801,268 3375,268 3193,321 3102,287 2973,340 2078,287 1901,330 1637,278 1192,321 1068,268 402,282 321,239 244,287 96,225" rendition="Line" xml:id="facs_0072_05_05_1336-01_tr_1_tl_2" subtype="default"/>
+         <zone points="115,493 823,445 934,479 1369,464 1446,503 1972,460 2102,507 2844,488 2882,522 2940,488 3002,522 3112,474 3279,507 3624,436 3926,436 3926,330 2944,436 2590,393 2509,431 2413,388 2217,417 2159,369 1838,417 1326,369 871,388 737,345 541,397 402,340 340,378 115,364" rendition="Line" xml:id="facs_0072_05_05_1336-01_tr_1_tl_3" subtype="default"/>
+         <zone points="120,565 383,603 598,536 890,527 1546,584 1934,555 2049,598 2389,560 2901,618 3011,579 3083,618 3284,546 3385,584 3715,522 3969,531 3969,417 3275,507 3098,474 2997,522 2944,488 2882,522 2839,488 2710,522 2624,484 2102,507 1972,460 1767,503 1570,464 1489,503 823,445 120,498" rendition="Line" xml:id="facs_0072_05_05_1336-01_tr_1_tl_4" subtype="default"/>
+         <zone points="115,699 460,646 507,685 646,618 709,651 1010,622 1144,665 1254,627 1814,642 2130,689 2226,651 2499,694 2542,656 2643,709 2791,675 2925,709 2992,665 3720,689 3763,646 3907,642 3907,541 3806,522 3346,603 3246,560 3093,613 3016,579 2901,622 2394,560 1972,603 1829,555 1254,574 852,527 737,570 603,531 431,598 115,574" rendition="Line" xml:id="facs_0072_05_05_1336-01_tr_1_tl_5" subtype="default"/>
+         <zone points="120,795 393,747 469,795 541,756 670,790 991,713 1135,766 1259,713 1340,776 1613,713 1977,742 2020,780 2087,737 2245,795 2513,737 2667,800 2748,756 2983,795 3064,766 3117,804 3437,747 3682,776 3777,732 3959,800 3931,642 3720,694 3615,656 3571,694 3284,670 3059,713 3007,665 2930,704 2585,665 2480,699 2193,651 2111,689 2054,651 1690,670 1345,622 1178,665 867,622 780,656 646,618 555,689 426,651 120,699" rendition="Line" xml:id="facs_0072_05_05_1336-01_tr_1_tl_6" subtype="default"/>
+         <zone points="153,924 393,867 517,910 747,847 900,886 1005,823 1585,833 1652,876 1925,843 1977,886 2150,895 2226,857 2336,905 2451,852 2561,881 2719,847 2920,857 3016,914 3169,862 3840,871 3940,857 3940,800 3777,732 3672,800 3528,800 3481,752 3121,804 3059,766 2978,795 2734,756 2624,795 2499,747 2351,785 2317,756 2264,800 1968,747 1551,776 1460,723 1331,771 1226,709 1139,766 962,718 862,761 814,732 728,790 531,756 469,795 393,747 316,795 148,780" rendition="Line" xml:id="facs_0072_05_05_1336-01_tr_1_tl_7" subtype="default"/>
+         <zone points="129,1001 330,1025 431,972 551,1020 689,948 943,953 996,991 1111,948 1178,991 1345,929 1465,967 1714,943 1752,981 1881,948 2317,1001 2566,977 2619,1015 2777,967 2868,1034 3007,996 3121,1029 3433,1020 3485,981 3586,1020 3916,1001 3911,876 3792,910 3504,862 3452,905 3356,867 2920,924 2729,852 2399,857 2303,905 2226,857 1992,895 1795,833 1661,881 1575,833 996,833 900,886 752,852 507,910 393,862 129,934" rendition="Line" xml:id="facs_0072_05_05_1336-01_tr_1_tl_8" subtype="default"/>
+         <zone points="1113,1113 560,1111 1163,1111 1288,1048 1542,1082 1709,1053 1810,1111 1113,1113 2652,1111 2710,1072 2815,1111 1113,1113 2858,996 2782,967 2729,1010 2676,981 2552,1020 2188,957 2073,991 1920,953 1738,981 1652,938 1470,967 1422,924 1202,991 1053,943 1001,986 742,953 531,1025 302,996 124,1039" rendition="Line" xml:id="facs_0072_05_05_1336-01_tr_1_tl_9" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0072_05_05_1336-01" n="0072_05_05_1336-01" xml:id="img_0072_05_05_1336-01"/>
+            <ab>
+               <l facs="#facs_0072_05_05_1336-01_tr_1_tl_1">Wj Willem sprongh en̄ Willem drake scepenen Jn Antwʼpen maken cond dat vore ons quā Jan vanden broeke van</l>
+               <l facs="#facs_0072_05_05_1336-01_tr_1_tl_2">zanthouen . En̄ bekende dat hi om ene sūme ghelds die hem al es vʼgouden vʼcocht heeft wetteleke heʼn clause vandʼ</l>
+               <l facs="#facs_0072_05_05_1336-01_tr_1_tl_3">haghen den priestʼ die derttiene scellinghe en̄ viere pēninghe jaerlijcs en̄ eulijcs cheins die hi hadde en̄ teheffe-</l>
+               <l facs="#facs_0072_05_05_1336-01_tr_1_tl_4">ne plach jaerlijcs van enen huise en̄ houe ghestaen inde beghinenstᵃte naest jans ghistʼs soens huise . also dat de vorseide</l>
+               <l facs="#facs_0072_05_05_1336-01_tr_1_tl_5">jan quite scout dit vorseide huis grond en̄ hof met alle den rechte dat hi daer ane hadde en̄ houdende was . en̄ beken</l>
+               <l facs="#facs_0072_05_05_1336-01_tr_1_tl_6">de dat hi en gheen recht daer ane en behilt . Oec gheloefde de vorseide jan den vorseiden cheins tewaerne den vorꞩ</l>
+               <l facs="#facs_0072_05_05_1336-01_tr_1_tl_7">heʼn clause jaer en̄ dach van allen calangen en̄ cūmʼe jeghen ieghewelken minsche die hem rechts daertoe vʼme-</l>
+               <l facs="#facs_0072_05_05_1336-01_tr_1_tl_8">ten mochte en̄ die te rechte com̄ wille . Jn kennessen van desen lettren . beseghelt met onsen seghlen . Ghegheuen</l>
+               <l facs="#facs_0072_05_05_1336-01_tr_1_tl_9">jnt jaer ons heʼn alsm̄ screef . M . CCC . sesse en̄ derttech des sondaegs na meydach</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

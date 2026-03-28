@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="1650" lry="1211" xml:id="facs_0336_22_05_1347-01">
+         <graphic url="0336_22_05_1347-01.jpg" width="1650px" height="1211px"/>
+         <zone points="108,144 1584,194 1582,140 1213,110 919,146 106,79" rendition="Line" xml:id="facs_0336_22_05_1347-01_tr_1_tl_1" subtype="default"/>
+         <zone points="90,181 1548,215 1548,181 1446,167 90,144" rendition="Line" xml:id="facs_0336_22_05_1347-01_tr_1_tl_2" subtype="default"/>
+         <zone points="88,244 1450,265 1576,225 87,177" rendition="Line" xml:id="facs_0336_22_05_1347-01_tr_1_tl_3" subtype="default"/>
+         <zone points="87,269 1538,286 1519,248 87,244" rendition="Line" xml:id="facs_0336_22_05_1347-01_tr_1_tl_4" subtype="default"/>
+         <zone points="83,308 1565,321 1565,286 1394,279 83,279" rendition="Line" xml:id="facs_0336_22_05_1347-01_tr_1_tl_5" subtype="default"/>
+         <zone points="85,348 1611,358 1611,311 85,308" rendition="Line" xml:id="facs_0336_22_05_1347-01_tr_1_tl_6" subtype="default"/>
+         <zone points="87,390 1590,394 1513,354 87,344" rendition="Line" xml:id="facs_0336_22_05_1347-01_tr_1_tl_7" subtype="default"/>
+         <zone points="81,423 1327,450 1584,442 1584,396 79,388" rendition="Line" xml:id="facs_0336_22_05_1347-01_tr_1_tl_8" subtype="default"/>
+         <zone points="83,484 1586,477 1538,429 83,423" rendition="Line" xml:id="facs_0336_22_05_1347-01_tr_1_tl_9" subtype="default"/>
+         <zone points="92,517 1580,509 1440,461 92,481" rendition="Line" xml:id="facs_0336_22_05_1347-01_tr_1_tl_10" subtype="default"/>
+         <zone points="83,565 1571,561 1573,513 85,509" rendition="Line" xml:id="facs_0336_22_05_1347-01_tr_1_tl_11" subtype="default"/>
+         <zone points="87,604 1600,584 1600,534 87,567" rendition="Line" xml:id="facs_0336_22_05_1347-01_tr_1_tl_12" subtype="default"/>
+         <zone points="92,640 1594,621 1594,588 1455,579 92,606" rendition="Line" xml:id="facs_0336_22_05_1347-01_tr_1_tl_13" subtype="default"/>
+         <zone points="90,682 1613,677 1578,623 90,640" rendition="Line" xml:id="facs_0336_22_05_1347-01_tr_1_tl_14" subtype="default"/>
+         <zone points="87,706 1603,706 1603,665 1230,656 87,686" rendition="Line" xml:id="facs_0336_22_05_1347-01_tr_1_tl_15" subtype="default"/>
+         <zone points="90,752 1578,742 1578,711 1344,696 90,715" rendition="Line" xml:id="facs_0336_22_05_1347-01_tr_1_tl_16" subtype="default"/>
+         <zone points="87,786 1613,792 1588,736 87,750" rendition="Line" xml:id="facs_0336_22_05_1347-01_tr_1_tl_17" subtype="default"/>
+         <zone points="87,836 696,802 1578,832 1578,788 1507,784 87,786" rendition="Line" xml:id="facs_0336_22_05_1347-01_tr_1_tl_18" subtype="default"/>
+         <zone points="92,873 1613,869 1613,834 1507,823 890,807 92,838" rendition="Line" xml:id="facs_0336_22_05_1347-01_tr_1_tl_19" subtype="default"/>
+         <zone points="104,898 1563,913 1563,879 1275,852 104,869" rendition="Line" xml:id="facs_0336_22_05_1347-01_tr_1_tl_20" subtype="default"/>
+         <zone points="100,936 1553,938 1490,900 100,894" rendition="Line" xml:id="facs_0336_22_05_1347-01_tr_1_tl_21" subtype="default"/>
+         <zone points="90,977 1569,979 1569,936 1503,932 90,934" rendition="Line" xml:id="facs_0336_22_05_1347-01_tr_1_tl_22" subtype="default"/>
+         <zone points="94,1021 1565,1015 1540,975 1223,965 94,996" rendition="Line" xml:id="facs_0336_22_05_1347-01_tr_1_tl_23" subtype="default"/>
+         <zone points="90,1071 1617,1057 1617,1021 1453,1011 90,1027" rendition="Line" xml:id="facs_0336_22_05_1347-01_tr_1_tl_24" subtype="default"/>
+         <zone points="90,1096 1636,1090 1636,1052 90,1073" rendition="Line" xml:id="facs_0336_22_05_1347-01_tr_1_tl_25" subtype="default"/>
+         <zone points="100,1146 1636,1142 1636,1088 100,1105" rendition="Line" xml:id="facs_0336_22_05_1347-01_tr_1_tl_26" subtype="default"/>
+         <zone points="96,1178 1598,1180 1576,1132 96,1142" rendition="Line" xml:id="facs_0336_22_05_1347-01_tr_1_tl_27" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0336_22_05_1347-01" n="0336_22_05_1347-01" xml:id="img_0336_22_05_1347-01"/>
+            <ab>
+               <l facs="#facs_0336_22_05_1347-01_tr_1_tl_1">Wij Wouteʼ vanden broeke en̄ petʼ van hoeboequen scepenen in Antwʼpen maken Cond dat vore ons</l>
+               <l facs="#facs_0336_22_05_1347-01_tr_1_tl_2">quam petʼ vander nockyen de oudeʼ . Ende bekinde dac hi ōme eene sūme ghelds die hen al es vʼgouden</l>
+               <l facs="#facs_0336_22_05_1347-01_tr_1_tl_3">vʼcocht heeft wittelec Religiosen ende eersam̄ luden . der pⁱorinnē en̄ den ghemeenen 9uente vanden</l>
+               <l facs="#facs_0336_22_05_1347-01_tr_1_tl_4">nonnē . tsente mʼgrieten daele bi Antwʼpen . alle dat goed dat hi hadde ligghende en̄ Rurende</l>
+               <l facs="#facs_0336_22_05_1347-01_tr_1_tl_5">ane die holestrate bi de nonnen also si seyden dats te wetene een hofstat een half buynre lands</l>
+               <l facs="#facs_0336_22_05_1347-01_tr_1_tl_6">eenen halfuen beempt tien scellinghe en̄ sesse pennīghe tsiaers erflec den ouden groeten tornoisen</l>
+               <l facs="#facs_0336_22_05_1347-01_tr_1_tl_7">ouʼ twee scellinghe gherekent . die jaerlijcs te gheuene pleghet jan vander borgh nv woenende jn</l>
+               <l facs="#facs_0336_22_05_1347-01_tr_1_tl_8">de cāmʼstrate . van anderhalfuʼ hofstat jn den voerseiden goede gheleghen . ende achtendalfuen pennnīgh</l>
+               <l facs="#facs_0336_22_05_1347-01_tr_1_tl_9">tsiaers oudʼ gᵒetʼ tornoise ende een hoen tʼ stat Rechte oppe eene andʼe hofstat daer bi gheleghen jn den</l>
+               <l facs="#facs_0336_22_05_1347-01_tr_1_tl_10">voerseiden goede van welken allen den goeden voerseit Ramont vanden werfue daer af hebbende es</l>
+               <l facs="#facs_0336_22_05_1347-01_tr_1_tl_11">dat weder ghedeel also si seyden . En̄ alsoe dat de voerseide petʼ vander nockyen ouʼ hem ouʼ sijn oer ende</l>
+               <l facs="#facs_0336_22_05_1347-01_tr_1_tl_12">nacomenlinghe algadeʼ zijn Recht dat hi hebbende was ane den voerꞩ goede claerlken en̄ aldemaele quite</l>
+               <l facs="#facs_0336_22_05_1347-01_tr_1_tl_13">scoud en̄ bekinde dat hi en gheen Recht daer ane en behilt noch bi hem noch bi yemant anders</l>
+               <l facs="#facs_0336_22_05_1347-01_tr_1_tl_14">hem eenichs Rechts daer toe vʼmeten moghen zal mʼ dat de voerseide pⁱorinne en̄ tghemeene 9uent voerꞩ</l>
+               <l facs="#facs_0336_22_05_1347-01_tr_1_tl_15">die nv zijn ochte bi wilen na hen waren selen jn den voerꞩ 9quente . met algadʼe den voerseiden goede</l>
+               <l facs="#facs_0336_22_05_1347-01_tr_1_tl_16">moghen doen selen alse met horen ꝓpeʼn goede sonder calengien iemants . die welke goede voerseit</l>
+               <l facs="#facs_0336_22_05_1347-01_tr_1_tl_17">de voerꞩ petʼ vandʼ nockyen te vryenne en̄ te wʼne gheloefde der voerseider pⁱorinnē en̄ den 9uente voerꞩ</l>
+               <l facs="#facs_0336_22_05_1347-01_tr_1_tl_18">kū̄mʼloes jaer . en̄ dach jeghen alle diʼe af te Rechte comen wille . vteghenomen een ende twintich</l>
+               <l facs="#facs_0336_22_05_1347-01_tr_1_tl_19">muddekine tsiaers Rogs en̄ eene halfuen pennīgh siaers oudʼ gᵒetʼ torn̄ die jaerlijcs daer vte gaen</l>
+               <l facs="#facs_0336_22_05_1347-01_tr_1_tl_20">daer af dat jaerlijcs heffen die sartʼoyse buten Antwʼpen sestten muddekine tsiaers Rogs</l>
+               <l facs="#facs_0336_22_05_1347-01_tr_1_tl_21">de berechteʼn des heileghsgheests jn onser vᵒuwen kʼke tantwʼpen die muddekine tsiaers Rogs . en̄ die</l>
+               <l facs="#facs_0336_22_05_1347-01_tr_1_tl_22">berechteʼn des heileghsgheests taefle jn de borghʼ kerke tantwerpen een halfue viertelle tsiaers Rogs . en̄</l>
+               <l facs="#facs_0336_22_05_1347-01_tr_1_tl_23">eenē Capellaen . tʼ prouenden behoef van eenre capelrien in onsʼ vrouwen kerke tantwʼpen eenen</l>
+               <l facs="#facs_0336_22_05_1347-01_tr_1_tl_24">haluen pennīgh tsiaers ouden gᵒeten . ende ghebrake iet ane dese voerseide warantscap soe gheloefde jan van</l>
+               <l facs="#facs_0336_22_05_1347-01_tr_1_tl_25">busengheem alse goed borghe dat te voldoene met sinē goede . en̄ petʼ vander nockyen voerseidʼ gheloefde janne</l>
+               <l facs="#facs_0336_22_05_1347-01_tr_1_tl_26">sinē voerseiden borghe kūmʼloes en̄ scadeloes te quitene van desen borghtucht . Jn kennissen van desen lrēn</l>
+               <l facs="#facs_0336_22_05_1347-01_tr_1_tl_27">beseghelt mꝫ onsen seghelen ghegheuen jnt jaer ons heʼn alsm̄ screef M CCC seuen ende viertich des</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

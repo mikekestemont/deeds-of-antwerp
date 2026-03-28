@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3507" lry="2480" xml:id="facs_0050_03_12_1349-01">
+         <graphic url="0050_03_12_1349-01.jpg" width="3507px" height="2480px"/>
+         <zone points="466,898 2876,876 2876,796 2799,772 2617,821 1466,802 1327,836 1043,793 697,833 466,762" rendition="Line" xml:id="facs_0050_03_12_1349-01_tr_1_tl_1" subtype="default"/>
+         <zone points="457,951 2910,923 2910,864 457,901" rendition="Line" xml:id="facs_0050_03_12_1349-01_tr_1_tl_2" subtype="default"/>
+         <zone points="451,1025 2889,994 2889,920 451,951" rendition="Line" xml:id="facs_0050_03_12_1349-01_tr_1_tl_3" subtype="default"/>
+         <zone points="451,1089 2901,1049 2901,991 2842,978 451,1003" rendition="Line" xml:id="facs_0050_03_12_1349-01_tr_1_tl_4" subtype="default"/>
+         <zone points="451,1148 2889,1102 2889,1043 2466,1037 451,1086" rendition="Line" xml:id="facs_0050_03_12_1349-01_tr_1_tl_5" subtype="default"/>
+         <zone points="457,1207 2901,1167 2901,1099 457,1148" rendition="Line" xml:id="facs_0050_03_12_1349-01_tr_1_tl_6" subtype="default"/>
+         <zone points="448,1256 1648,1210 2923,1225 2923,1164 2876,1157 448,1204" rendition="Line" xml:id="facs_0050_03_12_1349-01_tr_1_tl_7" subtype="default"/>
+         <zone points="460,1315 2917,1278 2876,1228 2413,1216 460,1262" rendition="Line" xml:id="facs_0050_03_12_1349-01_tr_1_tl_8" subtype="default"/>
+         <zone points="460,1392 1926,1339 2099,1376 2333,1339 2941,1367 2944,1275 460,1333" rendition="Line" xml:id="facs_0050_03_12_1349-01_tr_1_tl_9" subtype="default"/>
+         <zone points="454,1451 2898,1401 2898,1349 2765,1333 457,1389" rendition="Line" xml:id="facs_0050_03_12_1349-01_tr_1_tl_10" subtype="default"/>
+         <zone points="463,1509 1463,1463 2898,1475 2898,1401 2852,1389 463,1457" rendition="Line" xml:id="facs_0050_03_12_1349-01_tr_1_tl_11" subtype="default"/>
+         <zone points="469,1562 2670,1540 2892,1518 2895,1475 469,1509" rendition="Line" xml:id="facs_0050_03_12_1349-01_tr_1_tl_12" subtype="default"/>
+         <zone points="475,1648 1256,1593 2784,1596 2784,1512 478,1583" rendition="Line" xml:id="facs_0050_03_12_1349-01_tr_1_tl_13" subtype="default"/>
+         <zone points="472,1719 1336,1651 2929,1654 2898,1589 2330,1574 475,1642" rendition="Line" xml:id="facs_0050_03_12_1349-01_tr_1_tl_14" subtype="default"/>
+         <zone points="457,1787 2062,1701 2858,1734 2920,1663 1596,1651 457,1722" rendition="Line" xml:id="facs_0050_03_12_1349-01_tr_1_tl_15" subtype="default"/>
+         <zone points="472,1827 2089,1772 2778,1796 2892,1778 2895,1719 472,1768" rendition="Line" xml:id="facs_0050_03_12_1349-01_tr_1_tl_16" subtype="default"/>
+         <zone points="457,1889 2904,1842 2904,1775 2386,1772 460,1839" rendition="Line" xml:id="facs_0050_03_12_1349-01_tr_1_tl_17" subtype="default"/>
+         <zone points="506,1957 818,1984 963,1932 1540,1898 2481,1910 2484,1842 509,1886" rendition="Line" xml:id="facs_0050_03_12_1349-01_tr_1_tl_18" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0050_03_12_1349-01" n="0050_03_12_1349-01" xml:id="img_0050_03_12_1349-01"/>
+            <ab>
+               <l facs="#facs_0050_03_12_1349-01_tr_1_tl_1">Wij Jan vanden mortʼe ende Jan bode . Scepenen in Antwʼpen maken cond dat vore ons quamen Een Eersam man her claus canteman</l>
+               <l facs="#facs_0050_03_12_1349-01_tr_1_tl_2">Canonc ende ꝓchiaen van onser vrouwen kerke in Antwʼpen in deen zide Ende her mechiel de vos de priester in dander zide . Ende bekendē</l>
+               <l facs="#facs_0050_03_12_1349-01_tr_1_tl_3">dat de selue hʼ mechiel ōme sonderlinghe noet orbore . profiit . ende nutscap . sier capelrien die hi houdende es ī de kercke tsente Joriis</l>
+               <l facs="#facs_0050_03_12_1349-01_tr_1_tl_4">in Antwʼpen . daer wilen arnoud Canteman ende Joncfrouwe margriete bodinne siin wetteleke wijf wilen toe gauen ende bewiisden</l>
+               <l facs="#facs_0050_03_12_1349-01_tr_1_tl_5">een deel vandʼ hoeuen gheheten ten mortʼe gheleghen in de ꝓchie van dorne ōme dat hi her mechiel mids ghebreke van goede niet</l>
+               <l facs="#facs_0050_03_12_1349-01_tr_1_tl_6">ghehelpen en conste den vorseiden goede ane de huisinghen ende andʼe nodorften dies tvorseide goed niet ontberen en mochte . dat hi</l>
+               <l facs="#facs_0050_03_12_1349-01_tr_1_tl_7">daer ōme bi concente der Capittelen van onser vrouwen kerke vorseid alsoe hi her mechiel seide . ghegheuen heeft terue en̄ in erflekē</l>
+               <l facs="#facs_0050_03_12_1349-01_tr_1_tl_8">rechte den vorseiden heʼn clause dat vorseide ghedeel int selue goed ten mortʼe beide int clene ende int grote . ende in al dat daer</l>
+               <l facs="#facs_0050_03_12_1349-01_tr_1_tl_9">toe hoert ōme sesse veertelen rogs siaers goed en̄ custbaer ōme tweleue veertelen ruwer euenen . Ende ōme viue guldene pēninghe</l>
+               <l facs="#facs_0050_03_12_1349-01_tr_1_tl_10">die men heet scilde goed en̄ custbaer van ghewichte en̄ van goude . ofte de wʼde daer af in andeʼn goeden ghelde . jaerliker en̄</l>
+               <l facs="#facs_0050_03_12_1349-01_tr_1_tl_11">erfleker renten . tegheldene en̄ tegheuene vanden vorseiden hʼen Clause ende van sinen nacomelinghen den vorseiden heren</l>
+               <l facs="#facs_0050_03_12_1349-01_tr_1_tl_12">mechiele en̄ sinen nacomelinghen Caplanen in de vorseide capelrie euwelec durende alle jare tusschen onser vrouwen</l>
+               <l facs="#facs_0050_03_12_1349-01_tr_1_tl_13">daghe ter lichtmessen ende sente Gheertruiden daghe gheleghen te halfmerte . Ane dat welke vorseide goed ghehetē ten</l>
+               <l facs="#facs_0050_03_12_1349-01_tr_1_tl_14">mortʼe de vorseide her Claus nv vele ghelds vte gheleght heeft ende noch vte leght en̄ legghen moet m̄ tymmeringhen ende</l>
+               <l facs="#facs_0050_03_12_1349-01_tr_1_tl_15">in anden groten nodorften dies tvorseide goed met ontberen en mochte alsoe de vorseide her mechiel vore ons openbaer</l>
+               <l facs="#facs_0050_03_12_1349-01_tr_1_tl_16">ende wel vʼlide . Jn kinnessen van desen lrēn bezeghelt met onsen zeghelen . Ende ōme de meerre zekerheit Soe hebbe ic</l>
+               <l facs="#facs_0050_03_12_1349-01_tr_1_tl_17">hʼ mechiel vorghenoemd minen zeghel mede ghehanghen ane dese lrēn in orcontscape dʼ waerheit Ghegheuen jnt jaer ons</l>
+               <l facs="#facs_0050_03_12_1349-01_tr_1_tl_18">hʼen alsnen screef M CCC viertech ende neghene des donderdaeghs vore Senter claus . Dach</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

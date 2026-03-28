@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="4000" lry="1036" xml:id="facs_0110_07_05_1336-01">
+         <graphic url="0110_07_05_1336-01.jpg" width="4000px" height="1036px"/>
+         <zone points="73,297 146,332 229,307 283,356 385,317 663,356 722,307 760,351 843,327 916,366 1311,336 1404,385 1521,351 1877,385 2345,351 2384,385 2501,341 2847,366 3949,273 3949,122 3851,166 3739,117 3515,210 3452,161 3364,205 3261,151 3130,239 2988,263 2808,219 2764,263 2486,283 2408,244 2262,283 2077,229 1989,268 1852,244 1711,180 1160,263 921,146 624,254 551,219 502,254 205,88 73,112" rendition="Line" xml:id="facs_0110_07_05_1336-01_tr_1_tl_1" subtype="default"/>
+         <zone points="49,434 297,400 478,444 653,395 916,458 1268,419 2028,492 2189,444 3008,444 3530,370 3724,390 3798,346 3954,370 3954,278 3851,268 3734,268 3676,317 3427,292 3213,341 2998,322 2944,361 2506,336 2384,385 2208,356 1974,390 1682,346 882,366 843,327 785,366 717,307 648,361 502,317 278,356 234,307 49,307" rendition="Line" xml:id="facs_0110_07_05_1336-01_tr_1_tl_2" subtype="default"/>
+         <zone points="49,497 312,541 385,492 629,546 726,507 960,546 1155,522 1399,566 1609,517 1857,561 2632,536 2784,492 3066,531 3271,473 3495,497 3920,434 3920,370 3866,351 3193,434 2569,424 2004,483 1346,424 921,458 804,419 717,444 648,395 453,444 49,434" rendition="Line" xml:id="facs_0110_07_05_1336-01_tr_1_tl_3" subtype="default"/>
+         <zone points="49,595 249,644 702,595 1092,614 1150,653 1306,609 1823,609 2052,663 2272,600 2788,634 2901,585 3047,624 3291,556 3822,541 3920,517 3924,434 3788,478 3573,453 3486,497 3344,473 3062,531 2779,497 2355,556 2174,517 1721,556 1521,512 1341,561 1150,522 970,551 673,512 634,546 380,492 258,541 49,502" rendition="Line" xml:id="facs_0110_07_05_1336-01_tr_1_tl_4" subtype="default"/>
+         <zone points="49,722 541,687 960,702 999,741 1482,697 1701,731 2223,697 2413,736 2584,673 2740,722 2798,678 3222,692 3393,634 3958,609 3958,502 3593,575 3291,556 3057,619 2857,585 2788,629 2618,600 2506,639 2462,600 2355,634 2272,600 2062,653 1755,609 1462,648 1404,604 946,644 717,600 249,644 49,595" rendition="Line" xml:id="facs_0110_07_05_1336-01_tr_1_tl_5" subtype="default"/>
+         <zone points="49,829 1258,795 1375,848 1424,804 2223,780 2296,819 2652,765 2974,804 3018,760 3339,780 3593,717 3954,726 3924,600 3866,634 3778,604 3724,648 3403,634 3247,692 2784,678 2730,722 49,722" rendition="Line" xml:id="facs_0110_07_05_1336-01_tr_1_tl_6" subtype="default"/>
+         <zone points="58,941 268,907 327,946 551,887 658,936 1214,902 1346,951 1614,897 2140,931 2218,878 2569,926 2657,873 2954,907 3008,858 3193,912 3334,838 3378,873 3744,809 3827,878 3958,834 3958,726 3807,702 3310,775 3022,756 2979,800 2662,760 2530,814 2096,785 1497,838 1433,804 1355,848 1248,795 999,795 804,843 751,795 561,800 502,843 332,804 58,843" rendition="Line" xml:id="facs_0110_07_05_1336-01_tr_1_tl_7" subtype="default"/>
+         <zone points="1035,1035 166,1034 1035,1035 195,1034 288,999 332,1034 2316,1034 1035,1035 2350,882 2218,878 2130,936 1974,892 1740,936 1614,897 1394,956 1277,907 1219,946 848,902 736,956 526,907 63,941" rendition="Line" xml:id="facs_0110_07_05_1336-01_tr_1_tl_8" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0110_07_05_1336-01" n="0110_07_05_1336-01" xml:id="img_0110_07_05_1336-01"/>
+            <ab>
+               <l facs="#facs_0110_07_05_1336-01_tr_1_tl_1">Wij Jan drake en̄ Jan vanden Werue Scepenen Jn antwʼpen maken cond dat vore ons quam h̄ claus cantman capllaen van onser vrouwē</l>
+               <l facs="#facs_0110_07_05_1336-01_tr_1_tl_2">kerke . ende stond claerlec quite met vʼtienne te meestʼs claus behoef vander borch ꝓchiaen en̄ canonc vandʼ borgh̄ kerker .  te meestʼs claus</l>
+               <l facs="#facs_0110_07_05_1336-01_tr_1_tl_3">sromayns behoef . en̄ meestʼs jans behoef van nodenbeke canonke vander seluē kerken en̄ executore sh̄ jans van brusele wilen Deken</l>
+               <l facs="#facs_0110_07_05_1336-01_tr_1_tl_4">inde vorgh̄ kerke . en̄ tote der seluʼe executien behoef . alle dat ghedeel en̄ dat recht dat hi hadde en̄ houdende was ane thuis dat ghe-</l>
+               <l facs="#facs_0110_07_05_1336-01_tr_1_tl_5">staen es inde nuwestrate tusschen michiels donk̄s ane dene side . en̄ tusschen thuis daer jan de vos in woent ane dander side ane groē</l>
+               <l facs="#facs_0110_07_05_1336-01_tr_1_tl_6">hof . en̄ ane al dattʼ toe behoerd . en̄ gheloefde mede dat hi hem daer ane nimmermeer rechts en̄ soude vʼmeten moghen bi hem ochte bi</l>
+               <l facs="#facs_0110_07_05_1336-01_tr_1_tl_7">ands̄ yemene van sinen weghen . Jn kennissen van desen lrēn beseghelt met onsen seglen . Ghegheuen int jaer ons heʼn alsmē screef M .</l>
+               <l facs="#facs_0110_07_05_1336-01_tr_1_tl_8">CCC . sesse ende Dertech . des sondags na sente Philips en̄ sʼ jacobs dach .</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

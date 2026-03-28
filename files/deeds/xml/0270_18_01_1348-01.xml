@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="1650" lry="940" xml:id="facs_0270_18_01_1348-01">
+         <graphic url="0270_18_01_1348-01.jpg" width="1650px" height="940px"/>
+         <zone points="112,197 723,245 1555,215 1555,135 1510,129 890,186 770,146 673,187 543,141 493,176 112,129" rendition="Line" xml:id="facs_0270_18_01_1348-01_tr_1_tl_1" subtype="default"/>
+         <zone points="103,232 794,277 1572,245 1523,206 802,245 103,197" rendition="Line" xml:id="facs_0270_18_01_1348-01_tr_1_tl_2" subtype="default"/>
+         <zone points="107,266 888,317 1570,274 1508,234 778,277 107,232" rendition="Line" xml:id="facs_0270_18_01_1348-01_tr_1_tl_3" subtype="default"/>
+         <zone points="99,307 907,347 1553,307 1553,272 896,313 99,272" rendition="Line" xml:id="facs_0270_18_01_1348-01_tr_1_tl_4" subtype="default"/>
+         <zone points="99,337 823,380 1561,349 1559,307 868,347 99,307" rendition="Line" xml:id="facs_0270_18_01_1348-01_tr_1_tl_5" subtype="default"/>
+         <zone points="97,392 1551,388 1536,350 823,382 97,335" rendition="Line" xml:id="facs_0270_18_01_1348-01_tr_1_tl_6" subtype="default"/>
+         <zone points="92,410 757,453 1574,433 1574,384 847,416 92,384" rendition="Line" xml:id="facs_0270_18_01_1348-01_tr_1_tl_7" subtype="default"/>
+         <zone points="88,459 858,493 1587,465 1544,420 88,435" rendition="Line" xml:id="facs_0270_18_01_1348-01_tr_1_tl_8" subtype="default"/>
+         <zone points="92,504 1572,523 1557,465 856,493 92,457" rendition="Line" xml:id="facs_0270_18_01_1348-01_tr_1_tl_9" subtype="default"/>
+         <zone points="92,540 1585,566 1583,510 92,512" rendition="Line" xml:id="facs_0270_18_01_1348-01_tr_1_tl_10" subtype="default"/>
+         <zone points="82,601 1565,607 1512,560 82,547" rendition="Line" xml:id="facs_0270_18_01_1348-01_tr_1_tl_11" subtype="default"/>
+         <zone points="81,637 871,635 1173,676 1583,648 1357,605 81,603" rendition="Line" xml:id="facs_0270_18_01_1348-01_tr_1_tl_12" subtype="default"/>
+         <zone points="73,693 375,667 586,738 871,686 1233,718 1244,658 71,643" rendition="Line" xml:id="facs_0270_18_01_1348-01_tr_1_tl_13" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0270_18_01_1348-01" n="0270_18_01_1348-01" xml:id="img_0270_18_01_1348-01"/>
+            <ab>
+               <l facs="#facs_0270_18_01_1348-01_tr_1_tl_1">Wj peter van hoboken en̄ Gielijs de @touʼe Scepen̄ in Antwʼpen makē cont . dat vore ons quam Ramond vanden wʼue</l>
+               <l facs="#facs_0270_18_01_1348-01_tr_1_tl_2">Ende bekende dat hi om ene ūme ghelds die hiem wae es vʼgoude vʼcocht heeft witteleke Joncfrouwē Aechten vandʼ</l>
+               <l facs="#facs_0270_18_01_1348-01_tr_1_tl_3">panēn Nonne das cloestʼs van sente margrietē bi antwʼpen alselc goed en̄ renten alse hi ligghende hadde bi den seluen</l>
+               <l facs="#facs_0270_18_01_1348-01_tr_1_tl_4">cloestʼe . daer af dat wederdeel was wilen petʼs ven nockien des oudʼs . Dats tewetene . ene hoftad Een half bundʼe</l>
+               <l facs="#facs_0270_18_01_1348-01_tr_1_tl_5">lands . Enē haluē beemdt . Tiene scellinghe en̄ sesse peninge siaers erflec . den ouden grotē torn̄ ouʼ twee scellin</l>
+               <l facs="#facs_0270_18_01_1348-01_tr_1_tl_6">ghe gherekent die jaerlijcs tegheuene plach Jan vandʼ borch die woende in de cammʼstᵃte van onderhaluʼ hofstad</l>
+               <l facs="#facs_0270_18_01_1348-01_tr_1_tl_7">ter vorseidʼ stede gheleghē . Ende sestiende haluē grote tornoyse . en̄ drie hoendre tʼ stad rechte tsiaers van welkē</l>
+               <l facs="#facs_0270_18_01_1348-01_tr_1_tl_8">alden vorꞩ goede en̄ rentē . dat wederdeel was vormaels . des vorꞩ petʼs vʼen nockien also vorseit es . De welke</l>
+               <l facs="#facs_0270_18_01_1348-01_tr_1_tl_9">voreghenoemde goede gheheellec en̄ alle de vorꞩ Ramond opdroech dʼ vorꞩ joncfrʼ Aeghten . en̄ bekende dat hi</l>
+               <l facs="#facs_0270_18_01_1348-01_tr_1_tl_10">en gheen recht daer ane en behilt . En̄ alle dit vorꞩ goed gheloefde de vorꞩ ramond tewaerne der vorseidʼ</l>
+               <l facs="#facs_0270_18_01_1348-01_tr_1_tl_11">joncfrʼ Aechten jaer ende dach qⁱte en̄ los van allē cūmʼe en̄ calangen ieghē alle die ghene die te rechte</l>
+               <l facs="#facs_0270_18_01_1348-01_tr_1_tl_12">comen willen . Jn kinnessen van desen lrēn beseghelt met onsen zeghelen . Ghegheuen int Jaer ons heren</l>
+               <l facs="#facs_0270_18_01_1348-01_tr_1_tl_13">alsm̄ screef . M . CCC . viertech en̄ zeuene . des zaterdaghes na den andach van Dertiendaghe</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

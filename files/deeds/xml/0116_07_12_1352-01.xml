@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="4022" lry="1008" xml:id="facs_0116_07_12_1352-01">
+         <graphic url="0116_07_12_1352-01.jpg" width="4022px" height="1008px"/>
+         <zone points="126,262 1015,252 1296,301 1423,267 1486,306 1670,286 2088,345 2389,301 2578,340 3889,272 3884,151 3724,180 3666,131 3491,209 3384,170 3146,223 2981,180 2733,252 2481,252 2379,199 2296,233 2151,194 2000,267 1753,194 1534,238 1379,165 1223,223 1112,160 986,155 937,204 660,131 539,165 121,136" rendition="Line" xml:id="facs_0116_07_12_1352-01_tr_1_tl_1" subtype="default"/>
+         <zone points="141,320 1180,325 2054,398 3908,340 3908,277 3869,272 2093,340 1573,272 1481,306 1005,252 141,262" rendition="Line" xml:id="facs_0116_07_12_1352-01_tr_1_tl_2" subtype="default"/>
+         <zone points="121,398 675,369 772,413 1282,388 2432,456 3903,393 3874,330 2068,398 1291,330 121,325" rendition="Line" xml:id="facs_0116_07_12_1352-01_tr_1_tl_3" subtype="default"/>
+         <zone points="126,442 1131,437 2068,519 2107,490 2151,529 2209,495 2733,515 2826,476 3010,500 3666,447 3923,471 3923,408 3826,384 2413,452 675,369 126,388" rendition="Line" xml:id="facs_0116_07_12_1352-01_tr_1_tl_4" subtype="default"/>
+         <zone points="107,515 1243,505 2083,583 3937,524 3937,461 3690,447 2049,515 1131,437 107,432" rendition="Line" xml:id="facs_0116_07_12_1352-01_tr_1_tl_5" subtype="default"/>
+         <zone points="92,597 869,563 976,597 1476,583 1520,621 1583,587 1626,626 1864,602 2068,651 2418,607 2869,641 3306,583 3559,617 3971,578 3971,515 3763,544 3729,510 3646,544 1991,568 1243,505 92,500" rendition="Line" xml:id="facs_0116_07_12_1352-01_tr_1_tl_6" subtype="default"/>
+         <zone points="87,655 325,680 995,631 1515,689 1631,655 2452,709 2515,670 2947,694 3491,636 3967,646 3962,587 3913,578 2248,636 864,558 83,597" rendition="Line" xml:id="facs_0116_07_12_1352-01_tr_1_tl_7" subtype="default"/>
+         <zone points="73,714 214,748 267,709 384,738 845,699 1039,743 1660,723 1816,772 1932,723 1995,762 2636,762 2830,723 3952,709 3952,646 3787,631 2233,699 1097,636 73,646" rendition="Line" xml:id="facs_0116_07_12_1352-01_tr_1_tl_8" subtype="default"/>
+         <zone points="87,801 1384,777 1602,830 1903,796 2107,840 3952,767 3952,704 3612,689 2607,762 1316,743 1214,704 1039,738 850,699 660,733 87,714" rendition="Line" xml:id="facs_0116_07_12_1352-01_tr_1_tl_9" subtype="default"/>
+         <zone points="58,864 884,845 942,893 1083,845 1194,893 1359,850 1505,908 1806,859 2160,913 2729,850 2894,850 2932,888 3923,816 3923,762 3811,757 2345,830 1379,777 1039,811 772,772 680,806 515,762 442,801 165,777 58,811" rendition="Line" xml:id="facs_0116_07_12_1352-01_tr_1_tl_10" subtype="default"/>
+         <zone points="44,927 835,922 927,976 1243,937 1369,971 1418,932 1554,981 1777,942 2112,981 2452,981 2500,942 2894,971 3097,918 3573,956 3816,922 3937,961 3937,830 3884,806 2156,908 2000,869 1423,893 1355,850 1194,888 1092,850 952,884 874,845 787,879 44,854" rendition="Line" xml:id="facs_0116_07_12_1352-01_tr_1_tl_11" subtype="default"/>
+         <zone points="1007,1007 73,1005 1007,1007 92,1005 1007,1007 199,1005 1007,1007 364,1005 1007,1007 442,1005 1007,1007 587,1005 1007,1007 680,918 39,932" rendition="Line" xml:id="facs_0116_07_12_1352-01_tr_1_tl_12" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0116_07_12_1352-01" n="0116_07_12_1352-01" xml:id="img_0116_07_12_1352-01"/>
+            <ab>
+               <l facs="#facs_0116_07_12_1352-01_tr_1_tl_1">Wij Willem lympiaes en̄ laureins volkaert scepenē in Antwʼpē maken Cond dat voer ons quamen Jan Godeuaerds de mesmakere . her godeuaerd siin sone</l>
+               <l facs="#facs_0116_07_12_1352-01_tr_1_tl_2">priester die men heet de mesmakʼe . lijsbet martens mesmakʼe wijf merten seluē martene horen witteghē man en̄ montbore . Cateline jan alards wijf des volders met</l>
+               <l facs="#facs_0116_07_12_1352-01_tr_1_tl_3">den seluen janne haren witteghē manne en̄ montbore En̄ margriete des vorseids ian mesmakers dochter met Roeloeue des scoutethen clerc van antwerpē . horen</l>
+               <l facs="#facs_0116_07_12_1352-01_tr_1_tl_4">montbore hare ghegheuē met den Rechte . bekenden en̄ verliden . dat si vercocht hebben om eene sūme ghelds daer si heme af kenden al betaelt Eersamen</l>
+               <l facs="#facs_0116_07_12_1352-01_tr_1_tl_5">lieden en̄ wisen den .. Deken en̄ der capittelen onser vrouwen kerke in antwerpen hare huis met allen sinē toebehoerten ghestaen op der vorseide heʼen . Dekens</l>
+               <l facs="#facs_0116_07_12_1352-01_tr_1_tl_6">en̄ capittelen eyghen jn de cammerstrate tusschen peter Jans soens huis dat ghestaen es op den hoec van der steghe tieghen den ouden spieghel . aen deen</l>
+               <l facs="#facs_0116_07_12_1352-01_tr_1_tl_7">zide en̄ Jans van der hachterhaghe aen dandere zide streckende van vore ter straten tote achter op dat kerchhof der vorseider kerken . met al den Rechte</l>
+               <l facs="#facs_0116_07_12_1352-01_tr_1_tl_8">dat siere aene houdēde waren . dwelke huis met sinen toebehoerten vorseid si opdroeghen en̄ verteghen tote der vorseidʼe heeren behoef . En̄ bekende dat</l>
+               <l facs="#facs_0116_07_12_1352-01_tr_1_tl_9">siere gheen Recht aene behilden . Ende gheloefdent te waerne tote op seuendaluen ghuldenē hallinghe die daer vte ghaen en̄ die des oudʼ ammans van</l>
+               <l facs="#facs_0116_07_12_1352-01_tr_1_tl_10">Antwʼpē was erfghenamē te heffene pleghē also si seiden jaer en̄ dach tieghen een . ieghewelken die te Rechte comen moghen . Jn kēnisse van</l>
+               <l facs="#facs_0116_07_12_1352-01_tr_1_tl_11">desen lettʼen bezeghelt met onsen zeghelen ghegheuen jnt jaer ons heʼn alsmen screef . M . CCC . viiftech en̄ twee de vryendaechs na sente nicho-</l>
+               <l facs="#facs_0116_07_12_1352-01_tr_1_tl_12">laus dach @@ den winter</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

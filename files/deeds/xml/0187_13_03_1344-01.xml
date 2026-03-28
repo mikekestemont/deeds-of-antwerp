@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="2048" lry="1536" xml:id="facs_0187_13_03_1344-01">
+         <graphic url="0187_13_03_1344-01.jpg" width="2048px" height="1536px"/>
+         <zone points="314,427 1204,394 1842,436 1842,333 1652,389 1328,381 1158,326 871,330 813,377 764,337 314,356" rendition="Line" xml:id="facs_0187_13_03_1344-01_tr_1_tl_6" subtype="default"/>
+         <zone points="324,451 1223,432 1850,474 1848,434 1745,413 1446,402 324,419" rendition="Line" xml:id="facs_0187_13_03_1344-01_tr_1_tl_7" subtype="default"/>
+         <zone points="324,497 1850,497 1634,444 324,453" rendition="Line" xml:id="facs_0187_13_03_1344-01_tr_1_tl_8" subtype="default"/>
+         <zone points="326,537 932,503 1823,541 1760,490 1273,469 326,497" rendition="Line" xml:id="facs_0187_13_03_1344-01_tr_1_tl_9" subtype="default"/>
+         <zone points="330,570 1833,575 1817,537 1534,514 330,533" rendition="Line" xml:id="facs_0187_13_03_1344-01_tr_1_tl_10" subtype="default"/>
+         <zone points="335,602 1850,613 1850,577 1623,558 335,566" rendition="Line" xml:id="facs_0187_13_03_1344-01_tr_1_tl_11" subtype="default"/>
+         <zone points="335,661 1065,625 1838,652 1817,615 1617,596 335,602" rendition="Line" xml:id="facs_0187_13_03_1344-01_tr_1_tl_12" subtype="default"/>
+         <zone points="339,701 1852,688 1852,652 1572,632 339,655" rendition="Line" xml:id="facs_0187_13_03_1344-01_tr_1_tl_13" subtype="default"/>
+         <zone points="339,733 1848,730 1848,690 1488,663 339,703" rendition="Line" xml:id="facs_0187_13_03_1344-01_tr_1_tl_14" subtype="default"/>
+         <zone points="345,770 1863,770 1829,724 1339,705 345,728" rendition="Line" xml:id="facs_0187_13_03_1344-01_tr_1_tl_15" subtype="default"/>
+         <zone points="345,804 1850,806 1850,770 1621,752 345,766" rendition="Line" xml:id="facs_0187_13_03_1344-01_tr_1_tl_16" subtype="default"/>
+         <zone points="335,871 482,840 608,876 787,853 947,872 975,844 1013,872 1105,865 1105,827 1036,804 958,827 333,806" rendition="Line" xml:id="facs_0187_13_03_1344-01_tr_1_tl_17" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0187_13_03_1344-01" n="0187_13_03_1344-01" xml:id="img_0187_13_03_1344-01"/>
+            <ab>
+               <l facs="#facs_0187_13_03_1344-01_tr_1_tl_6">Wj willem de moelneʼ en̄ jan danijs Scepenen in antwʼpen maken Cont dat vor ons qᵃmen . Gilijs en̄ jan kindeʼ wilen Clarissie</l>
+               <l facs="#facs_0187_13_03_1344-01_tr_1_tl_7">des vos van reed ende bekinden dat si om ene sum̄e ghelds die hem wel vʼgouden es vʼcocht hebben wetteleke heʼn heinrike Sca-</l>
+               <l facs="#facs_0187_13_03_1344-01_tr_1_tl_8">uaerde den priestʼ een sistʼ goeds custbaers rogs siaers erfleker en̄ ewelekʼ renten op sine drie buindeʼ lands luttel meer</l>
+               <l facs="#facs_0187_13_03_1344-01_tr_1_tl_9">oft min gheleghen in de prochie van reed in ene stede gheheten de wijdschaghe ane die portʼstrate tusschen heinrics</l>
+               <l facs="#facs_0187_13_03_1344-01_tr_1_tl_10">colaes bosch . en̄ maiers kinder land dat welke vorseide land de vorgheseide ghebruedeʼ vʼbondē te pande ouer de</l>
+               <l facs="#facs_0187_13_03_1344-01_tr_1_tl_11">vorseide erfleke rente te gheldene en̄ tegheuene van hē en̄ van horen nacomelinghē den vorseidē heʼn heinrike ende</l>
+               <l facs="#facs_0187_13_03_1344-01_tr_1_tl_12">sinen nacomelinghē alle jare deen helft in sente jans daghe in midden someʼ . en̄ dandʼ helft te kʼssauonde en̄ dierste</l>
+               <l facs="#facs_0187_13_03_1344-01_tr_1_tl_13">paye te doene in sente jans daghe naest toecomende en̄ elc vanden vorseiden ghebruedʼen vor al en̄ onghesondert vort</l>
+               <l facs="#facs_0187_13_03_1344-01_tr_1_tl_14">gheloeften de vorꞩ ghebruedeʼ en̄ elc vor al dit vorseide land te waernne quite en̄ los van allen Cūmʼe en̄ Calaengē den</l>
+               <l facs="#facs_0187_13_03_1344-01_tr_1_tl_15">vorseiden heʼn henrike op des heʼn cheins en̄ daer toe op . dertiene scellinge en̄ achte pēninghe payments siaers der kʼkē</l>
+               <l facs="#facs_0187_13_03_1344-01_tr_1_tl_16">van reed Jn kēnessen van desen letteʼn bezeghelt met onsen zeghlen . Ghegheuē int iaer ons heʼn alsmē sceef . M . drie</l>
+               <l facs="#facs_0187_13_03_1344-01_tr_1_tl_17">hondert veertech en̄ drie des saterdaeghs vor halfvasten</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

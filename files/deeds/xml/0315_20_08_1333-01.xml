@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="1650" lry="853" xml:id="facs_0315_20_08_1333-01">
+         <graphic url="0315_20_08_1333-01.jpg" width="1650px" height="853px"/>
+         <zone points="132,133 433,119 506,154 923,101 1575,139 1575,77 1349,46 1142,86 720,33 669,77 577,42 481,82 132,51" rendition="Line" xml:id="facs_0315_20_08_1333-01_tr_1_tl_1" subtype="default"/>
+         <zone points="130,177 1537,183 1537,137 1458,126 1292,154 925,101 674,152 130,128" rendition="Line" xml:id="facs_0315_20_08_1333-01_tr_1_tl_2" subtype="default"/>
+         <zone points="132,239 1550,234 1550,190 1206,164 616,205 132,179" rendition="Line" xml:id="facs_0315_20_08_1333-01_tr_1_tl_3" subtype="default"/>
+         <zone points="128,307 751,270 1539,313 1539,254 1433,230 128,238" rendition="Line" xml:id="facs_0315_20_08_1333-01_tr_1_tl_4" subtype="default"/>
+         <zone points="128,358 839,327 1570,367 1550,305 1149,285 128,305" rendition="Line" xml:id="facs_0315_20_08_1333-01_tr_1_tl_5" subtype="default"/>
+         <zone points="128,418 925,384 1542,413 1513,340 128,358" rendition="Line" xml:id="facs_0315_20_08_1333-01_tr_1_tl_6" subtype="default"/>
+         <zone points="121,471 757,433 1546,461 1546,413 1252,389 121,413" rendition="Line" xml:id="facs_0315_20_08_1333-01_tr_1_tl_7" subtype="default"/>
+         <zone points="121,523 636,534 773,484 1553,526 1531,459 760,431 121,481" rendition="Line" xml:id="facs_0315_20_08_1333-01_tr_1_tl_8" subtype="default"/>
+         <zone points="124,557 1552,581 1500,512 793,486 634,534 594,503 124,523" rendition="Line" xml:id="facs_0315_20_08_1333-01_tr_1_tl_9" subtype="default"/>
+         <zone points="122,636 839,599 1557,649 1557,585 914,541 121,579" rendition="Line" xml:id="facs_0315_20_08_1333-01_tr_1_tl_10" subtype="default"/>
+         <zone points="126,663 1477,696 1592,683 1590,625 504,601 124,636" rendition="Line" xml:id="facs_0315_20_08_1333-01_tr_1_tl_11" subtype="default"/>
+         <zone points="121,724 1577,735 1575,680 121,665" rendition="Line" xml:id="facs_0315_20_08_1333-01_tr_1_tl_12" subtype="default"/>
+         <zone points="128,786 526,757 813,804 894,768 1208,793 1208,742 994,705 128,724" rendition="Line" xml:id="facs_0315_20_08_1333-01_tr_1_tl_13" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0315_20_08_1333-01" n="0315_20_08_1333-01" xml:id="img_0315_20_08_1333-01"/>
+            <ab>
+               <l facs="#facs_0315_20_08_1333-01_tr_1_tl_1">Wi Gherard van Wisplaer en̄ Ghijsbrecht vanden brule scepenen Jn Antwʼpen maken cond</l>
+               <l facs="#facs_0315_20_08_1333-01_tr_1_tl_2">dat vore ons quam̄ her Jan de cuꝑe de priestʼ en̄ andries de sonctʼe van van wesele . en̄</l>
+               <l facs="#facs_0315_20_08_1333-01_tr_1_tl_3">bekenden en̄ vʼliden . dat de selue her jan ghegheuen heeft . den seluen andrie</l>
+               <l facs="#facs_0315_20_08_1333-01_tr_1_tl_4">se ten liue des vorseids shʼ jans en̄ niet langher een stucke lands gheleghen</l>
+               <l facs="#facs_0315_20_08_1333-01_tr_1_tl_5">in wesele dat m̄ heet de raechtuin . tehoudene en̄ tewinne den vorseiden andriese ofte</l>
+               <l facs="#facs_0315_20_08_1333-01_tr_1_tl_6">sinen nacolnelinghen also langhe alse de vorseide hʼ jan leuen sal en̄ niet langhʼ . in</l>
+               <l facs="#facs_0315_20_08_1333-01_tr_1_tl_7">desen manieren . dat de vorseide andries elcs jaers gheuen sal en̄ gheuen sal</l>
+               <l facs="#facs_0315_20_08_1333-01_tr_1_tl_8">achtiene pēninghe sjaers paymēts der firmerien inden beghinen hof . en̄ dat hi</l>
+               <l facs="#facs_0315_20_08_1333-01_tr_1_tl_9">mede ghelden sal allen cheins en̄ cūmʼ die vten vorꞩ stucke lands gaen op sijns</l>
+               <l facs="#facs_0315_20_08_1333-01_tr_1_tl_10">selfs cost . En̄ dat na den liue shʼ jans vorseit dat vorseide stucke lands keren sal</l>
+               <l facs="#facs_0315_20_08_1333-01_tr_1_tl_11">vrileke ten goedshuise vandʼ vʼsarien bi Antwʼpen . Jn kennessen van desen letteʼn</l>
+               <l facs="#facs_0315_20_08_1333-01_tr_1_tl_12">beseghelt met onsen seghlen . Ghegheuen jnt jaer ons heʼn alsm̄ screef . M . CCC . drie</l>
+               <l facs="#facs_0315_20_08_1333-01_tr_1_tl_13">en̄ derttech . des vridaegs na onser vrouwen dach tʼ assūptien</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

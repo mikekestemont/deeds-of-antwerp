@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="2044" lry="1185" xml:id="facs_0056_04_03_1355-02">
+         <graphic url="0056_04_03_1355-02.jpg" width="2044px" height="1185px"/>
+         <zone points="166,170 1990,135 1990,93 1782,47 1199,65 877,26 683,82 611,35 492,47 327,117 168,19" rendition="Line" xml:id="facs_0056_04_03_1355-02_tr_1_tl_1" subtype="default"/>
+         <zone points="173,236 1796,208 2006,184 2008,145 173,175" rendition="Line" xml:id="facs_0056_04_03_1355-02_tr_1_tl_2" subtype="default"/>
+         <zone points="173,289 2006,226 1866,180 175,236" rendition="Line" xml:id="facs_0056_04_03_1355-02_tr_1_tl_3" subtype="default"/>
+         <zone points="166,327 1985,294 2008,226 166,287" rendition="Line" xml:id="facs_0056_04_03_1355-02_tr_1_tl_4" subtype="default"/>
+         <zone points="173,383 1332,322 1670,350 1992,324 1994,275 175,324" rendition="Line" xml:id="facs_0056_04_03_1355-02_tr_1_tl_5" subtype="default"/>
+         <zone points="175,429 1318,362 1812,383 1994,371 1997,320 175,385" rendition="Line" xml:id="facs_0056_04_03_1355-02_tr_1_tl_6" subtype="default"/>
+         <zone points="166,469 1992,406 1994,369 168,427" rendition="Line" xml:id="facs_0056_04_03_1355-02_tr_1_tl_7" subtype="default"/>
+         <zone points="161,513 2001,439 1941,392 163,469" rendition="Line" xml:id="facs_0056_04_03_1355-02_tr_1_tl_8" subtype="default"/>
+         <zone points="170,571 919,513 968,546 1026,511 1997,506 1976,441 173,513" rendition="Line" xml:id="facs_0056_04_03_1355-02_tr_1_tl_9" subtype="default"/>
+         <zone points="161,611 2004,560 1969,494 163,567" rendition="Line" xml:id="facs_0056_04_03_1355-02_tr_1_tl_10" subtype="default"/>
+         <zone points="163,676 1278,602 1455,644 1528,611 1994,623 2018,557 166,611" rendition="Line" xml:id="facs_0056_04_03_1355-02_tr_1_tl_11" subtype="default"/>
+         <zone points="170,739 1204,651 1896,688 2018,676 2020,618 903,618 170,697" rendition="Line" xml:id="facs_0056_04_03_1355-02_tr_1_tl_12" subtype="default"/>
+         <zone points="173,781 954,716 2029,742 2032,679 863,665 173,753" rendition="Line" xml:id="facs_0056_04_03_1355-02_tr_1_tl_13" subtype="default"/>
+         <zone points="166,837 1096,767 1134,802 1229,767 2020,779 2022,721 1565,749 1511,714 1432,749 1124,714 168,784" rendition="Line" xml:id="facs_0056_04_03_1355-02_tr_1_tl_14" subtype="default"/>
+         <zone points="159,891 1299,821 1719,823 1780,875 2029,882 2013,770 1544,805 1092,767 161,837" rendition="Line" xml:id="facs_0056_04_03_1355-02_tr_1_tl_15" subtype="default"/>
+         <zone points="154,935 786,882 1602,898 1763,879 1766,828 672,837 154,886" rendition="Line" xml:id="facs_0056_04_03_1355-02_tr_1_tl_16" subtype="default"/>
+         <zone points="166,989 1001,926 1344,926 1430,968 1978,917 2032,952 2032,886 1906,865 646,886 166,947" rendition="Line" xml:id="facs_0056_04_03_1355-02_tr_1_tl_17" subtype="default"/>
+         <zone points="173,1050 933,982 2011,996 2013,921 1973,917 175,980" rendition="Line" xml:id="facs_0056_04_03_1355-02_tr_1_tl_18" subtype="default"/>
+         <zone points="187,1092 546,1092 620,1054 842,1082 1052,1038 1663,1075 2020,1033 1934,970 1892,1003 1022,1010 977,975 189,1036" rendition="Line" xml:id="facs_0056_04_03_1355-02_tr_1_tl_19" subtype="default"/>
+         <zone points="177,1145 667,1113 1005,1143 1229,1099 1691,1166 1843,1087 2001,1103 2001,1038 1850,1026 1647,1078 1052,1040 180,1099" rendition="Line" xml:id="facs_0056_04_03_1355-02_tr_1_tl_20" subtype="default"/>
+         <zone points="189,1171 1184,1184 406,1183 1184,1184 420,1183 1184,1184 434,1183 1184,1184 457,1183 1184,1184 471,1183 1184,1184 483,1183 1184,1184 504,1183 1184,1184 550,1183 1184,1184 588,1183 1184,1184 613,1183 821,1173 786,1124 665,1115 189,1148" rendition="Line" xml:id="facs_0056_04_03_1355-02_tr_1_tl_21" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0056_04_03_1355-02" n="0056_04_03_1355-02" xml:id="img_0056_04_03_1355-02"/>
+            <ab>
+               <l facs="#facs_0056_04_03_1355-02_tr_1_tl_1">Wij laureins volkaerd Ende peter van hoboken Gielijs sone scepenen jn Antwʼpen maken cond. dat vore ons quamen Eene Eersame</l>
+               <l facs="#facs_0056_04_03_1355-02_tr_1_tl_2">vrouwe Reatrijs die wettelec wijf wilen was miins heʼen gielijs vander borgh Ridders meteenen montbore hare ghegheuen mettē</l>
+               <l facs="#facs_0056_04_03_1355-02_tr_1_tl_3">Rechter Ende Gielis vander borgh hare sone . Ende bekenden dat si wel ende wetteleke ghesamender hand . vʼcocht hebben Janne</l>
+               <l facs="#facs_0056_04_03_1355-02_tr_1_tl_4">vander borsen . horen hof die vormoels was des selfs Jan vander borsen metten huisinghen cameʼn ende stallagen die daer op ghe-</l>
+               <l facs="#facs_0056_04_03_1355-02_tr_1_tl_5">staen siin Jn de nuwestrate tusschen jacobs huis vanden gasthuise Jn deen zide Ende Jans spykincs huis Jn dandeʼ zide metten</l>
+               <l facs="#facs_0056_04_03_1355-02_tr_1_tl_6">gronde ende met al dattʼ toe behoert . streckende achter waerttote Jn de meʼ . ōme eene sūme van penninghen daer hen de</l>
+               <l facs="#facs_0056_04_03_1355-02_tr_1_tl_7">vorseide vrouwe beatrijs . Ende Gielijs harē sone wel af bekenden betaelt ende al vʼgouden . alsoe dat de selue vrouwe bea</l>
+               <l facs="#facs_0056_04_03_1355-02_tr_1_tl_8">trijs met haren montbore ende gielijs hare sone vorghenoemt . desen vorseiden hof metten huisinghen die daer op ghestaen siin Jn de</l>
+               <l facs="#facs_0056_04_03_1355-02_tr_1_tl_9">nuwestrate ende met al dattʼ toe behoert . ghesamender hand . op droeghen ende claerleke quite scouden tes vorseids Jans vanden</l>
+               <l facs="#facs_0056_04_03_1355-02_tr_1_tl_10">borsen behoef met al den Rechte dat si daer ane hadden ende houdende waren . Ende bekenden dat si gheen Recht daer ane en</l>
+               <l facs="#facs_0056_04_03_1355-02_tr_1_tl_11">behilden . Ende dien hof met alen sinen toe behoerten . gheloefden si te waerne den seluen Janne vander borsen . jaer ende dach</l>
+               <l facs="#facs_0056_04_03_1355-02_tr_1_tl_12">ieghen alle die ghene die te Rechte comen willen . Ende daer toe quite ende vri te claerne van allen commeʼ ende calaengen</l>
+               <l facs="#facs_0056_04_03_1355-02_tr_1_tl_13">tote op vijftiene oude grote tornoyse. ende eenen halven ouden Enghelsghen . Ende . tiene . hunnen tsjaers ter stat Rechte die daer</l>
+               <l facs="#facs_0056_04_03_1355-02_tr_1_tl_14">vte gaen . alsoe si ons seiden behoudelec altoes alselken vorwaerden alse hier na staen bescreuen . Dats tewetene dat de vorseide</l>
+               <l facs="#facs_0056_04_03_1355-02_tr_1_tl_15">vrouwe beatrijs . Gielijs hare sone . Ende hore nacomelinghe hebben ende behouden selen . De scuere die Jn de meʼ op den vorsede</l>
+               <l facs="#facs_0056_04_03_1355-02_tr_1_tl_16">hof ghestaen es . metten gronde alsoe verre alse hare sien druppen gaen . Ende die selen si houden staende ende oec vʼcoepen</l>
+               <l facs="#facs_0056_04_03_1355-02_tr_1_tl_17">eest dat si willen . maer waert dat si de vorseide scuere af braken soe soude de vorseide Jan vander borsen . ende sinē nacome-</l>
+               <l facs="#facs_0056_04_03_1355-02_tr_1_tl_18">linghe hebben ende behouden . dʼland ende den grond daer de scuere . vorseit op ghestaen es. Ende dies Rastelec ende paysmelec</l>
+               <l facs="#facs_0056_04_03_1355-02_tr_1_tl_19">ghebruken . alsoe seere also de vorseide scuere af ghebroken ware sonder Calengieren ofte weder zegghen van yement Jn kin-</l>
+               <l facs="#facs_0056_04_03_1355-02_tr_1_tl_20">nessen van desen lrēn . bezeghelt met onsen zeghelen . Ghegheuen jnt jaer ons heʼen alsmen screef . M . CCC . vijftech ende viere</l>
+               <l facs="#facs_0056_04_03_1355-02_tr_1_tl_21">op den vierden dach van Jngaende merte</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

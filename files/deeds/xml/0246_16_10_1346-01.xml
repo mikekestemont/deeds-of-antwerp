@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="2048" lry="1536" xml:id="facs_0246_16_10_1346-01">
+         <graphic url="0246_16_10_1346-01.jpg" width="2048px" height="1536px"/>
+         <zone points="337,478 1768,498 1768,419 1523,441 1385,387 826,437 337,394" rendition="Line" xml:id="facs_0246_16_10_1346-01_tr_1_tl_4" subtype="default"/>
+         <zone points="337,539 1732,528 1732,489 1336,466 337,478" rendition="Line" xml:id="facs_0246_16_10_1346-01_tr_1_tl_5" subtype="default"/>
+         <zone points="324,589 1750,570 1732,527 1234,509 324,541" rendition="Line" xml:id="facs_0246_16_10_1346-01_tr_1_tl_6" subtype="default"/>
+         <zone points="328,641 1743,611 1730,564 1311,550 328,588" rendition="Line" xml:id="facs_0246_16_10_1346-01_tr_1_tl_7" subtype="default"/>
+         <zone points="322,663 1752,657 1752,614 1671,602 1592,632 1286,598 324,647" rendition="Line" xml:id="facs_0246_16_10_1346-01_tr_1_tl_8" subtype="default"/>
+         <zone points="333,733 1426,686 1770,713 1759,654 333,672" rendition="Line" xml:id="facs_0246_16_10_1346-01_tr_1_tl_9" subtype="default"/>
+         <zone points="333,779 1714,740 1686,697 1426,686 335,733" rendition="Line" xml:id="facs_0246_16_10_1346-01_tr_1_tl_10" subtype="default"/>
+         <zone points="330,808 1195,774 1745,804 1746,756 1132,734 330,779" rendition="Line" xml:id="facs_0246_16_10_1346-01_tr_1_tl_11" subtype="default"/>
+         <zone points="328,872 989,817 1761,851 1761,804 1625,779 330,815" rendition="Line" xml:id="facs_0246_16_10_1346-01_tr_1_tl_12" subtype="default"/>
+         <zone points="322,917 822,869 1678,888 1736,829 991,817 324,874" rendition="Line" xml:id="facs_0246_16_10_1346-01_tr_1_tl_13" subtype="default"/>
+         <zone points="319,964 1275,903 1754,921 1755,867 321,912" rendition="Line" xml:id="facs_0246_16_10_1346-01_tr_1_tl_14" subtype="default"/>
+         <zone points="319,998 1738,958 1695,912 1422,908 319,965" rendition="Line" xml:id="facs_0246_16_10_1346-01_tr_1_tl_15" subtype="default"/>
+         <zone points="312,1059 614,1026 815,1075 892,1030 1490,1055 1519,957 313,998" rendition="Line" xml:id="facs_0246_16_10_1346-01_tr_1_tl_16" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0246_16_10_1346-01" n="0246_16_10_1346-01" xml:id="img_0246_16_10_1346-01"/>
+            <ab>
+               <l facs="#facs_0246_16_10_1346-01_tr_1_tl_4">Wj jan Wilmaer en̄ Willem noese scepenē Jn Antwʼpen maken comd dat vore ons quā een Eer-</l>
+               <l facs="#facs_0246_16_10_1346-01_tr_1_tl_5">sam man mijn her Godeuerd vandʼ dilf Riddʼ. En̄ bekende dat hi om ene sūme ghelds die</l>
+               <l facs="#facs_0246_16_10_1346-01_tr_1_tl_6">hē al es vʼgoudē vʼcocht heeft wetteleke den ministʼ en̄ den cōuente dʼ bundeʼ vandʼ derddʼ or-</l>
+               <l facs="#facs_0246_16_10_1346-01_tr_1_tl_7">denē sente fᵃnciscus in antwʼpen die zeuene scellinghe paimēts siaers . Enē capoen ende</l>
+               <l facs="#facs_0246_16_10_1346-01_tr_1_tl_8">ene hinne jaerlijcs cheins . die de vorꞩ ministʼ en̄ cōuent jaerlijcs sculdech warē en tegheldene</l>
+               <l facs="#facs_0246_16_10_1346-01_tr_1_tl_9">plaghen den vorꞩ heʼn godeuʼde en̄ mier vrouwē veʼn katlinē sinē wiue van enē huise ghe</l>
+               <l facs="#facs_0246_16_10_1346-01_tr_1_tl_10">staen achtʼ dʼ vorꞩ brudʼe hof . jn de nuwestᵃte bidʼ stad porten . das welken vorꞩ cheins de vorꞩ</l>
+               <l facs="#facs_0246_16_10_1346-01_tr_1_tl_11">mijn her Godeuerd quite scout met alden rechte dat hi en̄ mijn vorꞩ vrouwe sijn wijf houdēde</l>
+               <l facs="#facs_0246_16_10_1346-01_tr_1_tl_12">Waren ane huis en̄ grond en ane dat daer toe hoert . Voert so gheloefde de selue mijn hʼ godeuʼt</l>
+               <l facs="#facs_0246_16_10_1346-01_tr_1_tl_13">desen vorꞩ cheins tewaerne den vorseiden brudeʼn quite en̄ los van allen cūmʼ en̄ calaen-</l>
+               <l facs="#facs_0246_16_10_1346-01_tr_1_tl_14">gen jaer en̄ dach jeghen alle de ghene die hen rechts daertoe vʼmeten mochten . en̄ te rechte</l>
+               <l facs="#facs_0246_16_10_1346-01_tr_1_tl_15">com̄ willen . Jn kēnessen van desen letteʼn . beseghelt met onsen zeghelen . Ghegheuē jnt jaer ons</l>
+               <l facs="#facs_0246_16_10_1346-01_tr_1_tl_16">heʼn alsm̄ screef . M . CCC . viertech en̄ sesse des maendaegs vore sente lucas dach</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

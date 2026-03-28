@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="2048" lry="1536" xml:id="facs_0266_17_10_1345-01">
+         <graphic url="0266_17_10_1345-01.jpg" width="2048px" height="1536px"/>
+         <zone points="310,307 1784,328 1780,174 1477,170 1258,271 1094,208 904,261 734,212 471,243 308,202" rendition="Line" xml:id="facs_0266_17_10_1345-01_tr_1_tl_5" subtype="default"/>
+         <zone points="305,328 1802,376 1802,326 1580,308 305,308" rendition="Line" xml:id="facs_0266_17_10_1345-01_tr_1_tl_6" subtype="default"/>
+         <zone points="295,384 1669,425 1788,421 1815,372 293,354" rendition="Line" xml:id="facs_0266_17_10_1345-01_tr_1_tl_7" subtype="default"/>
+         <zone points="297,443 1234,431 1681,471 1800,421 295,384" rendition="Line" xml:id="facs_0266_17_10_1345-01_tr_1_tl_8" subtype="default"/>
+         <zone points="291,504 1837,506 1835,443 289,453" rendition="Line" xml:id="facs_0266_17_10_1345-01_tr_1_tl_9" subtype="default"/>
+         <zone points="285,554 1835,536 1800,486 285,502" rendition="Line" xml:id="facs_0266_17_10_1345-01_tr_1_tl_10" subtype="default"/>
+         <zone points="293,581 1835,579 1835,538 1376,560 1335,524 293,550" rendition="Line" xml:id="facs_0266_17_10_1345-01_tr_1_tl_11" subtype="default"/>
+         <zone points="275,651 1835,633 1807,575 1347,607 275,571" rendition="Line" xml:id="facs_0266_17_10_1345-01_tr_1_tl_12" subtype="default"/>
+         <zone points="279,708 1817,664 1817,631 1713,617 281,645" rendition="Line" xml:id="facs_0266_17_10_1345-01_tr_1_tl_13" subtype="default"/>
+         <zone points="281,755 1272,722 1362,753 1835,706 1802,662 283,708" rendition="Line" xml:id="facs_0266_17_10_1345-01_tr_1_tl_14" subtype="default"/>
+         <zone points="281,799 1738,783 1823,777 1825,710 1362,755 1274,724 281,753" rendition="Line" xml:id="facs_0266_17_10_1345-01_tr_1_tl_15" subtype="default"/>
+         <zone points="275,846 1778,835 1809,777 275,799" rendition="Line" xml:id="facs_0266_17_10_1345-01_tr_1_tl_16" subtype="default"/>
+         <zone points="269,892 1821,886 1861,797 1782,835 931,864 269,835" rendition="Line" xml:id="facs_0266_17_10_1345-01_tr_1_tl_17" subtype="default"/>
+         <zone points="269,941 904,963 1562,914 1798,969 1813,862 1014,916 269,894" rendition="Line" xml:id="facs_0266_17_10_1345-01_tr_1_tl_18" subtype="default"/>
+         <zone points="281,1009 1683,1028 1673,918 933,963 283,941" rendition="Line" xml:id="facs_0266_17_10_1345-01_tr_1_tl_19" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0266_17_10_1345-01" n="0266_17_10_1345-01" xml:id="img_0266_17_10_1345-01"/>
+            <ab>
+               <l facs="#facs_0266_17_10_1345-01_tr_1_tl_5">Wj Willem de moelnʼ en̄ Woutre vanden brueke scepenē jn Antwʼpen maken cont dat vore ons</l>
+               <l facs="#facs_0266_17_10_1345-01_tr_1_tl_6">qᵃm̄ hʼ willem de goreteʼ priester en̄ Gilijs scedelbaerd . En̄ bekenden . dat de selue hʼ willem gheghe</l>
+               <l facs="#facs_0266_17_10_1345-01_tr_1_tl_7">uen heeft tʼue en̄ in erfleken rechte den vorseiden gilise Ene hoftad gheleghen inde gasthuistᵃte tus-</l>
+               <l facs="#facs_0266_17_10_1345-01_tr_1_tl_8">schen claus des brunē huis en̄ wiharden huis van vrisele met al dat op de vorseide hofstad es</l>
+               <l facs="#facs_0266_17_10_1345-01_tr_1_tl_9">om enē gulden hellinc van florenche sjaers goed en̄ custbaer oft de werde daer af in goeden</l>
+               <l facs="#facs_0266_17_10_1345-01_tr_1_tl_10">andren ghelde erflikeʼ renten . tegheldene en̄ tegheuene alle jare vanden vorseiden gilise ende</l>
+               <l facs="#facs_0266_17_10_1345-01_tr_1_tl_11">van sinē nacomelīghen .. den vorseiden heʼn willeme en̄ sinē nacomelīghen in sente jans da-</l>
+               <l facs="#facs_0266_17_10_1345-01_tr_1_tl_12">ghe in midden someʼ . en̄ die ierste in sente jans daghe in midden someʼ ierst toe com̄de . jn de</l>
+               <l facs="#facs_0266_17_10_1345-01_tr_1_tl_13">sen vorwarden . dat de vorseide gilijs en̄ sijn nacomelinghe selen altoes ghelden den land-</l>
+               <l facs="#facs_0266_17_10_1345-01_tr_1_tl_14">cheins die vten vorseidʼ hofstad gaet en̄ allen cūmʼ dier vte gaet ofte gaen mach sonder</l>
+               <l facs="#facs_0266_17_10_1345-01_tr_1_tl_15">cost en̄ scade shʼ willems vorseit en̄ sier nacomelinghe . Voert gheloefde de vorseide gilijs</l>
+               <l facs="#facs_0266_17_10_1345-01_tr_1_tl_16">tevʼtimmʼne oft de vorseide hofstad binnen tween jaren naest volghende de date van</l>
+               <l facs="#facs_0266_17_10_1345-01_tr_1_tl_17">dʼre letteʼn een pond grotʼ oudʼ tornoyse . en̄ dat hi dan dat huis altoes houden sal beteʼnde</l>
+               <l facs="#facs_0266_17_10_1345-01_tr_1_tl_18">sondʼ arghʼen in kennessen van desen letteʼn . beseghelt met onsen zeghelen . Ghegheuen</l>
+               <l facs="#facs_0266_17_10_1345-01_tr_1_tl_19">jnt jaer ons heʼn alsm̄ screef . M . CCC . viertech en̄ viue in sente lucas auonde</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

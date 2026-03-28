@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3884" lry="1464" xml:id="facs_0183_12_12_1343-01">
+         <graphic url="0183_12_12_1343-01.jpg" width="3884px" height="1464px"/>
+         <zone points="62,482 334,462 548,515 758,467 911,515 1411,477 1454,520 1659,491 1950,548 2250,510 2389,543 2665,491 2880,524 3008,458 3247,496 3337,434 3566,424 3833,501 3838,329 3466,362 3099,329 2818,424 2541,362 2374,453 2031,338 1683,448 1449,420 1321,343 1125,396 1058,324 892,296 744,372 644,319 510,415 334,377 215,296 67,291" rendition="Line" xml:id="facs_0183_12_12_1343-01_tr_1_tl_1" subtype="default"/>
+         <zone points="43,553 610,591 1058,558 1116,596 1578,567 1640,615 2083,591 2179,639 2241,591 2641,625 2684,582 2951,543 3118,577 3156,539 3251,572 3685,539 3685,439 3585,434 2918,472 2875,510 2660,491 2379,548 2260,510 1502,520 1411,477 911,515 758,467 534,510 215,462 43,501" rendition="Line" xml:id="facs_0183_12_12_1343-01_tr_1_tl_2" subtype="default"/>
+         <zone points="43,682 176,634 586,634 691,672 753,629 806,677 1497,648 2031,701 2274,672 2322,710 2369,672 2450,701 3352,610 3876,610 3847,477 3638,543 2951,548 2565,625 1778,615 1573,567 1397,605 1321,572 1120,601 1058,558 43,572" rendition="Line" xml:id="facs_0183_12_12_1343-01_tr_1_tl_3" subtype="default"/>
+         <zone points="57,720 820,753 1101,715 1163,763 1273,715 1487,758 2064,734 2231,787 2989,725 3094,758 3485,682 3542,720 3619,682 3704,720 3819,696 3819,601 3785,596 3695,634 3628,596 3399,644 3361,610 2655,691 2598,663 2560,701 57,644" rendition="Line" xml:id="facs_0183_12_12_1343-01_tr_1_tl_4" subtype="default"/>
+         <zone points="62,806 420,801 534,844 748,810 815,844 872,810 1507,801 1855,853 1936,815 2389,853 3266,772 3371,815 3523,768 3871,796 3871,667 3709,720 3490,682 3404,725 3256,696 3204,744 2670,739 2551,782 1282,720 1182,753 1097,715 920,758 62,725" rendition="Line" xml:id="facs_0183_12_12_1343-01_tr_1_tl_5" subtype="default"/>
+         <zone points="62,911 639,882 901,930 1187,872 1535,920 1778,877 2207,925 2522,892 2570,925 3147,849 3771,853 3838,887 3838,787 3542,768 3447,806 3266,777 2341,849 1797,806 1745,839 1097,801 944,844 882,810 67,806" rendition="Line" xml:id="facs_0183_12_12_1343-01_tr_1_tl_6" subtype="default"/>
+         <zone points="67,977 572,968 787,1015 1044,958 1163,1011 1292,958 1392,987 1702,949 2045,1006 2236,963 2541,1001 2813,939 2851,973 3742,944 3742,877 3537,849 2670,915 2551,887 2450,930 1774,872 1540,915 1154,872 810,930 706,882 67,906" rendition="Line" xml:id="facs_0183_12_12_1343-01_tr_1_tl_7" subtype="default"/>
+         <zone points="62,1077 329,1054 462,1106 586,1044 653,1082 963,1039 1044,1082 1678,1030 1774,1077 1840,1030 2164,1082 2226,1044 2660,1082 2760,1035 2884,1082 2946,1035 3776,1030 3776,944 3537,968 3495,934 3437,973 3199,934 3032,973 2727,944 2546,996 2093,968 2045,1001 1702,949 1316,958 1201,1006 1044,954 934,996 329,958 248,1006 191,963 62,968" rendition="Line" xml:id="facs_0183_12_12_1343-01_tr_1_tl_8" subtype="default"/>
+         <zone points="67,1168 696,1125 1263,1178 1316,1125 1597,1116 2932,1149 3228,1097 3452,1154 3504,1101 3733,1111 3733,996 3509,1058 3437,1015 3242,1020 3175,1058 2942,1035 2894,1077 2732,1039 2655,1082 2617,1044 2160,1077 1845,1035 1769,1073 1678,1030 1106,1082 925,1044 653,1087 553,1049 486,1092 67,1068" rendition="Line" xml:id="facs_0183_12_12_1343-01_tr_1_tl_9" subtype="default"/>
+         <zone points="76,1268 949,1211 1564,1254 1621,1206 1669,1249 1855,1192 1907,1230 2079,1206 2184,1240 2245,1206 2389,1259 3280,1192 3576,1240 3647,1187 3757,1192 3757,1106 3499,1101 3447,1144 3304,1111 2536,1149 1321,1120 1182,1173 553,1125 76,1173" rendition="Line" xml:id="facs_0183_12_12_1343-01_tr_1_tl_10" subtype="default"/>
+         <zone points="76,1321 162,1354 286,1297 563,1340 648,1297 1020,1302 1235,1349 1282,1306 1487,1335 1569,1297 1659,1368 1874,1325 2055,1368 2184,1316 2269,1368 2331,1335 2408,1373 2727,1373 2808,1330 2875,1373 3175,1373 3352,1306 3499,1368 3599,1306 3800,1316 3800,1230 3714,1192 3576,1240 3442,1182 3280,1235 3018,1192 2546,1259 2245,1206 2198,1244 2031,1206 1940,1249 1859,1197 1511,1254 1278,1197 1159,1249 1025,1211 515,1254 381,1216 76,1268" rendition="Line" xml:id="facs_0183_12_12_1343-01_tr_1_tl_11" subtype="default"/>
+         <zone points="72,1397 439,1454 625,1397 1526,1416 1526,1325 1325,1302 1135,1349 1039,1302 72,1325" rendition="Line" xml:id="facs_0183_12_12_1343-01_tr_1_tl_12" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0183_12_12_1343-01" n="0183_12_12_1343-01" xml:id="img_0183_12_12_1343-01"/>
+            <ab>
+               <l facs="#facs_0183_12_12_1343-01_tr_1_tl_1">Wi Willem sprongh en̄ Willem de molnʼe scepenen in Antwʼpen maken Cond . dat vore ons quā michiel vuyst de vischʼe</l>
+               <l facs="#facs_0183_12_12_1343-01_tr_1_tl_2">Ende bekinde dat de ꝓchiaen van sente willeboerds . h̄ jan de worm Capellaen in de borghkʼke van Antwʼpen en̄ h̄ willē de</l>
+               <l facs="#facs_0183_12_12_1343-01_tr_1_tl_3">gortʼe Capellaen in sente jorijs kʼke tantwʼpen . zi ende die na hen wesen en̄ cōmen selen . ꝓchiaene en̄ Capellaene in de voerꞩ kʼkē</l>
+               <l facs="#facs_0183_12_12_1343-01_tr_1_tl_4">en̄ vp de voerꞩ papelecke ꝑuenden . erflec eeuwelec en̄ emmʼmeer . alle jaʼe en̄ telken sente steuens daghe die naest leghs</l>
+               <l facs="#facs_0183_12_12_1343-01_tr_1_tl_5">den kerst daghe vp heffen en̄ ghebrukē selen . de heelft van tweleuē ponden tsiaers alselcs paeyments . alse altoes ten daghē</l>
+               <l facs="#facs_0183_12_12_1343-01_tr_1_tl_6">voerꞩ in borsen gaen zal ghemeenlec en̄ die heelft van viʼe capoenē tsiaers . En̄ alnoch de heelft van viʼe ponden was</l>
+               <l facs="#facs_0183_12_12_1343-01_tr_1_tl_7">tsiaers . alse van hofstaden die gheleghen zijn vp de dilf bj tvleeschuis van Antwʼpen . En̄ voermaels . hughe vander</l>
+               <l facs="#facs_0183_12_12_1343-01_tr_1_tl_8">linden tʼue gaf eenē clause bitebiʼe en̄ den seluē clause bitebiʼe en̄ sinē nacomenlinghē de selue hofstaden erflec te</l>
+               <l facs="#facs_0183_12_12_1343-01_tr_1_tl_9">ghebrukene om den voerꞩ cheins . met selken voerwʼden en̄ obligatien also de lrēn die te dien tiden daer vp ghemaect</l>
+               <l facs="#facs_0183_12_12_1343-01_tr_1_tl_10">wordden in hebbē en̄ begrepē . daer michiel voerꞩ . hebbʼe houdʼe en̄ machtich ghebrukʼe vp desen tijd also si ons segghen</l>
+               <l facs="#facs_0183_12_12_1343-01_tr_1_tl_11">af es . Jn kennissen van desen lrēn bezeghelt met onsen zeghelen . Ghegheuen jnt jaet ons heʼn alsm̄ screef M CCC drie en̄</l>
+               <l facs="#facs_0183_12_12_1343-01_tr_1_tl_12">viertich vp sente lucien auonde in den wintʼ</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

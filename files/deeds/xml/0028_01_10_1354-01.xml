@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3507" lry="2480" xml:id="facs_0028_01_10_1354-01">
+         <graphic url="0028_01_10_1354-01.jpg" width="3507px" height="2480px"/>
+         <zone points="574,889 2860,863 2807,784 2650,761 2548,802 2154,755 1933,813 1836,770 1653,810 1338,767 1172,810 1073,761 880,813 574,749" rendition="Line" xml:id="facs_0028_01_10_1354-01_tr_2_tl_1" subtype="default"/>
+         <zone points="571,936 2798,927 2798,889 2691,857 2440,851 1982,886 641,863 571,895" rendition="Line" xml:id="facs_0028_01_10_1354-01_tr_2_tl_2" subtype="default"/>
+         <zone points="571,1012 2900,979 2863,921 2341,939 2189,904 2055,944 571,936" rendition="Line" xml:id="facs_0028_01_10_1354-01_tr_2_tl_3" subtype="default"/>
+         <zone points="574,1070 1227,1032 2857,1049 2857,979 2793,968 577,1012" rendition="Line" xml:id="facs_0028_01_10_1354-01_tr_2_tl_4" subtype="default"/>
+         <zone points="589,1140 1458,1084 2860,1102 2836,1046 2521,1023 589,1070" rendition="Line" xml:id="facs_0028_01_10_1354-01_tr_2_tl_5" subtype="default"/>
+         <zone points="571,1204 1294,1151 2851,1160 2819,1096 2495,1084 571,1134" rendition="Line" xml:id="facs_0028_01_10_1354-01_tr_2_tl_6" subtype="default"/>
+         <zone points="583,1271 1632,1207 2737,1230 2839,1201 2842,1154 583,1186" rendition="Line" xml:id="facs_0028_01_10_1354-01_tr_2_tl_7" subtype="default"/>
+         <zone points="568,1315 974,1280 1408,1309 1787,1262 2195,1288 2239,1253 2382,1291 2842,1277 2842,1198 950,1227 571,1274" rendition="Line" xml:id="facs_0028_01_10_1354-01_tr_2_tl_8" subtype="default"/>
+         <zone points="566,1402 1058,1350 1539,1370 1609,1329 2883,1332 2883,1262 2384,1291 2239,1253 2195,1286 568,1315" rendition="Line" xml:id="facs_0028_01_10_1354-01_tr_2_tl_9" subtype="default"/>
+         <zone points="574,1449 2635,1379 2819,1414 2819,1318 577,1376" rendition="Line" xml:id="facs_0028_01_10_1354-01_tr_2_tl_10" subtype="default"/>
+         <zone points="563,1533 1114,1469 1280,1507 1880,1460 2137,1492 2239,1449 2510,1478 2830,1455 2857,1402 566,1449" rendition="Line" xml:id="facs_0028_01_10_1354-01_tr_2_tl_11" subtype="default"/>
+         <zone points="557,1589 1046,1539 2798,1530 2868,1516 2871,1469 1111,1472 560,1522" rendition="Line" xml:id="facs_0028_01_10_1354-01_tr_2_tl_12" subtype="default"/>
+         <zone points="554,1627 2084,1609 2300,1565 2871,1595 2871,1513 2644,1504 2571,1539 968,1545 554,1589" rendition="Line" xml:id="facs_0028_01_10_1354-01_tr_2_tl_13" subtype="default"/>
+         <zone points="568,1726 959,1667 1102,1702 1154,1659 1481,1685 2863,1627 2863,1589 2705,1565 571,1638" rendition="Line" xml:id="facs_0028_01_10_1354-01_tr_2_tl_14" subtype="default"/>
+         <zone points="560,1766 627,1793 1306,1732 1399,1790 1513,1732 1621,1766 2000,1723 2078,1772 2679,1705 2752,1755 2895,1746 2900,1629 1478,1685 1154,1659 1105,1699 977,1667 560,1729" rendition="Line" xml:id="facs_0028_01_10_1354-01_tr_2_tl_15" subtype="default"/>
+         <zone points="551,1839 679,1863 784,1834 1181,1822 1207,1854 1306,1857 1312,1746 1271,1734 1114,1769 1014,1743 930,1772 898,1743 863,1775 770,1766 743,1790 557,1764" rendition="Line" xml:id="facs_0028_01_10_1354-01_tr_2_tl_16" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0028_01_10_1354-01" n="0028_01_10_1354-01" xml:id="img_0028_01_10_1354-01"/>
+            <ab>
+               <l facs="#facs_0028_01_10_1354-01_tr_2_tl_1">Wij Willem de molennʼe Ende Wouteʼ vanden broeke scepenē Jn antwʼpen maken cond dat vore ons quam . Jan</l>
+               <l facs="#facs_0028_01_10_1354-01_tr_2_tl_2">colays de hanscoemakeʼ ende verlide dat hi sculdech es van gherechteʼ scoud tsiaers der meestʼschen en̄ montboren</l>
+               <l facs="#facs_0028_01_10_1354-01_tr_2_tl_3">van der femerien jn claepdorp tʼ selueʼ fermerien behoef . Achtiene ende grote tornʼ van munten sconings van vranc-</l>
+               <l facs="#facs_0028_01_10_1354-01_tr_2_tl_4">-rike ende twee oude englsche jaerlakere ende erflakere Renten van horen ghedele ende Rechte vanden huyse houe</l>
+               <l facs="#facs_0028_01_10_1354-01_tr_2_tl_5">gronde met allen dat daer toe behoert dat wilen her bouden drake ꝓchiaen in onꞩ vrouwē kercke der selueʼ ferme</l>
+               <l facs="#facs_0028_01_10_1354-01_tr_2_tl_6">rien bewijsde en̄ gaf in aelmosenē . ende purlec ōme gode ende dat de selue Jan nv houdende es tʼue vandʼ seluere</l>
+               <l facs="#facs_0028_01_10_1354-01_tr_2_tl_7">fermerien ende meestʼschen . ghelijc dat scepenē lrēn die daer af ghemaect sijn begrepen hebben . ghestaen</l>
+               <l facs="#facs_0028_01_10_1354-01_tr_2_tl_8">inde nustrate alder naest damaes huyse van scille dat wilen was willems vandʼ scaghe . te gheldene en̄</l>
+               <l facs="#facs_0028_01_10_1354-01_tr_2_tl_9">te gheuene alle jaere vanden vorghenomdē janne ende van sinenē nacomelinghen . der vorseideʼ meestʼschē</l>
+               <l facs="#facs_0028_01_10_1354-01_tr_2_tl_10">en̄ montboren die nv sijn en̄ namaels wesen selen tʼ selueʼ femerien behoef dene helft vandē vorꞩ ghelde</l>
+               <l facs="#facs_0028_01_10_1354-01_tr_2_tl_11">op der kerssauond . Ende dandeʼ helft daer af op sente Jans dach bap̄ten Jn midden zomʼe jn allen dien ma-</l>
+               <l facs="#facs_0028_01_10_1354-01_tr_2_tl_12">nieren dat hijt houdende es vandʼ vorꞩ fermerien ghelijc dat de vorꞩ lrēn spreken die daer af ghemaect siin</l>
+               <l facs="#facs_0028_01_10_1354-01_tr_2_tl_13">ende al eest dat zake dat anders yement cheins heefe op dit vorꞩ huys siaers nochtan soe selen de vorꞩ</l>
+               <l facs="#facs_0028_01_10_1354-01_tr_2_tl_14">femerien alle jaere yerst betaelt en̄ vʼgouden moeten wesen vore yemende van horen cheinse . Jn ken</l>
+               <l facs="#facs_0028_01_10_1354-01_tr_2_tl_15">nissen van desen lrēn bezegl̄t met onsen seglēn Ghegheuē int jaer ons heʼn alsmē screef . M . CCC vijftech</l>
+               <l facs="#facs_0028_01_10_1354-01_tr_2_tl_16">en̄ viere op sente bauen daghe</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

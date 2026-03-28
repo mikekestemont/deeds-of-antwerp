@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="4096" lry="1045" xml:id="facs_0195_13_08_1352-01">
+         <graphic url="0195_13_08_1352-01.jpg" width="4096px" height="1045px"/>
+         <zone points="165,379 1128,330 1327,374 2158,364 2615,413 3368,355 3888,389 3975,369 3971,238 3645,199 3295,301 3149,301 3072,248 2950,326 2775,330 2595,233 2488,292 2274,219 2090,262 1993,209 1536,292 1234,224 729,272 160,243" rendition="Line" xml:id="facs_0195_13_08_1352-01_tr_1_tl_1" subtype="default"/>
+         <zone points="160,457 899,418 1439,471 1871,437 2649,481 3276,423 3980,452 3980,384 3854,364 2347,403 2168,364 1327,374 1123,330 160,379" rendition="Line" xml:id="facs_0195_13_08_1352-01_tr_1_tl_2" subtype="default"/>
+         <zone points="141,515 700,496 758,530 1098,491 1628,539 1978,501 2051,539 2654,525 2756,564 3042,510 3980,539 3980,452 3587,428 2824,476 899,418 141,452" rendition="Line" xml:id="facs_0195_13_08_1352-01_tr_1_tl_3" subtype="default"/>
+         <zone points="141,603 996,608 1069,564 1220,608 2177,617 2328,583 2483,632 2532,598 2882,632 3130,583 3975,588 3975,535 3883,510 3159,539 3042,505 2799,554 2187,515 2046,544 1978,505 1317,530 1103,491 826,530 141,515" rendition="Line" xml:id="facs_0195_13_08_1352-01_tr_1_tl_4" subtype="default"/>
+         <zone points="146,680 1249,661 1720,700 2163,666 2756,714 3033,666 4029,685 3995,578 3869,617 3130,583 2882,627 2313,583 1628,622 1069,569 1001,612 146,603" rendition="Line" xml:id="facs_0195_13_08_1352-01_tr_1_tl_5" subtype="default"/>
+         <zone points="151,773 496,739 724,773 836,734 1132,768 1336,729 1511,778 1735,744 1900,782 1949,739 2070,778 2479,744 2610,787 2692,748 2955,782 3431,734 3791,782 4010,753 4010,685 3922,666 3713,700 3018,671 2926,705 719,656 627,690 413,656 287,705 151,671" rendition="Line" xml:id="facs_0195_13_08_1352-01_tr_1_tl_6" subtype="default"/>
+         <zone points="136,875 253,880 330,826 476,865 525,821 860,850 923,816 1769,855 2362,821 2658,870 2731,831 3028,855 3203,812 3276,846 3339,812 3412,846 3543,812 3820,860 4044,841 4044,753 3446,734 3052,773 3003,744 2931,782 2688,748 2610,787 2401,744 1487,778 1341,729 1152,768 855,729 136,782" rendition="Line" xml:id="facs_0195_13_08_1352-01_tr_1_tl_7" subtype="default"/>
+         <zone points="160,943 1094,899 1526,904 1672,948 2090,909 2192,948 2308,914 2751,953 3431,894 3971,928 3971,836 3815,860 3465,812 3412,846 2819,836 2722,875 1997,816 1929,855 1891,821 1769,855 1648,821 1507,855 525,821 476,865 330,826 253,880 160,875" rendition="Line" xml:id="facs_0195_13_08_1352-01_tr_1_tl_8" subtype="default"/>
+         <zone points="165,1035 1044,1044 228,1040 1044,1044 282,1040 423,996 593,1040 1044,1044 608,1040 1044,1044 744,1040 1044,1044 753,1040 1044,1044 782,1040 1044,1044 802,1040 1044,1044 846,1040 1044,1044 938,1040 991,1001 1044,1044 3582,1040 3645,1001 3810,1040 1044,1044 3946,1040 1044,1044 4029,933 3460,894 3358,928 3290,894 2751,953 2391,914 2231,914 2192,953 2100,909 1458,948 1186,899 165,948" rendition="Line" xml:id="facs_0195_13_08_1352-01_tr_1_tl_9" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0195_13_08_1352-01" n="0195_13_08_1352-01" xml:id="img_0195_13_08_1352-01"/>
+            <ab>
+               <l facs="#facs_0195_13_08_1352-01_tr_1_tl_1">Wij Jan vanden mortʼe ende Woutʼ vanden broeke scepenen in Antwʼpen maken cond dat vore ons quam Willem zone claus coluts</l>
+               <l facs="#facs_0195_13_08_1352-01_tr_1_tl_2">ende bekinde dat hi wittelec vʼcocht heeft Janne den boch den vedermakeʼ twee guldene florine van florence diemen heet hallinghe</l>
+               <l facs="#facs_0195_13_08_1352-01_tr_1_tl_3">ende derdaluen ouden grotē tornoisen siaers erflaker renten die hi hadde siaers Op den huis dat ghestaen es ane de corenmaerct</l>
+               <l facs="#facs_0195_13_08_1352-01_tr_1_tl_4">naest godeutʼs dracs huise was daer claus de ghelaesmakʼ in woent . Ende neghentiene pēninghe ouder grotʼ tornoise en̄ neghene</l>
+               <l facs="#facs_0195_13_08_1352-01_tr_1_tl_5">miten siaers erflecs cheins op een huis ghestaen ane de vorgh̄ corenmaerct tusschen peters bocs . ende Jans ardssoens met allē</l>
+               <l facs="#facs_0195_13_08_1352-01_tr_1_tl_6">den rechte dat hi willem ane den vorgh̄ cheins huisinghe ende ane al dat daer toe behoert houdende was . ōme ene sūme van</l>
+               <l facs="#facs_0195_13_08_1352-01_tr_1_tl_7">penninghen daer hem de vorgh̄ willem af bekinde al vʼgouden . den welken cheins met allen sinen toe behoerten de vorghenōde</l>
+               <l facs="#facs_0195_13_08_1352-01_tr_1_tl_8">willem gheloefde te waerne jaer ende dach jeghen alle de ghene die te rechte comen willen Jn kennissen van desen lrēn bese-</l>
+               <l facs="#facs_0195_13_08_1352-01_tr_1_tl_9">ghelt met onsen seglen Ghegheuen int jaer ons heʼn alsmen screef M CCC viiftech ende twee smaendags na sente laureins dach</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

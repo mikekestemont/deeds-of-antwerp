@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3507" lry="2480" xml:id="facs_0127_08_08_1339-01">
+         <graphic url="0127_08_08_1339-01.jpg" width="3507px" height="2480px"/>
+         <zone points="276,902 451,854 899,880 943,839 1423,854 1521,896 1931,870 1985,918 2026,883 2770,877 2767,785 2713,775 2249,832 2052,775 2007,810 1779,778 1579,807 1401,705 1337,765 1166,791 438,797 356,718 273,731" rendition="Line" xml:id="facs_0127_08_08_1339-01_tr_1_tl_2" subtype="default"/>
+         <zone points="260,959 654,937 861,975 1039,924 1255,985 1337,924 1823,991 1871,950 2401,1001 2487,959 2811,975 2808,893 2767,877 2633,915 2531,870 2271,908 2023,883 1985,918 1928,870 1814,905 1423,854 1340,896 1178,858 943,858 893,896 451,861 260,912" rendition="Line" xml:id="facs_0127_08_08_1339-01_tr_1_tl_3" subtype="default"/>
+         <zone points="276,981 349,947 1099,943 1560,943 2824,956 2824,1096 280,1086" rendition="Line" xml:id="facs_0127_08_08_1339-01_l" subtype="default"/>
+         <zone points="286,1153 657,1118 794,1156 981,1124 1029,1163 1067,1124 1324,1121 1645,1175 1807,1140 1992,1182 2074,1137 2423,1178 2824,1159 2824,1096 2427,1048 1998,1096 1814,1083 1763,1032 1585,1086 1353,1035 1261,1077 1093,1035 1020,1077 791,1045 286,1080" rendition="Line" xml:id="facs_0127_08_08_1339-01_tr_1_tl_6" subtype="default"/>
+         <zone points="286,1290 524,1210 597,1255 645,1213 680,1248 966,1197 2385,1261 2605,1226 2690,1277 2827,1267 2827,1156 2709,1182 2617,1140 2033,1188 1782,1143 1709,1182 1540,1137 1480,1169 1324,1121 1239,1159 1191,1121 1029,1163 721,1159 664,1121 505,1166 286,1150" rendition="Line" xml:id="facs_0127_08_08_1339-01_tr_1_tl_7" subtype="default"/>
+         <zone points="318,1315 873,1331 1207,1286 1540,1340 1664,1302 1741,1344 1852,1309 2065,1356 2195,1315 2805,1347 2801,1245 2690,1277 2608,1226 2344,1270 2138,1226 1906,1258 1804,1217 1680,1251 1166,1207 318,1251" rendition="Line" xml:id="facs_0127_08_08_1339-01_tr_1_tl_8" subtype="default"/>
+         <zone points="318,1328 1188,1296 2385,1318 2808,1347 2808,1429 2573,1458 318,1432" rendition="Line" xml:id="facs_0127_08_08_1339-01_l_1" subtype="default"/>
+         <zone points="314,1509 464,1534 759,1483 816,1525 1007,1477 1147,1525 1236,1467 1464,1518 1629,1477 2150,1499 2220,1537 2379,1509 2417,1544 2627,1512 2789,1563 2789,1445 2585,1461 2506,1413 2220,1442 2109,1398 1998,1439 1893,1394 1601,1429 1496,1388 1283,1432 1007,1385 886,1445 603,1388 314,1455" rendition="Line" xml:id="facs_0127_08_08_1339-01_tr_1_tl_11" subtype="default"/>
+         <zone points="356,1598 607,1623 845,1572 1016,1620 1128,1569 1185,1604 1709,1582 1877,1620 1963,1585 2106,1623 2341,1588 2805,1658 2805,1560 2668,1572 2516,1515 2328,1556 1753,1486 1274,1537 1070,1490 823,1528 718,1483 473,1553 356,1506" rendition="Line" xml:id="facs_0127_08_08_1339-01_tr_1_tl_12" subtype="default"/>
+         <zone points="362,1696 473,1722 1309,1658 1506,1715 1722,1699 1814,1760 1998,1709 2115,1747 2338,1702 2427,1747 2741,1715 2741,1620 1769,1629 1677,1585 1445,1620 1324,1579 603,1633 511,1591 362,1636" rendition="Line" xml:id="facs_0127_08_08_1339-01_tr_1_tl_13" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0127_08_08_1339-01" n="0127_08_08_1339-01" xml:id="img_0127_08_08_1339-01"/>
+            <ab>
+               <l facs="#facs_0127_08_08_1339-01_tr_1_tl_2">Wi Arnoud canteman en̄ woutre vandʼ moelen scepenen in Antwʼpen maken cont dat vore ons</l>
+               <l facs="#facs_0127_08_08_1339-01_tr_1_tl_3">quā Arnoud vanden polke van scoten en̄ gaf en̄ droech op claerlike en̄ beschedenlike in ghe-</l>
+               <l facs="#facs_0127_08_08_1339-01_l">stadeghʼ ghiften . den groten gasthuise in Antwʼpen ter crankeʼ behoef sijn Goed gheleghē</l>
+               <l facs="#facs_0127_08_08_1339-01_tr_1_tl_6">in scoten dat m̄ heet ten polke met lande met huise en̄ met al dat daertoe hoert hou-</l>
+               <l facs="#facs_0127_08_08_1339-01_tr_1_tl_7">dende also seit omtrent achte bundeʼ luttel min ofte meer . dat welke goed de vorseide</l>
+               <l facs="#facs_0127_08_08_1339-01_tr_1_tl_8">Arnoud claerlike quite scoud tes vorseids goedshuis behoef . En̄ daertoe gheloefde</l>
+               <l facs="#facs_0127_08_08_1339-01_l_1">hi te doene die vorseide goedhuis ofte manne van sgoedshuis wᵒghen vore hof en̄ vo</l>
+               <l facs="#facs_0127_08_08_1339-01_tr_1_tl_11">re heʼ also dadt den goedshuise vast en̄ seker si en̄ ghestadecheit hebbe . Jn kennessen</l>
+               <l facs="#facs_0127_08_08_1339-01_tr_1_tl_12">van desen lrēn . beseghelt met onsen zeghlen . Ghegheuen Jnt jaer ons heren alse</l>
+               <l facs="#facs_0127_08_08_1339-01_tr_1_tl_13">m̄ screef . M . CCC . neghene en̄ derttech des sondaegs vore sente laureins dach</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

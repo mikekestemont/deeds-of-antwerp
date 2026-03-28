@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3507" lry="2480" xml:id="facs_0317_20_11_1306-01">
+         <graphic url="0317_20_11_1306-01.jpg" width="3507px" height="2480px"/>
+         <zone points="412,561 2802,576 2802,482 2616,518 2506,460 2323,491 2250,460 2091,506 1899,409 1750,454 1585,412 1454,494 1396,460 1122,485 1003,445 878,476 683,427 595,470 412,436" rendition="Line" xml:id="facs_0317_20_11_1306-01_tr_1_tl_2" subtype="default"/>
+         <zone points="415,607 2790,622 2765,570 2460,561 415,558" rendition="Line" xml:id="facs_0317_20_11_1306-01_tr_1_tl_3" subtype="default"/>
+         <zone points="421,683 2814,680 2814,616 421,607" rendition="Line" xml:id="facs_0317_20_11_1306-01_tr_1_tl_4" subtype="default"/>
+         <zone points="409,738 2424,768 2771,732 2771,677 2710,674 409,686" rendition="Line" xml:id="facs_0317_20_11_1306-01_tr_1_tl_5" subtype="default"/>
+         <zone points="415,805 2820,814 2820,747 2683,735 2424,768 415,741" rendition="Line" xml:id="facs_0317_20_11_1306-01_tr_1_tl_6" subtype="default"/>
+         <zone points="415,881 2823,866 2823,814 2655,802 415,817" rendition="Line" xml:id="facs_0317_20_11_1306-01_tr_1_tl_7" subtype="default"/>
+         <zone points="418,933 2808,939 2808,875 2747,869 418,884" rendition="Line" xml:id="facs_0317_20_11_1306-01_tr_1_tl_8" subtype="default"/>
+         <zone points="409,1012 2823,1018 2823,936 2710,933 409,954" rendition="Line" xml:id="facs_0317_20_11_1306-01_tr_1_tl_9" subtype="default"/>
+         <zone points="415,1067 2793,1070 2793,1015 2351,994 2067,1027 680,991 415,1027" rendition="Line" xml:id="facs_0317_20_11_1306-01_tr_1_tl_10" subtype="default"/>
+         <zone points="418,1140 2799,1131 2799,1067 418,1067" rendition="Line" xml:id="facs_0317_20_11_1306-01_tr_1_tl_11" subtype="default"/>
+         <zone points="415,1201 2814,1204 2814,1146 2655,1128 415,1140" rendition="Line" xml:id="facs_0317_20_11_1306-01_tr_1_tl_12" subtype="default"/>
+         <zone points="421,1271 2826,1265 2826,1204 2747,1192 421,1207" rendition="Line" xml:id="facs_0317_20_11_1306-01_tr_1_tl_13" subtype="default"/>
+         <zone points="415,1348 2820,1351 2799,1262 2698,1293 415,1268" rendition="Line" xml:id="facs_0317_20_11_1306-01_tr_1_tl_14" subtype="default"/>
+         <zone points="415,1409 2851,1424 2851,1357 2585,1341 771,1317 415,1351" rendition="Line" xml:id="facs_0317_20_11_1306-01_tr_1_tl_15" subtype="default"/>
+         <zone points="405,1479 1201,1457 2701,1506 2799,1500 2796,1427 1466,1396 1268,1427 881,1387 402,1421" rendition="Line" xml:id="facs_0317_20_11_1306-01_tr_1_tl_16" subtype="default"/>
+         <zone points="409,1540 2844,1552 2844,1482 1668,1463 1607,1500 634,1454 409,1491" rendition="Line" xml:id="facs_0317_20_11_1306-01_tr_1_tl_17" subtype="default"/>
+         <zone points="409,1625 2851,1619 2817,1546 409,1540" rendition="Line" xml:id="facs_0317_20_11_1306-01_tr_1_tl_18" subtype="default"/>
+         <zone points="412,1701 1070,1668 2841,1701 2808,1610 412,1625" rendition="Line" xml:id="facs_0317_20_11_1306-01_tr_1_tl_19" subtype="default"/>
+         <zone points="409,1765 1305,1741 2860,1784 2860,1701 2512,1683 2180,1713 869,1671 409,1707" rendition="Line" xml:id="facs_0317_20_11_1306-01_tr_1_tl_20" subtype="default"/>
+         <zone points="409,1844 1162,1811 2790,1848 2790,1771 2710,1756 409,1768" rendition="Line" xml:id="facs_0317_20_11_1306-01_tr_1_tl_21" subtype="default"/>
+         <zone points="412,1896 2811,1927 2808,1848 2762,1838 412,1838" rendition="Line" xml:id="facs_0317_20_11_1306-01_tr_1_tl_22" subtype="default"/>
+         <zone points="405,1966 1284,1982 1433,1948 1646,1994 1893,1960 2823,2000 2820,1924 2521,1902 405,1896" rendition="Line" xml:id="facs_0317_20_11_1306-01_tr_1_tl_23" subtype="default"/>
+         <zone points="415,2034 655,2061 720,2046 878,2055 881,1954 671,1976 637,1954 595,1973 561,1954 518,1969 494,1957 473,1976 418,1966" rendition="Line" xml:id="facs_0317_20_11_1306-01_tr_1_tl_24" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0317_20_11_1306-01" n="0317_20_11_1306-01" xml:id="img_0317_20_11_1306-01"/>
+            <ab>
+               <l facs="#facs_0317_20_11_1306-01_tr_1_tl_2">Wij pieter daen ende arnoud vander molen scepenen in andwerpen maken kond allen den ghenen die dese lettre zullen</l>
+               <l facs="#facs_0317_20_11_1306-01_tr_1_tl_3">zien ochte horen lesen . dat voor ons comen ziin in propren personen her golles van canpenhout . en̄ broeder heinric die</l>
+               <l facs="#facs_0317_20_11_1306-01_tr_1_tl_4">buschere en̄ verlieden voor ons . dat zi van sabts weghe en̄ van scouents weghe van sente ber,aerds vander ordene</l>
+               <l facs="#facs_0317_20_11_1306-01_tr_1_tl_5">vā Cysteus . ghegheuen hebben pietrē arnouds zone van orderen . ende woutren bortsarde van wilmaersdonc twee</l>
+               <l facs="#facs_0317_20_11_1306-01_tr_1_tl_6">buenre moers luttel min ochte meer . welke twee buenre moers wilen waren sher godeuaerds roden canonec was</l>
+               <l facs="#facs_0317_20_11_1306-01_tr_1_tl_7">in onzer vᵒuwen kerke tandwerpen . en̄ daer na godeuaerds roden zijns zoens . om vierttene viertalen arder eue-</l>
+               <l facs="#facs_0317_20_11_1306-01_tr_1_tl_8">nen . erfleke . te gheldene en̄ te liuererne den voerghenoomden abt en̄ den voorghenoomden couents van pietre</l>
+               <l facs="#facs_0317_20_11_1306-01_tr_1_tl_9">en̄ van woutre voorghenoomt en̄ van haren nacomelinghen in de vier carsdaghe alle iare bider andwerpscer ma-</l>
+               <l facs="#facs_0317_20_11_1306-01_tr_1_tl_10">te in hare huus te andwerpen . Voord ane gheloueden voor ons poeter en̄ wouter voorghenoomd te gheldene</l>
+               <l facs="#facs_0317_20_11_1306-01_tr_1_tl_11">allen den cins diere ute gaet . en̄ ooc gheloueden zi dit voorghenoomde land te houdene en̄ te dikene en̄ alden cost</l>
+               <l facs="#facs_0317_20_11_1306-01_tr_1_tl_12">te doene die dit land scudegh es te doene ghelijc den lande datter an beden ziden an leghet zonder cost en̄ stade . sabts</l>
+               <l facs="#facs_0317_20_11_1306-01_tr_1_tl_13">ende scouents voorghenoomd . Voord ane waer ooc dat zake dat den abt en̄ den couente voorghenoomt van allen desen</l>
+               <l facs="#facs_0317_20_11_1306-01_tr_1_tl_14">voorseiden stucken hiet ghebrake . ochte dat pieter en̄ wouter voorghenoomt tvoorseide land lieten varen . Zo ghelo-</l>
+               <l facs="#facs_0317_20_11_1306-01_tr_1_tl_15">ueden voor ons pieter en̄ wouter voorghenoomt . den voorghenoomden abt en̄ couente twelef pond als tenen onder</l>
+               <l facs="#facs_0317_20_11_1306-01_tr_1_tl_16">pande . de welke twelef pond de abt en̄ tcouente voorghenoomt innen moghen op pietre ende woutre voorghe-</l>
+               <l facs="#facs_0317_20_11_1306-01_tr_1_tl_17">noomd en̄ op hare na comelinghe als haren onder pand . en̄ hand slaen and voorghenoomde land . Woord ane waer</l>
+               <l facs="#facs_0317_20_11_1306-01_tr_1_tl_18">dat zake dat dit voerghenoomde land voorden oust vte ghinghe ende ridende bleuen . Zo ne zouden zi ghenē cins</l>
+               <l facs="#facs_0317_20_11_1306-01_tr_1_tl_19">gheuen alze langhe alst rede . Ende waer dat zake dat men tland weder anevinghe ende dikede . Zo zouden pietʼ</l>
+               <l facs="#facs_0317_20_11_1306-01_tr_1_tl_20">en̄ wouter tvoorghenoomde land ane vaen ende diken ghelijc den lande dat hem an beden ziden gheleghen is . Zon-</l>
+               <l facs="#facs_0317_20_11_1306-01_tr_1_tl_21">der colt en̄ scade sabts en̄ scouents voorghenoomd . en̄ ghelden de voorghenoomde viertiene viertale euenen alzo</l>
+               <l facs="#facs_0317_20_11_1306-01_tr_1_tl_22">alst hier voren ghescreuē is . Jn orkondscepen van deser ding zo hebben wi scepenen voorghenoomd onze zeghele</l>
+               <l facs="#facs_0317_20_11_1306-01_tr_1_tl_23">ghehanghen an dese lettre . Die was ghegheuen jnt iaer ons heren als men screef . M . CCC . en̄ zesse . ssondaeghs voor</l>
+               <l facs="#facs_0317_20_11_1306-01_tr_1_tl_24">sente katelinen daghe .</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

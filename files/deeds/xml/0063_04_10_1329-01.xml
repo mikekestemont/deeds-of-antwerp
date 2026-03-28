@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="2288" lry="1712" xml:id="facs_0063_04_10_1329-01">
+         <graphic url="0063_04_10_1329-01.jpg" width="2288px" height="1712px"/>
+         <zone points="330,449 992,491 1524,460 1898,504 2043,491 2043,439 1641,369 1589,419 1387,393 1298,430 855,371 512,415 328,376" rendition="Line" xml:id="facs_0063_04_10_1329-01_tr_1_tl_2" subtype="default"/>
+         <zone points="317,502 1622,512 2032,556 2034,497 315,447" rendition="Line" xml:id="facs_0063_04_10_1329-01_tr_1_tl_3" subtype="default"/>
+         <zone points="319,571 1453,560 2054,604 2052,534 1956,528 317,499" rendition="Line" xml:id="facs_0063_04_10_1329-01_tr_1_tl_4" subtype="default"/>
+         <zone points="313,610 2052,636 1928,573 677,545 313,582" rendition="Line" xml:id="facs_0063_04_10_1329-01_tr_1_tl_5" subtype="default"/>
+         <zone points="306,669 2047,688 2030,638 1665,614 304,601" rendition="Line" xml:id="facs_0063_04_10_1329-01_tr_1_tl_6" subtype="default"/>
+         <zone points="317,717 910,682 2034,749 2032,686 1665,660 317,667" rendition="Line" xml:id="facs_0063_04_10_1329-01_tr_1_tl_7" subtype="default"/>
+         <zone points="313,751 1038,732 2052,786 2030,736 1498,699 313,706" rendition="Line" xml:id="facs_0063_04_10_1329-01_tr_1_tl_8" subtype="default"/>
+         <zone points="317,812 1140,786 2030,847 2052,786 1372,740 315,753" rendition="Line" xml:id="facs_0063_04_10_1329-01_tr_1_tl_9" subtype="default"/>
+         <zone points="315,849 1131,834 1941,903 2034,888 2034,845 1140,786 313,812" rendition="Line" xml:id="facs_0063_04_10_1329-01_tr_1_tl_10" subtype="default"/>
+         <zone points="313,901 1735,905 2024,960 2037,888 1133,834 310,847" rendition="Line" xml:id="facs_0063_04_10_1329-01_tr_1_tl_11" subtype="default"/>
+         <zone points="317,951 1366,942 1919,994 1965,931 315,897" rendition="Line" xml:id="facs_0063_04_10_1329-01_tr_1_tl_12" subtype="default"/>
+         <zone points="321,1010 547,1060 717,1003 925,1036 1027,986 1941,1044 1963,975 319,944" rendition="Line" xml:id="facs_0063_04_10_1329-01_tr_1_tl_13" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0063_04_10_1329-01" n="0063_04_10_1329-01" xml:id="img_0063_04_10_1329-01"/>
+            <ab>
+               <l facs="#facs_0063_04_10_1329-01_tr_1_tl_2">Wi Andries van hoboken en̄ Claus van hoboken scepenen in Atwʼpen maken cond . Dat vore ons quā jan mathijssone dien in̄</l>
+               <l facs="#facs_0063_04_10_1329-01_tr_1_tl_3">heet renten . En̄ bekende dat hi om ene sūme ghelds die hem al es vʼgouden . vʼcocht heeft wettelekke willeme draken .</l>
+               <l facs="#facs_0063_04_10_1329-01_tr_1_tl_4">sone wilen shʼ jans draecs sprongs . twee scellinghe sjaers groteʼ oudʼ tornoise van monten sconings van vᵃncrike gued</l>
+               <l facs="#facs_0063_04_10_1329-01_tr_1_tl_5">en̄ custbaer erflekʼ en̄ euwelekʼ renten ofte de wʼde daeraf in gueden andren paym̄te . op alle sine huisinghe ghestaen</l>
+               <l facs="#facs_0063_04_10_1329-01_tr_1_tl_6">bidʼ firmerien in claepdorp inde achtʼstᵃte tusschen de selue firmerie . en̄ huigs turnams huis . en̄ op alle de houinghe</l>
+               <l facs="#facs_0063_04_10_1329-01_tr_1_tl_7">die de selue jan daer heeft tote achtʼ ane de ram̄ met alle dat daer toe hoert . en̄ daer toe op alle dat recht</l>
+               <l facs="#facs_0063_04_10_1329-01_tr_1_tl_8">dat de selue jan houdende es ane huis en̄ hof daer naest ghestaen dat peters es van berghen . De welke vorghenoē-</l>
+               <l facs="#facs_0063_04_10_1329-01_tr_1_tl_9">de huisinghe en̄ houinghe gheheellec en̄ al ghelijc si hier vore ghenoemt sijn . de vorseide jan mathijs sone met al</l>
+               <l facs="#facs_0063_04_10_1329-01_tr_1_tl_10">den rechte dat hi daer ane houdende es vʼbonden heeft en̄ tepande gheset ouʼ de vorseide jaerleke en̄ erflike</l>
+               <l facs="#facs_0063_04_10_1329-01_tr_1_tl_11">rente tegheldene en̄ tegheuene alle jare vanden seluen janne en̄ van sinden nacomelinghen .. den vorseiden wil</l>
+               <l facs="#facs_0063_04_10_1329-01_tr_1_tl_12">leme en̄ sinen nacomelinghe te paeschen . Jn kinnessen van desen letteʼn beseghelt met desen onsen seghelen . Dit</l>
+               <l facs="#facs_0063_04_10_1329-01_tr_1_tl_13">was ghedaen jnt jaer ons heren alsm̄ screef . M . CCC . neghene en̄ twintech des woensdaegs na sente bauen dach</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

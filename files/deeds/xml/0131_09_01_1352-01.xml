@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="2214" lry="1887" xml:id="facs_0131_09_01_1352-01">
+         <graphic url="0131_09_01_1352-01.jpg" width="2214px" height="1887px"/>
+         <zone points="278,245 1917,217 1994,210 1996,169 278,186" rendition="Line" xml:id="facs_0131_09_01_1352-01_tr_1_tl_1" subtype="default"/>
+         <zone points="287,285 2022,252 2022,204 289,247" rendition="Line" xml:id="facs_0131_09_01_1352-01_tr_1_tl_2" subtype="default"/>
+         <zone points="287,328 1983,300 2007,258 287,285" rendition="Line" xml:id="facs_0131_09_01_1352-01_tr_1_tl_3" subtype="default"/>
+         <zone points="280,359 2022,326 2022,282 1703,276 280,331" rendition="Line" xml:id="facs_0131_09_01_1352-01_tr_1_tl_4" subtype="default"/>
+         <zone points="282,392 2025,376 2003,324 1749,315 282,363" rendition="Line" xml:id="facs_0131_09_01_1352-01_tr_1_tl_5" subtype="default"/>
+         <zone points="274,433 2016,401 1985,361 1718,357 274,398" rendition="Line" xml:id="facs_0131_09_01_1352-01_tr_1_tl_6" subtype="default"/>
+         <zone points="282,471 1968,453 2014,401 282,436" rendition="Line" xml:id="facs_0131_09_01_1352-01_tr_1_tl_7" subtype="default"/>
+         <zone points="278,525 2025,492 2025,447 1876,436 280,473" rendition="Line" xml:id="facs_0131_09_01_1352-01_tr_1_tl_8" subtype="default"/>
+         <zone points="280,541 2018,521 2003,482 1615,473 280,508" rendition="Line" xml:id="facs_0131_09_01_1352-01_tr_1_tl_9" subtype="default"/>
+         <zone points="280,593 2033,560 2033,523 1860,519 280,538" rendition="Line" xml:id="facs_0131_09_01_1352-01_tr_1_tl_10" subtype="default"/>
+         <zone points="285,643 2036,598 2036,563 1941,556 287,598" rendition="Line" xml:id="facs_0131_09_01_1352-01_tr_1_tl_11" subtype="default"/>
+         <zone points="282,670 2011,639 2036,598 282,639" rendition="Line" xml:id="facs_0131_09_01_1352-01_tr_1_tl_12" subtype="default"/>
+         <zone points="287,714 2027,665 1965,626 289,670" rendition="Line" xml:id="facs_0131_09_01_1352-01_tr_1_tl_13" subtype="default"/>
+         <zone points="289,740 1974,714 2033,668 289,709" rendition="Line" xml:id="facs_0131_09_01_1352-01_tr_1_tl_14" subtype="default"/>
+         <zone points="287,777 1968,753 2038,749 2040,703 287,742" rendition="Line" xml:id="facs_0131_09_01_1352-01_tr_1_tl_15" subtype="default"/>
+         <zone points="289,814 2033,775 2011,738 291,773" rendition="Line" xml:id="facs_0131_09_01_1352-01_tr_1_tl_16" subtype="default"/>
+         <zone points="289,849 2031,819 1994,766 291,812" rendition="Line" xml:id="facs_0131_09_01_1352-01_tr_1_tl_17" subtype="default"/>
+         <zone points="295,893 1239,915 2051,867 2051,808 298,849" rendition="Line" xml:id="facs_0131_09_01_1352-01_tr_1_tl_18" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0131_09_01_1352-01" n="0131_09_01_1352-01" xml:id="img_0131_09_01_1352-01"/>
+            <ab>
+               <l facs="#facs_0131_09_01_1352-01_tr_1_tl_1">Wij Jan bode Ende Wouteʼ vanden broeke scepenen in Antwʼpen maken cond dat vore ons quamē diederijc de molennʼe de tīmerman ende</l>
+               <l facs="#facs_0131_09_01_1352-01_tr_1_tl_2">aeghte siin witteghe wijf ende bekinden dat si wittelec vʼcocht hebben . heinrik zudermanne coepmanne van aelmaengien ten joncvrouwe behoef</l>
+               <l facs="#facs_0131_09_01_1352-01_tr_1_tl_3">vander derdʼe Ordenen in antwʼpen . Ende ten joncvrouwen behoef van onsen vrouwen conuente dat ghestaen es jeghen de cortstᵃte tusschen pe-</l>
+               <l facs="#facs_0131_09_01_1352-01_tr_1_tl_4">ters daens ende sher alards vanden dike siaers sestienne pēninghe oudʼ grotʼ tornoise van mūten sconings van vᵃncrike den guldenē pēninch</l>
+               <l facs="#facs_0131_09_01_1352-01_tr_1_tl_5">met den aren ghetekent diemen heet oude scilt die tantwʼpen ghemaect es goed ende custbaer ouʼ sestienne grote torʼ . oft ene guldenē florijn</l>
+               <l facs="#facs_0131_09_01_1352-01_tr_1_tl_6">diemen heet hallinc van florencen goet ende custbaer ouʼ twaeleue grote torn̄ der vorgh̄ mūten gherekent oft de wʼdde daer af in goedē an-</l>
+               <l facs="#facs_0131_09_01_1352-01_tr_1_tl_7">dʼen ghelde jaerleckʼ ende erfleckʼ renten Op hore huis ende hof en̄ op alle dat recht dat si daer ane houdende sijn dat ghestaen es op dē hoec</l>
+               <l facs="#facs_0131_09_01_1352-01_tr_1_tl_8">vander cortstraten tusschen sh̄ jans herden pⁱsters . ane dene side . Ende thuis dat wilen was her Jans vander voert pⁱsters ane danderside . ōme</l>
+               <l facs="#facs_0131_09_01_1352-01_tr_1_tl_9">ene sūme van penninghen daer hen de vorgh̄ diederijc en̄ aeghte af bekinden al vʼgouden Soe dat tvorgh̄ huis ende hof met allen sinen toebehoertē</l>
+               <l facs="#facs_0131_09_01_1352-01_tr_1_tl_10">gherecht pand es ende bliuen sal vʼbonden ouʼ de vorgh̄ sestienne oude grote torʼ jaerleckʼ ende erflakʼ renten te gheldene ende te gheuene alle</l>
+               <l facs="#facs_0131_09_01_1352-01_tr_1_tl_11">jaere vanden vorghenomden diederike aeghten sinen wiue ende van horē nacom̄linghen den vorghenomden joncvrouwen vander derdʼe ordenē</l>
+               <l facs="#facs_0131_09_01_1352-01_tr_1_tl_12">twaeleue oude grote tornoise . Ende den joncvrouwen van onser vrouwen Conuente viere oude grote torn̄ die nv siin ende namaels daer wesen</l>
+               <l facs="#facs_0131_09_01_1352-01_tr_1_tl_13">selen op sente Jans dach baptēn Jn midden somʼe Dat welke huis ende hof de vorgh̄ diederijc oude aeghte gheloeft hebben tewaerne ende te</l>
+               <l facs="#facs_0131_09_01_1352-01_tr_1_tl_14">claerne van allen calaingen en̄ kūmʼe wtghenomē viere oudē groten torn̄ en̄ tween hoendʼren die daer siaers wte gaen also si ons seidē</l>
+               <l facs="#facs_0131_09_01_1352-01_tr_1_tl_15">en̄ daer toe soe hebben si vʼbonden en̄ tepande gheset alle dat goet dat si hebben Oec soe bekinde en̄ seide vore ons de vorghenōde heinrijc dat</l>
+               <l facs="#facs_0131_09_01_1352-01_tr_1_tl_16">hi de vorgh̄ viere oude groteʼ tornoise die de joncvrouwen van onser vrouwen conuente siaers heffen selen ghecocht heeft met den rente die</l>
+               <l facs="#facs_0131_09_01_1352-01_tr_1_tl_17">comen siin vanden goede dat de joncvrouwe van hackendonc den seluē conuente vormaels in almosenē hadde ghegheuē Jn kennissen vā</l>
+               <l facs="#facs_0131_09_01_1352-01_tr_1_tl_18">desen lrēn beseghelt met onsen seglen Ghegheuen int jaer ons heʼn alsmē screef M . CCC vuftech ende een des maendags na dertiendach</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

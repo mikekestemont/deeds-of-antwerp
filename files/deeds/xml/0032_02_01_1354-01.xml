@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3507" lry="2480" xml:id="facs_0032_02_01_1354-01">
+         <graphic url="0032_02_01_1354-01.jpg" width="3507px" height="2480px"/>
+         <zone points="457,917 2822,955 2819,846 2707,893 1825,873 1766,817 1713,873 1601,840 1486,873 1035,843 988,802 947,843 563,820 454,861" rendition="Line" xml:id="facs_0032_02_01_1354-01_tr_1_tl_1" subtype="default"/>
+         <zone points="466,976 2790,997 2787,947 2226,920 466,917" rendition="Line" xml:id="facs_0032_02_01_1354-01_tr_1_tl_2" subtype="default"/>
+         <zone points="478,1047 663,1026 755,1062 1017,1017 1383,1056 1421,1020 2795,1050 2778,982 478,979" rendition="Line" xml:id="facs_0032_02_01_1354-01_tr_1_tl_3" subtype="default"/>
+         <zone points="463,1109 938,1073 1256,1112 1471,1082 1504,1115 1539,1082 1920,1082 1982,1121 2810,1094 2784,1050 2471,1038 463,1044" rendition="Line" xml:id="facs_0032_02_01_1354-01_tr_1_tl_4" subtype="default"/>
+         <zone points="463,1168 967,1135 2760,1159 2760,1118 2680,1094 2480,1121 2412,1088 1849,1115 938,1073 463,1109" rendition="Line" xml:id="facs_0032_02_01_1354-01_tr_1_tl_5" subtype="default"/>
+         <zone points="460,1247 891,1197 1380,1233 2338,1206 2447,1241 2795,1197 2795,1150 460,1168" rendition="Line" xml:id="facs_0032_02_01_1354-01_tr_1_tl_6" subtype="default"/>
+         <zone points="460,1289 2790,1268 2790,1194 2689,1227 888,1200 460,1244" rendition="Line" xml:id="facs_0032_02_01_1354-01_tr_1_tl_7" subtype="default"/>
+         <zone points="460,1348 1525,1315 1607,1348 1787,1315 1831,1348 2778,1345 2778,1280 2722,1265 2412,1256 2253,1289 1401,1256 460,1292" rendition="Line" xml:id="facs_0032_02_01_1354-01_tr_1_tl_8" subtype="default"/>
+         <zone points="451,1418 1053,1377 2781,1380 2745,1333 2607,1318 451,1353" rendition="Line" xml:id="facs_0032_02_01_1354-01_tr_1_tl_9" subtype="default"/>
+         <zone points="463,1474 2822,1436 2798,1371 1159,1374 463,1421" rendition="Line" xml:id="facs_0032_02_01_1354-01_tr_1_tl_10" subtype="default"/>
+         <zone points="457,1533 2816,1483 2763,1430 2489,1424 457,1477" rendition="Line" xml:id="facs_0032_02_01_1354-01_tr_1_tl_11" subtype="default"/>
+         <zone points="457,1610 2804,1575 2804,1486 2636,1480 457,1533" rendition="Line" xml:id="facs_0032_02_01_1354-01_tr_1_tl_12" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0032_02_01_1354-01" n="0032_02_01_1354-01" xml:id="img_0032_02_01_1354-01"/>
+            <ab>
+               <l facs="#facs_0032_02_01_1354-01_tr_1_tl_1">Wij Jan vanden morteʼ Ende laureins volkaerd . Scepenen Jn Antwʼpen maken cond . dat vore ons quamen Jan damaes . damaes vriesen sone</l>
+               <l facs="#facs_0032_02_01_1354-01_tr_1_tl_2">was jn deen zide . Ende jan strubolle jans strubols sone des cledermakers Jn dandeʼ zide . Ende bekenden jn beiden ziden . Dat de vorꞩ</l>
+               <l facs="#facs_0032_02_01_1354-01_tr_1_tl_3">Jan damaes ghegheuen heeft . den vorseiden Janne strubollen den Jongheʼn . terue ende in Erfleken Rechte . siin huis gheheten de-</l>
+               <l facs="#facs_0032_02_01_1354-01_tr_1_tl_4">hert . ghestaen op den hoec vander Nuwerstraten . bi onser vrouwen kerchoue tusschen Jans Rottiers huis Jn deen zide . Ende mar-</l>
+               <l facs="#facs_0032_02_01_1354-01_tr_1_tl_5">garieten huis van halmale jn dandʼe zide . metten gronde ende met al dattʼ toe behoert . tehoudene ende Erfleken teghebrukene</l>
+               <l facs="#facs_0032_02_01_1354-01_tr_1_tl_6">den vorseiden Janne strubollen ende sinen nacomelinghen .. siaers ōme drie Antwʼpsche guldene penninghe die men heet scilde goed En̄</l>
+               <l facs="#facs_0032_02_01_1354-01_tr_1_tl_7">custbaer van goude ende van ghewichte . ghetekent metten vieren leewen . ofte de werde daer af in goeden andeʼn ghelde . jaerlikeʼe</l>
+               <l facs="#facs_0032_02_01_1354-01_tr_1_tl_8">ende Erflekeʼ Renten . tegheldene ende tegheuene vanden vorseiden Janne strubolen . ende van sinen nacomelinghen . Den vorseiden</l>
+               <l facs="#facs_0032_02_01_1354-01_tr_1_tl_9">Janne damase ende sinen nacomelinghen . alle jare die ene helft te Sente Jans daghe baptisten . Jn midden zomʼe . ende dandʼ heelft te</l>
+               <l facs="#facs_0032_02_01_1354-01_tr_1_tl_10">kerssauonde . Ende ōme de meere zekerheit . Soe heeft de vorseide Jan strubolle de Jonghʼe hier toe vʼbonden ende teenen gherechtē</l>
+               <l facs="#facs_0032_02_01_1354-01_tr_1_tl_11">onderpande gheset . al siin goed ruerende ende onruerende Dat hi heeft ende ghewinnen mach . Jn kinnessen van desen lrēn be-</l>
+               <l facs="#facs_0032_02_01_1354-01_tr_1_tl_12">zeghelt met onsen zeghelen . Ghegheuen jnt jaer ons heʼen alsmen screef . M . CCC . vijftech ende drie des andʼdaeghs na jaersdagh</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

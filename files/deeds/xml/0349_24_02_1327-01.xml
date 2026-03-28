@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3507" lry="2480" xml:id="facs_0349_24_02_1327-01">
+         <graphic url="0349_24_02_1327-01.jpg" width="3507px" height="2480px"/>
+         <zone points="260,712 981,683 1019,721 1245,690 1342,730 1577,690 1709,734 1831,699 1991,743 2176,715 2248,756 2326,724 2712,784 2706,558 2342,517 1991,524 1818,614 1756,571 1624,605 1568,574 1408,636 1085,589 878,640 781,577 665,636 483,586 257,599" rendition="Line" xml:id="facs_0349_24_02_1327-01_tr_1_tl_3" subtype="default"/>
+         <zone points="254,821 843,759 1072,762 1116,799 1245,759 1430,799 1881,768 2207,843 2307,799 2658,881 2765,862 2762,777 2608,809 2323,730 2091,749 2028,705 1994,737 1464,690 1345,727 1241,690 251,709" rendition="Line" xml:id="facs_0349_24_02_1327-01_tr_1_tl_4" subtype="default"/>
+         <zone points="260,875 596,846 702,881 906,831 1204,884 1263,843 1310,875 1351,837 1652,834 1734,875 2173,859 2712,944 2709,872 2580,840 2405,843 2307,796 2204,843 1947,771 1426,799 1257,765 1176,803 1035,765 464,774 260,821" rendition="Line" xml:id="facs_0349_24_02_1327-01_tr_1_tl_5" subtype="default"/>
+         <zone points="266,988 364,944 520,972 574,922 937,956 1050,912 1154,944 1483,909 1546,947 1746,928 1784,966 1828,931 2132,928 2687,1031 2709,940 1596,840 1317,878 1254,846 1210,884 906,831 762,840 712,887 665,856 436,862 351,906 263,878" rendition="Line" xml:id="facs_0349_24_02_1327-01_tr_1_tl_6" subtype="default"/>
+         <zone points="273,1031 680,994 956,1041 997,1000 1147,994 1608,1041 1680,997 2110,997 2398,1066 2734,1078 2731,1028 2649,997 2019,931 1784,966 1483,906 1426,950 1050,912 978,953 856,919 273,988" rendition="Line" xml:id="facs_0349_24_02_1327-01_tr_1_tl_7" subtype="default"/>
+         <zone points="266,1116 489,1078 627,1122 1025,1063 1903,1066 2709,1157 2709,1069 2364,1063 2276,1009 1677,1000 1568,1041 1063,997 947,1044 668,1003 266,1041" rendition="Line" xml:id="facs_0349_24_02_1327-01_tr_1_tl_8" subtype="default"/>
+         <zone points="260,1185 1241,1138 1411,1172 1690,1147 1768,1188 1818,1144 1887,1191 2097,1157 2781,1213 2781,1129 2524,1157 1903,1066 1762,1116 1712,1075 1273,1066 752,1078 636,1122 492,1085 260,1132" rendition="Line" xml:id="facs_0349_24_02_1327-01_tr_1_tl_9" subtype="default"/>
+         <zone points="273,1263 508,1276 630,1235 1100,1273 1207,1229 1263,1276 1326,1223 1492,1263 1944,1241 2019,1282 2138,1238 2621,1314 2787,1292 2787,1213 2477,1213 2345,1169 1887,1191 1687,1147 1583,1185 1499,1144 1257,1182 1163,1141 1016,1191 919,1160 768,1160 724,1201 273,1188" rendition="Line" xml:id="facs_0349_24_02_1327-01_tr_1_tl_10" subtype="default"/>
+         <zone points="273,1354 530,1314 906,1314 966,1351 1022,1310 1267,1298 1511,1354 1580,1310 1793,1310 2734,1367 2734,1295 2216,1248 2003,1285 1796,1238 1599,1270 1317,1232 1263,1276 1154,1241 922,1279 633,1235 273,1279" rendition="Line" xml:id="facs_0349_24_02_1327-01_tr_1_tl_11" subtype="default"/>
+         <zone points="276,1445 1166,1379 1314,1414 1483,1376 1740,1414 2003,1383 2693,1442 2765,1414 2765,1373 2292,1320 1577,1314 1520,1348 1401,1307 1091,1314 959,1351 530,1317 276,1354" rendition="Line" xml:id="facs_0349_24_02_1327-01_tr_1_tl_12" subtype="default"/>
+         <zone points="266,1505 997,1458 1088,1505 1182,1448 1467,1486 1649,1445 1743,1483 1906,1452 2759,1511 2759,1430 2332,1389 1285,1414 1172,1379 984,1423 756,1389 448,1455 266,1433" rendition="Line" xml:id="facs_0349_24_02_1327-01_tr_1_tl_13" subtype="default"/>
+         <zone points="279,1621 477,1561 950,1583 1063,1536 1129,1583 1201,1527 1295,1555 1495,1514 1746,1555 2204,1533 2602,1593 2753,1549 2756,1505 1646,1448 1583,1483 1138,1464 1091,1505 1000,1458 831,1505 433,1486 279,1533" rendition="Line" xml:id="facs_0349_24_02_1327-01_tr_1_tl_14" subtype="default"/>
+         <zone points="295,1709 417,1652 1188,1646 1282,1599 1593,1636 1847,1596 1969,1633 2113,1605 2179,1646 2630,1627 2699,1662 2699,1580 2652,1555 2602,1593 2546,1558 2301,1583 2204,1533 2047,1561 1984,1527 1887,1568 1508,1514 1132,1580 1050,1536 947,1586 558,1564 295,1615" rendition="Line" xml:id="facs_0349_24_02_1327-01_tr_1_tl_15" subtype="default"/>
+         <zone points="270,1731 749,1752 1097,1696 1210,1734 1696,1668 1756,1702 1975,1674 2082,1712 2727,1721 2727,1611 2514,1655 1458,1599 1144,1658 940,1624 853,1662 270,1680" rendition="Line" xml:id="facs_0349_24_02_1327-01_tr_1_tl_16" subtype="default"/>
+         <zone points="276,1837 859,1787 1078,1828 1317,1784 1354,1818 1483,1768 1709,1799 1749,1765 1991,1765 2157,1821 2398,1774 2533,1828 2696,1781 2652,1709 2455,1740 2414,1699 2295,1731 1919,1680 1204,1740 1091,1693 919,1743 276,1737" rendition="Line" xml:id="facs_0349_24_02_1327-01_tr_1_tl_17" subtype="default"/>
+         <zone points="273,1906 1267,1865 1436,1897 1680,1856 1894,1894 1956,1847 2389,1937 2502,1875 2690,1862 2690,1803 2533,1828 2401,1774 2160,1821 1477,1771 1354,1821 1314,1784 1078,1828 859,1790 724,1831 636,1796 276,1834" rendition="Line" xml:id="facs_0349_24_02_1327-01_tr_1_tl_18" subtype="default"/>
+         <zone points="260,2003 1301,1972 1342,2013 1577,2016 1580,1884 1530,1872 263,1903" rendition="Line" xml:id="facs_0349_24_02_1327-01_tr_1_tl_19" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0349_24_02_1327-01" n="0349_24_02_1327-01" xml:id="img_0349_24_02_1327-01"/>
+            <ab>
+               <l facs="#facs_0349_24_02_1327-01_tr_1_tl_3">Wi Jan bode en̄ claus van hoboken scepenē in Antwʼpen maken cond . Dat vore ons quā</l>
+               <l facs="#facs_0349_24_02_1327-01_tr_1_tl_4">jonfrouwe katline vanden putte met haren montbore hare ghegheuen met rechte</l>
+               <l facs="#facs_0349_24_02_1327-01_tr_1_tl_5">en̄ gaf en̄ droech op mids den seluē montbore in rechtʼ ghiften Gilise van busenghē</l>
+               <l facs="#facs_0349_24_02_1327-01_tr_1_tl_6">scoucheit van Antwʼpen tes cōuents behoef vandʼ dʼder ordenen wonende in de</l>
+               <l facs="#facs_0349_24_02_1327-01_tr_1_tl_7">cortte mere tantwʼpen . hore halue huis ghestaen in de selue mere tusschen de hui-</l>
+               <l facs="#facs_0349_24_02_1327-01_tr_1_tl_8">singhe des selfs couents en̄ dē oude veste inden hoec . met alle dien rechte dat si</l>
+               <l facs="#facs_0349_24_02_1327-01_tr_1_tl_9">houdende was daer ane . en̄ ane den grond en̄ hof en̄ dat daer tot hoert  . en̄ alse</l>
+               <l facs="#facs_0349_24_02_1327-01_tr_1_tl_10">de vorseide jonfrʼ katline hier op vʼtoghen hadde . so droegh de vorseide gilijs . dit</l>
+               <l facs="#facs_0349_24_02_1327-01_tr_1_tl_11">vorseide halue huis op metden vorseiden rechte . den ministʼ des vorseids cōuents</l>
+               <l facs="#facs_0349_24_02_1327-01_tr_1_tl_12">tes cōuents behoef euwelec te hebbene en̄ teghebruikene . en̄ dit was al ghedaen</l>
+               <l facs="#facs_0349_24_02_1327-01_tr_1_tl_13">met maennessen des rechtʼ en̄ met onsen wisene . behoudenlec altoes dʼ vorseidʼ</l>
+               <l facs="#facs_0349_24_02_1327-01_tr_1_tl_14">jonfrʼ katlinē hore lijftocht ane dit vorseide halue huis en̄ hof . also dat si des</l>
+               <l facs="#facs_0349_24_02_1327-01_tr_1_tl_15">ghebruiken sal tharen liue en̄ niet langher . en̄ na haer lijf keren sal ten</l>
+               <l facs="#facs_0349_24_02_1327-01_tr_1_tl_16">vorseiden cōuent alse sijn ꝓper gued daert met den rechte in com̄ es ghelijc</l>
+               <l facs="#facs_0349_24_02_1327-01_tr_1_tl_17">hier vore bescreuen es . Jn kinnessen van desen lrēn beseghelt met onsen se</l>
+               <l facs="#facs_0349_24_02_1327-01_tr_1_tl_18">glen . Ghegheuen int jaer ons heʼn alsm̄ screef . M . CCC . sesse en̄ twintech</l>
+               <l facs="#facs_0349_24_02_1327-01_tr_1_tl_19">des dinsendaegs na groet vastelauont</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

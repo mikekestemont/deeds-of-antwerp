@@ -14,22 +14,20 @@
    <facsimile>
       <surface ulx="0" uly="0" lrx="3507" lry="2480" xml:id="facs_0007_01_03_1331-01">
          <graphic url="0007_01_03_1331-01.jpg" width="3507px" height="2480px"/>
-         <zone points="384,976 389,1594 2906,1511 2906,976" rendition="TextRegion" xml:id="facs_0007_01_03_1331-01_tr_1">
-            <zone points="389,1052 2297,1012 2885,1071 2885,946 2807,931 2456,993 2266,918 1768,974 1370,918 1177,977 878,912 741,912 651,971 389,915" rendition="Line" xml:id="facs_0007_01_03_1331-01_tr_1_tl_1" subtype="default"/>
-            <zone points="383,1124 853,1080 1936,1111 2222,1074 2801,1127 2870,1117 2873,1049 2300,1012 2145,1049 1980,1018 386,1046" rendition="Line" xml:id="facs_0007_01_03_1331-01_tr_1_tl_3" subtype="default"/>
-            <zone points="374,1186 2207,1133 2839,1192 2839,1108 2418,1117 2157,1071 1631,1111 850,1080 374,1145" rendition="Line" xml:id="facs_0007_01_03_1331-01_tr_1_tl_5" subtype="default"/>
-            <zone points="392,1251 1432,1192 1547,1236 2029,1189 2873,1226 2873,1149 2643,1183 2026,1133 1902,1167 850,1142 392,1208" rendition="Line" xml:id="facs_0007_01_03_1331-01_tr_1_tl_7" subtype="default"/>
-            <zone points="383,1329 1021,1261 1167,1292 2076,1245 2873,1292 2873,1226 2350,1189 2266,1226 1899,1192 1500,1233 1435,1192 383,1245" rendition="Line" xml:id="facs_0007_01_03_1331-01_tr_1_tl_8" subtype="default"/>
-            <zone points="380,1382 1018,1326 2829,1323 2829,1273 2169,1279 2076,1245 1167,1292 1021,1261 872,1307 380,1329" rendition="Line" xml:id="facs_0007_01_03_1331-01_tr_1_tl_9" subtype="default"/>
-            <zone points="377,1426 763,1432 915,1391 1298,1419 1684,1373 1927,1419 2870,1385 2870,1335 2814,1323 2253,1313 2054,1351 1936,1317 1787,1351 1015,1326 377,1382" rendition="Line" xml:id="facs_0007_01_03_1331-01_tr_1_tl_10" subtype="default"/>
-            <zone points="377,1500 1435,1447 1709,1538 2506,1541 2658,1494 2845,1562 2876,1385 377,1422" rendition="Line" xml:id="facs_0007_01_03_1331-01_tr_1_tl_11" subtype="default"/>
-            <zone points="377,1575 1223,1556 1226,1463 1201,1454 1030,1488 825,1466 380,1500" rendition="Line" xml:id="facs_0007_01_03_1331-01_tr_1_tl_12" subtype="default"/>
-         </zone>
+         <zone points="389,1052 2297,1012 2885,1071 2885,946 2807,931 2456,993 2266,918 1768,974 1370,918 1177,977 878,912 741,912 651,971 389,915" rendition="Line" xml:id="facs_0007_01_03_1331-01_tr_1_tl_1" subtype="default"/>
+         <zone points="383,1124 853,1080 1936,1111 2222,1074 2801,1127 2870,1117 2873,1049 2300,1012 2145,1049 1980,1018 386,1046" rendition="Line" xml:id="facs_0007_01_03_1331-01_tr_1_tl_3" subtype="default"/>
+         <zone points="374,1186 2207,1133 2839,1192 2839,1108 2418,1117 2157,1071 1631,1111 850,1080 374,1145" rendition="Line" xml:id="facs_0007_01_03_1331-01_tr_1_tl_5" subtype="default"/>
+         <zone points="392,1251 1432,1192 1547,1236 2029,1189 2873,1226 2873,1149 2643,1183 2026,1133 1902,1167 850,1142 392,1208" rendition="Line" xml:id="facs_0007_01_03_1331-01_tr_1_tl_7" subtype="default"/>
+         <zone points="383,1329 1021,1261 1167,1292 2076,1245 2873,1292 2873,1226 2350,1189 2266,1226 1899,1192 1500,1233 1435,1192 383,1245" rendition="Line" xml:id="facs_0007_01_03_1331-01_tr_1_tl_8" subtype="default"/>
+         <zone points="380,1382 1018,1326 2829,1323 2829,1273 2169,1279 2076,1245 1167,1292 1021,1261 872,1307 380,1329" rendition="Line" xml:id="facs_0007_01_03_1331-01_tr_1_tl_9" subtype="default"/>
+         <zone points="377,1426 763,1432 915,1391 1298,1419 1684,1373 1927,1419 2870,1385 2870,1335 2814,1323 2253,1313 2054,1351 1936,1317 1787,1351 1015,1326 377,1382" rendition="Line" xml:id="facs_0007_01_03_1331-01_tr_1_tl_10" subtype="default"/>
+         <zone points="377,1500 1435,1447 1709,1538 2506,1541 2658,1494 2845,1562 2876,1385 377,1422" rendition="Line" xml:id="facs_0007_01_03_1331-01_tr_1_tl_11" subtype="default"/>
+         <zone points="377,1575 1223,1556 1226,1463 1201,1454 1030,1488 825,1466 380,1500" rendition="Line" xml:id="facs_0007_01_03_1331-01_tr_1_tl_12" subtype="default"/>
       </surface>
    </facsimile>
    <text>
       <body><div><pb facs="#facs_0007_01_03_1331-01" n="0007_01_03_1331-01" xml:id="img_0007_01_03_1331-01"/>
-            <ab facs="#facs_0007_01_03_1331-01_tr_1">
+            <ab>
                <l facs="#facs_0007_01_03_1331-01_tr_1_tl_1">Wi Claus van Wineghē en̄ jan wilmaer de roede scepenē in Antwʼpen maken cond dat vore ons quā Jan vā den ne</l>
                <l facs="#facs_0007_01_03_1331-01_tr_1_tl_3">sone wilen mijns her nichoels van dorne ridders . en̄ bekende dat hi en̄ sijn nacomelinghe sculdech altoes sijn</l>
                <l facs="#facs_0007_01_03_1331-01_tr_1_tl_5">tegheldene en̄ te gheuene der infirmerien ghestaen in claepdorp ter crankʼ behoef een halstʼ custbaers</l>

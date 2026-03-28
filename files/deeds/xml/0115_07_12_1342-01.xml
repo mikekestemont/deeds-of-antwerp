@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3977" lry="994" xml:id="facs_0115_07_12_1342-01">
+         <graphic url="0115_07_12_1342-01.jpg" width="3977px" height="994px"/>
+         <zone points="44,286 1435,310 1697,354 1760,310 2662,349 3108,296 3263,335 3297,305 3341,349 3404,301 3554,335 3651,286 3918,339 3918,165 3816,213 3704,150 3603,218 3399,145 3268,213 3161,170 3001,218 2880,179 2730,242 2609,194 2405,252 2201,228 2080,155 1663,228 1498,170 1372,223 1227,145 1106,208 752,160 708,194 543,170 475,223 359,179 315,223 44,213" rendition="Line" xml:id="facs_0115_07_12_1342-01_tr_1_tl_1" subtype="default"/>
+         <zone points="44,369 529,364 761,407 1358,378 1556,427 1702,383 1896,427 1988,393 2066,436 2507,388 2628,422 2667,388 3098,427 3302,398 3336,432 3578,383 3763,432 3869,393 3869,325 3646,286 3593,330 3438,296 3346,344 3132,296 3011,335 1998,344 1867,310 1440,335 39,286" rendition="Line" xml:id="facs_0115_07_12_1342-01_tr_1_tl_2" subtype="default"/>
+         <zone points="39,441 393,480 737,451 878,499 1028,446 2070,509 2546,465 2710,514 3845,485 3845,432 3578,383 3535,427 2788,383 2628,422 2371,393 2051,427 1973,393 1881,427 1561,383 39,364" rendition="Line" xml:id="facs_0115_07_12_1342-01_tr_1_tl_3" subtype="default"/>
+         <zone points="24,553 970,533 1348,582 1406,543 1464,582 1532,543 2129,596 2541,558 2633,601 2701,558 3341,596 3641,553 3845,596 3840,485 2022,504 1275,446 393,480 116,475 24,427" rendition="Line" xml:id="facs_0115_07_12_1342-01_tr_1_tl_4" subtype="default"/>
+         <zone points="34,616 485,645 679,601 1183,650 1489,611 1838,669 1998,630 2308,669 2420,630 2933,674 3074,640 3617,684 3821,650 3821,592 1760,582 1581,543 1464,577 1401,538 1251,572 655,529 596,567 281,529 29,553" rendition="Line" xml:id="facs_0115_07_12_1342-01_tr_1_tl_5" subtype="default"/>
+         <zone points="34,713 1009,737 1110,698 1537,703 1896,766 1969,718 2119,756 2284,718 2342,761 2555,718 3331,790 3923,761 3923,630 3622,689 3501,650 2424,630 2250,669 2211,630 1828,664 1489,611 1183,650 679,601 485,645 34,616" rendition="Line" xml:id="facs_0115_07_12_1342-01_tr_1_tl_6" subtype="default"/>
+         <zone points="19,815 155,824 252,756 475,839 606,795 946,863 1154,810 1426,878 1644,839 1935,873 2201,805 2381,815 2453,863 2657,810 2958,834 2958,722 2706,761 2618,722 2124,756 1387,703 1018,737 882,703 15,708" rendition="Line" xml:id="facs_0115_07_12_1342-01_tr_1_tl_7" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0115_07_12_1342-01" n="0115_07_12_1342-01" xml:id="img_0115_07_12_1342-01"/>
+            <ab>
+               <l facs="#facs_0115_07_12_1342-01_tr_1_tl_1">Wi Willem sprongh ende Willem de molnʼe scepenen in Antwʼpen maken cont dat vore ons quam . hʼe jan veyne pⁱestʼ en̄ capellaen in</l>
+               <l facs="#facs_0115_07_12_1342-01_tr_1_tl_2">onsʼ vᵒuwen kerke van Antwʼpen en̄ bekende dat hi terfue gaf ende ghegheuen heeft Janne vander molen zeuen viʼendeele ghemets lants</l>
+               <l facs="#facs_0115_07_12_1342-01_tr_1_tl_3">te halle gheleghen . also si ons segghen . den voerseiden janne van der molen ende sinen nacomenlinghē erflec eeuwelec en̄ emmʼmeer</l>
+               <l facs="#facs_0115_07_12_1342-01_tr_1_tl_4">te besittene en̄ te ghebrukene ōme viue scellinghe tsiaers ouder gᵒetʼ tornoise van monten tsconincs van vᵃncrike erflecker ende</l>
+               <l facs="#facs_0115_07_12_1342-01_tr_1_tl_5">eeuweleken Renten te gheldene ende te gheuene alle jaʼe vanden seluen janne vander molen ende van sinen nacomenlinghē . den</l>
+               <l facs="#facs_0115_07_12_1342-01_tr_1_tl_6">seluen heʼn janne voergh̄ ochte den hebbe van derre lrēn te elken kerssauonde jn kennissen van desen lrēn beseghelt met onsen seglen ghegheuē</l>
+               <l facs="#facs_0115_07_12_1342-01_tr_1_tl_7">jnt jaer ons heʼn alsmen screef M CCC viertich ende twee tsatʼdaghes na sente niclaus dagh jn den wintʼe</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

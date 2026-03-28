@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3507" lry="2480" xml:id="facs_0202_14_01_1326-01">
+         <graphic url="0202_14_01_1326-01.jpg" width="3507px" height="2480px"/>
+         <zone points="303,807 647,767 879,823 999,786 2045,789 2639,854 2729,835 2729,758 2617,764 2528,708 2330,764 2246,718 2064,721 2002,671 1881,739 1698,696 1649,742 1562,699 1364,742 906,687 622,724 300,665" rendition="Line" xml:id="facs_0202_14_01_1326-01_tr_1_tl_1" subtype="default"/>
+         <zone points="309,857 563,879 640,835 718,879 894,851 1129,900 1241,857 1355,888 1825,860 1896,897 2132,863 2676,913 2738,906 2738,838 1763,786 1522,826 1411,786 860,817 647,767 613,801 306,804" rendition="Line" xml:id="facs_0202_14_01_1326-01_tr_1_tl_2" subtype="default"/>
+         <zone points="309,919 724,903 978,959 1061,916 1414,962 1884,925 2336,950 2416,993 2608,962 2651,1002 2741,987 2741,925 2119,866 306,857" rendition="Line" xml:id="facs_0202_14_01_1326-01_tr_1_tl_3" subtype="default"/>
+         <zone points="312,978 2104,999 2741,1074 2741,990 2453,984 2398,937 2357,971 1717,922 1411,962 1070,919 1012,947 971,910 312,919" rendition="Line" xml:id="facs_0202_14_01_1326-01_tr_1_tl_4" subtype="default"/>
+         <zone points="309,1064 786,1043 1018,1089 1927,1067 2738,1114 2735,1040 2500,1061 2184,1005 1754,1033 647,975 554,1009 486,965 436,1009 309,996" rendition="Line" xml:id="facs_0202_14_01_1326-01_tr_1_tl_5" subtype="default"/>
+         <zone points="312,1148 433,1114 554,1151 625,1111 1077,1157 1287,1123 1767,1135 1810,1169 1896,1135 2571,1203 2741,1169 2741,1108 1927,1067 1866,1108 1634,1070 1018,1092 795,1046 309,1080" rendition="Line" xml:id="facs_0202_14_01_1326-01_tr_1_tl_6" subtype="default"/>
+         <zone points="334,1216 535,1173 1287,1222 1624,1188 1689,1238 2017,1200 2509,1262 2738,1238 2738,1176 1287,1126 1080,1157 944,1120 894,1151 817,1114 331,1151" rendition="Line" xml:id="facs_0202_14_01_1326-01_tr_1_tl_7" subtype="default"/>
+         <zone points="319,1253 1488,1259 1596,1299 1974,1265 2091,1312 2231,1281 2766,1321 2763,1231 2701,1225 2497,1259 2020,1203 1686,1234 1624,1188 1541,1225 1247,1191 1101,1222 535,1176 319,1213" rendition="Line" xml:id="facs_0202_14_01_1326-01_tr_1_tl_8" subtype="default"/>
+         <zone points="306,1343 588,1299 684,1343 817,1299 1070,1343 2014,1340 2153,1386 2323,1349 2472,1389 2772,1361 2769,1321 2633,1296 306,1250" rendition="Line" xml:id="facs_0202_14_01_1326-01_tr_1_tl_9" subtype="default"/>
+         <zone points="306,1414 442,1377 807,1380 845,1414 928,1374 1111,1423 1538,1389 1791,1448 2184,1411 2732,1470 2766,1463 2766,1367 2153,1383 1770,1333 1612,1367 820,1302 724,1343 591,1296 303,1343" rendition="Line" xml:id="facs_0202_14_01_1326-01_tr_1_tl_10" subtype="default"/>
+         <zone points="303,1454 1228,1463 1420,1507 1702,1473 1968,1528 2373,1494 2784,1538 2784,1473 2475,1423 1788,1448 1401,1392 1101,1429 934,1377 845,1414 801,1380 303,1408" rendition="Line" xml:id="facs_0202_14_01_1326-01_tr_1_tl_11" subtype="default"/>
+         <zone points="303,1534 2784,1603 2781,1531 2735,1516 2620,1544 2373,1491 2141,1531 1974,1485 1763,1516 1702,1473 1491,1510 1154,1460 838,1485 739,1442 303,1473" rendition="Line" xml:id="facs_0202_14_01_1326-01_tr_1_tl_12" subtype="default"/>
+         <zone points="312,1621 789,1584 851,1624 1058,1593 1912,1658 2719,1649 2716,1603 2624,1581 2555,1612 2361,1565 1695,1590 990,1525 940,1559 860,1522 309,1538" rendition="Line" xml:id="facs_0202_14_01_1326-01_tr_1_tl_13" subtype="default"/>
+         <zone points="297,1655 2775,1739 2772,1671 2707,1649 2184,1671 2141,1630 2054,1664 1494,1646 1049,1590 297,1618" rendition="Line" xml:id="facs_0202_14_01_1326-01_tr_1_tl_14" subtype="default"/>
+         <zone points="303,1748 492,1767 671,1726 823,1760 1086,1720 1748,1794 2778,1791 2775,1742 2611,1714 1637,1726 1021,1658 780,1695 665,1655 600,1686 300,1658" rendition="Line" xml:id="facs_0202_14_01_1326-01_tr_1_tl_15" subtype="default"/>
+         <zone points="312,1835 665,1794 817,1801 863,1844 987,1801 1491,1856 2030,1838 2110,1884 2283,1844 2506,1896 2732,1859 2729,1785 2521,1767 2147,1807 2091,1773 1349,1773 1083,1717 312,1757" rendition="Line" xml:id="facs_0202_14_01_1326-01_tr_1_tl_16" subtype="default"/>
+         <zone points="294,1961 1104,1968 1222,1930 1367,1971 1603,1893 2274,1961 2450,1915 2447,1856 2119,1884 2039,1841 1773,1866 1565,1825 1482,1859 1268,1810 860,1841 572,1797 291,1844" rendition="Line" xml:id="facs_0202_14_01_1326-01_tr_1_tl_17" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0202_14_01_1326-01" n="0202_14_01_1326-01" xml:id="img_0202_14_01_1326-01"/>
+            <ab>
+               <l facs="#facs_0202_14_01_1326-01_tr_1_tl_1">Wi Jan vander Elst ende ghijsbrech vanden brule Scepenen Jn Antwʼpen maken cont en̄ kenlec allen den ghenen die dese leteʼn sullen</l>
+               <l facs="#facs_0202_14_01_1326-01_tr_1_tl_2">sien ochte horen lesen Dat vore ons quam̄ Joncvrouwe lijsbeth pauwels bornecolfs dochtʼ wilen was met Janne den pape horē witeghē</l>
+               <l facs="#facs_0202_14_01_1326-01_tr_1_tl_3">manne en̄ montbore en̄ bekinden dat si wittelec vʼcocht hebben . bruder boudene meestʼ vanden neuwen gasthuse tselfs gasthuis</l>
+               <l facs="#facs_0202_14_01_1326-01_tr_1_tl_4">behoef . vijf scellinghe ouder grotʼ tornoise van mūten sconings van vᵃncrike gued en̄ custbaer siaers erflec en̄ euweleckʼ renten</l>
+               <l facs="#facs_0202_14_01_1326-01_tr_1_tl_5">on de ellefue ghedeele van tween . huisinghen ghestaen ane de coren maerct op de grond en̄ op alle dat recht dat si daer ane</l>
+               <l facs="#facs_0202_14_01_1326-01_tr_1_tl_6">houdende sijn die vormaels des vorseids pauwels waren om ene sūme van pēninghen daer hen de vorseide joncvʼ lijsbeth en̄</l>
+               <l facs="#facs_0202_14_01_1326-01_tr_1_tl_7">an horē man af bekinden altemale vʼgouden . also . dat de vorseide huisinghen in allen dien manieren dat se vorghenomt sijn gherecht</l>
+               <l facs="#facs_0202_14_01_1326-01_tr_1_tl_8">pant sijn en̄ altoes bliuen selen ouʼ de vorseide jaerlec rente te gheldene . ende gheuene alle Jare vander vorseidʼ joncvrouwen lijs-</l>
+               <l facs="#facs_0202_14_01_1326-01_tr_1_tl_9">betten Janne den pape horen manne en̄ van horen nacomelinghen den seluen bruder boudene . ochte den ghenē die na hem jnt</l>
+               <l facs="#facs_0202_14_01_1326-01_tr_1_tl_10">vorseide gasthuis meester sal wesen tgasthuis behoef . Jn sente bauen daghe . Oec soe gheloefden de vorseide joncvrouwe lijsbeth</l>
+               <l facs="#facs_0202_14_01_1326-01_tr_1_tl_11">met den seluen Janne den pape horē manne der vorseide huisinghen met allen den rechte dat si daer ane houdende siin tewaerne</l>
+               <l facs="#facs_0202_14_01_1326-01_tr_1_tl_12">jaer en̄ dach kūmʼloes vteghenom̄ sheʼn lantcheinse jeghen alle de ghene die te rechte comen willen . Jn kennissen van de-</l>
+               <l facs="#facs_0202_14_01_1326-01_tr_1_tl_13">sen lettʼen beseghelt met onsen seglen . Ende wij bouden drake Canonc en̄ ꝓchiaen van onser vrouwen kerke tantwʼpen</l>
+               <l facs="#facs_0202_14_01_1326-01_tr_1_tl_14">want alle dese dinghen vore ons bekint en̄ vʼlijt sijn soe hebben wij alse lantheʼ vanden gronde . daer de vorseide</l>
+               <l facs="#facs_0202_14_01_1326-01_tr_1_tl_15">huisinghen op ghestaen sijn om bede en̄ vʼsoec der vorseider joncvʼ lijsbetten en̄ Jans hors mans en̄ oec om de meerre</l>
+               <l facs="#facs_0202_14_01_1326-01_tr_1_tl_16">sekerheit daer af onsen seghel . mettʼ vorseidʼ scepenē seglen ane dese lettʼen doen hanghen . Dit was ghedaen jnt</l>
+               <l facs="#facs_0202_14_01_1326-01_tr_1_tl_17">jaer ons heʼn alsmen screef M . CCC . vijf ende twintech des wonsdags na dertien dagh</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

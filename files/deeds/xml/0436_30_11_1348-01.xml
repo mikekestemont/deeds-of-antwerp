@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="1650" lry="530" xml:id="facs_0436_30_11_1348-01">
+         <graphic url="0436_30_11_1348-01.jpg" width="1650px" height="530px"/>
+         <zone points="4,195 1571,224 1571,173 1029,121 806,181 4,151" rendition="Line" xml:id="facs_0436_30_11_1348-01_tr_1_tl_2" subtype="default"/>
+         <zone points="6,238 1599,260 1543,218 6,195" rendition="Line" xml:id="facs_0436_30_11_1348-01_tr_1_tl_3" subtype="default"/>
+         <zone points="4,292 1581,298 1210,242 4,238" rendition="Line" xml:id="facs_0436_30_11_1348-01_tr_1_tl_4" subtype="default"/>
+         <zone points="10,336 1569,334 1569,298 1390,288 10,286" rendition="Line" xml:id="facs_0436_30_11_1348-01_tr_1_tl_5" subtype="default"/>
+         <zone points="6,389 1565,373 1565,332 1333,322 8,334" rendition="Line" xml:id="facs_0436_30_11_1348-01_tr_1_tl_6" subtype="default"/>
+         <zone points="12,437 1589,427 1591,365 14,393" rendition="Line" xml:id="facs_0436_30_11_1348-01_tr_1_tl_7" subtype="default"/>
+         <zone points="8,493 461,451 1571,477 1569,409 8,433" rendition="Line" xml:id="facs_0436_30_11_1348-01_tr_1_tl_8" subtype="default"/>
+         <zone points="529,529 1152,528 1365,508 1367,457 0,489" rendition="Line" xml:id="facs_0436_30_11_1348-01_tr_1_tl_9" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0436_30_11_1348-01" n="0436_30_11_1348-01" xml:id="img_0436_30_11_1348-01"/>
+            <ab>
+               <l facs="#facs_0436_30_11_1348-01_tr_1_tl_2">Wj Gielus de stouʼe riddʼ en̄ Jan vandē morteʼ . Scepenē in Antwʼpē makē cond dat vore ons quā Woutʼe eghel</l>
+               <l facs="#facs_0436_30_11_1348-01_tr_1_tl_3">En̄ bekende dat hi vʼcocht heeft wetteleke wouteʼn Eghele sinē vadʼ siin halue huis met dē houe en̄ met al dat</l>
+               <l facs="#facs_0436_30_11_1348-01_tr_1_tl_4">daer toe hoert ghestaen in gheen zide der ziekʼe moelen . ane dende vandē steenweghe ane de strate . voert</l>
+               <l facs="#facs_0436_30_11_1348-01_tr_1_tl_5">so scoud de vorꞩ wouteʼe dat vorꞩ halue huis quite met houe en̄ met al dat daer toe hoert en̄ bekende dat</l>
+               <l facs="#facs_0436_30_11_1348-01_tr_1_tl_6">hi en gheen recht daer ane en behilt . Voert so gheloefde de vorꞩ Woutʼeʼ dit vorꞩ halue huis met houe en̄</l>
+               <l facs="#facs_0436_30_11_1348-01_tr_1_tl_7">met al dat daer toe hoert te waerne dē vorꞩ . wouteʼn sinē vadʼ quite en̄ los vā allen cōmʼe en̄ calaengē</l>
+               <l facs="#facs_0436_30_11_1348-01_tr_1_tl_8">jeghē alle de ghene die te rechte comē willen . Jn kinnessen van desen lrēn bezeghelt met onsen zeghelen</l>
+               <l facs="#facs_0436_30_11_1348-01_tr_1_tl_9">Ghegheuē  jnt iaer ons hʼen alsmē screef M . CCC . viertech en̄ achte op sente andries dach .</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

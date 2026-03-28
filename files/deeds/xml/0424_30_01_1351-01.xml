@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="4096" lry="1117" xml:id="facs_0424_30_01_1351-01">
+         <graphic url="0424_30_01_1351-01.jpg" width="4096px" height="1117px"/>
+         <zone points="63,365 2482,443 3197,375 3319,414 3976,375 3976,224 3737,248 3659,209 3557,268 3333,234 3095,277 2881,234 2774,287 2701,253 2506,350 2404,311 2019,336 1927,282 1883,321 1674,273 1499,331 1343,277 1212,321 1148,273 993,302 856,224 623,273 63,229" rendition="Line" xml:id="facs_0424_30_01_1351-01_tr_1_tl_1" subtype="default"/>
+         <zone points="58,433 2273,516 3937,448 3937,394 3820,380 3333,409 3192,375 3090,418 2925,394 2482,443 58,360" rendition="Line" xml:id="facs_0424_30_01_1351-01_tr_1_tl_2" subtype="default"/>
+         <zone points="63,491 1946,594 3956,540 3956,448 3908,443 2273,516 63,433" rendition="Line" xml:id="facs_0424_30_01_1351-01_tr_1_tl_3" subtype="default"/>
+         <zone points="49,574 803,579 886,613 983,584 1041,623 1290,599 2360,681 2569,637 3090,667 3523,613 3947,628 3947,530 1961,594 1119,516 49,511" rendition="Line" xml:id="facs_0424_30_01_1351-01_tr_1_tl_4" subtype="default"/>
+         <zone points="58,647 1192,672 1246,710 1314,681 2180,754 2326,725 2380,759 2501,725 2915,759 3299,706 3431,740 3659,696 3912,720 3912,628 3815,608 3732,647 3547,613 3397,652 2516,637 2258,676 1533,613 1411,642 1290,599 1046,623 978,579 886,618 686,574 58,569" rendition="Line" xml:id="facs_0424_30_01_1351-01_tr_1_tl_5" subtype="default"/>
+         <zone points="58,720 1260,754 1596,808 2156,788 2219,837 2457,808 3017,842 3494,779 3932,803 3927,725 3669,691 3431,740 2375,754 58,647" rendition="Line" xml:id="facs_0424_30_01_1351-01_tr_1_tl_6" subtype="default"/>
+         <zone points="73,827 311,783 423,822 832,808 2822,929 2881,891 3348,920 3489,876 3620,915 3693,871 3917,910 3917,798 2151,837 1255,754 983,779 920,745 68,725" rendition="Line" xml:id="facs_0424_30_01_1351-01_tr_1_tl_7" subtype="default"/>
+         <zone points="73,895 1455,910 1820,973 2268,964 2375,1012 2496,973 2803,1037 3085,988 3260,1017 3431,959 3538,1007 3601,973 3893,1007 3893,915 3611,920 3538,876 3343,925 2954,886 2701,929 1294,827 1255,861 818,808 365,818 307,783 73,827" rendition="Line" xml:id="facs_0424_30_01_1351-01_tr_1_tl_8" subtype="default"/>
+         <zone points="68,1041 258,1105 321,1046 462,1051 530,1002 730,1017 788,1071 920,1051 1027,1114 1207,1080 1367,1110 1460,1061 1757,1110 1932,1095 1985,1046 2287,1080 2282,968 2209,993 2102,949 1825,973 1528,915 647,910 428,871 63,895" rendition="Line" xml:id="facs_0424_30_01_1351-01_tr_1_tl_9" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0424_30_01_1351-01" n="0424_30_01_1351-01" xml:id="img_0424_30_01_1351-01"/>
+            <ab>
+               <l facs="#facs_0424_30_01_1351-01_tr_1_tl_1">Wij Jan van winenghem ende laureins volcaert scepenen jn antwʼpen maken cond dat vore ons quamen heinrijc vrancs van ardslaer ende katline</l>
+               <l facs="#facs_0424_30_01_1351-01_tr_1_tl_2">siin witteghe wiif gillis crāmekens dochtʼ was ende bekinden dat si wittelec vʼcocht hebben . meestre janne den hoekʼe den mersman siaers</l>
+               <l facs="#facs_0424_30_01_1351-01_tr_1_tl_3">eene virt̄le rogs goeds ende custbaers jaerlecs ende erflecs pachts op een half virendeel bunders ende viue roeden lands dat gheleghen</l>
+               <l facs="#facs_0424_30_01_1351-01_tr_1_tl_4">es te tween stucken binnen kiele tuschen der vorghenomder katline . ende gillis hors brueder land ghelijc dadt daer begrauē ende ghepaelt</l>
+               <l facs="#facs_0424_30_01_1351-01_tr_1_tl_5">leeght ōm eene sūme van pēninghen daer hen de vorgh̄ heinrijc ende katline siin wiif af bekinden al vʼgouden . Soe dat tvorghenōde</l>
+               <l facs="#facs_0424_30_01_1351-01_tr_1_tl_6">land gherecht pand es ende bliuen sal vʼbonden ouʼ de vorghenomde virt̄le rogs te gheldene ende te gheuene alle jaere vanden vorghenōden</l>
+               <l facs="#facs_0424_30_01_1351-01_tr_1_tl_7">heinrike ende katlinen sinen wiue ende van horen nacomenlinghen den vorgh̄ meestre Janne ende sinen nacomenlinghen tekerssauonde</l>
+               <l facs="#facs_0424_30_01_1351-01_tr_1_tl_8">in antwʼpen met der antwʼscher metten te sinen huise Jn kennissen van desen lrēn beseghelt met onsen seglen Ghegheuen int jaer ons</l>
+               <l facs="#facs_0424_30_01_1351-01_tr_1_tl_9">heʼn alsmē screef M CCC ende vuftech des saterdaghs na sente pauwels dach</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

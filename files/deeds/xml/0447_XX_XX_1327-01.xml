@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3507" lry="2480" xml:id="facs_0447_XX_XX_1327-01">
+         <graphic url="0447_XX_XX_1327-01.jpg" width="3507px" height="2480px"/>
+         <zone points="725,854 772,882 826,845 867,860 999,835 1011,848 1118,838 1137,857 1156,845 1199,864 1203,772 1152,760 1083,788 1061,772 964,791 854,779 757,798 728,785" rendition="Line" xml:id="facs_0447_XX_XX_1327-01_tr_1_tl_3" subtype="default"/>
+         <zone points="248,914 509,948 1642,907 1714,939 2666,885 2751,936 2751,829 2663,804 1765,873 1561,782 1375,810 1322,779 1247,854 977,838 779,882 248,813" rendition="Line" xml:id="facs_0447_XX_XX_1327-01_l_3" subtype="default"/>
+         <zone points="257,995 2735,964 2735,895 2660,882 1997,929 1269,907 496,948 257,914" rendition="Line" xml:id="facs_0447_XX_XX_1327-01_l_4" subtype="default"/>
+         <zone points="267,1064 1074,1014 2785,1020 2751,961 2534,951 267,992" rendition="Line" xml:id="facs_0447_XX_XX_1327-01_l_5" subtype="default"/>
+         <zone points="267,1130 1476,1068 2785,1074 2785,1020 2525,1005 267,1064" rendition="Line" xml:id="facs_0447_XX_XX_1327-01_l_6" subtype="default"/>
+         <zone points="270,1181 703,1193 804,1152 848,1187 1338,1124 2744,1130 2744,1074 2609,1058 273,1130" rendition="Line" xml:id="facs_0447_XX_XX_1327-01_l_7" subtype="default"/>
+         <zone points="267,1231 367,1259 798,1215 933,1250 1338,1193 1708,1234 1768,1190 2025,1225 2076,1181 2214,1178 2515,1218 2716,1181 2716,1143 2569,1124 1557,1127 1523,1162 1338,1124 838,1187 267,1181" rendition="Line" xml:id="facs_0447_XX_XX_1327-01_l_8" subtype="default"/>
+         <zone points="283,1309 2735,1253 2735,1206 2675,1184 2531,1218 2148,1184 2019,1221 1334,1196 1102,1240 286,1250" rendition="Line" xml:id="facs_0447_XX_XX_1327-01_l_9" subtype="default"/>
+         <zone points="267,1382 380,1347 528,1385 669,1338 845,1382 1165,1331 1322,1366 1470,1319 1799,1360 1862,1319 2120,1313 2258,1350 2308,1313 2578,1347 2660,1309 2748,1344 2751,1259 2707,1250 270,1297" rendition="Line" xml:id="facs_0447_XX_XX_1327-01_l_10" subtype="default"/>
+         <zone points="270,1438 898,1407 945,1444 1303,1397 1416,1432 1482,1388 2738,1400 2738,1319 2650,1313 2578,1347 1865,1316 1799,1353 1466,1322 1319,1363 1168,1331 1071,1369 970,1334 845,1375 593,1344 531,1385 386,1350 273,1378" rendition="Line" xml:id="facs_0447_XX_XX_1327-01_l_11" subtype="default"/>
+         <zone points="267,1485 2704,1460 2704,1413 2625,1388 2455,1382 270,1441" rendition="Line" xml:id="facs_0447_XX_XX_1327-01_tr_1_tl_23" subtype="default"/>
+         <zone points="264,1548 2729,1529 2729,1454 2587,1444 955,1501 264,1479" rendition="Line" xml:id="facs_0447_XX_XX_1327-01_tr_1_tl_24" subtype="default"/>
+         <zone points="264,1608 2685,1586 2685,1535 2625,1517 2427,1510 1470,1557 1269,1523 1143,1561 267,1548" rendition="Line" xml:id="facs_0447_XX_XX_1327-01_tr_1_tl_25" subtype="default"/>
+         <zone points="292,1664 2647,1658 2647,1573 2550,1570 2116,1601 1881,1570 1419,1630 1284,1592 292,1617" rendition="Line" xml:id="facs_0447_XX_XX_1327-01_l_1" subtype="default"/>
+         <zone points="301,1736 2597,1689 2656,1686 2660,1642 1247,1686 842,1645 301,1664" rendition="Line" xml:id="facs_0447_XX_XX_1327-01_l" subtype="default"/>
+         <zone points="276,1787 408,1815 647,1780 901,1827 1143,1790 1275,1834 1397,1746 1557,1740 1648,1834 1752,1846 1928,1787 2160,1827 2333,1758 2393,1796 2455,1752 2707,1812 2710,1686 279,1743" rendition="Line" xml:id="facs_0447_XX_XX_1327-01_l_2" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0447_XX_XX_1327-01" n="0447_XX_XX_1327-01" xml:id="img_0447_XX_XX_1327-01"/>
+            <ab>
+               <l facs="#facs_0447_XX_XX_1327-01_tr_1_tl_3">Modo hʼ godeuaert vandʼ dielft</l>
+               <l facs="#facs_0447_XX_XX_1327-01_l_3">Wij andries van hoboken en̄ Woutʼe de boc scepenen in antwʼpen maken condt dat vore ons quamē ver kerstine die wijf was</l>
+               <l facs="#facs_0447_XX_XX_1327-01_l_4">wilen shʼ amelijs van tween brugghen met horen mōborte ghegheuen hare metten rechte en̄ rutgheer hore sone Ende bekēde</l>
+               <l facs="#facs_0447_XX_XX_1327-01_l_5">dat si ōmme eene sūme ghelds die hen wel vergouden es vercocht hebben wetteleke petren scatte op hare huisinghe gestaē</l>
+               <l facs="#facs_0447_XX_XX_1327-01_l_6">in craywijc naest Wouters loets huise en̄ op die houinghe die daer toe hoeren Ende op alle dat recht dat si daer ane hou</l>
+               <l facs="#facs_0447_XX_XX_1327-01_l_7">dende siin viere scellinghe tsiaers groete ouder tornoyse van muynten sconinx van vrancrike erffeleke en̄ eweliker rētē</l>
+               <l facs="#facs_0447_XX_XX_1327-01_l_8">de welke huisinghe en̄ houinghe voerghenoēde de voerseide ver kerstine met haren monbore en̄ de voergheseide rutgher</l>
+               <l facs="#facs_0447_XX_XX_1327-01_l_9">setten en̄ verbonden teenen gherechten pande ouʼ die verghenoēde erffeleke rente tegheldene en̄ te gheuene alle jare</l>
+               <l facs="#facs_0447_XX_XX_1327-01_l_10">van den voerꞩ ver kerstinen en̄ rutgheere en̄ van horen nacomelinghlen den vorꞩ peteren en̄ sinen nacomelinghen deene</l>
+               <l facs="#facs_0447_XX_XX_1327-01_l_11">helf in sente bauen daghe naest toe comende met alselker vorwaerden ende dandʼ helft te paesschen en̄ die ierstē paye</l>
+               <l facs="#facs_0447_XX_XX_1327-01_tr_1_tl_23">te doene in sente bauen daghe naest toe comēde met selker vorwʼden alse hierna volght dats te wetene waert</l>
+               <l facs="#facs_0447_XX_XX_1327-01_tr_1_tl_24">sake dat die voerꞩ ver kerstine en̄ rutgheer dese vorgheseide erffeleke rente cochten ofte vercreghen op gueden sekʼen</l>
+               <l facs="#facs_0447_XX_XX_1327-01_tr_1_tl_25">pant daert den voerꞩ petre wel ghenoeghede en̄ sider @@@@ petre dan daer toe ghedaen hadden alsoe dat hem vast ende</l>
+               <l facs="#facs_0447_XX_XX_1327-01_l_1">seke rware . dat dan die voerꞩ huisinghe en̄ hou@@@@@@@@@ ontbonden soude siin van allen dinghen voergheseit</l>
+               <l facs="#facs_0447_XX_XX_1327-01_l">Jn kennessen van desen lrēn . beseghelt @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</l>
+               <l facs="#facs_0447_XX_XX_1327-01_l_2">CCC zeuene ende twintec des woendaghes @@@@ int jaer ons heʼn als men screef  M</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

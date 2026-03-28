@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="1650" lry="867" xml:id="facs_0118_08_02_1336-01">
+         <graphic url="0118_08_02_1336-01.jpg" width="1650px" height="867px"/>
+         <zone points="59,100 1548,125 1513,74 59,47" rendition="Line" xml:id="facs_0118_08_02_1336-01_tr_1_tl_1" subtype="default"/>
+         <zone points="55,145 1595,171 1539,125 53,104" rendition="Line" xml:id="facs_0118_08_02_1336-01_tr_1_tl_2" subtype="default"/>
+         <zone points="55,178 1190,227 1603,220 1601,182 53,149" rendition="Line" xml:id="facs_0118_08_02_1336-01_tr_1_tl_3" subtype="default"/>
+         <zone points="53,227 1613,265 1593,206 53,196" rendition="Line" xml:id="facs_0118_08_02_1336-01_tr_1_tl_4" subtype="default"/>
+         <zone points="45,267 1615,314 1613,263 43,223" rendition="Line" xml:id="facs_0118_08_02_1336-01_tr_1_tl_5" subtype="default"/>
+         <zone points="29,306 1603,345 1576,296 29,269" rendition="Line" xml:id="facs_0118_08_02_1336-01_tr_1_tl_6" subtype="default"/>
+         <zone points="74,349 1605,408 1637,355 73,300" rendition="Line" xml:id="facs_0118_08_02_1336-01_tr_1_tl_7" subtype="default"/>
+         <zone points="65,400 668,388 1617,449 1615,408 1466,380 63,351" rendition="Line" xml:id="facs_0118_08_02_1336-01_tr_1_tl_8" subtype="default"/>
+         <zone points="69,437 1445,496 1613,494 1611,447 67,398" rendition="Line" xml:id="facs_0118_08_02_1336-01_tr_1_tl_9" subtype="default"/>
+         <zone points="67,457 1519,547 1623,531 1621,494 65,431" rendition="Line" xml:id="facs_0118_08_02_1336-01_tr_1_tl_10" subtype="default"/>
+         <zone points="69,500 1623,580 1580,527 1270,543 67,455" rendition="Line" xml:id="facs_0118_08_02_1336-01_tr_1_tl_11" subtype="default"/>
+         <zone points="73,559 1482,637 1617,631 1615,578 69,500" rendition="Line" xml:id="facs_0118_08_02_1336-01_tr_1_tl_12" subtype="default"/>
+         <zone points="76,584 1586,666 1317,612 74,553" rendition="Line" xml:id="facs_0118_08_02_1336-01_tr_1_tl_13" subtype="default"/>
+         <zone points="69,619 1607,719 1603,668 67,582" rendition="Line" xml:id="facs_0118_08_02_1336-01_tr_1_tl_14" subtype="default"/>
+         <zone points="76,670 1599,768 1613,715 74,623" rendition="Line" xml:id="facs_0118_08_02_1336-01_tr_1_tl_15" subtype="default"/>
+         <zone points="74,708 1615,802 1548,751 73,674" rendition="Line" xml:id="facs_0118_08_02_1336-01_tr_1_tl_16" subtype="default"/>
+         <zone points="84,794 323,749 666,825 729,786 1127,831 1133,776 76,700" rendition="Line" xml:id="facs_0118_08_02_1336-01_tr_1_tl_17" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0118_08_02_1336-01" n="0118_08_02_1336-01" xml:id="img_0118_08_02_1336-01"/>
+            <ab>
+               <l facs="#facs_0118_08_02_1336-01_tr_1_tl_1">Wj willem sprongh en̄ Jan vanden Wʼue scepenē Jn Antwʼpen maken cond . dat vore ons qᵃmen mijn</l>
+               <l facs="#facs_0118_08_02_1336-01_tr_1_tl_2">vrouwe de pⁱorinne en̄ een deel vanden cōuente des cloestʼs van sente margrieten bi Antwʼpen in deen</l>
+               <l facs="#facs_0118_08_02_1336-01_tr_1_tl_3">side en̄ jan druis in dandʼ side . En̄ bekenden in beiden siden . dat de selue pⁱorinne en̄ 9uent ghe-</l>
+               <l facs="#facs_0118_08_02_1336-01_tr_1_tl_4">gheuen hebben den seluen janne te houdene ter stat rechte een stucke lands gheleghen biden vorseiden</l>
+               <l facs="#facs_0118_08_02_1336-01_tr_1_tl_5">cloestʼe biden goede dat wilen was godeuerds draets biden weghe dʼ vorseidʼ nōnen ouʼ de zide tantwʼpen</l>
+               <l facs="#facs_0118_08_02_1336-01_tr_1_tl_6">dwert dien wilē hilt Jan armsiele met alle dien dat daertoe hoert om viere ponde en̄ viere scellinghe</l>
+               <l facs="#facs_0118_08_02_1336-01_tr_1_tl_7">swartʼ tornoyse goed en̄ custbaer oft de wʼde daeraf in goeden andren ghelde . tegheldene en̄ tegheuene</l>
+               <l facs="#facs_0118_08_02_1336-01_tr_1_tl_8">alle jare vanden vorseiden janne en̄ van sinen nacomelinghen in jaerlikʼ en̄ euwelikʼ renten . der</l>
+               <l facs="#facs_0118_08_02_1336-01_tr_1_tl_9">pⁱorinnen en̄ den cōuente des vorseids cloestʼs . ten tʼminen die hier na bescreuen staen . dats te</l>
+               <l facs="#facs_0118_08_02_1336-01_tr_1_tl_10">wetene de twee dele des vorseids cheins altoes in sente jans daghe in midden somʼe . en̄ dat dʼden</l>
+               <l facs="#facs_0118_08_02_1336-01_tr_1_tl_11">deel te paesschen en̄ ten iersten paesschen dat coemt die ierste paye tedoene . En̄ om de meerre</l>
+               <l facs="#facs_0118_08_02_1336-01_tr_1_tl_12">sekerseit tedoene dʼ vorseidʼ pⁱorinnen en̄ 9uente so heeft de vorseide van vʼbonden en̄ gheset te</l>
+               <l facs="#facs_0118_08_02_1336-01_tr_1_tl_13">nen ondʼpande ouʼ de vorseide jaerlike en̄ euweleke rente sinen hof met al dat daer toe hoert</l>
+               <l facs="#facs_0118_08_02_1336-01_tr_1_tl_14">gheleghen biden vorseiden houe dien hi houdt also hi seit vā peters draecs kindren . also dat dese</l>
+               <l facs="#facs_0118_08_02_1336-01_tr_1_tl_15">hof mede pand es toten vorseiden houe ouʼ den vorseiden cheins vʼbonden . Jn kennessen van de</l>
+               <l facs="#facs_0118_08_02_1336-01_tr_1_tl_16">sen lettren beseghelt met onsen seghlen . Ghegheuen jnt jaer ons heʼn alsm̄ screef . M . CCC . viue</l>
+               <l facs="#facs_0118_08_02_1336-01_tr_1_tl_17">en̄ derttech dʼ donresdaegs na onser vrouwen dach ter lichtmessen</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

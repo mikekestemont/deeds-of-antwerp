@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3507" lry="2480" xml:id="facs_0403_28_07_1343-01">
+         <graphic url="0403_28_07_1343-01.jpg" width="3507px" height="2480px"/>
+         <zone points="541,1090 1823,1123 1935,1174 2202,1129 2776,1151 2771,978 2654,928 2433,1068 2216,1012 2077,1062 1751,1073 1672,1026 1578,1056 1413,1004 1123,1034 1034,973 939,1040 538,984" rendition="Line" xml:id="facs_0403_28_07_1343-01_tr_1_tl_1" subtype="default"/>
+         <zone points="569,1154 1371,1162 1709,1221 1851,1187 1957,1232 2015,1193 2517,1232 2640,1201 2760,1243 2762,1146 2007,1162 1670,1115 566,1093" rendition="Line" xml:id="facs_0403_28_07_1343-01_tr_1_tl_2" subtype="default"/>
+         <zone points="555,1204 2077,1257 2177,1302 2464,1257 2709,1291 2793,1268 2793,1213 1854,1190 1720,1221 1369,1160 552,1151" rendition="Line" xml:id="facs_0403_28_07_1343-01_tr_1_tl_3" subtype="default"/>
+         <zone points="552,1263 1767,1307 2118,1366 2202,1332 2369,1374 2447,1332 2604,1374 2779,1346 2776,1271 1815,1279 716,1187 552,1229" rendition="Line" xml:id="facs_0403_28_07_1343-01_tr_1_tl_4" subtype="default"/>
+         <zone points="549,1321 2322,1424 2701,1430 2726,1358 2121,1366 1731,1305 1628,1338 1266,1279 1224,1310 546,1277" rendition="Line" xml:id="facs_0403_28_07_1343-01_tr_1_tl_5" subtype="default"/>
+         <zone points="566,1416 1059,1388 2581,1497 2771,1461 2768,1422 2645,1402 2091,1419 1505,1352 560,1332" rendition="Line" xml:id="facs_0403_28_07_1343-01_tr_1_tl_6" subtype="default"/>
+         <zone points="552,1458 1327,1469 1572,1528 1714,1505 1837,1561 1907,1511 2079,1553 2191,1519 2408,1597 2779,1569 2774,1461 2581,1497 1143,1427 1059,1391 549,1408" rendition="Line" xml:id="facs_0403_28_07_1343-01_l" subtype="default"/>
+         <zone points="560,1522 652,1550 722,1519 953,1525 1093,1583 1151,1541 1358,1544 1422,1583 1480,1572 1477,1486 1430,1511 1215,1463 990,1491 558,1469" rendition="Line" xml:id="facs_0403_28_07_1343-01_tr_1_tl_8" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0403_28_07_1343-01" n="0403_28_07_1343-01" xml:id="img_0403_28_07_1343-01"/>
+            <ab>
+               <l facs="#facs_0403_28_07_1343-01_tr_1_tl_1">Wj Willem de molnʼe en̄ Gielijs de stoeuʼe scepenē in Antwʼpen maken Cond dat vore ons quam̄</l>
+               <l facs="#facs_0403_28_07_1343-01_tr_1_tl_2">jan danijs onse met scepene . ende joncfᵒuwe lijsbeth sijn wijf . petʼ de bake en̄ margriete zijn</l>
+               <l facs="#facs_0403_28_07_1343-01_tr_1_tl_3">wijf . Jan limpiaes sone Willem limpiaes ons mede scepens en̄ lijsbeth sijn wijf . en̄ bekinden</l>
+               <l facs="#facs_0403_28_07_1343-01_tr_1_tl_4">alle en̄ elc van hen also Recht es . dat lijsbeth dochtʼ petʼ baets en̄ mʼgrieten sijns wijfs heeft</l>
+               <l facs="#facs_0403_28_07_1343-01_tr_1_tl_5">en̄ behoudt erflec vp de corte beempde te wommelgheem gheleghen tien viertellen tsiaers</l>
+               <l facs="#facs_0403_28_07_1343-01_tr_1_tl_6">goeds custbwaers Rogs erflecker en̄ eeuweleekʼ Renten in kennissen van desen lrēn beseghelt mꝫ</l>
+               <l facs="#facs_0403_28_07_1343-01_l">onsen seghelen ghegheuē jnt jaer ons heʼn alsm̄ screef M CCC drie en̄ viertich tsmaendaghs</l>
+               <l facs="#facs_0403_28_07_1343-01_tr_1_tl_8">na sente marien magdaleenē dagh</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

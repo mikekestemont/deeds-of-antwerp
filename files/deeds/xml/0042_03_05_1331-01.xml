@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3300" lry="912" xml:id="facs_0042_03_05_1331-01">
+         <graphic url="0042_03_05_1331-01.jpg" width="3300px" height="912px"/>
+         <zone points="129,141 760,78 1288,98 1688,35 3223,94 3223,0 129,0" rendition="Line" xml:id="facs_0042_03_05_1331-01_tr_1_tl_1" subtype="default"/>
+         <zone points="106,204 1754,98 3223,164 3223,90 3149,78 2875,106 2761,67 2013,39 219,145 110,114" rendition="Line" xml:id="facs_0042_03_05_1331-01_tr_1_tl_2" subtype="default"/>
+         <zone points="114,255 1989,168 2702,231 2929,192 3078,239 3254,215 3258,145 1743,102 114,204" rendition="Line" xml:id="facs_0042_03_05_1331-01_tr_1_tl_3" subtype="default"/>
+         <zone points="114,325 560,270 1386,294 1563,247 1641,282 2080,239 2197,282 2248,251 3262,286 3262,219 3203,208 3078,235 2800,196 2722,231 2530,188 2087,208 2001,168 114,255" rendition="Line" xml:id="facs_0042_03_05_1331-01_tr_1_tl_4" subtype="default"/>
+         <zone points="129,384 1547,313 1602,345 2381,317 3247,368 3247,298 3113,278 2072,247 599,302 556,270 129,329" rendition="Line" xml:id="facs_0042_03_05_1331-01_tr_1_tl_5" subtype="default"/>
+         <zone points="133,474 431,419 779,446 858,403 1445,427 1766,384 1978,431 2076,384 3250,450 3254,380 2146,313 2029,349 1144,321 137,384" rendition="Line" xml:id="facs_0042_03_05_1331-01_tr_1_tl_6" subtype="default"/>
+         <zone points="137,552 497,497 1097,513 1210,470 1864,505 2103,470 2177,517 2502,466 2757,521 2828,482 3239,505 3239,423 3176,454 2867,403 2714,443 2279,388 1970,427 1899,380 1277,431 1179,396 862,407 822,443 529,419 137,482" rendition="Line" xml:id="facs_0042_03_05_1331-01_tr_1_tl_7" subtype="default"/>
+         <zone points="149,615 1429,540 1504,576 3231,560 3203,493 2593,509 2428,474 2177,513 2107,470 1915,505 1704,466 1339,501 1214,470 1010,517 486,497 149,560" rendition="Line" xml:id="facs_0042_03_05_1331-01_tr_1_tl_8" subtype="default"/>
+         <zone points="145,701 975,615 1484,607 1527,650 1782,615 1915,662 3274,619 3274,560 3196,556 2608,587 1563,544 1508,576 1433,537 1379,576 1335,544 815,587 717,556 145,615" rendition="Line" xml:id="facs_0042_03_05_1331-01_tr_1_tl_9" subtype="default"/>
+         <zone points="149,744 1179,678 1860,717 3176,670 3176,627 3106,623 1848,658 1786,615 1727,650 1030,611 149,705" rendition="Line" xml:id="facs_0042_03_05_1331-01_tr_1_tl_10" subtype="default"/>
+         <zone points="149,787 302,822 439,756 615,787 666,752 838,783 1782,748 1899,783 1939,748 2213,779 3211,744 3211,681 3149,670 2013,713 1179,674 149,744" rendition="Line" xml:id="facs_0042_03_05_1331-01_tr_1_tl_11" subtype="default"/>
+         <zone points="176,897 587,905 693,854 1018,834 1159,909 1261,909 911,911 2687,909 911,911 2741,744 2561,775 1108,744 572,787 439,756 302,811 176,791" rendition="Line" xml:id="facs_0042_03_05_1331-01_tr_1_tl_12" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0042_03_05_1331-01" n="0042_03_05_1331-01" xml:id="img_0042_03_05_1331-01"/>
+            <ab>
+               <l facs="#facs_0042_03_05_1331-01_tr_1_tl_1">Wi Gherard van Wisplaer En̄ willem sprong scepenen jn Antwʼpen maken cond . Dat vore ons quā Claus Coeke . En̄ bekende dat</l>
+               <l facs="#facs_0042_03_05_1331-01_tr_1_tl_2">hi om ene sūme ghelds die hem al es vʼgouden . vʼcocht heeft wetteleke . Enen eersam̄ manne heʼn boidene draken . canoenc en̄ ꝓchi-</l>
+               <l facs="#facs_0042_03_05_1331-01_tr_1_tl_3">aen van onser vrouwen kerke in Antwʼpen . viue scellinghe sjaers grotʼ oudʼ tornoyse van monten sconings van vᵃncrike gued en̄</l>
+               <l facs="#facs_0042_03_05_1331-01_tr_1_tl_4">custbaer jaerlikʼ en̄ euwelekʼ renten op sijn huis ghestaen bidʼ vischmaerct . tusschen thuis daer nv in woent euʼdey Wilmaer . de</l>
+               <l facs="#facs_0042_03_05_1331-01_tr_1_tl_5">vischeʼ in deen side en̄ thuis daerop waert ghestaen opden hoec ane dandʼ side . en̄ op alle dat recht dat hi claus houdende es</l>
+               <l facs="#facs_0042_03_05_1331-01_tr_1_tl_6">ane den grond des sels huis en̄ ane al dat daer toe hoert Dat welke huis met alle den vorseiden rechte . de vorseide claus</l>
+               <l facs="#facs_0042_03_05_1331-01_tr_1_tl_7">sette en̄ vʼband tenen gherechten pande ouʼ de vorseide jaerlike en̄ euwelike rente tegheldene en̄ tegheuene alle jare van</l>
+               <l facs="#facs_0042_03_05_1331-01_tr_1_tl_8">den vorseiden clause en̄ van sinen nacomelinghen .. den vorseiden heʼn boidene en̄ sinen nacomelinghen deen heleft altoes te</l>
+               <l facs="#facs_0042_03_05_1331-01_tr_1_tl_9">kerssauonde . en̄ dandʼ heleft in sente jans daghe in midden somʼe . En̄ de vorseide claus gheloefde dat vorseide huis met den</l>
+               <l facs="#facs_0042_03_05_1331-01_tr_1_tl_10">gronde tewaerne den vorseiden heʼn boidene van lle cūmʼe en̄ calangen vtghenom̄ den cheins die daerop hebben</l>
+               <l facs="#facs_0042_03_05_1331-01_tr_1_tl_11">de papen vandʼ kerken inde borch tantwʼpen also wi vʼstoeden . Jn kennessen van desen letteʼn beseghelt met onsen ze</l>
+               <l facs="#facs_0042_03_05_1331-01_tr_1_tl_12">glen . Ghegheuen jnt jaer ons heʼn alsm̄ screef . M . CCC . Een en̄ derttech . des woensdaegs na meydach</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

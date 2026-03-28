@@ -14,23 +14,21 @@
    <facsimile>
       <surface ulx="0" uly="0" lrx="1650" lry="594" xml:id="facs_0010_01_03_1354-01">
          <graphic url="0010_01_03_1354-01.jpg" width="1650px" height="594px"/>
-         <zone points="94,98 94,572 1626,572 1626,98" rendition="TextRegion" xml:id="facs_0010_01_03_1354-01_tr_1">
-            <zone points="84,146 1606,139 1606,93 1352,114 1276,72 1037,114 602,53 539,93 461,59 382,97 175,51 84,80" rendition="Line" xml:id="facs_0010_01_03_1354-01_tr_1_tl_1" subtype="default"/>
-            <zone points="123,190 1578,184 1549,137 123,163" rendition="Line" xml:id="facs_0010_01_03_1354-01_tr_1_tl_2" subtype="default"/>
-            <zone points="120,249 1601,205 1601,169 122,188" rendition="Line" xml:id="facs_0010_01_03_1354-01_tr_1_tl_3" subtype="default"/>
-            <zone points="116,298 1603,241 1584,201 118,251" rendition="Line" xml:id="facs_0010_01_03_1354-01_tr_1_tl_4" subtype="default"/>
-            <zone points="114,347 1549,287 1603,241 116,298" rendition="Line" xml:id="facs_0010_01_03_1354-01_tr_1_tl_5" subtype="default"/>
-            <zone points="106,385 1454,327 1610,311 1612,279 108,344" rendition="Line" xml:id="facs_0010_01_03_1354-01_tr_1_tl_6" subtype="default"/>
-            <zone points="97,427 1603,346 1593,304 101,384" rendition="Line" xml:id="facs_0010_01_03_1354-01_tr_1_tl_7" subtype="default"/>
-            <zone points="97,482 1620,380 1591,342 1367,347 101,425" rendition="Line" xml:id="facs_0010_01_03_1354-01_tr_1_tl_8" subtype="default"/>
-            <zone points="99,530 1622,425 1620,380 1519,380 103,482" rendition="Line" xml:id="facs_0010_01_03_1354-01_tr_1_tl_9" subtype="default"/>
-            <zone points="101,572 593,593 186,592 593,593 207,592 593,593 296,583 593,593 393,592 444,562 593,593 1101,497 1481,484 1608,520 1616,423 103,534" rendition="Line" xml:id="facs_0010_01_03_1354-01_tr_1_tl_10" subtype="default"/>
-         </zone>
+         <zone points="84,146 1606,139 1606,93 1352,114 1276,72 1037,114 602,53 539,93 461,59 382,97 175,51 84,80" rendition="Line" xml:id="facs_0010_01_03_1354-01_tr_1_tl_1" subtype="default"/>
+         <zone points="123,190 1578,184 1549,137 123,163" rendition="Line" xml:id="facs_0010_01_03_1354-01_tr_1_tl_2" subtype="default"/>
+         <zone points="120,249 1601,205 1601,169 122,188" rendition="Line" xml:id="facs_0010_01_03_1354-01_tr_1_tl_3" subtype="default"/>
+         <zone points="116,298 1603,241 1584,201 118,251" rendition="Line" xml:id="facs_0010_01_03_1354-01_tr_1_tl_4" subtype="default"/>
+         <zone points="114,347 1549,287 1603,241 116,298" rendition="Line" xml:id="facs_0010_01_03_1354-01_tr_1_tl_5" subtype="default"/>
+         <zone points="106,385 1454,327 1610,311 1612,279 108,344" rendition="Line" xml:id="facs_0010_01_03_1354-01_tr_1_tl_6" subtype="default"/>
+         <zone points="97,427 1603,346 1593,304 101,384" rendition="Line" xml:id="facs_0010_01_03_1354-01_tr_1_tl_7" subtype="default"/>
+         <zone points="97,482 1620,380 1591,342 1367,347 101,425" rendition="Line" xml:id="facs_0010_01_03_1354-01_tr_1_tl_8" subtype="default"/>
+         <zone points="99,530 1622,425 1620,380 1519,380 103,482" rendition="Line" xml:id="facs_0010_01_03_1354-01_tr_1_tl_9" subtype="default"/>
+         <zone points="101,572 593,593 186,592 593,593 207,592 593,593 296,583 593,593 393,592 444,562 593,593 1101,497 1481,484 1608,520 1616,423 103,534" rendition="Line" xml:id="facs_0010_01_03_1354-01_tr_1_tl_10" subtype="default"/>
       </surface>
    </facsimile>
    <text>
       <body><div><pb facs="#facs_0010_01_03_1354-01" n="0010_01_03_1354-01" xml:id="img_0010_01_03_1354-01"/>
-            <ab facs="#facs_0010_01_03_1354-01_tr_1">
+            <ab>
                <l facs="#facs_0010_01_03_1354-01_tr_1_tl_1">Wij Willem de molenneʼ . ende Woutʼe vandē broeke scepenē Jn Anwʼpen maken cond dat vore ons quā mᵃgriete</l>
                <l facs="#facs_0010_01_03_1354-01_tr_1_tl_2">die wittelec wijf wilen was Jans molennʼen met horen montbore die hare ghegheuē was met den Rechte</l>
                <l facs="#facs_0010_01_03_1354-01_tr_1_tl_3">ende verliden dat si sculdech es van gherechteʼ scoud . siaers den godshuise vander ziekere liede bi ant-</l>

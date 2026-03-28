@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="2048" lry="1536" xml:id="facs_0412_29_03_1321-01">
+         <graphic url="0412_29_03_1321-01.jpg" width="2048px" height="1536px"/>
+         <zone points="486,513 1676,553 1685,504 1332,443 1036,499 484,454" rendition="Line" xml:id="facs_0412_29_03_1321-01_tr_1_tl_4" subtype="default"/>
+         <zone points="483,553 1650,580 1679,547 481,513" rendition="Line" xml:id="facs_0412_29_03_1321-01_tr_1_tl_5" subtype="default"/>
+         <zone points="492,588 1664,622 1679,579 490,559" rendition="Line" xml:id="facs_0412_29_03_1321-01_tr_1_tl_6" subtype="default"/>
+         <zone points="487,623 1685,644 1449,592 487,585" rendition="Line" xml:id="facs_0412_29_03_1321-01_tr_1_tl_7" subtype="default"/>
+         <zone points="484,656 1680,680 1679,640 1488,622 484,629" rendition="Line" xml:id="facs_0412_29_03_1321-01_tr_1_tl_8" subtype="default"/>
+         <zone points="486,697 1670,713 1670,677 484,655" rendition="Line" xml:id="facs_0412_29_03_1321-01_tr_1_tl_9" subtype="default"/>
+         <zone points="487,727 1679,739 1565,695 487,697" rendition="Line" xml:id="facs_0412_29_03_1321-01_tr_1_tl_10" subtype="default"/>
+         <zone points="481,777 617,746 1656,783 1655,740 1541,731 481,730" rendition="Line" xml:id="facs_0412_29_03_1321-01_tr_1_tl_11" subtype="default"/>
+         <zone points="490,797 1523,821 1670,815 1670,777 489,773" rendition="Line" xml:id="facs_0412_29_03_1321-01_tr_1_tl_12" subtype="default"/>
+         <zone points="484,840 1664,842 1598,804 484,797" rendition="Line" xml:id="facs_0412_29_03_1321-01_tr_1_tl_13" subtype="default"/>
+         <zone points="484,872 1643,897 1671,849 483,840" rendition="Line" xml:id="facs_0412_29_03_1321-01_tr_1_tl_14" subtype="default"/>
+         <zone points="487,906 1664,924 1601,876 487,870" rendition="Line" xml:id="facs_0412_29_03_1321-01_tr_1_tl_15" subtype="default"/>
+         <zone points="484,943 1652,945 1609,906 484,904" rendition="Line" xml:id="facs_0412_29_03_1321-01_tr_1_tl_16" subtype="default"/>
+         <zone points="484,976 537,976 544,981 567,979 567,948 552,951 538,943 526,951 511,939 507,942 502,939 492,948 484,948" rendition="Line" xml:id="facs_0412_29_03_1321-01_tr_1_tl_17" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0412_29_03_1321-01" n="0412_29_03_1321-01" xml:id="img_0412_29_03_1321-01"/>
+            <ab>
+               <l facs="#facs_0412_29_03_1321-01_tr_1_tl_4">Wi willem bornecolue en̄ Andries tuclant scepenen in Antwʼpen maken cont . Dat vore ons quā Jan van</l>
+               <l facs="#facs_0412_29_03_1321-01_tr_1_tl_5">borchstᵃten en̄ bekinde dat hi om ene sūme ghelds die hem wel vʼgouden es . vʼcocht heeft den con</l>
+               <l facs="#facs_0412_29_03_1321-01_tr_1_tl_6">uente van den broedeʼn der derder ordenen in Antwʼpen wonachtech in de mere drie halstʼ rogs</l>
+               <l facs="#facs_0412_29_03_1321-01_tr_1_tl_7">sjaers jaerlikʼ en̄ euwelikʼ renten op alselc guet alse hier na bescreuen staet . Dats tewetene</l>
+               <l facs="#facs_0412_29_03_1321-01_tr_1_tl_8">op tuee stucken lands die men heet de boudens houe . Op een bundʼ lands gheleghen tusschen</l>
+               <l facs="#facs_0412_29_03_1321-01_tr_1_tl_9">den plasch en̄ dellebroec . Op ene strepe lands die houdt een vieldendeel gheleghen tʼ voert</l>
+               <l facs="#facs_0412_29_03_1321-01_tr_1_tl_10">vore de scure . Op een bundʼ lands gheleghen biden guede tʼ vorst scrikende ouʼ die hʼstrate</l>
+               <l facs="#facs_0412_29_03_1321-01_tr_1_tl_11">en̄ op een vierdendeel lands gheleghen ten dorpe vore dat veken al binnen dʼ ꝓchien van</l>
+               <l facs="#facs_0412_29_03_1321-01_tr_1_tl_12">mortsele . also dat dit vorghenoemde guet al pand es des vorseids 9uents ouʼ de vorseidʼ drie</l>
+               <l facs="#facs_0412_29_03_1321-01_tr_1_tl_13">halstʼ rogs sjaers erflec guet en̄ custbaer mꝫ der maten van vantwʼpen teleuʼne alle jare</l>
+               <l facs="#facs_0412_29_03_1321-01_tr_1_tl_14">vanden vorseiden janne en̄ van sinen nacomelinghen . den vorseiden 9uente binnen Antwʼpen</l>
+               <l facs="#facs_0412_29_03_1321-01_tr_1_tl_15">ten huise des selfs 9uents telken kerssauonde . Jn kinnessen van desen lrēn beseghelt mꝫ</l>
+               <l facs="#facs_0412_29_03_1321-01_tr_1_tl_16">onsen seglen . Ghegheuen int jaer ons heʼn alsm̄ screef . M . CCC . en̄ tuintech te half-</l>
+               <l facs="#facs_0412_29_03_1321-01_tr_1_tl_17">vasten</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

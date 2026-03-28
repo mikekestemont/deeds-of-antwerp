@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3507" lry="2480" xml:id="facs_0125_08_07_1307-01">
+         <graphic url="0125_08_07_1307-01.jpg" width="3507px" height="2480px"/>
+         <zone points="594,572 2563,604 2563,525 2297,492 2079,530 1890,495 1790,540 1599,535 1524,485 1474,535 756,522 594,440" rendition="Line" xml:id="facs_0125_08_07_1307-01_tr_1_tl_1" subtype="default"/>
+         <zone points="597,646 835,689 922,649 1233,686 1303,651 1812,659 1870,694 2026,666 2064,704 2161,656 2215,691 2561,671 2509,584 2471,617 1817,589 1735,627 597,574" rendition="Line" xml:id="facs_0125_08_07_1307-01_tr_1_tl_2" subtype="default"/>
+         <zone points="597,766 1027,731 1330,776 1532,733 1832,778 1914,738 2088,786 2285,743 2489,788 2538,768 2538,699 2188,669 2096,714 1783,709 1599,659 1534,696 1181,659 1089,696 977,661 594,681" rendition="Line" xml:id="facs_0125_08_07_1307-01_tr_1_tl_3" subtype="default"/>
+         <zone points="599,835 1367,828 1681,873 1810,830 1865,868 2551,848 2551,758 2476,793 1982,791 1924,753 1646,788 1569,743 1522,786 915,741 843,776 803,738 599,766" rendition="Line" xml:id="facs_0125_08_07_1307-01_tr_1_tl_4" subtype="default"/>
+         <zone points="599,910 942,915 977,950 1228,910 1345,957 1392,912 1512,947 1890,922 1932,957 2079,917 2529,962 2573,952 2571,848 1837,880 1788,843 1696,878 1482,840 1231,873 1129,835 597,838" rendition="Line" xml:id="facs_0125_08_07_1307-01_tr_1_tl_5" subtype="default"/>
+         <zone points="597,1017 2578,1017 2578,950 2161,975 1882,930 1825,965 1773,927 1440,957 1385,922 977,957 597,910" rendition="Line" xml:id="facs_0125_08_07_1307-01_tr_1_tl_6" subtype="default"/>
+         <zone points="624,1109 2193,1094 2553,1154 2573,1034 1795,1052 1706,1012 1519,1049 1430,1004 1392,1044 1069,1012 743,1042 622,1004" rendition="Line" xml:id="facs_0125_08_07_1307-01_tr_1_tl_7" subtype="default"/>
+         <zone points="597,1183 2596,1221 2596,1154 2340,1114 2106,1114 2064,1151 1711,1111 1666,1146 1377,1141 1333,1104 1082,1139 940,1089 788,1141 597,1114" rendition="Line" xml:id="facs_0125_08_07_1307-01_tr_1_tl_8" subtype="default"/>
+         <zone points="649,1300 1313,1280 1586,1318 1768,1283 2081,1290 2170,1333 2409,1298 2469,1348 2556,1300 2556,1243 2446,1206 2379,1253 2260,1216 2185,1253 1909,1211 1860,1246 1631,1243 1589,1206 1171,1243 649,1208" rendition="Line" xml:id="facs_0125_08_07_1307-01_tr_1_tl_9" subtype="default"/>
+         <zone points="592,1380 2536,1407 2533,1318 994,1330 592,1285" rendition="Line" xml:id="facs_0125_08_07_1307-01_tr_1_tl_10" subtype="default"/>
+         <zone points="602,1477 917,1507 952,1469 1146,1469 1246,1509 1318,1467 1581,1502 1795,1474 1972,1509 2011,1467 2166,1517 2228,1479 2563,1484 2561,1437 2429,1410 599,1397" rendition="Line" xml:id="facs_0125_08_07_1307-01_tr_1_tl_11" subtype="default"/>
+         <zone points="639,1604 1278,1569 1440,1619 1880,1561 2573,1606 2571,1499 1447,1532 1156,1489 1014,1532 975,1497 639,1492" rendition="Line" xml:id="facs_0125_08_07_1307-01_tr_1_tl_12" subtype="default"/>
+         <zone points="612,1663 681,1693 813,1658 920,1708 1191,1653 1524,1708 1646,1668 1765,1701 2039,1658 2282,1701 2424,1661 2529,1706 2586,1673 2586,1606 2369,1624 2327,1581 1899,1624 1788,1591 1633,1626 1487,1591 1427,1628 1283,1589 612,1601" rendition="Line" xml:id="facs_0125_08_07_1307-01_tr_1_tl_13" subtype="default"/>
+         <zone points="592,1803 920,1755 980,1788 1062,1748 1251,1790 1509,1755 1546,1793 1653,1753 1750,1800 2566,1755 2499,1676 2243,1716 2071,1716 2031,1676 1795,1716 592,1676" rendition="Line" xml:id="facs_0125_08_07_1307-01_tr_1_tl_14" subtype="default"/>
+         <zone points="599,1850 776,1880 1047,1842 1178,1892 1524,1842 1624,1880 1914,1850 1972,1885 2066,1832 2556,1877 2556,1790 2325,1765 2076,1803 1382,1803 1298,1760 1052,1805 823,1765 599,1795" rendition="Line" xml:id="facs_0125_08_07_1307-01_tr_1_tl_15" subtype="default"/>
+         <zone points="592,1974 888,1994 1044,1934 1290,1999 1367,1942 1564,1942 1636,1987 1718,1939 1947,1942 1852,1880 1713,1867 592,1895" rendition="Line" xml:id="facs_0125_08_07_1307-01_tr_1_tl_16" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0125_08_07_1307-01" n="0125_08_07_1307-01" xml:id="img_0125_08_07_1307-01"/>
+            <ab>
+               <l facs="#facs_0125_08_07_1307-01_tr_1_tl_1">Wi claus canteman en̄ Symon spronc scepenē in Andwerpen maken kond allen den ghenen die dese</l>
+               <l facs="#facs_0125_08_07_1307-01_tr_1_tl_2">lettre zelen zien ochte horen lesen . dat vore ons comen es in ꝓpre ꝑsone Jan wayaerd . en̄ verlie</l>
+               <l facs="#facs_0125_08_07_1307-01_tr_1_tl_3">de vore ons dat hi vercocht heeft broeder delboude . meester vanden gasthuse in Andwerpen</l>
+               <l facs="#facs_0125_08_07_1307-01_tr_1_tl_4">ten gasthuse boef op siin huus staende in die cāmerstrate tusschen arnouds huus vandē putte</l>
+               <l facs="#facs_0125_08_07_1307-01_tr_1_tl_5">en̄ pieter gheldinghs huus en̄ op die hofstad daer thuus op staed en̄ op al dat recht dat</l>
+               <l facs="#facs_0125_08_07_1307-01_tr_1_tl_6">hi heeft an huse ende an lande voreghenoomd viertegh scellinghe sjaers erfleke omme ene</l>
+               <l facs="#facs_0125_08_07_1307-01_tr_1_tl_7">sūme van penninghen die Jan voreghenoomd verliede dat hem wel en̄ redenleke vergol-</l>
+               <l facs="#facs_0125_08_07_1307-01_tr_1_tl_8">den es . tegheldene ende te gheuene . de voreghenoomde viertegh scellinghe van Janne</l>
+               <l facs="#facs_0125_08_07_1307-01_tr_1_tl_9">voreghenoomd ende van zinen nacomelinghen . den voreghenoomden gasthuse alle jare</l>
+               <l facs="#facs_0125_08_07_1307-01_tr_1_tl_10">te tween terminen die hier naer bescreuen staen in alzelken paijemente als danne in</l>
+               <l facs="#facs_0125_08_07_1307-01_tr_1_tl_11">borsen zal gaen bin Andwerpen . dats te verstane die ene helft te kersauonde . en̄ dander</l>
+               <l facs="#facs_0125_08_07_1307-01_tr_1_tl_12">helft te sente Jans daghe in midden zomere . En̄ broeder delboud voreghenoomd bekende</l>
+               <l facs="#facs_0125_08_07_1307-01_tr_1_tl_13">vore ons dat Jan vander vlake dit ghelt betaelt hadde . daer bi zal tgasthuus vorseid</l>
+               <l facs="#facs_0125_08_07_1307-01_tr_1_tl_14">bernen . jaerlixs ene lampde in die capelle ten gasthuse . Jn orkonde van desen brie</l>
+               <l facs="#facs_0125_08_07_1307-01_tr_1_tl_15">ue beseghelt med onsen zeghelen . Dit was ghedaen jnt jaer ons heʼn als men screef</l>
+               <l facs="#facs_0125_08_07_1307-01_tr_1_tl_16">. M . CCC . en̄ zeuene . tsaterdaeghs voor alre apostele dagh</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

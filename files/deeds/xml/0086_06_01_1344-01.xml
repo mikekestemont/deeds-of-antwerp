@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="2048" lry="1536" xml:id="facs_0086_06_01_1344-01">
+         <graphic url="0086_06_01_1344-01.jpg" width="2048px" height="1536px"/>
+         <zone points="259,267 544,245 1372,306 1535,287 1534,236 255,173" rendition="Line" xml:id="facs_0086_06_01_1344-01_tr_1_tl_2" subtype="default"/>
+         <zone points="236,311 1559,338 1557,298 1481,283 234,255" rendition="Line" xml:id="facs_0086_06_01_1344-01_tr_1_tl_3" subtype="default"/>
+         <zone points="241,367 1503,400 1526,349 239,310" rendition="Line" xml:id="facs_0086_06_01_1344-01_tr_1_tl_4" subtype="default"/>
+         <zone points="236,423 539,399 580,432 671,395 1201,456 1504,435 1468,379 1155,399 870,354 236,395" rendition="Line" xml:id="facs_0086_06_01_1344-01_tr_1_tl_5" subtype="default"/>
+         <zone points="247,481 626,453 1369,514 1532,501 1531,430 1227,460 695,400 245,423" rendition="Line" xml:id="facs_0086_06_01_1344-01_tr_1_tl_6" subtype="default"/>
+         <zone points="247,544 723,507 1532,570 1531,493 245,481" rendition="Line" xml:id="facs_0086_06_01_1344-01_tr_1_tl_7" subtype="default"/>
+         <zone points="236,610 529,563 1514,600 1445,544 1241,565 814,514 236,545" rendition="Line" xml:id="facs_0086_06_01_1344-01_tr_1_tl_8" subtype="default"/>
+         <zone points="247,646 629,613 1470,651 1506,605 591,567 245,605" rendition="Line" xml:id="facs_0086_06_01_1344-01_tr_1_tl_9" subtype="default"/>
+         <zone points="247,685 890,666 1303,723 1519,705 1532,652 707,618 245,649" rendition="Line" xml:id="facs_0086_06_01_1344-01_tr_1_tl_10" subtype="default"/>
+         <zone points="247,733 695,715 1447,776 1507,753 1507,702 245,684" rendition="Line" xml:id="facs_0086_06_01_1344-01_tr_1_tl_11" subtype="default"/>
+         <zone points="245,781 1507,829 1531,746 1445,776 837,722 244,731" rendition="Line" xml:id="facs_0086_06_01_1344-01_tr_1_tl_12" subtype="default"/>
+         <zone points="264,835 1491,872 1522,829 262,779" rendition="Line" xml:id="facs_0086_06_01_1344-01_tr_1_tl_13" subtype="default"/>
+         <zone points="280,883 1532,916 1531,867 1466,852 280,837" rendition="Line" xml:id="facs_0086_06_01_1344-01_tr_1_tl_14" subtype="default"/>
+         <zone points="272,959 710,911 1478,982 1524,969 1522,911 829,873 270,908" rendition="Line" xml:id="facs_0086_06_01_1344-01_tr_1_tl_15" subtype="default"/>
+         <zone points="255,1010 697,959 1511,1018 1509,970 957,919 254,964" rendition="Line" xml:id="facs_0086_06_01_1344-01_tr_1_tl_16" subtype="default"/>
+         <zone points="262,1048 1119,1026 1501,1084 1499,1012 928,965 262,1010" rendition="Line" xml:id="facs_0086_06_01_1344-01_tr_1_tl_17" subtype="default"/>
+         <zone points="273,1099 911,1071 1456,1135 1517,1129 1517,1091 1086,1026 272,1053" rendition="Line" xml:id="facs_0086_06_01_1344-01_tr_1_tl_18" subtype="default"/>
+         <zone points="259,1163 939,1127 1512,1180 1498,1120 923,1077 259,1112" rendition="Line" xml:id="facs_0086_06_01_1344-01_tr_1_tl_19" subtype="default"/>
+         <zone points="259,1218 425,1189 565,1226 633,1189 702,1222 1104,1185 1104,1145 944,1157 896,1129 863,1155 707,1133 615,1163 260,1160" rendition="Line" xml:id="facs_0086_06_01_1344-01_tr_1_tl_20" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0086_06_01_1344-01" n="0086_06_01_1344-01" xml:id="img_0086_06_01_1344-01"/>
+            <ab>
+               <l facs="#facs_0086_06_01_1344-01_tr_1_tl_2">Wj Woutre vanden brueke en̄ peter van hoboken scepenē Jn Antwʼpen maken cont</l>
+               <l facs="#facs_0086_06_01_1344-01_tr_1_tl_3">dat vore ons quā Jan bode nv onse medescepene en̄ bekende dat hi om ene sūme</l>
+               <l facs="#facs_0086_06_01_1344-01_tr_1_tl_4">ghelds die hem al es vʼgouden . vʼcocht heeft wetteleke heinrike zudʼmanne</l>
+               <l facs="#facs_0086_06_01_1344-01_tr_1_tl_5">coepman van almāgen . die viue scellinghe oudʼ grotʼ tornoyse sjaers erfleke</l>
+               <l facs="#facs_0086_06_01_1344-01_tr_1_tl_6">van monten sconings van vᵃncrike erflekʼ en̄ euwelekʼ renten die hem Jan willēs</l>
+               <l facs="#facs_0086_06_01_1344-01_tr_1_tl_7">euerards sone jaerlijs sculdech was en tegheldene plach van enē ghedele in huis in</l>
+               <l facs="#facs_0086_06_01_1344-01_tr_1_tl_8">grond en̄ in dat daertoe hoert ghestaen ane die vischmarct tusschen willems</l>
+               <l facs="#facs_0086_06_01_1344-01_tr_1_tl_9">euerards huis . en̄ thuis dat m̄ heet de craye tegheldene elcs jaers te tween tʼmi-</l>
+               <l facs="#facs_0086_06_01_1344-01_tr_1_tl_10">nen . dats tewetene deen heleft elcs jaers tekerssauonde en̄ dandʼ heleft in sente</l>
+               <l facs="#facs_0086_06_01_1344-01_tr_1_tl_11">jans daghe in midden somʼe Jn alle dien vorwarden en̄ manieren dat scepenē</l>
+               <l facs="#facs_0086_06_01_1344-01_tr_1_tl_12">letteʼn spreken die daer op ghemaect sijn . dewelke letteʼn de vorseide jan bode ouʼghe</l>
+               <l facs="#facs_0086_06_01_1344-01_tr_1_tl_13">gheuen heeft den vorseiden heinrike in alle den rechte en̄ met alle den rechte dat</l>
+               <l facs="#facs_0086_06_01_1344-01_tr_1_tl_14">hi selue daer ane houdende was en̄ ane huis en̄ grond en̄ ane aldat daertoe hoert</l>
+               <l facs="#facs_0086_06_01_1344-01_tr_1_tl_15">Den welken vorseiden cheins met alle een dat de vorseide jan hadde ane tvorseide</l>
+               <l facs="#facs_0086_06_01_1344-01_tr_1_tl_16">huis en̄ grond en̄ ane dat daertoe hoert . de selue jan bode gheloefde tewaer</l>
+               <l facs="#facs_0086_06_01_1344-01_tr_1_tl_17">ne den vorseiden heinrike jaer en̄ dach quite en̄ los van allen calaengen</l>
+               <l facs="#facs_0086_06_01_1344-01_tr_1_tl_18">jeghen alle de ghene die rechte com̄ willen Jn kennessen van desen lrēn</l>
+               <l facs="#facs_0086_06_01_1344-01_tr_1_tl_19">beseghelt met onsen zeghlen . Ghegheuen jnt jaer ons heʼn alsm̄ screef .</l>
+               <l facs="#facs_0086_06_01_1344-01_tr_1_tl_20">M . CCC viertech en̄ drie . op den dertien dach</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

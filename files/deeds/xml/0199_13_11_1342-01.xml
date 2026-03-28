@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="2927" lry="2050" xml:id="facs_0199_13_11_1342-01">
+         <graphic url="0199_13_11_1342-01.jpg" width="2927px" height="2050px"/>
+         <zone points="11,349 799,359 1260,316 1438,359 1845,316 1896,352 2034,309 2139,341 2778,301 2778,229 2629,203 2437,203 2368,251 2244,200 2081,229 1983,178 1808,247 1111,225 959,283 614,196 468,265 229,149 11,127" rendition="Line" xml:id="facs_0199_13_11_1342-01_tr_1_tl_1" subtype="default"/>
+         <zone points="11,418 327,461 792,399 1137,439 1253,399 1442,443 1674,403 2037,428 2171,385 2313,425 2829,399 2829,338 2683,301 2030,312 1939,356 1841,316 1569,356 1216,316 11,370" rendition="Line" xml:id="facs_0199_13_11_1342-01_tr_1_tl_2" subtype="default"/>
+         <zone points="4,519 363,556 432,512 548,556 610,508 864,527 1093,487 1267,548 1703,490 2055,530 2106,487 2346,479 2447,527 2604,487 2832,508 2832,399 2313,425 2171,385 2026,432 1489,407 1442,443 788,399 686,443 497,414 330,458 4,414" rendition="Line" xml:id="facs_0199_13_11_1342-01_tr_1_tl_3" subtype="default"/>
+         <zone points="0,632 207,657 443,596 574,635 959,592 1060,635 1166,581 1325,628 1692,585 2843,606 2843,519 2745,487 2440,527 2346,479 2102,487 2059,527 1362,508 1267,545 1144,487 788,537 596,512 545,556 211,519 0,570" rendition="Line" xml:id="facs_0199_13_11_1342-01_tr_1_tl_4" subtype="default"/>
+         <zone points="0,770 1035,686 2847,686 2847,603 2687,625 2549,585 2411,621 2175,577 2041,621 1990,585 1558,621 1503,588 1423,635 1169,585 1057,635 951,592 817,639 606,614 505,661 399,621 149,668 0,643" rendition="Line" xml:id="facs_0199_13_11_1342-01_tr_1_tl_5" subtype="default"/>
+         <zone points="0,853 113,821 381,853 487,813 701,850 977,792 1093,832 1336,777 1423,821 1471,781 1776,828 2041,784 2164,817 2215,773 2346,821 2404,773 2502,810 2618,766 2883,777 2887,679 2549,719 2477,679 2211,715 2110,683 1925,730 1736,686 1068,730 908,694 625,744 421,712 251,770 62,734 0,770" rendition="Line" xml:id="facs_0199_13_11_1342-01_tr_1_tl_6" subtype="default"/>
+         <zone points="4,933 171,970 472,919 646,962 708,922 901,948 1006,897 1169,897 1216,940 1456,882 1674,933 1732,893 1801,922 2121,872 2320,930 2571,879 2807,893 2854,879 2858,773 2618,766 2371,828 2230,788 1442,824 1311,781 1129,839 970,792 853,864 773,839 704,875 625,813 483,857 120,824 4,861" rendition="Line" xml:id="facs_0199_13_11_1342-01_tr_1_tl_7" subtype="default"/>
+         <zone points="0,1075 229,1031 734,1060 1187,1002 1540,1031 1598,991 1797,1049 1852,1006 2008,1042 2262,988 2455,1020 2694,980 2832,1020 2858,879 2244,940 2059,882 1678,933 1460,882 1351,951 1264,897 1147,948 1024,901 839,966 715,930 654,977 512,922 145,973 94,926 0,951" rendition="Line" xml:id="facs_0199_13_11_1342-01_tr_1_tl_8" subtype="default"/>
+         <zone points="0,1144 232,1173 962,1108 1031,1144 1380,1140 1587,1097 2012,1133 2201,1086 2549,1111 2694,1075 2840,1122 2869,1020 2694,980 2571,1024 2240,988 2106,1039 1801,1053 1616,999 1492,1046 1354,991 1253,1031 832,1024 730,1060 635,1024 534,1071 229,1031 0,1075" rendition="Line" xml:id="facs_0199_13_11_1342-01_tr_1_tl_9" subtype="default"/>
+         <zone points="0,1246 240,1235 410,1282 490,1220 527,1253 588,1213 930,1246 1097,1198 1718,1213 1972,1166 2041,1206 2578,1169 2680,1206 2821,1180 2825,1108 2477,1086 2349,1129 2284,1082 2019,1129 1594,1093 1307,1144 1002,1147 962,1108 650,1155 0,1151" rendition="Line" xml:id="facs_0199_13_11_1342-01_tr_1_tl_10" subtype="default"/>
+         <zone points="0,1384 864,1289 977,1336 1845,1271 2041,1318 2146,1278 2556,1325 2792,1253 2912,1264 2912,1151 2872,1147 2669,1206 2440,1166 2288,1220 1972,1169 1794,1224 1213,1191 926,1249 592,1213 527,1253 490,1220 410,1278 0,1242" rendition="Line" xml:id="facs_0199_13_11_1342-01_tr_1_tl_11" subtype="default"/>
+         <zone points="7,1449 574,1471 625,1423 908,1442 1140,1391 1667,1434 1917,1380 2295,1434 2375,1384 2633,1413 2745,1376 2890,1423 2894,1285 2662,1285 2585,1340 2146,1278 2012,1329 1874,1285 1471,1318 1416,1282 1340,1336 755,1296 421,1369 316,1336 145,1391 7,1380" rendition="Line" xml:id="facs_0199_13_11_1342-01_tr_1_tl_12" subtype="default"/>
+         <zone points="4,1554 178,1594 251,1540 821,1540 868,1492 1191,1536 1315,1489 1431,1532 1529,1496 1703,1521 1772,1478 2219,1518 2778,1474 2872,1532 2872,1427 2749,1380 2662,1420 2375,1384 2295,1434 2030,1380 1975,1423 1580,1402 1532,1438 1471,1391 1369,1431 1111,1398 450,1471 396,1434 200,1492 4,1445" rendition="Line" xml:id="facs_0199_13_11_1342-01_tr_1_tl_13" subtype="default"/>
+         <zone points="25,1681 472,1609 839,1634 970,1594 1231,1620 1315,1580 1485,1659 1634,1587 2066,1634 2440,1598 2669,1656 2811,1601 2880,1620 2840,1514 2614,1478 2371,1540 2106,1485 1333,1540 868,1492 821,1540 657,1511 247,1543 189,1598 120,1554 29,1583" rendition="Line" xml:id="facs_0199_13_11_1342-01_tr_1_tl_14" subtype="default"/>
+         <zone points="44,1765 225,1732 265,1772 396,1714 828,1761 1071,1707 1304,1758 1427,1692 1609,1765 1696,1728 1979,1768 2157,1707 2422,1754 2912,1725 2912,1616 2814,1601 2665,1656 2440,1598 2059,1630 1910,1590 1856,1630 1808,1594 1732,1630 1678,1590 1380,1620 1285,1583 1227,1620 1057,1594 537,1641 472,1609 367,1656 44,1667" rendition="Line" xml:id="facs_0199_13_11_1342-01_tr_1_tl_15" subtype="default"/>
+         <zone points="58,1837 236,1866 341,1827 432,1874 748,1823 937,1863 1275,1790 1362,1848 1569,1805 1699,1859 1856,1816 2106,1856 2164,1823 2331,1841 2400,1903 2662,1899 2662,1728 2360,1761 2157,1710 1983,1768 1696,1725 1609,1761 1438,1689 1246,1765 1122,1710 792,1761 399,1718 323,1761 58,1754" rendition="Line" xml:id="facs_0199_13_11_1342-01_tr_1_tl_16" subtype="default"/>
+         <zone points="58,1921 389,1986 2070,1979 2070,1819 1369,1856 1267,1794 1104,1856 577,1823 432,1874 341,1827 58,1863" rendition="Line" xml:id="facs_0199_13_11_1342-01_tr_1_tl_17" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0199_13_11_1342-01" n="0199_13_11_1342-01" xml:id="img_0199_13_11_1342-01"/>
+            <ab>
+               <l facs="#facs_0199_13_11_1342-01_tr_1_tl_1">Wj Willem de moelnʼe en̄ Woutre vanden brueke scepenē Jn Antwʼpen maken cont . dat vore</l>
+               <l facs="#facs_0199_13_11_1342-01_tr_1_tl_2">ons quā heinric vanden velde . En̄ bekende dat hi om ene sūme ghelds die hē wel es vʼgou-</l>
+               <l facs="#facs_0199_13_11_1342-01_tr_1_tl_3">den . vʼcocht heeft wetteleke Willeme limpiase . twee guldene hellinghe sjaers erfleke van flo</l>
+               <l facs="#facs_0199_13_11_1342-01_tr_1_tl_4">renche goed en̄ custbaer oft de wʼde daer af in goeden andren ghelde op sijn huis ghe-</l>
+               <l facs="#facs_0199_13_11_1342-01_tr_1_tl_5">staen inde strate gheheten dclene sceldeken streckende van des cloestʼs mure tote sente jans</l>
+               <l facs="#facs_0199_13_11_1342-01_tr_1_tl_6">Wʼue . en̄ op de twee hofstaden daer tvorseide huis op ghestaen es en̄ op al dat daer toe hoert</l>
+               <l facs="#facs_0199_13_11_1342-01_tr_1_tl_7">en̄ op beide de vischputten die daer op ghestaen sijn en̄ op dat daertoe hoert . dat welke huis</l>
+               <l facs="#facs_0199_13_11_1342-01_tr_1_tl_8">hofstaden en̄ vischputten en̄ dat daertoe hoert ghelijc dat si gheleghen sijn naest wouters cous-</l>
+               <l facs="#facs_0199_13_11_1342-01_tr_1_tl_9">mans huise ten wʼue wort . de vorseide heinric vʼbant tenen pande ouʼ de vorseide erf-</l>
+               <l facs="#facs_0199_13_11_1342-01_tr_1_tl_10">leke rente tegheldene en̄ tegheuene alle jare vanden vorseiden vorseidē heinrike en̄ van</l>
+               <l facs="#facs_0199_13_11_1342-01_tr_1_tl_11">sinē nacomelīghen .. den vorseiden willeme en̄ sinē nacomelinghen op sente bauen dach</l>
+               <l facs="#facs_0199_13_11_1342-01_tr_1_tl_12">voert gheloefde de vorseide heinric dit vorseide huis . hofstaden vischputten en̄ al dat</l>
+               <l facs="#facs_0199_13_11_1342-01_tr_1_tl_13">daer toe hoert . tewaerne den vorseiden willeme quite en̄ los van allen cūmʼe op</l>
+               <l facs="#facs_0199_13_11_1342-01_tr_1_tl_14">twintech grote tornoyse sjaers dier vte gaen . en̄ dat hi en̄ sijn nacomelinghe tvor</l>
+               <l facs="#facs_0199_13_11_1342-01_tr_1_tl_15">seids huis altoes selen houden loflec en̄ wel in sinen ghereid . Jn kennessen van desen</l>
+               <l facs="#facs_0199_13_11_1342-01_tr_1_tl_16">letteʼn bezeghelt met onsen zeghlen Gegheuen int jaer ons heʼn alsm̄ screef</l>
+               <l facs="#facs_0199_13_11_1342-01_tr_1_tl_17">viertech en̄ twee . des woensdaegs na sente mertens dach</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

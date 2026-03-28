@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3507" lry="2480" xml:id="facs_0109_07_04_1351-01">
+         <graphic url="0109_07_04_1351-01.jpg" width="3507px" height="2480px"/>
+         <zone points="561,935 2797,999 2758,888 2562,946 2227,941 2018,927 1954,882 1901,918 1468,910 656,876 558,835" rendition="Line" xml:id="facs_0109_07_04_1351-01_tr_1_tl_1" subtype="default"/>
+         <zone points="575,994 2752,1041 2749,999 2688,994 572,935" rendition="Line" xml:id="facs_0109_07_04_1351-01_tr_1_tl_2" subtype="default"/>
+         <zone points="564,1033 2791,1111 2788,1027 2526,1063 1237,985 564,996" rendition="Line" xml:id="facs_0109_07_04_1351-01_tr_1_tl_3" subtype="default"/>
+         <zone points="567,1103 1097,1080 2629,1164 2786,1158 2805,1111 564,1033" rendition="Line" xml:id="facs_0109_07_04_1351-01_tr_1_tl_4" subtype="default"/>
+         <zone points="572,1164 1027,1130 2744,1200 2724,1144 1136,1077 572,1103" rendition="Line" xml:id="facs_0109_07_04_1351-01_tr_1_tl_5" subtype="default"/>
+         <zone points="550,1197 2788,1242 2788,1200 2607,1181 550,1136" rendition="Line" xml:id="facs_0109_07_04_1351-01_tr_1_tl_6" subtype="default"/>
+         <zone points="555,1248 2749,1304 2749,1248 2646,1239 762,1178 555,1206" rendition="Line" xml:id="facs_0109_07_04_1351-01_tr_1_tl_7" subtype="default"/>
+         <zone points="555,1312 1451,1295 2794,1357 2791,1301 2599,1287 553,1250" rendition="Line" xml:id="facs_0109_07_04_1351-01_tr_1_tl_8" subtype="default"/>
+         <zone points="555,1359 2791,1407 2788,1362 2590,1337 555,1312" rendition="Line" xml:id="facs_0109_07_04_1351-01_tr_1_tl_9" subtype="default"/>
+         <zone points="555,1407 2788,1463 2786,1407 2713,1396 555,1362" rendition="Line" xml:id="facs_0109_07_04_1351-01_tr_1_tl_10" subtype="default"/>
+         <zone points="550,1482 622,1496 689,1488 731,1460 885,1457 921,1488 1052,1457 1052,1426 1008,1404 977,1421 790,1426 756,1404 734,1424 678,1407 639,1432 553,1429" rendition="Line" xml:id="facs_0109_07_04_1351-01_tr_1_tl_11" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0109_07_04_1351-01" n="0109_07_04_1351-01" xml:id="img_0109_07_04_1351-01"/>
+            <ab>
+               <l facs="#facs_0109_07_04_1351-01_tr_1_tl_1">Wij willem de molennʼe ende Jan van Wineghem Scepenen Jn Antwʼpen maken cond dat vore ons quam Peter drake die zone wilen was</l>
+               <l facs="#facs_0109_07_04_1351-01_tr_1_tl_2">peters dracs ende bekinde dat hi ōme eene sūme ghelds die hem al es vorgouden wittelec vercocht heeft der meestʼsen vanden</l>
+               <l facs="#facs_0109_07_04_1351-01_tr_1_tl_3">ouden ghasthuse in antwʼpen ten seluen ghasthuise behoef te pytanten . die drie ghedele van sessen ende twinteghen scellinghen</l>
+               <l facs="#facs_0109_07_04_1351-01_tr_1_tl_4">swerter tornoysen ende seuenen hoendeʼn luttel min oftt meer die hi petʼ siaers hadde en̄ houdende was tʼstat rechte met den</l>
+               <l facs="#facs_0109_07_04_1351-01_tr_1_tl_5">eyghendome . dat daer toe behoert op eene hofstat die gheleghen es buten sente Jorijs porte biden nōnen ende die mʼgiete</l>
+               <l facs="#facs_0109_07_04_1351-01_tr_1_tl_6">langhinne nv houdende es . te heffene ende te hebbene alle jaere den vorgh̄ cheins op sente bauen dach . den welken vorseidē</l>
+               <l facs="#facs_0109_07_04_1351-01_tr_1_tl_7">cheins met den eyghendome dat daer toe behoert . de vorghenomde peter op droch der vorgh̄deʼ meestʼsen tote des vorseids</l>
+               <l facs="#facs_0109_07_04_1351-01_tr_1_tl_8">ghasthuis behoef en̄ quite scoud tharen behoef ende bekinde dat hi en gheen recht daer ane en behilt . en̄ ghelofdene mede</l>
+               <l facs="#facs_0109_07_04_1351-01_tr_1_tl_9">te waerne Jaer ende dach van allen kūmʼe ende calaingen jeghen alle die ghene die te rechte comen willen . Jn kennissen vā</l>
+               <l facs="#facs_0109_07_04_1351-01_tr_1_tl_10">desen lrēn besegl̄t met onsen seglen . Ghegheuen int Jaer ons heʼn alsmen screef . M . CCC en̄ wiftech opden seuenden dach</l>
+               <l facs="#facs_0109_07_04_1351-01_tr_1_tl_11">vandʼ maent van aprille</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

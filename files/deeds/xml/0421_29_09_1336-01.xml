@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3507" lry="2480" xml:id="facs_0421_29_09_1336-01">
+         <graphic url="0421_29_09_1336-01.jpg" width="3507px" height="2480px"/>
+         <zone points="275,647 1897,573 2436,633 2919,620 2919,529 2440,553 2239,509 2162,546 1964,536 1920,496 1260,543 1106,513 992,550 952,519 737,570 275,556" rendition="Line" xml:id="facs_0421_29_09_1336-01_tr_1_tl_3" subtype="default"/>
+         <zone points="285,710 1659,637 2031,643 2125,687 2168,650 2269,690 2939,680 2939,630 2882,607 2433,633 1769,573 285,653" rendition="Line" xml:id="facs_0421_29_09_1336-01_tr_1_tl_4" subtype="default"/>
+         <zone points="285,777 1639,697 2426,727 2477,761 2946,747 2946,677 2775,660 2580,697 1656,643 285,710" rendition="Line" xml:id="facs_0421_29_09_1336-01_tr_1_tl_5" subtype="default"/>
+         <zone points="288,878 506,821 1290,804 1431,764 2245,818 2956,808 2956,744 2916,734 2467,761 1642,697 288,794" rendition="Line" xml:id="facs_0421_29_09_1336-01_tr_1_tl_6" subtype="default"/>
+         <zone points="292,912 1488,824 1689,865 1816,838 1853,875 1893,838 2929,865 2929,804 2245,818 1431,764 516,821 292,875" rendition="Line" xml:id="facs_0421_29_09_1336-01_tr_1_tl_7" subtype="default"/>
+         <zone points="292,999 922,905 1622,895 1672,928 1843,895 2651,952 2959,922 2959,865 2426,885 1491,828 292,922" rendition="Line" xml:id="facs_0421_29_09_1336-01_tr_1_tl_8" subtype="default"/>
+         <zone points="288,1046 607,1042 657,995 935,1015 1200,958 2738,1025 2983,995 2983,925 2929,912 2849,952 2443,955 1542,895 1123,938 925,908 868,948 462,955 288,1005" rendition="Line" xml:id="facs_0421_29_09_1336-01_tr_1_tl_9" subtype="default"/>
+         <zone points="288,1123 1243,1019 1719,1059 2138,1029 2138,992 2041,979 1206,958 292,1062" rendition="Line" xml:id="facs_0421_29_09_1336-01_tr_1_tl_10" subtype="default"/>
+         <zone points="288,1176 1206,1086 1656,1133 1759,1099 2969,1089 2969,992 2932,985 1981,1062 1036,1032 288,1123" rendition="Line" xml:id="facs_0421_29_09_1336-01_tr_1_tl_11" subtype="default"/>
+         <zone points="305,1273 690,1186 737,1230 868,1180 1015,1217 1250,1156 1314,1206 1381,1176 1823,1210 1920,1173 2108,1213 2155,1170 2202,1206 2275,1166 2544,1200 2647,1149 2849,1196 2973,1149 2973,1086 2798,1079 2704,1116 2627,1079 1867,1133 1588,1096 1156,1129 1093,1093 305,1176" rendition="Line" xml:id="facs_0421_29_09_1336-01_tr_1_tl_12" subtype="default"/>
+         <zone points="302,1310 382,1337 422,1307 449,1320 536,1277 633,1287 643,1203 597,1206 573,1227 546,1210 516,1233 479,1217 416,1230 372,1263 359,1250 328,1273 308,1270" rendition="Line" xml:id="facs_0421_29_09_1336-01_tr_1_tl_13" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0421_29_09_1336-01" n="0421_29_09_1336-01" xml:id="img_0421_29_09_1336-01"/>
+            <ab>
+               <l facs="#facs_0421_29_09_1336-01_tr_1_tl_3">Wi Jan vanden werue . ende Claus wilmaer scepenen in antwʼpen makeʼn cond . Dat vore ons quā Arnoud Jhan . ende bekinde dat hi</l>
+               <l facs="#facs_0421_29_09_1336-01_tr_1_tl_4">wittelec vʼcocht heeft ōme ene sūme ghelds daer hi hem altemale af bekinde vʼgouden . meestʼ clause vande borch ꝓchiaen hʼen clause</l>
+               <l facs="#facs_0421_29_09_1336-01_tr_1_tl_5">den Romeyn . ende meestʼ Janne van nodenbeke . canoncke van onser vrouwe kerke in antwʼpen en̄ executore also wi vʼstaen hebben shʼ</l>
+               <l facs="#facs_0421_29_09_1336-01_tr_1_tl_6">jans van brusele Coerdeken wilen vander vorgh̄ kerken en̄ tʼ vorgh̄ executien behoef . Achtienne scellinghe payments siaers jaerleckʼ</l>
+               <l facs="#facs_0421_29_09_1336-01_tr_1_tl_7">renten daermen bier broec . wijn en̄ clene pēnnwaerde ōme mach coepē op den dach datmen siaers de vorgh̄ rente tegheuene</l>
+               <l facs="#facs_0421_29_09_1336-01_tr_1_tl_8">pleeght . Op een half huis dat ghestaen es in clene coppenhole naest heinrijcs rattiers huise te grote coppenhole wʼt . jn allen dien ma-</l>
+               <l facs="#facs_0421_29_09_1336-01_tr_1_tl_9">nieren en̄ rechte dat de vorgh̄ Achtienne scellinghe den seluē arnoudejhanne toe behoerden . De welke rente de vorgh̄ arnoud Jhan</l>
+               <l facs="#facs_0421_29_09_1336-01_tr_1_tl_10">gheloefde te waerne . jaer en̄ dach jeghen alle de ghene die te rechte comen willen . D@@@@@</l>
+               <l facs="#facs_0421_29_09_1336-01_tr_1_tl_11">Rente bekeʼn en̄ gheuen selen moghen vore des vorghenoemds shʼ jans ziele . waer . en̄ wien dat si willen . sonder yemens calange</l>
+               <l facs="#facs_0421_29_09_1336-01_tr_1_tl_12">Jn kennissen van desen lettren beseghelt met onsen seglen . Ghegheuē jnt jaer ons heʼn alsmē̄ screef M . CCC sesse en̄ dertech op sente</l>
+               <l facs="#facs_0421_29_09_1336-01_tr_1_tl_13">Michiels dach</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

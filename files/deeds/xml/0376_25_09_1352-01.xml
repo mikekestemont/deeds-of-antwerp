@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3507" lry="2480" xml:id="facs_0376_25_09_1352-01">
+         <graphic url="0376_25_09_1352-01.jpg" width="3507px" height="2480px"/>
+         <zone points="441,1093 2742,1134 2799,1125 2799,1057 2296,971 2051,1039 1962,1000 1876,1051 1653,997 1227,1045 1128,980 977,1039 438,980" rendition="Line" xml:id="facs_0376_25_09_1352-01_tr_1_tl_1" subtype="default"/>
+         <zone points="462,1140 2489,1188 2769,1182 2811,1131 459,1075" rendition="Line" xml:id="facs_0376_25_09_1352-01_tr_1_tl_2" subtype="default"/>
+         <zone points="470,1176 2778,1254 2778,1182 2638,1161 470,1137" rendition="Line" xml:id="facs_0376_25_09_1352-01_tr_1_tl_3" subtype="default"/>
+         <zone points="444,1242 2781,1295 2778,1242 2713,1224 444,1194" rendition="Line" xml:id="facs_0376_25_09_1352-01_tr_1_tl_4" subtype="default"/>
+         <zone points="450,1289 2835,1346 2835,1280 2796,1274 2376,1298 450,1236" rendition="Line" xml:id="facs_0376_25_09_1352-01_tr_1_tl_5" subtype="default"/>
+         <zone points="450,1352 2442,1420 2790,1411 2814,1352 447,1292" rendition="Line" xml:id="facs_0376_25_09_1352-01_tr_1_tl_6" subtype="default"/>
+         <zone points="453,1408 917,1390 2501,1483 2745,1477 2790,1462 2787,1399 450,1349" rendition="Line" xml:id="facs_0376_25_09_1352-01_tr_1_tl_7" subtype="default"/>
+         <zone points="464,1468 2817,1519 2814,1438 2498,1486 1551,1414 462,1405" rendition="Line" xml:id="facs_0376_25_09_1352-01_tr_1_tl_8" subtype="default"/>
+         <zone points="456,1527 750,1504 2534,1605 2823,1578 2787,1516 453,1459" rendition="Line" xml:id="facs_0376_25_09_1352-01_tr_1_tl_9" subtype="default"/>
+         <zone points="438,1575 1635,1605 1882,1667 2001,1623 2132,1667 2180,1629 2233,1670 2394,1647 2552,1697 2829,1658 2802,1581 1977,1584 756,1507 438,1533" rendition="Line" xml:id="facs_0376_25_09_1352-01_tr_1_tl_10" subtype="default"/>
+         <zone points="429,1688 965,1647 1128,1706 1319,1664 1655,1685 1653,1605 426,1587" rendition="Line" xml:id="facs_0376_25_09_1352-01_tr_1_tl_11" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0376_25_09_1352-01" n="0376_25_09_1352-01" xml:id="img_0376_25_09_1352-01"/>
+            <ab>
+               <l facs="#facs_0376_25_09_1352-01_tr_1_tl_1">Wij willem de molennʼe ende claus colute Scepenen in antwʼpen maken cond dat vore ons quamen Jan van Cothen en̄ heinrijc</l>
+               <l facs="#facs_0376_25_09_1352-01_tr_1_tl_2">van loenhout de smet ende bekinden onderlinghe dat de vorgh̄ san van cothen ghegheuen heeft terue enden erflaken rechte den</l>
+               <l facs="#facs_0376_25_09_1352-01_tr_1_tl_3">seluen heinrike van loenhout te houdene ende te hebbene Eene halue hofstat die gheleghen es ane de veemaerce tusschen jacops</l>
+               <l facs="#facs_0376_25_09_1352-01_tr_1_tl_4">van brucelle ane deene side . ende sh̄ claus kenpenʼen pⁱsters ane dander side siaers ōme enen guldenen pēninc diemen heet</l>
+               <l facs="#facs_0376_25_09_1352-01_tr_1_tl_5">ouden scilt goed ende custbaer jaerleckʼ ende erflaker renten tegheldene ende te gheuene alle jaere vanden vorghenōden heinrike</l>
+               <l facs="#facs_0376_25_09_1352-01_tr_1_tl_6">ende van sinen nacomenlinghen den vorgh̄ Janne van cothen en̄ sinen nacomenlinghen op sente Jans dach bap̄ten in midden</l>
+               <l facs="#facs_0376_25_09_1352-01_tr_1_tl_7">zomʼe . ende met alselken vorwʼdden dat de vorgh̄ heinrijc ende sine nacomenlinghe ghelden selen elcs siaers alselken cheins</l>
+               <l facs="#facs_0376_25_09_1352-01_tr_1_tl_8">als ramont vanden wʼue siaers heeft op de vorgh̄ halue hofstat sonder kūmer ende scade des vorgh̄ Jans van cothen en̄</l>
+               <l facs="#facs_0376_25_09_1352-01_tr_1_tl_9">sier nacomenlinghe ende hiertoe soe heeft de vorgh̄ heinrijc vʼbonden ende te pande gheset de vorgh̄ halue hofstat ende al</l>
+               <l facs="#facs_0376_25_09_1352-01_tr_1_tl_10">siin goet Jn kennissen van desen lrēn beseghelt met onsen seglen Ghegheuen int jaer ons heʼn alsmen screef M . CCC .</l>
+               <l facs="#facs_0376_25_09_1352-01_tr_1_tl_11">viiftech ende twee des dinsendags na sente matheus dach</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

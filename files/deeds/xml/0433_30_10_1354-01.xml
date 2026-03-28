@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="2048" lry="1536" xml:id="facs_0433_30_10_1354-01">
+         <graphic url="0433_30_10_1354-01.jpg" width="2048px" height="1536px"/>
+         <zone points="500,259 1708,309 1746,300 1745,227 1661,265 1496,200 1190,244 1098,201 1028,233 498,213" rendition="Line" xml:id="facs_0433_30_10_1354-01_tr_1_tl_5" subtype="default"/>
+         <zone points="511,300 1700,355 1713,311 509,260" rendition="Line" xml:id="facs_0433_30_10_1354-01_l" subtype="default"/>
+         <zone points="512,360 809,332 1693,390 1724,339 509,298" rendition="Line" xml:id="facs_0433_30_10_1354-01_tr_1_tl_8" subtype="default"/>
+         <zone points="514,390 1207,382 1737,433 1745,373 512,358" rendition="Line" xml:id="facs_0433_30_10_1354-01_tr_1_tl_9" subtype="default"/>
+         <zone points="508,425 1758,458 1756,427 1347,389 508,393" rendition="Line" xml:id="facs_0433_30_10_1354-01_tr_1_tl_10" subtype="default"/>
+         <zone points="511,455 1715,508 1783,496 1781,454 509,425" rendition="Line" xml:id="facs_0433_30_10_1354-01_tr_1_tl_11" subtype="default"/>
+         <zone points="516,492 1734,535 1681,493 1272,462 516,465" rendition="Line" xml:id="facs_0433_30_10_1354-01_tr_1_tl_12" subtype="default"/>
+         <zone points="511,541 1058,528 1712,582 1721,530 509,501" rendition="Line" xml:id="facs_0433_30_10_1354-01_l_1" subtype="default"/>
+         <zone points="511,576 1114,565 1631,617 1759,604 1759,571 509,539" rendition="Line" xml:id="facs_0433_30_10_1354-01_l_2" subtype="default"/>
+         <zone points="519,609 1742,638 1716,604 1115,566 519,577" rendition="Line" xml:id="facs_0433_30_10_1354-01_l_3" subtype="default"/>
+         <zone points="511,652 1740,677 1712,633 1064,601 511,617" rendition="Line" xml:id="facs_0433_30_10_1354-01_l_4" subtype="default"/>
+         <zone points="519,701 1743,709 1742,673 1432,658 519,657" rendition="Line" xml:id="facs_0433_30_10_1354-01_tr_1_tl_21" subtype="default"/>
+         <zone points="511,747 1750,741 1727,706 1217,685 511,712" rendition="Line" xml:id="facs_0433_30_10_1354-01_tr_1_tl_22" subtype="default"/>
+         <zone points="514,774 1689,792 1746,782 1746,741 512,742" rendition="Line" xml:id="facs_0433_30_10_1354-01_tr_1_tl_23" subtype="default"/>
+         <zone points="514,811 1743,814 1721,773 514,774" rendition="Line" xml:id="facs_0433_30_10_1354-01_tr_1_tl_24" subtype="default"/>
+         <zone points="519,860 1765,845 1754,806 519,817" rendition="Line" xml:id="facs_0433_30_10_1354-01_tr_1_tl_25" subtype="default"/>
+         <zone points="511,903 1746,887 1724,847 511,871" rendition="Line" xml:id="facs_0433_30_10_1354-01_tr_1_tl_26" subtype="default"/>
+         <zone points="508,947 1743,922 1743,890 1509,882 508,909" rendition="Line" xml:id="facs_0433_30_10_1354-01_tr_1_tl_27" subtype="default"/>
+         <zone points="508,987 1647,977 1739,957 1740,918 508,947" rendition="Line" xml:id="facs_0433_30_10_1354-01_tr_1_tl_28" subtype="default"/>
+         <zone points="514,1020 1759,991 1748,952 514,990" rendition="Line" xml:id="facs_0433_30_10_1354-01_tr_1_tl_29" subtype="default"/>
+         <zone points="509,1061 1732,1034 1732,999 1631,985 1439,1022 511,1017" rendition="Line" xml:id="facs_0433_30_10_1354-01_tr_1_tl_30" subtype="default"/>
+         <zone points="525,1106 1761,1099 1761,1025 525,1058" rendition="Line" xml:id="facs_0433_30_10_1354-01_tr_1_tl_31" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0433_30_10_1354-01" n="0433_30_10_1354-01" xml:id="img_0433_30_10_1354-01"/>
+            <ab>
+               <l facs="#facs_0433_30_10_1354-01_tr_1_tl_5">Wij Willem de molennere En̄ Ramond van den Werue Scepenē in Antwerpē maken Cont dat voer</l>
+               <l facs="#facs_0433_30_10_1354-01_l">ons quamē Jan bode en̄ Enghbrecht de molennere onse medescepene berechterē ter taflen des</l>
+               <l facs="#facs_0433_30_10_1354-01_tr_1_tl_8">heilegh gheests in onser vrouwē kerke in antwʼpē aene deene zide . En̄ broeder jan de visschere</l>
+               <l facs="#facs_0433_30_10_1354-01_tr_1_tl_9">minister des cōuents der derder broedʼe in Antwʼpē en̄ broeder jan van winegheē keldewerdʼe</l>
+               <l facs="#facs_0433_30_10_1354-01_tr_1_tl_10">des voerseids cōuents . aene dander zide . En̄ bekēden de vorseide berechteʼn des heilegh gheests @@@</l>
+               <l facs="#facs_0433_30_10_1354-01_tr_1_tl_11">van der vorseider taflē weghē . En̄ broeder ian en̄ broeder Jan vorseit van hoers cōuents weghen dat si</l>
+               <l facs="#facs_0433_30_10_1354-01_tr_1_tl_12">om openbaerē oerboere en̄ porfite aene beiden zidē . ghedaen hadden en̄ hebbē eene wisselinghe van</l>
+               <l facs="#facs_0433_30_10_1354-01_l_1">goede hier na bescreuē dats te verstaene . Dat de tafle des heilech gheests vorseit hebbē sal en̄ heffen</l>
+               <l facs="#facs_0433_30_10_1354-01_l_2">vierdalf pont payments tsiaers erflec altoes si sente jans misse van den achtiene pondē paymēts</l>
+               <l facs="#facs_0433_30_10_1354-01_l_3">erfleker Rente . die de vorseide cōuent en̄ broedere hebbē en̄ houdende siin op een huys ghestaen</l>
+               <l facs="#facs_0433_30_10_1354-01_l_4">tantwʼpē aene de merct gheheetē de tafelronde . En̄ daer des eenē ouden scilt goet en̄ custbaer</l>
+               <l facs="#facs_0433_30_10_1354-01_tr_1_tl_21">van ghoude en̄ van ghewichte die de vorseide cōuent en̄ broedere hebbē en̄ houdende siin op de</l>
+               <l facs="#facs_0433_30_10_1354-01_tr_1_tl_22">Cameren die der vorseider taflen des helech gheests siin en̄ toebehorē ghestaen op dē hoec van den</l>
+               <l facs="#facs_0433_30_10_1354-01_tr_1_tl_23">groenē dale bi des ghasthuys steegher also si ons seiden . En̄ de vorseide broedere en̄ cōuent selen</l>
+               <l facs="#facs_0433_30_10_1354-01_tr_1_tl_24">hebbē en̄ behouden die drieponde payments jaerliker en̄ erfliker Rentē die si sculdech ware der</l>
+               <l facs="#facs_0433_30_10_1354-01_tr_1_tl_25">vorseider taflen des heilech gheests . En̄ daer toe de twee ghedeele van horen driē steden diē joncvᵒuwe</l>
+               <l facs="#facs_0433_30_10_1354-01_tr_1_tl_26">margriete van ouerscelde houdende wilen was in thuys van hobokē ghestaen in de Nustrate en̄ te</l>
+               <l facs="#facs_0433_30_10_1354-01_tr_1_tl_27">der vorseidʼ taflen des heilech gheests also wij vʼstaen hebbē . En̄ om dese wisselinghe te vestene en̄ te</l>
+               <l facs="#facs_0433_30_10_1354-01_tr_1_tl_28">ghewareghene so verteghē de vorseide partien op mallec andren en̄ op tvorseide goet dat si mallec</l>
+               <l facs="#facs_0433_30_10_1354-01_tr_1_tl_29">andren bewijst hebbē . En̄ bekēdē dat si daer aene gheene recht behilden noch nīmermeer rechts ver-</l>
+               <l facs="#facs_0433_30_10_1354-01_tr_1_tl_30">metē selen in Eenegher manierē . Jn kēnissen van desen lettʼen bezeghelt met onsen zeghelē ghegheuen</l>
+               <l facs="#facs_0433_30_10_1354-01_tr_1_tl_31">jnt jaer ons heʼen alsmen screef . M . CCC . viiftech en̄ viere des donderdaeghs voer alderheileghē dach</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

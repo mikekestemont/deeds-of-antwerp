@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="2048" lry="1536" xml:id="facs_0314_20_07_1347-01">
+         <graphic url="0314_20_07_1347-01.jpg" width="2048px" height="1536px"/>
+         <zone points="260,564 1600,604 1599,510 1479,562 1387,526 1145,541 1054,493 737,531 386,486 258,535" rendition="Line" xml:id="facs_0314_20_07_1347-01_tr_1_tl_4" subtype="default"/>
+         <zone points="242,602 1576,633 1574,595 1083,564 240,562" rendition="Line" xml:id="facs_0314_20_07_1347-01_tr_1_tl_5" subtype="default"/>
+         <zone points="237,656 552,628 1604,685 1554,630 235,607" rendition="Line" xml:id="facs_0314_20_07_1347-01_tr_1_tl_6" subtype="default"/>
+         <zone points="251,694 1612,727 1612,685 249,650" rendition="Line" xml:id="facs_0314_20_07_1347-01_tr_1_tl_7" subtype="default"/>
+         <zone points="246,754 555,721 1514,765 1614,727 244,697" rendition="Line" xml:id="facs_0314_20_07_1347-01_tr_1_tl_8" subtype="default"/>
+         <zone points="246,784 1593,798 1611,749 244,756" rendition="Line" xml:id="facs_0314_20_07_1347-01_tr_1_tl_9" subtype="default"/>
+         <zone points="244,829 1612,823 1612,789 1400,777 244,775" rendition="Line" xml:id="facs_0314_20_07_1347-01_tr_1_tl_10" subtype="default"/>
+         <zone points="239,879 1323,858 1614,898 1600,822 239,827" rendition="Line" xml:id="facs_0314_20_07_1347-01_tr_1_tl_11" subtype="default"/>
+         <zone points="230,927 1573,922 1573,874 1323,858 230,889" rendition="Line" xml:id="facs_0314_20_07_1347-01_tr_1_tl_12" subtype="default"/>
+         <zone points="232,974 1623,962 1623,920 1455,907 232,926" rendition="Line" xml:id="facs_0314_20_07_1347-01_tr_1_tl_13" subtype="default"/>
+         <zone points="235,1016 310,1022 374,1003 394,1019 450,996 604,1038 609,950 529,960 505,948 422,974 398,953 322,974 298,962 237,972" rendition="Line" xml:id="facs_0314_20_07_1347-01_tr_1_tl_14" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0314_20_07_1347-01" n="0314_20_07_1347-01" xml:id="img_0314_20_07_1347-01"/>
+            <ab>
+               <l facs="#facs_0314_20_07_1347-01_tr_1_tl_4">Wj Jan vanden morteʼ en̄ willē de molenʼe . Scepen̄ in Antwʼpen maken cont . dat vore ons qᵃmen</l>
+               <l facs="#facs_0314_20_07_1347-01_tr_1_tl_5">de ministʼ en̄ dcōuent . vandʼ derdʼ ordenē sente franciscus . En̄ bekende dat si ghegheuē hebbē tʼue en̄ in</l>
+               <l facs="#facs_0314_20_07_1347-01_tr_1_tl_6">erfleken rechte woutrē lambrechts . de helft vanden derdendele vanden huise datm̄ heet de witvoet</l>
+               <l facs="#facs_0314_20_07_1347-01_tr_1_tl_7">ghestaē op den hoec vandʼ nuwʼstᵃten . en̄ van gronde . en̄ van alle dat daer toe hoert . ōme twee gulden</l>
+               <l facs="#facs_0314_20_07_1347-01_tr_1_tl_8">hellinghe van florenche tsiaers . goet en̄ custbaer . oft de wʼde daer af in goeden andrē ghelde</l>
+               <l facs="#facs_0314_20_07_1347-01_tr_1_tl_9">erfleker en̄ ewelekʼ renten . tegheldene en̄ tegheuene vanden vorꞩ woutrē . en̄ van sinē nacomelī-</l>
+               <l facs="#facs_0314_20_07_1347-01_tr_1_tl_10">ghen .. den vorꞩ ministre en̄ Conuente deen helft alle jare te kerssauonde . en̄ dandʼ helft in sente</l>
+               <l facs="#facs_0314_20_07_1347-01_tr_1_tl_11">Jhans daghe in midden somʼe . Jn kinnessen van desen dinghē . en̄ ōme de bede en̄ tverlyen . des vorꞩ</l>
+               <l facs="#facs_0314_20_07_1347-01_tr_1_tl_12">ministʼs . cōuents . en̄ woutʼs . so hebbē wi scepen̄ vorghenoemt onse segle ghehanghē ane desen</l>
+               <l facs="#facs_0314_20_07_1347-01_tr_1_tl_13">lrēn in orconscapē der waerheit . Ghegheuen int jaer ons heʼn alsm̄ screef . M . CCC . viertech en̄ seuene .</l>
+               <l facs="#facs_0314_20_07_1347-01_tr_1_tl_14">Op sente mʼgrieten dach .</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

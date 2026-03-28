@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3507" lry="2480" xml:id="facs_0327_21_12_1306-02">
+         <graphic url="0327_21_12_1306-02.jpg" width="3507px" height="2480px"/>
+         <zone points="451,1068 2678,1082 2675,962 1307,942 449,979" rendition="Line" xml:id="facs_0327_21_12_1306-02_tr_1_tl_2" subtype="default"/>
+         <zone points="446,1136 2282,1136 2350,1169 2610,1130 2585,1071 1940,1110 1853,1071 1539,1105 1164,1054 782,1085 446,1054" rendition="Line" xml:id="facs_0327_21_12_1306-02_tr_1_tl_3" subtype="default"/>
+         <zone points="457,1203 900,1206 1007,1169 1503,1222 2683,1206 2683,1136 2627,1122 2347,1169 2285,1136 1281,1158 1133,1116 953,1150 566,1119 457,1158" rendition="Line" xml:id="facs_0327_21_12_1306-02_tr_1_tl_4" subtype="default"/>
+         <zone points="449,1293 583,1245 883,1273 956,1239 1890,1307 2047,1270 2694,1281 2694,1206 2549,1186 2397,1234 2313,1200 1503,1222 1004,1172 449,1203" rendition="Line" xml:id="facs_0327_21_12_1306-02_tr_1_tl_5" subtype="default"/>
+         <zone points="463,1349 1245,1309 1637,1368 2145,1329 2316,1365 2675,1318 2675,1267 2607,1259 1890,1307 1054,1239 883,1273 583,1245 463,1290" rendition="Line" xml:id="facs_0327_21_12_1306-02_tr_1_tl_6" subtype="default"/>
+         <zone points="451,1382 1054,1377 1287,1419 1349,1385 1879,1436 1968,1393 2016,1427 2692,1396 2692,1326 2622,1309 1940,1365 1332,1349 1248,1309 451,1312" rendition="Line" xml:id="facs_0327_21_12_1306-02_l" subtype="default"/>
+         <zone points="460,1452 704,1424 2162,1506 2350,1458 2714,1472 2714,1399 2459,1382 2313,1430 1968,1393 1890,1436 457,1385" rendition="Line" xml:id="facs_0327_21_12_1306-02_tr_1_tl_9" subtype="default"/>
+         <zone points="463,1508 1018,1497 1116,1570 1290,1503 1579,1553 2551,1559 2641,1548 2641,1455 1741,1503 1259,1444 1217,1478 1105,1438 460,1450" rendition="Line" xml:id="facs_0327_21_12_1306-02_l_1" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0327_21_12_1306-02" n="0327_21_12_1306-02" xml:id="img_0327_21_12_1306-02"/>
+            <ab>
+               <l facs="#facs_0327_21_12_1306-02_tr_1_tl_2">Wi euerdey van lyllo en̄ claeus van winenghem scepenē van andwʼpen maken kond allen den ghenen</l>
+               <l facs="#facs_0327_21_12_1306-02_tr_1_tl_3">die dese lettre zelen zien ochte horē lesen . dat voor ons comē ziin heinric die portre en̄ lisebeth ziin wette-</l>
+               <l facs="#facs_0327_21_12_1306-02_tr_1_tl_4">ghe wijf in ꝓpre ꝑsone . en̄ verliede voor ons dat zi vercocht hebben den gasthuse van andwerpen . erfleke</l>
+               <l facs="#facs_0327_21_12_1306-02_tr_1_tl_5">op hare huus dat zi hebben staende in die wijngard stᵃte tuschen Jan cants huise en̄ pieter brekebeens</l>
+               <l facs="#facs_0327_21_12_1306-02_tr_1_tl_6">twee en̄ dartigh scelīghe zwarter tornoise sjaers ochte de waerde der af in andren paijemente . te</l>
+               <l facs="#facs_0327_21_12_1306-02_l">ghelden den voorghenoomden gasthuse van henlieden en̄ van haren nacomelinghen alle iare telken</l>
+               <l facs="#facs_0327_21_12_1306-02_tr_1_tl_9">sente jans daghe in midden zomere . Jn orkonde van desen brieue beseghelt med onzen zeghelen . Dit</l>
+               <l facs="#facs_0327_21_12_1306-02_l_1">was ghedaen int jaer ons her als@ @@@@@@ . M . CCC en̄ zesse swonsdaeghs voor kersauonde</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

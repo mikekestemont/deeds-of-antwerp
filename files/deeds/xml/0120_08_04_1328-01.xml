@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3507" lry="2480" xml:id="facs_0120_08_04_1328-01">
+         <graphic url="0120_08_04_1328-01.jpg" width="3507px" height="2480px"/>
+         <zone points="328,1075 762,1090 836,1044 1165,1066 1406,1025 1508,1062 1660,1025 2717,1041 2717,997 2645,976 2193,935 2020,985 1846,948 1697,982 1478,926 1239,979 1127,920 601,935 449,988 328,960" rendition="Line" xml:id="facs_0120_08_04_1328-01_l_9" subtype="default"/>
+         <zone points="331,1149 1419,1087 2738,1106 2741,1047 1508,1059 1409,1025 759,1090 700,1053 331,1078" rendition="Line" xml:id="facs_0120_08_04_1328-01_l_1" subtype="default"/>
+         <zone points="338,1214 966,1202 1059,1165 1131,1202 1478,1149 1797,1180 2041,1134 2707,1155 2670,1097 2072,1081 338,1146" rendition="Line" xml:id="facs_0120_08_04_1328-01_l_4" subtype="default"/>
+         <zone points="341,1273 437,1301 613,1248 1549,1211 2738,1224 2741,1174 2041,1134 1800,1180 1450,1149 1388,1183 1279,1155 1127,1199 771,1174 341,1217" rendition="Line" xml:id="facs_0120_08_04_1328-01_l_6" subtype="default"/>
+         <zone points="338,1347 1478,1264 2757,1267 2710,1214 2391,1202 338,1273" rendition="Line" xml:id="facs_0120_08_04_1328-01_l_3" subtype="default"/>
+         <zone points="347,1400 1375,1323 1834,1351 2751,1316 2813,1354 2816,1279 1781,1261 607,1335 347,1307" rendition="Line" xml:id="facs_0120_08_04_1328-01_l" subtype="default"/>
+         <zone points="335,1447 681,1425 712,1456 824,1412 1366,1412 1521,1372 2627,1372 2692,1406 2813,1369 2741,1316 1917,1341 1865,1310 1831,1344 1577,1316 335,1397" rendition="Line" xml:id="facs_0120_08_04_1328-01_l_2" subtype="default"/>
+         <zone points="319,1508 1261,1453 1313,1484 1521,1434 1632,1468 2184,1425 2813,1459 2816,1366 2689,1406 2401,1363 2363,1394 1050,1391 719,1453 322,1459" rendition="Line" xml:id="facs_0120_08_04_1328-01_tr_1_tl_23" subtype="default"/>
+         <zone points="300,1589 1069,1567 1112,1533 1258,1567 1310,1524 1635,1499 1735,1546 1800,1493 2751,1558 2754,1440 2620,1428 304,1496" rendition="Line" xml:id="facs_0120_08_04_1328-01_l_5" subtype="default"/>
+         <zone points="356,1657 672,1673 743,1632 1124,1694 1267,1639 1341,1688 1645,1580 2212,1608 2236,1524 1930,1536 1877,1502 1735,1546 1567,1508 1264,1564 1118,1536 359,1577" rendition="Line" xml:id="facs_0120_08_04_1328-01_l_8" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0120_08_04_1328-01" n="0120_08_04_1328-01" xml:id="img_0120_08_04_1328-01"/>
+            <ab>
+               <l facs="#facs_0120_08_04_1328-01_l_9">Wij claus van winegheem ende Jan bode scepenen in antwʼpen maken condt dat voer ons quā Jan beuʼclauwe die mē heet</l>
+               <l facs="#facs_0120_08_04_1328-01_l_1">vleeschouwʼe en̄ bekende dat hi terue en̄ in erfleeken renten rechte houdende es van marien godscalscal goedscalx</l>
+               <l facs="#facs_0120_08_04_1328-01_l_4">dochter wilen vanden watʼe de drie ghedeele vander hofstat gheleghen in craywijc tusschen de borchbrugghe</l>
+               <l facs="#facs_0120_08_04_1328-01_l_6">en̄ gielijs loes huis ōme drie scellinghe groete oudʼ tornoyse tsiaers van muynten sconinx van vrancrike iaer</l>
+               <l facs="#facs_0120_08_04_1328-01_l_3">lijcs en̄ ewelijcs cheins ofte de warde daer af in anderen goeden paymēte te gheldene allen jare vanden seluen jāne</l>
+               <l facs="#facs_0120_08_04_1328-01_l">en̄ van sinen nacomelinghē der voerseidʼ marien en̄ heren nacomelinghen deene helft te kerssauode ende dandʼ helft</l>
+               <l facs="#facs_0120_08_04_1328-01_l_2">in sente Jans daghe in midden zomʼe Voert soe willen . erde de voerꞩ Jan dat soe wat hi tīmeren en̄ maken sal</l>
+               <l facs="#facs_0120_08_04_1328-01_tr_1_tl_23">op de voerseide hofstat dat dat al mede pandt siin sal verbonden ouer den voerseiden cheins . Jn kennessen van desen</l>
+               <l facs="#facs_0120_08_04_1328-01_l_5">lrēn beseghelt met onsen zeghelen . Ghegheuen Jnt jaer ons heʼen alsmē screef M CCC achte en̄ twintech</l>
+               <l facs="#facs_0120_08_04_1328-01_l_8">en vriendaghes inde paeschdaghe Modo hʼ Jan van coten Modo hʼ Jan van coten</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

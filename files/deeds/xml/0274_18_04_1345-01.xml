@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="2048" lry="1536" xml:id="facs_0274_18_04_1345-01">
+         <graphic url="0274_18_04_1345-01.jpg" width="2048px" height="1536px"/>
+         <zone points="135,543 1737,541 1737,484 1688,472 1562,512 1272,463 1029,469 968,514 904,465 763,512 545,459 237,523 135,488" rendition="Line" xml:id="facs_0274_18_04_1345-01_tr_1_tl_5" subtype="default"/>
+         <zone points="133,588 1743,600 1719,539 133,559" rendition="Line" xml:id="facs_0274_18_04_1345-01_tr_1_tl_6" subtype="default"/>
+         <zone points="137,629 1749,629 1639,586 137,586" rendition="Line" xml:id="facs_0274_18_04_1345-01_tr_1_tl_7" subtype="default"/>
+         <zone points="127,670 1737,680 1715,627 127,627" rendition="Line" xml:id="facs_0274_18_04_1345-01_tr_1_tl_8" subtype="default"/>
+         <zone points="129,716 1719,710 1719,670 1388,692 1259,657 129,678" rendition="Line" xml:id="facs_0274_18_04_1345-01_tr_1_tl_9" subtype="default"/>
+         <zone points="133,751 1733,745 1733,702 133,716" rendition="Line" xml:id="facs_0274_18_04_1345-01_tr_1_tl_10" subtype="default"/>
+         <zone points="127,806 1731,784 1719,743 127,747" rendition="Line" xml:id="facs_0274_18_04_1345-01_tr_1_tl_11" subtype="default"/>
+         <zone points="129,827 1172,859 1755,819 1735,786 129,806" rendition="Line" xml:id="facs_0274_18_04_1345-01_tr_1_tl_12" subtype="default"/>
+         <zone points="129,876 1770,878 1770,835 1682,819 1560,851 129,831" rendition="Line" xml:id="facs_0274_18_04_1345-01_tr_1_tl_13" subtype="default"/>
+         <zone points="133,925 1766,939 1764,882 1606,872 133,876" rendition="Line" xml:id="facs_0274_18_04_1345-01_tr_1_tl_14" subtype="default"/>
+         <zone points="135,951 347,988 402,959 529,990 586,959 657,992 1106,976 1106,929 947,912 863,939 135,923" rendition="Line" xml:id="facs_0274_18_04_1345-01_l" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0274_18_04_1345-01" n="0274_18_04_1345-01" xml:id="img_0274_18_04_1345-01"/>
+            <ab>
+               <l facs="#facs_0274_18_04_1345-01_tr_1_tl_5">Wj jan danijs en̄ Gielijs de stoeuʼe scepenē in Antwʼpen maken Cond . dat vore ons quam . Gielijs snacke en̄ bekinde</l>
+               <l facs="#facs_0274_18_04_1345-01_tr_1_tl_6">dat hi ōme ene sūme ghelds die hen al es vʼgouden . vʼcocht heeft wittelec . heʼn willeme den gorteʼ pⁱestʼ . die heelft</l>
+               <l facs="#facs_0274_18_04_1345-01_tr_1_tl_7">van eenre hofstat jn de gasthuistᵃte gheleghen tusschen clause den brunē jn de een side . En̄ wilghaerden erffenesse van</l>
+               <l facs="#facs_0274_18_04_1345-01_tr_1_tl_8">brusseele jn de ander side alsoe si seyden . Aen de welke heelft vander voerꞩ hofstat de voerseide Gielijs bekende . dat hi</l>
+               <l facs="#facs_0274_18_04_1345-01_tr_1_tl_9">en gheen Recht daer ane en behilt En̄ scoud de selue heelft van der voerseider hofstat Claerlec quite te heʼn</l>
+               <l facs="#facs_0274_18_04_1345-01_tr_1_tl_10">Willems behoef voerꞩ alsoe dat hʼe willem voerseit met der voerseider heelft vandʼ voerseider hofstat moghen</l>
+               <l facs="#facs_0274_18_04_1345-01_tr_1_tl_11">deen zal als met sinen ꝓpʼen goede . die welke heelft vander voerseider hofstat de voerseide gielijs te vrienne en̄</l>
+               <l facs="#facs_0274_18_04_1345-01_tr_1_tl_12">te waerne gheloefde kūmʼloes jaer en̄ dagh van allen kūmʼe en̄ kalaengen ende daer toe heeft gielijs voerꞩ</l>
+               <l facs="#facs_0274_18_04_1345-01_tr_1_tl_13">vʼbonden en̄ te pande gheset hem seluē ende alle zijn goed Rurende en̄ onrurende dat hi nv heeft of namels ghewin</l>
+               <l facs="#facs_0274_18_04_1345-01_tr_1_tl_14">nen mach jn kennissen van desen lrēn beseghelt met onsen zeghelen Ghegheuē jnt jaer ons heʼn alsm̄ screef .</l>
+               <l facs="#facs_0274_18_04_1345-01_l">M CCC viertich en̄ viue op den achtienden dagh jn apⁱlle maende</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

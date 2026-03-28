@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="2871" lry="2090" xml:id="facs_0448_XX_XX_1348-01">
+         <graphic url="0448_XX_XX_1348-01.jpg" width="2871px" height="2090px"/>
+         <zone points="743,348 827,311 959,345 1021,320 1063,351 1150,323 1198,362 1268,365 1327,317 1475,348 1453,216 1355,241 1209,227 1091,266 1007,205 741,216" rendition="Line" xml:id="facs_0448_XX_XX_1348-01_tr_1_tl_1" subtype="default"/>
+         <zone points="738,407 1057,457 1114,415 1164,452 1273,407 1417,452 1478,407 1663,432 1745,398 1913,471 2213,398 2379,418 2379,325 2289,314 2126,367 1860,306 1442,353 1324,320 1248,376 1150,323 799,376 738,342" rendition="Line" xml:id="facs_0448_XX_XX_1348-01_tr_1_tl_2" subtype="default"/>
+         <zone points="351,679 802,617 912,640 1032,592 1290,623 1402,586 1624,645 1770,589 2446,603 2446,505 2311,541 2171,491 1927,544 1748,499 1655,544 1503,499 1279,541 1209,505 875,550 822,519 729,572 684,541 592,592 351,603" rendition="Line" xml:id="facs_0448_XX_XX_1348-01_l" subtype="default"/>
+         <zone points="774,533 1442,491 1686,564 1843,502 1927,544 2059,494 2334,496 2334,446 2236,398 1924,471 1691,404 1593,443 1318,401 1181,454 1114,415 1057,457 774,432" rendition="Line" xml:id="facs_0448_XX_XX_1348-01_tr_1_tl_3" subtype="default"/>
+         <zone points="292,783 656,766 808,698 856,729 1313,707 1487,755 1616,707 1857,743 2028,684 2471,676 2446,595 2300,583 2233,623 2109,575 1851,620 1776,589 1627,645 1498,642 1397,583 1293,623 1027,592 903,648 805,617 606,682 295,690" rendition="Line" xml:id="facs_0448_XX_XX_1348-01_tr_1_tl_6" subtype="default"/>
+         <zone points="320,864 794,856 973,802 1077,844 1262,791 1495,822 1604,769 1944,830 2067,766 2233,808 2491,766 2494,679 2314,670 1719,746 1596,696 1422,741 1052,693 468,791 323,777" rendition="Line" xml:id="facs_0448_XX_XX_1348-01_tr_1_tl_7" subtype="default"/>
+         <zone points="297,1001 816,940 920,982 1607,870 1868,858 1949,912 2073,909 2244,850 2432,895 2468,889 2474,766 1933,827 1700,766 1551,813 1411,777 1074,844 973,802 858,861 488,836 373,903 303,875" rendition="Line" xml:id="facs_0448_XX_XX_1348-01_tr_1_tl_8" subtype="default"/>
+         <zone points="317,1100 499,1055 741,1083 1072,1004 1156,1035 1787,973 1935,1024 2163,959 2572,959 2575,875 2339,906 2224,850 2056,912 1778,864 1273,903 1080,968 816,940 325,987" rendition="Line" xml:id="facs_0448_XX_XX_1348-01_tr_1_tl_9" subtype="default"/>
+         <zone points="606,1170 940,1187 1111,1111 1189,1170 1330,1136 1411,1189 1753,1245 2056,1072 2250,1080 2255,976 2045,1018 1834,976 1290,996 1038,1077 976,1038 780,1043 735,1086 611,1060" rendition="Line" xml:id="facs_0448_XX_XX_1348-01_tr_1_tl_10" subtype="default"/>
+         <zone points="710,1271 763,1290 867,1243 906,1262 979,1220 1066,1262 1161,1223 1321,1229 1330,1144 1192,1170 1063,1142 1024,1175 940,1184 827,1158 771,1198 718,1189" rendition="Line" xml:id="facs_0448_XX_XX_1348-01_tr_1_tl_11" subtype="default"/>
+         <zone points="704,1360 937,1400 1001,1355 1318,1388 1560,1296 1669,1355 1742,1330 1748,1245 1489,1161 1038,1279 926,1237 710,1268" rendition="Line" xml:id="facs_0448_XX_XX_1348-01_tr_1_tl_12" subtype="default"/>
+         <zone points="729,1453 900,1501 1102,1467 1330,1515 1501,1520 1554,1478 1677,1534 1686,1327 1523,1296 1318,1388 1024,1344 937,1397 732,1372" rendition="Line" xml:id="facs_0448_XX_XX_1348-01_tr_1_tl_13" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0448_XX_XX_1348-01" n="0448_XX_XX_1348-01" xml:id="img_0448_XX_XX_1348-01"/>
+            <ab>
+               <l facs="#facs_0448_XX_XX_1348-01_tr_1_tl_1">hose en̄ Jan soede sende</l>
+               <l facs="#facs_0448_XX_XX_1348-01_tr_1_tl_2">n de dat hi enee @dedea</l>
+               <l facs="#facs_0448_XX_XX_1348-01_l">jrn dehe oft de werde nee en eee tilererf-</l>
+               <l facs="#facs_0448_XX_XX_1348-01_tr_1_tl_3">En hoyenkinndt wintee nee aade</l>
+               <l facs="#facs_0448_XX_XX_1348-01_tr_1_tl_6">d@ an ande mere tusche en̄ deae aae @nt en peste</l>
+               <l facs="#facs_0448_XX_XX_1348-01_tr_1_tl_7">srond en hof die die toe zoren e@rnaenee</l>
+               <l facs="#facs_0448_XX_XX_1348-01_tr_1_tl_8">dat welke huis gand en̄ hef dede sandeaerr apade</l>
+               <l facs="#facs_0448_XX_XX_1348-01_tr_1_tl_9">onde tergheldene en teghemene alls e@ ap@end</l>
+               <l facs="#facs_0448_XX_XX_1348-01_tr_1_tl_10">lagn den vorꞩ ande @@@@</l>
+               <l facs="#facs_0448_XX_XX_1348-01_tr_1_tl_11">e ghe in midden saf</l>
+               <l facs="#facs_0448_XX_XX_1348-01_tr_1_tl_12">ghene jnt jaere@ enaen</l>
+               <l facs="#facs_0448_XX_XX_1348-01_tr_1_tl_13">Ja ndach dan @</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

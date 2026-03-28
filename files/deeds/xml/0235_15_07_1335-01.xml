@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3507" lry="2480" xml:id="facs_0235_15_07_1335-01">
+         <graphic url="0235_15_07_1335-01.jpg" width="3507px" height="2480px"/>
+         <zone points="433,924 514,957 972,954 1050,918 1899,954 2684,909 2762,948 2741,854 1769,879 1631,836 1462,882 1393,845 1014,873 969,842 857,879 755,812 433,797" rendition="Line" xml:id="facs_0235_15_07_1335-01_tr_1_tl_2" subtype="default"/>
+         <zone points="433,1008 2807,999 2807,936 2618,921 1893,954 1050,918 433,963" rendition="Line" xml:id="facs_0235_15_07_1335-01_tr_1_tl_3" subtype="default"/>
+         <zone points="442,1089 2777,1071 2777,1008 2374,990 1944,1026 1222,987 442,1014" rendition="Line" xml:id="facs_0235_15_07_1335-01_tr_1_tl_4" subtype="default"/>
+         <zone points="427,1176 487,1137 797,1155 870,1122 2771,1146 2771,1074 2633,1059 1896,1104 1721,1059 1664,1092 1592,1059 427,1089" rendition="Line" xml:id="facs_0235_15_07_1335-01_tr_1_tl_5" subtype="default"/>
+         <zone points="442,1237 2807,1200 2807,1143 2591,1131 442,1152" rendition="Line" xml:id="facs_0235_15_07_1335-01_tr_1_tl_6" subtype="default"/>
+         <zone points="439,1297 659,1309 707,1264 806,1297 921,1264 1586,1303 2804,1282 2804,1210 2732,1188 2440,1231 2272,1200 1911,1237 439,1222" rendition="Line" xml:id="facs_0235_15_07_1335-01_tr_1_tl_7" subtype="default"/>
+         <zone points="421,1390 743,1342 1847,1387 2266,1336 2840,1351 2843,1252 2717,1294 2091,1306 2034,1270 1796,1318 1119,1273 424,1306" rendition="Line" xml:id="facs_0235_15_07_1335-01_tr_1_tl_8" subtype="default"/>
+         <zone points="427,1462 909,1411 1074,1456 1432,1414 1730,1456 1971,1414 2079,1459 2245,1414 2792,1414 2792,1342 1865,1387 746,1345 427,1393" rendition="Line" xml:id="facs_0235_15_07_1335-01_tr_1_tl_9" subtype="default"/>
+         <zone points="421,1522 2825,1486 2825,1420 2777,1414 2088,1459 611,1420 421,1462" rendition="Line" xml:id="facs_0235_15_07_1335-01_tr_1_tl_10" subtype="default"/>
+         <zone points="415,1592 1122,1574 1282,1616 1471,1574 1640,1607 1727,1568 1893,1604 2810,1565 2771,1489 2524,1528 2314,1489 1962,1534 1853,1495 1571,1531 1516,1492 1345,1537 1116,1492 415,1531" rendition="Line" xml:id="facs_0235_15_07_1335-01_tr_1_tl_11" subtype="default"/>
+         <zone points="418,1694 954,1640 1104,1691 1179,1652 1411,1682 1553,1646 1604,1682 2028,1649 2136,1688 2500,1640 2717,1700 2717,1589 2672,1565 2236,1607 418,1589" rendition="Line" xml:id="facs_0235_15_07_1335-01_tr_1_tl_12" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0235_15_07_1335-01" n="0235_15_07_1335-01" xml:id="img_0235_15_07_1335-01"/>
+            <ab>
+               <l facs="#facs_0235_15_07_1335-01_tr_1_tl_2">Wʼj willem drake ende Jan bode boudens bods zone was scepenen Jn antwʼpen maken cond dat vore ons</l>
+               <l facs="#facs_0235_15_07_1335-01_tr_1_tl_3">quam . Jan diederijcs . zons wilen diederijcs vʼheilwighen van wesele . en̄ bekinde dat hi sculdech es jonc-</l>
+               <l facs="#facs_0235_15_07_1335-01_tr_1_tl_4">vrouwen margrietē claus dochtʼ vanden morteʼ . Sesse scellinghe louensche . en̄ twee hoendre siders</l>
+               <l facs="#facs_0235_15_07_1335-01_tr_1_tl_5">erfleckʼ renten . op enen beemt houdende drie bundeʼ luttel min ochte meer diemen heet stritlaer</l>
+               <l facs="#facs_0235_15_07_1335-01_tr_1_tl_6">gheleghen inde ꝓchie van wesele . tusschen de beemde van scille . en̄ mier joncvrouwen beenmde van</l>
+               <l facs="#facs_0235_15_07_1335-01_tr_1_tl_7">zompeken . de welke drie bundeʼ met al den rechte dat hi daer ane en̄ ane al dattʼ toe behoerd hou-</l>
+               <l facs="#facs_0235_15_07_1335-01_tr_1_tl_8">dende es . de vorgh̄ diederijc sette en̄ vʼband tenen gherechten onderpande ouʼ de vorgh̄ sesse scellin-</l>
+               <l facs="#facs_0235_15_07_1335-01_tr_1_tl_9">ghe louensche en̄ twee hoendre erfleckʼ renten . te gheldene en̄ te gheuene alle gaere danden vorgh̄</l>
+               <l facs="#facs_0235_15_07_1335-01_tr_1_tl_10">diederike en̄ van sinē nacom̄linghen . der vorgh̄ joncvrouwen margrietē en̄ horen nacom̄linghē</l>
+               <l facs="#facs_0235_15_07_1335-01_tr_1_tl_11">op sente bauen dach binnē antwʼpen Jn kennissen van desen lettrʼen beseghelt met onsen seglen</l>
+               <l facs="#facs_0235_15_07_1335-01_tr_1_tl_12">Ghegheuen jnt jaer ons heʼn alsmen sceef M . CCC viue en̄ dertech op alder apostolen dach</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

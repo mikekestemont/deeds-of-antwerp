@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="2048" lry="1536" xml:id="facs_0310_20_06_1323-01">
+         <graphic url="0310_20_06_1323-01.jpg" width="2048px" height="1536px"/>
+         <zone points="322,554 983,531 1873,576 1871,494 1473,459 1008,502 857,467 322,491" rendition="Line" xml:id="facs_0310_20_06_1323-01_tr_2_tl_4" subtype="default"/>
+         <zone points="326,591 1869,605 1561,549 326,553" rendition="Line" xml:id="facs_0310_20_06_1323-01_tr_2_tl_5" subtype="default"/>
+         <zone points="330,655 568,615 1855,653 1834,599 330,595" rendition="Line" xml:id="facs_0310_20_06_1323-01_tr_2_tl_6" subtype="default"/>
+         <zone points="330,686 791,653 1884,686 1409,628 556,617 330,653" rendition="Line" xml:id="facs_0310_20_06_1323-01_tr_2_tl_7" subtype="default"/>
+         <zone points="335,725 1850,721 1764,681 795,653 335,700" rendition="Line" xml:id="facs_0310_20_06_1323-01_tr_2_tl_8" subtype="default"/>
+         <zone points="341,770 1026,737 1875,774 1875,735 1570,708 341,721" rendition="Line" xml:id="facs_0310_20_06_1323-01_tr_2_tl_9" subtype="default"/>
+         <zone points="341,824 997,779 1853,803 1801,758 1024,737 341,770" rendition="Line" xml:id="facs_0310_20_06_1323-01_tr_2_tl_10" subtype="default"/>
+         <zone points="347,855 1877,849 1877,795 1043,777 347,826" rendition="Line" xml:id="facs_0310_20_06_1323-01_tr_2_tl_11" subtype="default"/>
+         <zone points="351,900 876,861 1392,902 1875,878 1776,834 1289,855 1130,822 351,855" rendition="Line" xml:id="facs_0310_20_06_1323-01_tr_2_tl_12" subtype="default"/>
+         <zone points="357,942 882,903 1871,933 1871,886 1772,874 357,898" rendition="Line" xml:id="facs_0310_20_06_1323-01_tr_2_tl_13" subtype="default"/>
+         <zone points="359,983 1105,948 1689,979 1881,954 1883,915 359,940" rendition="Line" xml:id="facs_0310_20_06_1323-01_tr_2_tl_14" subtype="default"/>
+         <zone points="370,1041 729,987 1109,1043 1241,1000 1642,1004 1627,954 372,989" rendition="Line" xml:id="facs_0310_20_06_1323-01_tr_2_tl_15" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0310_20_06_1323-01" n="0310_20_06_1323-01" xml:id="img_0310_20_06_1323-01"/>
+            <ab>
+               <l facs="#facs_0310_20_06_1323-01_tr_2_tl_4">Wi Jan bode en̄ Gherard van Wisplaer . scepenen in Antwʼpen maken cont . Dat vore ons</l>
+               <l facs="#facs_0310_20_06_1323-01_tr_2_tl_5">quam jacob van zele . sone damaes van zele . En̄ bekinde dat hi om ene sūme ghelds die</l>
+               <l facs="#facs_0310_20_06_1323-01_tr_2_tl_6">hem al vʼgouden es vʼcocht heeft wetteleke Janne dien m̄ heet . noncssone dat seste ghe-</l>
+               <l facs="#facs_0310_20_06_1323-01_tr_2_tl_7">deel van den huise ghestaen opden hoec vandʼ enen scalcstᵃten bidʼ marct naest den huise dat</l>
+               <l facs="#facs_0310_20_06_1323-01_tr_2_tl_8">m̄ heet die Jnghel met alden rechte dat hi houdende was ane den gront en̄ ane dat daer</l>
+               <l facs="#facs_0310_20_06_1323-01_tr_2_tl_9">toe behoert ghelijc dadt hem vʼstarf van doede sier moedʼ . En̄ dat gheloefde de selue jacop te</l>
+               <l facs="#facs_0310_20_06_1323-01_tr_2_tl_10">waerne den vorseiden janne jaer en̄ dach jeghen alle de ghene die terechte com̄ willen .</l>
+               <l facs="#facs_0310_20_06_1323-01_tr_2_tl_11">En̄ ware van deser warnessen enech ghebrec inden vorseiden jacoppe dat gheloefde te vol</l>
+               <l facs="#facs_0310_20_06_1323-01_tr_2_tl_12">doene damaesvan zele sijn vader . alse gued borghe . En̄ de vorseide jacop gheloefde van</l>
+               <l facs="#facs_0310_20_06_1323-01_tr_2_tl_13">deser waernessen scadeloes en̄ cūmʼloes te houdene sinen vadʼ vorseit . Jn kinnessen van desen</l>
+               <l facs="#facs_0310_20_06_1323-01_tr_2_tl_14">letteʼn bezeghelt mꝫ onsen seglen . Ghegheuen int jaer ons heʼn alsm̄ screef . M . CCC . en̄</l>
+               <l facs="#facs_0310_20_06_1323-01_tr_2_tl_15">drie en̄ tuintech . des maendaegs vorꞩ sente Jans dach in midden somʼe</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

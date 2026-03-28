@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3507" lry="2480" xml:id="facs_0278_18_08_1329-01">
+         <graphic url="0278_18_08_1329-01.jpg" width="3507px" height="2480px"/>
+         <zone points="805,759 894,768 939,741 970,759 1022,737 1120,765 1196,722 1218,741 1255,728 1261,658 1203,640 1172,664 1151,646 979,688 875,676 854,692 811,673" rendition="Line" xml:id="facs_0278_18_08_1329-01_tr_1_tl_1" subtype="default"/>
+         <zone points="346,823 1331,783 1395,820 2549,872 2791,857 2788,731 2570,777 2457,750 2424,786 2215,783 2154,737 1891,783 1839,747 1756,789 1619,713 1509,793 1429,716 823,765 685,707 563,771 340,719" rendition="Line" xml:id="facs_0278_18_08_1329-01_tr_1_tl_2" subtype="default"/>
+         <zone points="343,887 1481,832 1802,906 1965,875 2775,903 2714,848 1674,823 1606,759 1506,814 1083,780 640,842 343,826" rendition="Line" xml:id="facs_0278_18_08_1329-01_tr_1_tl_3" subtype="default"/>
+         <zone points="343,976 1454,894 1506,946 1775,933 1891,979 1943,936 2387,942 2537,998 2577,958 2733,982 2733,897 1805,906 1356,832 664,900 340,887" rendition="Line" xml:id="facs_0278_18_08_1329-01_tr_1_tl_4" subtype="default"/>
+         <zone points="330,1016 621,1028 1423,942 1527,1013 2344,998 2782,1050 2778,939 2549,979 2472,942 1949,930 1867,967 1212,890 1034,897 991,939 327,961" rendition="Line" xml:id="facs_0278_18_08_1329-01_tr_1_tl_5" subtype="default"/>
+         <zone points="355,1077 1279,1004 1401,1010 1493,1077 1616,1040 1974,1050 2127,1108 2341,1105 2402,1053 2785,1083 2785,1010 1527,1013 1392,939 930,1001 355,1010" rendition="Line" xml:id="facs_0278_18_08_1329-01_tr_1_tl_6" subtype="default"/>
+         <zone points="355,1126 1340,1068 1567,1129 2194,1111 2274,1169 2414,1117 2785,1120 2751,1068 2506,1053 1561,1043 1487,1077 1304,1007 352,1080" rendition="Line" xml:id="facs_0278_18_08_1329-01_tr_1_tl_7" subtype="default"/>
+         <zone points="361,1196 1129,1132 1417,1141 1576,1196 1867,1172 1949,1221 2133,1221 2188,1175 2785,1181 2785,1120 1496,1099 1450,1132 1349,1068 361,1129" rendition="Line" xml:id="facs_0278_18_08_1329-01_tr_1_tl_8" subtype="default"/>
+         <zone points="364,1248 1172,1200 1411,1206 1450,1245 1772,1227 1824,1264 1934,1227 2047,1261 2283,1230 2332,1270 2381,1233 2778,1236 2778,1193 2693,1178 1582,1200 1261,1135 364,1193" rendition="Line" xml:id="facs_0278_18_08_1329-01_tr_1_tl_9" subtype="default"/>
+         <zone points="355,1325 1288,1252 1588,1316 2800,1319 2800,1248 2681,1230 2607,1261 1919,1230 1824,1267 1738,1227 1441,1248 1328,1196 355,1242" rendition="Line" xml:id="facs_0278_18_08_1329-01_tr_1_tl_10" subtype="default"/>
+         <zone points="376,1392 1206,1319 1545,1371 2775,1374 2745,1300 2013,1322 1943,1288 1769,1325 1637,1285 1591,1319 1429,1313 1365,1252 373,1319" rendition="Line" xml:id="facs_0278_18_08_1329-01_tr_1_tl_11" subtype="default"/>
+         <zone points="379,1444 1111,1389 1356,1447 1408,1398 1527,1463 1720,1414 2702,1423 2650,1359 1450,1383 1313,1316 936,1328 805,1380 673,1337 536,1389 379,1374" rendition="Line" xml:id="facs_0278_18_08_1329-01_tr_1_tl_12" subtype="default"/>
+         <zone points="376,1490 1187,1533 1417,1463 1668,1527 2093,1527 2093,1423 2047,1417 1506,1447 1157,1386 376,1450" rendition="Line" xml:id="facs_0278_18_08_1329-01_tr_1_tl_13" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0278_18_08_1329-01" n="0278_18_08_1329-01" xml:id="img_0278_18_08_1329-01"/>
+            <ab>
+               <l facs="#facs_0278_18_08_1329-01_tr_1_tl_1">Nō . hʼ Godevaert vandʼ dielft</l>
+               <l facs="#facs_0278_18_08_1329-01_tr_1_tl_2">Wij andries van hoeboken ende claus van hoboken  @@@@@@@@@n Antwerpen maken condt dat voer ons quā rutgheer . van tween</l>
+               <l facs="#facs_0278_18_08_1329-01_tr_1_tl_3">brugghen amelijs sone was ende bekende . @@@@@@@@@@ vercocht heeft petre scatte viere scellinghe tsiaers ouder groete to@@@</l>
+               <l facs="#facs_0278_18_08_1329-01_tr_1_tl_4">noyse van muynten sconinx van vrancrike erflekʼ @@@@@@@@lker renten op sin huis dat ghestaen es in craywijc naest</l>
+               <l facs="#facs_0278_18_08_1329-01_tr_1_tl_5">ters loets huise ende op drie cameren die daer achte@@@@@@@ tusschen synen hof ende der stat muer en̄ op alle dat recht d@@@</l>
+               <l facs="#facs_0278_18_08_1329-01_tr_1_tl_6">Si daer ane . ane grond hof . en̄ ane alle datter toe be@@@@@@@@@dende es Omme eene sūme van pennīghen daer hem die voerghe</l>
+               <l facs="#facs_0278_18_08_1329-01_tr_1_tl_7">moēde rutgher af bekende vergouden . also dat @@@@@@@@@@ huus Cameren en̄ al dat daer toe behoert gherecht pande</l>
+               <l facs="#facs_0278_18_08_1329-01_tr_1_tl_8">es en̄ altoes bliuen sal verbonden ouʼ die voergh̄ @@@@@@ scellinghe oudʼ groette tornoyse erfleker renten te gheldene</l>
+               <l facs="#facs_0278_18_08_1329-01_tr_1_tl_9">en̄ te gheuene alle Jare vanden voerꞩ rutghere en̄ sinen nacomelinghen . den vorseide petren scatte en̄ sinen nacome-</l>
+               <l facs="#facs_0278_18_08_1329-01_tr_1_tl_10">linghen deene helft te kerssauonde en̄ dandʼ heelft te sente Jans daghe baptisten in midden somʼe Ende de vorseide rutgher</l>
+               <l facs="#facs_0278_18_08_1329-01_tr_1_tl_11">gheloefde dat voergh̄ huis Cameren en̄ al datter toe behoert te waerne en̄ te vriene van allen kūmʼe wtghenomē tslans</l>
+               <l facs="#facs_0278_18_08_1329-01_tr_1_tl_12">heʼn rechte Jn kennessen van desen lrēn beseghelt met onsen zeghelen . Ghegheuen int jaer ons heʼn alsemen screef . M .</l>
+               <l facs="#facs_0278_18_08_1329-01_tr_1_tl_13">CCC neghene en̄ twintech des vriendaghes na onser vrouwen dach te halve oexte</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

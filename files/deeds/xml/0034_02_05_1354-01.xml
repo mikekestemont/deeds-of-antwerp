@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="2048" lry="1536" xml:id="facs_0034_02_05_1354-01">
+         <graphic url="0034_02_05_1354-01.jpg" width="2048px" height="1536px"/>
+         <zone points="162,254 620,235 1787,313 1783,213 1529,240 1269,147 987,211 747,158 659,211 158,180" rendition="Line" xml:id="facs_0034_02_05_1354-01_tr_1_tl_3" subtype="default"/>
+         <zone points="162,287 1755,348 1753,307 1689,295 1265,264 162,256" rendition="Line" xml:id="facs_0034_02_05_1354-01_tr_1_tl_4" subtype="default"/>
+         <zone points="162,326 1755,383 1785,326 160,283" rendition="Line" xml:id="facs_0034_02_05_1354-01_tr_1_tl_5" subtype="default"/>
+         <zone points="164,364 1785,414 1747,375 1360,346 164,330" rendition="Line" xml:id="facs_0034_02_05_1354-01_tr_1_tl_6" subtype="default"/>
+         <zone points="164,407 1669,457 1773,420 162,364" rendition="Line" xml:id="facs_0034_02_05_1354-01_tr_1_tl_7" subtype="default"/>
+         <zone points="170,457 782,440 1775,493 1796,448 168,405" rendition="Line" xml:id="facs_0034_02_05_1354-01_tr_1_tl_8" subtype="default"/>
+         <zone points="170,493 880,479 1630,532 1790,498 725,438 168,457" rendition="Line" xml:id="facs_0034_02_05_1354-01_tr_1_tl_9" subtype="default"/>
+         <zone points="170,530 1800,563 1736,520 880,477 170,493" rendition="Line" xml:id="facs_0034_02_05_1354-01_tr_1_tl_10" subtype="default"/>
+         <zone points="162,563 1790,612 1790,565 962,520 162,536" rendition="Line" xml:id="facs_0034_02_05_1354-01_tr_1_tl_11" subtype="default"/>
+         <zone points="168,614 1810,647 1808,606 1736,594 168,565" rendition="Line" xml:id="facs_0034_02_05_1354-01_tr_1_tl_12" subtype="default"/>
+         <zone points="170,657 1775,676 1357,616 170,614" rendition="Line" xml:id="facs_0034_02_05_1354-01_tr_1_tl_13" subtype="default"/>
+         <zone points="162,698 584,676 1783,731 1736,670 162,647" rendition="Line" xml:id="facs_0034_02_05_1354-01_tr_1_tl_14" subtype="default"/>
+         <zone points="166,733 1777,768 1802,733 584,676 164,698" rendition="Line" xml:id="facs_0034_02_05_1354-01_tr_1_tl_15" subtype="default"/>
+         <zone points="162,772 1802,799 1802,762 1669,749 162,735" rendition="Line" xml:id="facs_0034_02_05_1354-01_tr_1_tl_16" subtype="default"/>
+         <zone points="164,809 1775,827 1775,792 1374,776 164,774" rendition="Line" xml:id="facs_0034_02_05_1354-01_tr_1_tl_17" subtype="default"/>
+         <zone points="162,854 567,831 725,913 891,854 1140,913 1769,878 1767,833 1552,817 162,807" rendition="Line" xml:id="facs_0034_02_05_1354-01_tr_1_tl_18" subtype="default"/>
+         <zone points="162,903 272,887 354,911 391,897 444,921 498,903 575,909 579,833 432,858 397,839 344,856 309,844 203,864 164,854" rendition="Line" xml:id="facs_0034_02_05_1354-01_tr_1_tl_19" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0034_02_05_1354-01" n="0034_02_05_1354-01" xml:id="img_0034_02_05_1354-01"/>
+            <ab>
+               <l facs="#facs_0034_02_05_1354-01_tr_1_tl_3">Wij Jan van den moroere en̄ Wouter van den broeke scepenē in Antwʼpen maken Cont dat voer ons quamē broeder Jan de visschere</l>
+               <l facs="#facs_0034_02_05_1354-01_tr_1_tl_4">minister en̄ broeder Jan van lille Conuētuael des conuents der broedere van der derder ordene sente franciscus in Antwʼrpē aene</l>
+               <l facs="#facs_0034_02_05_1354-01_tr_1_tl_5">deene zide . en̄ Jan bouden daens sone En̄ liisbeth vischs siin wittech wijf aene dander zide En̄ bekendē aene beidē ziden dat si broeder ian</l>
+               <l facs="#facs_0034_02_05_1354-01_tr_1_tl_6">en̄ broeder van vorseit ghegheuē hebbē van hoers vorseits cōuents weghē te erue en̄ in erflekē Rechte hoer vieredeel van den</l>
+               <l facs="#facs_0034_02_05_1354-01_tr_1_tl_7">huyse daer matheeus van den bloemē in te woennenē plach ghestaen binnē onser vrouwē kerchoue tantwʼpē aene de crudeners</l>
+               <l facs="#facs_0034_02_05_1354-01_tr_1_tl_8">brugge tusschen de Roye aen deene zide . en̄ laureyns Cants huys aene dander zide also si seidē met al den Rechte dat si broeder</l>
+               <l facs="#facs_0034_02_05_1354-01_tr_1_tl_9">Jan en̄ broeder Jan vorseit en̄ al hoer vorseide cōuent daer aene houdēde waren Janne bouden daers sone en̄ liisbettē sinen</l>
+               <l facs="#facs_0034_02_05_1354-01_tr_1_tl_10">Wiue vorseit te hebbene en̄ te behoudene te eeuwelikē dringhē om sesse scellinghe ouder groter tornoyse van munteʼ tsconinx</l>
+               <l facs="#facs_0034_02_05_1354-01_tr_1_tl_11">van vrankerike eenē goedē ghuldhonē ouden hallinc van florenchen . voer twaeleue grote gherekēt der vorseider munten oft</l>
+               <l facs="#facs_0034_02_05_1354-01_tr_1_tl_12">de weide daer af in goeden euenghelikē paymēte jaerlikeʼ en̄ erflikeʼ Renten te gheldene en̄ te gheuene van Janne en̄ liisbettē</l>
+               <l facs="#facs_0034_02_05_1354-01_tr_1_tl_13">vorseid en̄ van horē nacomelinghē . den vorseidē cōuente oft horen zekerē bode die dese lettʼe toenē sal deene helft daer af</l>
+               <l facs="#facs_0034_02_05_1354-01_tr_1_tl_14">elcs jaers te sente jans daghe baptisten in midden zomere en̄ dander helft te kersauonde . En̄ om dese vorseide Rente wel</l>
+               <l facs="#facs_0034_02_05_1354-01_tr_1_tl_15">en̄ ghecrouwelec te gheldene so hebbē jan en̄ liisbet vorseit verbondē en̄ te pande gheset dit vorseide vierendeel huys met</l>
+               <l facs="#facs_0034_02_05_1354-01_tr_1_tl_16">al den vorseidē Rechte En̄ daertoe hoer vierendeel huys dat Jan en̄ liisbet voerghenoēt daer in vercreghē hebben met</l>
+               <l facs="#facs_0034_02_05_1354-01_tr_1_tl_17">alle den Rechte dat si daer in houdende siin op den dach van heden tote eenē gherechte onderpande . Jn kēnissen van</l>
+               <l facs="#facs_0034_02_05_1354-01_tr_1_tl_18">desen letteren . bezeghelt met onsen zeghelē ghegheuē jnt jaer ons heʼen alsmen screef . M . CCC vijftech en̄ viere</l>
+               <l facs="#facs_0034_02_05_1354-01_tr_1_tl_19">des viendaeghs na meydach</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

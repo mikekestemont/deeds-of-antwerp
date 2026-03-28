@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="2048" lry="1536" xml:id="facs_0123_08_05_1328-02">
+         <graphic url="0123_08_05_1328-02.jpg" width="2048px" height="1536px"/>
+         <zone points="175,228 839,177 896,212 1886,208 1886,116 1829,99 1649,164 1472,134 1421,169 1316,129 1235,166 1069,127 848,162 764,123 561,160 379,116 263,158 175,134" rendition="Line" xml:id="facs_0123_08_05_1328-02_tr_1_tl_4" subtype="default"/>
+         <zone points="166,278 891,226 1897,256 1868,204 896,210 848,175 166,228" rendition="Line" xml:id="facs_0123_08_05_1328-02_tr_1_tl_5" subtype="default"/>
+         <zone points="175,302 1864,289 1837,247 972,261 891,226 175,280" rendition="Line" xml:id="facs_0123_08_05_1328-02_tr_1_tl_6" subtype="default"/>
+         <zone points="173,348 1912,348 1899,274 1713,311 707,285 173,324" rendition="Line" xml:id="facs_0123_08_05_1328-02_tr_1_tl_7" subtype="default"/>
+         <zone points="173,405 541,416 587,377 694,412 1242,381 1912,414 1912,346 690,328 173,364" rendition="Line" xml:id="facs_0123_08_05_1328-02_tr_1_tl_8" subtype="default"/>
+         <zone points="166,466 1095,425 1638,473 1848,458 1875,412 828,381 696,412 589,379 543,418 169,412" rendition="Line" xml:id="facs_0123_08_05_1328-02_tr_1_tl_9" subtype="default"/>
+         <zone points="160,519 1211,480 1748,530 1916,497 1897,445 160,453" rendition="Line" xml:id="facs_0123_08_05_1328-02_tr_1_tl_10" subtype="default"/>
+         <zone points="171,569 977,534 1848,567 1903,561 1905,499 171,521" rendition="Line" xml:id="facs_0123_08_05_1328-02_tr_1_tl_11" subtype="default"/>
+         <zone points="164,622 861,583 1897,607 1855,563 1174,537 164,574" rendition="Line" xml:id="facs_0123_08_05_1328-02_tr_1_tl_12" subtype="default"/>
+         <zone points="164,677 830,635 981,668 1086,631 1349,670 1903,657 1903,618 1759,591 164,622" rendition="Line" xml:id="facs_0123_08_05_1328-02_tr_1_tl_13" subtype="default"/>
+         <zone points="160,727 841,690 1894,723 1862,646 160,670" rendition="Line" xml:id="facs_0123_08_05_1328-02_tr_1_tl_14" subtype="default"/>
+         <zone points="164,810 981,736 1023,775 1159,736 1533,782 1921,753 1907,705 1073,690 166,747" rendition="Line" xml:id="facs_0123_08_05_1328-02_tr_1_tl_15" subtype="default"/>
+         <zone points="160,845 762,795 1921,823 1921,749 1780,747 1533,780 460,758 160,810" rendition="Line" xml:id="facs_0123_08_05_1328-02_tr_1_tl_16" subtype="default"/>
+         <zone points="164,896 1894,850 1868,806 1082,826 1014,791 166,843" rendition="Line" xml:id="facs_0123_08_05_1328-02_tr_1_tl_17" subtype="default"/>
+         <zone points="160,942 725,902 1820,913 1870,900 1872,845 160,885" rendition="Line" xml:id="facs_0123_08_05_1328-02_tr_1_tl_18" subtype="default"/>
+         <zone points="166,979 1761,977 1905,948 1907,889 1651,929 872,900 166,942" rendition="Line" xml:id="facs_0123_08_05_1328-02_tr_1_tl_19" subtype="default"/>
+         <zone points="175,1042 1918,1018 1890,948 177,986" rendition="Line" xml:id="facs_0123_08_05_1328-02_tr_1_tl_20" subtype="default"/>
+         <zone points="173,1093 1903,1084 1903,1031 1713,1001 173,1051" rendition="Line" xml:id="facs_0123_08_05_1328-02_tr_1_tl_21" subtype="default"/>
+         <zone points="184,1169 379,1165 445,1117 666,1169 1450,1123 1846,1161 1846,1064 1642,1099 1305,1060 184,1095" rendition="Line" xml:id="facs_0123_08_05_1328-02_tr_1_tl_22" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0123_08_05_1328-02" n="0123_08_05_1328-02" xml:id="img_0123_08_05_1328-02"/>
+            <ab>
+               <l facs="#facs_0123_08_05_1328-02_tr_1_tl_4">Wi jan Wilmaer de rode . en̄ Willem nose scepenen in Antwʼpen maken cond . Dat vore ons</l>
+               <l facs="#facs_0123_08_05_1328-02_tr_1_tl_5">qᵃmen de ministʼ en̄ dcouent vanden broedeʼn vandʼ derddʼ oedenen in antwʼpen ī deen siden</l>
+               <l facs="#facs_0123_08_05_1328-02_tr_1_tl_6">En̄ jan canteman shʼ claus cantemans sone in dandʼ side . En̄ bekenden in beiden</l>
+               <l facs="#facs_0123_08_05_1328-02_tr_1_tl_7">siden dat de vorseide jan vʼcocht heeft wetteleke den vorseiden ministre en̄ cōuente alle</l>
+               <l facs="#facs_0123_08_05_1328-02_tr_1_tl_8">dat ghedeel en̄ recht dat hi jan houdende was ane de hofstat en̄ ane alle dat daer toe</l>
+               <l facs="#facs_0123_08_05_1328-02_tr_1_tl_9">hoert die gheleghen es in corttemere naest des selfs cōuents huisinghe die wilen</l>
+               <l facs="#facs_0123_08_05_1328-02_tr_1_tl_10">was jans poertiers en̄ sijns wijfs wilen met alle dien rechte dat hi jan houdende</l>
+               <l facs="#facs_0123_08_05_1328-02_tr_1_tl_11">was ane dat eyghen en̄ ane alle den grond en̄ dat daertoe hoert . ōme ene sūme</l>
+               <l facs="#facs_0123_08_05_1328-02_tr_1_tl_12">van ghelde daer af hem de vorseide jan wel vʼgouden kende van den vorseiden cōuente . Voert</l>
+               <l facs="#facs_0123_08_05_1328-02_tr_1_tl_13">bekenden si in beiden siden dat de vorseide ministʼ en̄ cōuent sculdech sijn alle jare</l>
+               <l facs="#facs_0123_08_05_1328-02_tr_1_tl_14">erfleke en̄ euweleke den vorseiden janne en̄ sinen nacomelinghen vandʼ vorseidʼ hof</l>
+               <l facs="#facs_0123_08_05_1328-02_tr_1_tl_15">stat en̄ van alle den guede dat si ligghende hebben tusschen dese selue hofstat en̄ de veste</l>
+               <l facs="#facs_0123_08_05_1328-02_tr_1_tl_16">tote achtʼ ter nuwʼstᵃten viertiene oude grote tornoise gued en̄ custbaer van monten</l>
+               <l facs="#facs_0123_08_05_1328-02_tr_1_tl_17">sconings van vᵃncrike jaerlikʼ en̄ euwelikʼ renten ofte de wʼde daer ane in gueden an</l>
+               <l facs="#facs_0123_08_05_1328-02_tr_1_tl_18">dren paim̄te tegheldene en̄ tegheuene alle jare vanden vorseiden ministre en̄ cōuente</l>
+               <l facs="#facs_0123_08_05_1328-02_tr_1_tl_19">die daer nv sijn en̄ namaels sijn selen .. den vorseiden janne en̄ sinen nacomelinghen tel-</l>
+               <l facs="#facs_0123_08_05_1328-02_tr_1_tl_20">ken sente steuens daghe naest den kerstdaghe . en̄ daertoe drie capune altoes elcs jaers</l>
+               <l facs="#facs_0123_08_05_1328-02_tr_1_tl_21">ten seluen daghe Jn kinnessen van desen letteʼn beseghelt met onsen seglen . Ghegheuē Jnt</l>
+               <l facs="#facs_0123_08_05_1328-02_tr_1_tl_22">jaer ons heʼn alsmen screef . M . CCC . achte en̄ twintech des sondags na aldʼ apostelen dach</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

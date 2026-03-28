@@ -14,28 +14,26 @@
    <facsimile>
       <surface ulx="0" uly="0" lrx="3507" lry="2480" xml:id="facs_0015_01_07_1349-02">
          <graphic url="0015_01_07_1349-02.jpg" width="3507px" height="2480px"/>
-         <zone points="280,841 283,1784 2847,1797 2835,841" rendition="TextRegion" xml:id="facs_0015_01_07_1349-02_tr_1">
-            <zone points="267,881 1654,925 1787,964 1863,929 1972,970 2223,948 2627,999 2741,983 2738,922 766,814 582,840 261,782" rendition="Line" xml:id="facs_0015_01_07_1349-02_tr_1_tl_1" subtype="default"/>
-            <zone points="277,964 1428,973 2582,1059 2725,1046 2725,983 480,881 273,906" rendition="Line" xml:id="facs_0015_01_07_1349-02_tr_1_tl_2" subtype="default"/>
-            <zone points="267,1030 979,1011 2754,1116 2751,1053 2697,1040 264,960" rendition="Line" xml:id="facs_0015_01_07_1349-02_tr_1_tl_3" subtype="default"/>
-            <zone points="270,1075 1205,1078 2585,1167 2709,1161 2706,1110 1781,1078 1517,1030 267,1034" rendition="Line" xml:id="facs_0015_01_07_1349-02_tr_1_tl_4" subtype="default"/>
-            <zone points="270,1142 1272,1138 2782,1221 2779,1161 2725,1151 267,1072" rendition="Line" xml:id="facs_0015_01_07_1349-02_tr_1_tl_5" subtype="default"/>
-            <zone points="273,1212 919,1183 2830,1282 2827,1208 2340,1218 1272,1138 273,1148" rendition="Line" xml:id="facs_0015_01_07_1349-02_tr_1_tl_6" subtype="default"/>
-            <zone points="293,1285 1037,1250 2773,1332 2770,1278 2121,1234 1262,1231 922,1183 289,1205" rendition="Line" xml:id="facs_0015_01_07_1349-02_tr_1_tl_7" subtype="default"/>
-            <zone points="283,1345 1024,1310 2789,1386 2808,1339 1040,1250 280,1269" rendition="Line" xml:id="facs_0015_01_07_1349-02_tr_1_tl_8" subtype="default"/>
-            <zone points="273,1390 1135,1371 2760,1444 2760,1386 2709,1374 2105,1345 833,1307 779,1342 273,1348" rendition="Line" xml:id="facs_0015_01_07_1349-02_tr_1_tl_9" subtype="default"/>
-            <zone points="283,1450 859,1460 906,1425 2604,1504 2732,1495 2732,1447 1135,1371 280,1390" rendition="Line" xml:id="facs_0015_01_07_1349-02_tr_1_tl_10" subtype="default"/>
-            <zone points="273,1520 986,1488 2684,1574 2808,1545 2776,1485 995,1431 270,1456" rendition="Line" xml:id="facs_0015_01_07_1349-02_tr_1_tl_11" subtype="default"/>
-            <zone points="283,1577 1154,1549 1227,1584 1879,1568 2550,1628 2789,1612 2798,1555 986,1491 280,1514" rendition="Line" xml:id="facs_0015_01_07_1349-02_tr_1_tl_12" subtype="default"/>
-            <zone points="286,1631 1040,1603 1466,1647 1600,1615 2795,1685 2795,1609 1158,1552 283,1584" rendition="Line" xml:id="facs_0015_01_07_1349-02_tr_1_tl_13" subtype="default"/>
-            <zone points="277,1692 1781,1685 2728,1749 2725,1682 2671,1673 1800,1628 277,1638" rendition="Line" xml:id="facs_0015_01_07_1349-02_tr_1_tl_14" subtype="default"/>
-            <zone points="273,1778 868,1743 932,1784 986,1733 1113,1771 1377,1749 1418,1787 1463,1749 1555,1794 1615,1749 1771,1746 1921,1803 2061,1755 2528,1778 2525,1717 1781,1685 789,1676 270,1717" rendition="Line" xml:id="facs_0015_01_07_1349-02_tr_1_tl_15" subtype="default"/>
-         </zone>
+         <zone points="267,881 1654,925 1787,964 1863,929 1972,970 2223,948 2627,999 2741,983 2738,922 766,814 582,840 261,782" rendition="Line" xml:id="facs_0015_01_07_1349-02_tr_1_tl_1" subtype="default"/>
+         <zone points="277,964 1428,973 2582,1059 2725,1046 2725,983 480,881 273,906" rendition="Line" xml:id="facs_0015_01_07_1349-02_tr_1_tl_2" subtype="default"/>
+         <zone points="267,1030 979,1011 2754,1116 2751,1053 2697,1040 264,960" rendition="Line" xml:id="facs_0015_01_07_1349-02_tr_1_tl_3" subtype="default"/>
+         <zone points="270,1075 1205,1078 2585,1167 2709,1161 2706,1110 1781,1078 1517,1030 267,1034" rendition="Line" xml:id="facs_0015_01_07_1349-02_tr_1_tl_4" subtype="default"/>
+         <zone points="270,1142 1272,1138 2782,1221 2779,1161 2725,1151 267,1072" rendition="Line" xml:id="facs_0015_01_07_1349-02_tr_1_tl_5" subtype="default"/>
+         <zone points="273,1212 919,1183 2830,1282 2827,1208 2340,1218 1272,1138 273,1148" rendition="Line" xml:id="facs_0015_01_07_1349-02_tr_1_tl_6" subtype="default"/>
+         <zone points="293,1285 1037,1250 2773,1332 2770,1278 2121,1234 1262,1231 922,1183 289,1205" rendition="Line" xml:id="facs_0015_01_07_1349-02_tr_1_tl_7" subtype="default"/>
+         <zone points="283,1345 1024,1310 2789,1386 2808,1339 1040,1250 280,1269" rendition="Line" xml:id="facs_0015_01_07_1349-02_tr_1_tl_8" subtype="default"/>
+         <zone points="273,1390 1135,1371 2760,1444 2760,1386 2709,1374 2105,1345 833,1307 779,1342 273,1348" rendition="Line" xml:id="facs_0015_01_07_1349-02_tr_1_tl_9" subtype="default"/>
+         <zone points="283,1450 859,1460 906,1425 2604,1504 2732,1495 2732,1447 1135,1371 280,1390" rendition="Line" xml:id="facs_0015_01_07_1349-02_tr_1_tl_10" subtype="default"/>
+         <zone points="273,1520 986,1488 2684,1574 2808,1545 2776,1485 995,1431 270,1456" rendition="Line" xml:id="facs_0015_01_07_1349-02_tr_1_tl_11" subtype="default"/>
+         <zone points="283,1577 1154,1549 1227,1584 1879,1568 2550,1628 2789,1612 2798,1555 986,1491 280,1514" rendition="Line" xml:id="facs_0015_01_07_1349-02_tr_1_tl_12" subtype="default"/>
+         <zone points="286,1631 1040,1603 1466,1647 1600,1615 2795,1685 2795,1609 1158,1552 283,1584" rendition="Line" xml:id="facs_0015_01_07_1349-02_tr_1_tl_13" subtype="default"/>
+         <zone points="277,1692 1781,1685 2728,1749 2725,1682 2671,1673 1800,1628 277,1638" rendition="Line" xml:id="facs_0015_01_07_1349-02_tr_1_tl_14" subtype="default"/>
+         <zone points="273,1778 868,1743 932,1784 986,1733 1113,1771 1377,1749 1418,1787 1463,1749 1555,1794 1615,1749 1771,1746 1921,1803 2061,1755 2528,1778 2525,1717 1781,1685 789,1676 270,1717" rendition="Line" xml:id="facs_0015_01_07_1349-02_tr_1_tl_15" subtype="default"/>
       </surface>
    </facsimile>
    <text>
       <body><div><pb facs="#facs_0015_01_07_1349-02" n="0015_01_07_1349-02" xml:id="img_0015_01_07_1349-02"/>
-            <ab facs="#facs_0015_01_07_1349-02_tr_1">
+            <ab>
                <l facs="#facs_0015_01_07_1349-02_tr_1_tl_1">Wij . Jan vanden morteʼ Ende Jan van Winegheem . Scepenen in Antwʼpen maken cond dat vore ons quam . Jan van</l>
                <l facs="#facs_0015_01_07_1349-02_tr_1_tl_2">oest Ende bekende dat hi ōme eene sūme ghelds die hem al es vʼgouden . vʼcochtheeft wetteleke . Jacoppe Mathijs</l>
                <l facs="#facs_0015_01_07_1349-02_tr_1_tl_3">Eenen guldenen pēninc siaers dien men heet scild goed ende custbaer van ghewichte en̄ van goude erfleker</l>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3507" lry="2480" xml:id="facs_0381_26_06_1350-01">
+         <graphic url="0381_26_06_1350-01.jpg" width="3507px" height="2480px"/>
+         <zone points="405,755 752,722 2791,740 2791,650 2563,686 2323,614 1843,674 1766,632 1331,674 1286,632 1169,677 1055,626 779,668 531,647 483,689 405,662" rendition="Line" xml:id="facs_0381_26_06_1350-01_tr_1_tl_1" subtype="default"/>
+         <zone points="390,800 2779,785 2779,737 2695,719 390,752" rendition="Line" xml:id="facs_0381_26_06_1350-01_tr_1_tl_2" subtype="default"/>
+         <zone points="384,860 2788,854 2788,788 2731,782 384,794" rendition="Line" xml:id="facs_0381_26_06_1350-01_tr_1_tl_3" subtype="default"/>
+         <zone points="420,932 1652,896 2386,944 2770,905 2770,860 2614,848 420,857" rendition="Line" xml:id="facs_0381_26_06_1350-01_tr_1_tl_4" subtype="default"/>
+         <zone points="381,983 2779,980 2779,905 2392,941 1652,896 1466,932 381,932" rendition="Line" xml:id="facs_0381_26_06_1350-01_tr_1_tl_5" subtype="default"/>
+         <zone points="384,1040 2743,1037 2722,968 384,983" rendition="Line" xml:id="facs_0381_26_06_1350-01_tr_1_tl_6" subtype="default"/>
+         <zone points="381,1127 644,1085 2746,1115 2746,1031 2689,1025 2437,1061 2029,1019 1121,1064 1046,1031 381,1040" rendition="Line" xml:id="facs_0381_26_06_1350-01_tr_1_tl_7" subtype="default"/>
+         <zone points="384,1178 2674,1160 2674,1094 2542,1088 384,1124" rendition="Line" xml:id="facs_0381_26_06_1350-01_tr_1_tl_8" subtype="default"/>
+         <zone points="375,1241 1568,1205 2731,1235 2731,1157 2449,1148 375,1178" rendition="Line" xml:id="facs_0381_26_06_1350-01_tr_1_tl_9" subtype="default"/>
+         <zone points="393,1310 1885,1262 2689,1295 2689,1235 2515,1211 2425,1244 2119,1205 393,1241" rendition="Line" xml:id="facs_0381_26_06_1350-01_tr_1_tl_10" subtype="default"/>
+         <zone points="408,1364 2017,1322 2737,1358 2737,1295 2683,1283 2020,1295 1921,1262 408,1313" rendition="Line" xml:id="facs_0381_26_06_1350-01_tr_1_tl_11" subtype="default"/>
+         <zone points="390,1430 2683,1388 2683,1346 2602,1328 2020,1325 905,1370 836,1340 390,1394" rendition="Line" xml:id="facs_0381_26_06_1350-01_tr_1_tl_12" subtype="default"/>
+         <zone points="393,1502 1205,1448 2698,1463 2671,1388 393,1430" rendition="Line" xml:id="facs_0381_26_06_1350-01_tr_1_tl_13" subtype="default"/>
+         <zone points="369,1544 917,1550 1091,1508 1736,1541 1819,1508 1921,1586 2149,1529 2206,1577 2398,1532 2458,1580 2704,1586 2707,1466 1508,1445 369,1508" rendition="Line" xml:id="facs_0381_26_06_1350-01_tr_1_tl_14" subtype="default"/>
+         <zone points="369,1619 1394,1625 1706,1577 1709,1520 372,1544" rendition="Line" xml:id="facs_0381_26_06_1350-01_tr_1_tl_15" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0381_26_06_1350-01" n="0381_26_06_1350-01" xml:id="img_0381_26_06_1350-01"/>
+            <ab>
+               <l facs="#facs_0381_26_06_1350-01_tr_1_tl_1">Wij Jan vanden mortʼe Ende Woutʼe vanden brueke Scepenen Jn Antwʼpen maken cond . Dat vore ons quam peter drake</l>
+               <l facs="#facs_0381_26_06_1350-01_tr_1_tl_2">zone wilen peters draecs . Ende bekende dat hi ōme eene sūme ghelds die hem al es vʼgouden . vercocht heeft witteleke</l>
+               <l facs="#facs_0381_26_06_1350-01_tr_1_tl_3">enen bescedenen manne heʼn Janne van lippeloe priester . Caplaen nv van Sente Joriis kerke jn Antwʼpen te siere capelrien be-</l>
+               <l facs="#facs_0381_26_06_1350-01_tr_1_tl_4">hoef . twintech oude grote tornoyse tsiaers goed ende custbaer van muntē tsconincs van vᵃncrike . ofte den guldenen pen</l>
+               <l facs="#facs_0381_26_06_1350-01_tr_1_tl_5">ninc dien men heet scild goed en̄ custbaer van goude en̄ van ghewichte vore Sestiene der vorseider grote gherekent Jaerlikʼ</l>
+               <l facs="#facs_0381_26_06_1350-01_tr_1_tl_6">ende erfliker rentē op alle dat recht ende ghedeel dat hi heeft en̄ houdende es ane enen hof gheleghen buten Sente</l>
+               <l facs="#facs_0381_26_06_1350-01_tr_1_tl_7">Joriis porte daer men gaet ter nonnen wʼt tusschen katlinen hof van valkenputte . Jn deene zide . Ende claus des grisen</l>
+               <l facs="#facs_0381_26_06_1350-01_tr_1_tl_8">hof ane dandʼe zide . die Gielijs de witte nv houdende es alsoe hi peter seide . Dat welke vorseide recht ende ghedeel Jn</l>
+               <l facs="#facs_0381_26_06_1350-01_tr_1_tl_9">den vorseiden hof metten eyghendome dattʼ toe behoert Der vorseide peter vʼbonden heeft ende tepande gheset ouer de vor-</l>
+               <l facs="#facs_0381_26_06_1350-01_tr_1_tl_10">seide erfleke rente . te gheldene ende tegheuene van hem ende van sinen nacomelinghen . den vorseiden hʼen Janne . ende</l>
+               <l facs="#facs_0381_26_06_1350-01_tr_1_tl_11">sinen nacomelinghen . Caplanen in de vorseide capelrie eweleke durende . alle jare op Sente Bauen dach . Mede soe</l>
+               <l facs="#facs_0381_26_06_1350-01_tr_1_tl_12">gheloefde de vorseide peter dit vorseide recht ende ghedeel jnden vorseiden hof te waerne den vorseiden hʼen Janne</l>
+               <l facs="#facs_0381_26_06_1350-01_tr_1_tl_13">jaer ende dach jn gherechten eyghendome en̄ quite ende vri jeghen alle die ghene die te rechte comen willen . Jn kin-</l>
+               <l facs="#facs_0381_26_06_1350-01_tr_1_tl_14">nesen van desen lrēn . bezeghelt met onsen seghelen . Ghegheuen jnt jaer ons hʼen alsmē screef M CCC ende vuftech des</l>
+               <l facs="#facs_0381_26_06_1350-01_tr_1_tl_15">Saterdaeghs na Sente Jans dach baptisten Jn midden zomʼe</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

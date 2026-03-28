@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3797" lry="1580" xml:id="facs_0093_06_06_1345-01">
+         <graphic url="0093_06_06_1345-01.jpg" width="3797px" height="1580px"/>
+         <zone points="9,278 1414,283 1572,334 1683,288 2305,339 2959,306 3102,343 3269,301 3622,315 3622,246 3390,153 3307,195 3144,134 2945,195 2829,158 2588,246 2138,199 2073,237 1739,167 1563,232 1419,148 1312,199 863,195 751,139 218,186 5,148" rendition="Line" xml:id="facs_0093_06_06_1345-01_tr_1_tl_1" subtype="default"/>
+         <zone points="14,380 1498,362 1758,413 2490,380 2555,427 2625,371 2685,413 2796,376 3617,380 3617,315 3395,301 3107,339 2954,306 2430,334 2374,301 2282,339 1456,320 1410,278 1252,311 14,278" rendition="Line" xml:id="facs_0093_06_06_1345-01_tr_1_tl_2" subtype="default"/>
+         <zone points="23,417 153,454 510,427 867,464 1043,427 1966,482 2040,450 2096,487 2254,450 2625,482 3682,450 3682,366 2685,413 2634,371 2333,408 23,357" rendition="Line" xml:id="facs_0093_06_06_1345-01_tr_1_tl_3" subtype="default"/>
+         <zone points="14,519 3659,533 3659,464 3422,436 3089,478 3038,441 2871,478 2092,478 2027,445 552,459 14,422" rendition="Line" xml:id="facs_0093_06_06_1345-01_tr_1_tl_4" subtype="default"/>
+         <zone points="14,584 116,617 445,584 515,626 598,584 1094,584 1132,617 1414,580 1632,626 1962,594 2059,635 2166,594 2402,631 2439,598 3627,598 3599,519 2708,552 2657,519 2068,552 2027,519 1767,547 1192,505 705,543 14,519" rendition="Line" xml:id="facs_0093_06_06_1345-01_tr_1_tl_5" subtype="default"/>
+         <zone points="0,700 107,663 376,700 519,663 649,696 928,659 1057,696 1229,659 1345,696 1387,659 1711,700 1841,668 1911,710 2022,663 2119,700 2500,668 2555,705 2894,663 3687,682 3687,608 3269,584 2634,626 2180,589 2101,626 1966,594 1632,626 1261,580 1136,617 0,603" rendition="Line" xml:id="facs_0093_06_06_1345-01_tr_1_tl_6" subtype="default"/>
+         <zone points="0,742 1016,779 1122,733 1479,770 1535,737 1772,784 1887,737 2036,779 2296,747 2741,788 3033,742 3102,774 3682,747 3682,686 3121,663 3047,700 2667,668 2569,710 2495,672 2156,700 2022,668 1911,705 1836,663 1711,700 1424,659 1345,696 1247,659 1057,696 1016,659 0,696" rendition="Line" xml:id="facs_0093_06_06_1345-01_tr_1_tl_7" subtype="default"/>
+         <zone points="0,830 195,863 403,816 872,867 1150,821 2347,863 2527,825 3144,849 3191,816 3719,853 3719,747 3246,742 3126,779 3033,742 2745,788 2296,747 2036,779 1883,737 1776,784 1530,737 1465,770 1122,733 1062,779 0,737" rendition="Line" xml:id="facs_0093_06_06_1345-01_tr_1_tl_8" subtype="default"/>
+         <zone points="5,900 723,928 1609,895 1721,932 2059,895 2388,941 2532,904 2592,946 2750,909 2792,946 2973,904 3710,909 3710,858 3645,830 3390,858 3191,816 2945,867 2532,821 2351,863 1697,821 1544,858 1391,816 1071,853 946,816 890,858 5,835" rendition="Line" xml:id="facs_0093_06_06_1345-01_tr_1_tl_9" subtype="default"/>
+         <zone points="5,988 2463,983 2898,1030 2963,992 3724,1002 3724,909 3589,900 3399,932 2973,904 2898,946 2059,895 1721,932 1609,895 5,900" rendition="Line" xml:id="facs_0093_06_06_1345-01_tr_1_tl_10" subtype="default"/>
+         <zone points="5,1057 580,1048 751,1085 1150,1034 1192,1067 1512,1081 1628,1043 2124,1085 2671,1043 3218,1104 3701,1081 3701,997 3390,988 3218,1025 2463,983 1094,969 1020,1002 765,960 728,992 366,969 329,1006 5,983" rendition="Line" xml:id="facs_0093_06_06_1345-01_tr_1_tl_11" subtype="default"/>
+         <zone points="14,1132 148,1178 195,1132 1122,1118 1169,1150 1215,1108 1785,1118 1874,1159 1985,1122 2096,1155 2439,1127 2680,1178 2750,1141 3701,1164 3701,1081 3209,1104 2671,1048 2476,1081 1192,1067 1150,1034 751,1081 14,1057" rendition="Line" xml:id="facs_0093_06_06_1345-01_tr_1_tl_12" subtype="default"/>
+         <zone points="5,1215 1043,1234 1136,1187 1252,1238 1424,1201 1563,1238 1799,1201 1855,1238 1989,1201 2207,1247 2333,1196 2384,1238 2866,1261 2977,1215 3293,1271 3719,1252 3719,1164 3464,1136 3395,1178 2949,1141 2680,1178 2430,1122 1874,1159 1813,1118 1215,1108 1169,1150 756,1108 371,1159 190,1132 153,1169 5,1127" rendition="Line" xml:id="facs_0093_06_06_1345-01_tr_1_tl_13" subtype="default"/>
+         <zone points="37,1298 422,1289 482,1326 705,1285 779,1331 853,1285 1118,1317 1447,1271 1549,1308 2203,1289 2282,1326 2337,1289 2398,1326 2504,1294 2829,1340 2908,1294 3079,1354 3353,1303 3682,1354 3678,1238 3330,1257 2982,1215 2880,1261 2374,1234 2328,1196 2249,1243 1985,1196 1739,1238 1136,1192 1043,1234 552,1196 431,1243 37,1238" rendition="Line" xml:id="facs_0093_06_06_1345-01_tr_1_tl_14" subtype="default"/>
+         <zone points="42,1382 1252,1363 1322,1401 1452,1359 1512,1401 1646,1354 1679,1387 1952,1363 2407,1414 2453,1373 2847,1424 2912,1387 3200,1428 3631,1414 3631,1322 3353,1298 3033,1345 2894,1294 2824,1336 2500,1285 2407,1331 2328,1289 2082,1322 1220,1271 1118,1317 584,1280 487,1322 264,1285 42,1331" rendition="Line" xml:id="facs_0093_06_06_1345-01_tr_1_tl_15" subtype="default"/>
+         <zone points="42,1470 1113,1452 1234,1484 1637,1447 1734,1489 1809,1452 2314,1498 2360,1461 2602,1516 2662,1484 3019,1526 3135,1479 3678,1526 3678,1428 3302,1401 2532,1414 2453,1373 2412,1410 2342,1377 2156,1405 1952,1363 1790,1396 1642,1354 1512,1401 1456,1359 1322,1401 1252,1363 955,1405 872,1363 719,1405 640,1359 42,1382" rendition="Line" xml:id="facs_0093_06_06_1345-01_tr_1_tl_16" subtype="default"/>
+         <zone points="70,1535 436,1577 876,1577 1039,1526 1920,1544 1920,1452 1739,1489 1642,1442 1275,1479 339,1456 306,1489 70,1456" rendition="Line" xml:id="facs_0093_06_06_1345-01_tr_1_tl_17" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0093_06_06_1345-01" n="0093_06_06_1345-01" xml:id="img_0093_06_06_1345-01"/>
+            <ab>
+               <l facs="#facs_0093_06_06_1345-01_tr_1_tl_1">Wj willem limpiaes . en̄ wouteʼ vanden broeke . Scepenē in Antwʼpen makē Cont . dat vore ons qᵃmen . her steuen wilmaer de</l>
+               <l facs="#facs_0093_06_06_1345-01_tr_1_tl_2">priestʼ . En̄ joes de deckeʼ . En̄ bekendē dat de selue her steuē ghegheuē heeft den seluen jose terue en̄ in erflekē rechte sijn huis</l>
+               <l facs="#facs_0093_06_06_1345-01_tr_1_tl_3">met gronde en̄ met houe ghestaen in die nuwestᵃte butē der hameiden . tusschen Aechten Jeuʼs huis . en̄ Jans des moelnēʼn huis . ōme</l>
+               <l facs="#facs_0093_06_06_1345-01_tr_1_tl_4">twee en̄ twintech oude grō torn̄ siaers van montē sconīcs van vᵃncrike . oft de werde dʼaf in goeden andeʼn ghelde erflekʼ rentē</l>
+               <l facs="#facs_0093_06_06_1345-01_tr_1_tl_5">tegheldene en̄ tegheuene vanden vorseidē jose en̄ van sinen nacomelingē . den vorseidē heʼn steuene en̄ sinē nacomelingē . alle</l>
+               <l facs="#facs_0093_06_06_1345-01_tr_1_tl_6">Jare deen helft tekʼssauonde . en̄ dandʼ helft op sente Jans dach in midden someʼ . Met desen vorwʼden dat de vorseide Joes</l>
+               <l facs="#facs_0093_06_06_1345-01_tr_1_tl_7">en̄ sine nacomelinge dat vorseide huis wel en̄ loflec houden selen in sinen ghereke also mē huse sculdech es tehoudene . Vort es</l>
+               <l facs="#facs_0093_06_06_1345-01_tr_1_tl_8">ondersproken wʼt dat de vorꞩ Joes oft yemēt van sinē nacomelingē in ghebreke vondē wordde van gheldene de vorꞩ rente also</l>
+               <l facs="#facs_0093_06_06_1345-01_tr_1_tl_9">dat si in ghebreke waren van tween tʼminē tenden een volghende . dat dan de vorseide hʼ steuē oft sijn nacomelinc die dan ware</l>
+               <l facs="#facs_0093_06_06_1345-01_tr_1_tl_10">sine hant soude slaen ane dit vorseide huis . en̄ hof en̄ sinen vrien . wille dʼ mede doen alse met sinē ꝓpeʼn goede . Vort es ondʼsprokē</l>
+               <l facs="#facs_0093_06_06_1345-01_tr_1_tl_11">waert dat dit vorseide huis vʼbrande vandes vorseids joes viere . dat god vʼbiede . dat hi joes dat huis dan gheldeē soude dē</l>
+               <l facs="#facs_0093_06_06_1345-01_tr_1_tl_12">vorꞩ heʼn steuene na die werde dat wʼdt was eert vʼbrande . Ende waert dat dit vorseide huis vʼbrande van andeʼn viere dā</l>
+               <l facs="#facs_0093_06_06_1345-01_tr_1_tl_13">vandes vorseids joes viere . en̄ hi die hofstad dan laten woude en̄ opgheuē dat soude moeten sijn met dobblen cheinse ende</l>
+               <l facs="#facs_0093_06_06_1345-01_tr_1_tl_14">anders miet . oft hi . oft sijn nacomelinc moeste . een nuwe huis . dʼ op setten also goed als dander was sondʼ heʼn steuēs cost</l>
+               <l facs="#facs_0093_06_06_1345-01_tr_1_tl_15">ende siere nacomelinghe . ende dan moeste hi dat huis houden in sinen ghereke ghelijc dat vorscreuen es . Jn kēnessen</l>
+               <l facs="#facs_0093_06_06_1345-01_tr_1_tl_16">van desen letteʼn bezeghelt met onsen zeghelen . Ghegheuē int iaer ons heʼn alsmē screef . M . driehoudert viertech en̄</l>
+               <l facs="#facs_0093_06_06_1345-01_tr_1_tl_17">viue opden sesten dach binnen der maend van Junius</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

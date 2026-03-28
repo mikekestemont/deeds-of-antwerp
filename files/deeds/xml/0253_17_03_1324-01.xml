@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3508" lry="2479" xml:id="facs_0253_17_03_1324-01">
+         <graphic url="0253_17_03_1324-01.jpg" width="3508px" height="2479px"/>
+         <zone points="995,562 2511,559 2509,485 2392,467 2114,520 993,467" rendition="Line" xml:id="facs_0253_17_03_1324-01_tr_1_tl_1" subtype="default"/>
+         <zone points="1000,592 2513,609 2489,551 1000,562" rendition="Line" xml:id="facs_0253_17_03_1324-01_l" subtype="default"/>
+         <zone points="993,644 2491,650 2474,594 993,601" rendition="Line" xml:id="facs_0253_17_03_1324-01_tr_1_tl_4" subtype="default"/>
+         <zone points="989,681 2417,708 2480,689 2478,648 987,646" rendition="Line" xml:id="facs_0253_17_03_1324-01_tr_1_tl_5" subtype="default"/>
+         <zone points="1000,734 1413,703 2462,745 2460,693 2343,683 998,679" rendition="Line" xml:id="facs_0253_17_03_1324-01_tr_1_tl_6" subtype="default"/>
+         <zone points="1004,763 2472,796 2511,742 1423,705 1002,734" rendition="Line" xml:id="facs_0253_17_03_1324-01_tr_1_tl_7" subtype="default"/>
+         <zone points="1000,806 2468,829 2425,778 2283,771 1000,765" rendition="Line" xml:id="facs_0253_17_03_1324-01_l_2" subtype="default"/>
+         <zone points="993,843 2178,872 2470,829 991,804" rendition="Line" xml:id="facs_0253_17_03_1324-01_tr_1_tl_11" subtype="default"/>
+         <zone points="989,897 2517,899 2409,851 989,841" rendition="Line" xml:id="facs_0253_17_03_1324-01_tr_1_tl_12" subtype="default"/>
+         <zone points="998,938 2546,961 2546,893 998,895" rendition="Line" xml:id="facs_0253_17_03_1324-01_tr_1_tl_13" subtype="default"/>
+         <zone points="993,987 2553,996 2553,961 2016,928 993,942" rendition="Line" xml:id="facs_0253_17_03_1324-01_tr_1_tl_14" subtype="default"/>
+         <zone points="989,1016 2491,1055 2515,996 987,989" rendition="Line" xml:id="facs_0253_17_03_1324-01_tr_1_tl_15" subtype="default"/>
+         <zone points="983,1053 2371,1098 2466,1084 2466,1049 981,1014" rendition="Line" xml:id="facs_0253_17_03_1324-01_tr_1_tl_16" subtype="default"/>
+         <zone points="987,1100 2505,1135 2450,1080 987,1059" rendition="Line" xml:id="facs_0253_17_03_1324-01_tr_1_tl_17" subtype="default"/>
+         <zone points="995,1166 2489,1189 2487,1131 995,1100" rendition="Line" xml:id="facs_0253_17_03_1324-01_tr_1_tl_18" subtype="default"/>
+         <zone points="993,1187 2421,1240 2509,1201 991,1168" rendition="Line" xml:id="facs_0253_17_03_1324-01_tr_1_tl_19" subtype="default"/>
+         <zone points="987,1251 2526,1288 2524,1236 2464,1226 985,1183" rendition="Line" xml:id="facs_0253_17_03_1324-01_tr_1_tl_20" subtype="default"/>
+         <zone points="995,1302 1666,1288 2437,1343 2518,1331 2517,1288 993,1251" rendition="Line" xml:id="facs_0253_17_03_1324-01_tr_1_tl_21" subtype="default"/>
+         <zone points="983,1353 1892,1343 2497,1394 2513,1329 981,1292" rendition="Line" xml:id="facs_0253_17_03_1324-01_tr_1_tl_22" subtype="default"/>
+         <zone points="998,1394 2503,1429 2501,1368 998,1345" rendition="Line" xml:id="facs_0253_17_03_1324-01_tr_1_tl_23" subtype="default"/>
+         <zone points="989,1423 2503,1477 2503,1430 2182,1405 989,1394" rendition="Line" xml:id="facs_0253_17_03_1324-01_tr_1_tl_24" subtype="default"/>
+         <zone points="987,1477 2454,1526 2509,1522 2509,1475 985,1419" rendition="Line" xml:id="facs_0253_17_03_1324-01_tr_1_tl_25" subtype="default"/>
+         <zone points="989,1512 2466,1576 2485,1520 987,1485" rendition="Line" xml:id="facs_0253_17_03_1324-01_tr_1_tl_26" subtype="default"/>
+         <zone points="1000,1557 2398,1635 2515,1610 2513,1571 998,1520" rendition="Line" xml:id="facs_0253_17_03_1324-01_tr_1_tl_27" subtype="default"/>
+         <zone points="983,1600 2485,1666 2481,1610 2408,1604 981,1549" rendition="Line" xml:id="facs_0253_17_03_1324-01_l_1" subtype="default"/>
+         <zone points="975,1664 2524,1691 2524,1658 2357,1637 975,1594" rendition="Line" xml:id="facs_0253_17_03_1324-01_tr_1_tl_30" subtype="default"/>
+         <zone points="973,1713 2406,1756 2528,1746 2528,1695 971,1660" rendition="Line" xml:id="facs_0253_17_03_1324-01_tr_1_tl_31" subtype="default"/>
+         <zone points="977,1781 2528,1791 2526,1744 2297,1724 977,1713" rendition="Line" xml:id="facs_0253_17_03_1324-01_tr_1_tl_32" subtype="default"/>
+         <zone points="989,1814 1516,1802 1541,1828 1674,1824 1674,1779 1596,1757 1234,1781 1195,1757 1158,1781 1068,1757 989,1777" rendition="Line" xml:id="facs_0253_17_03_1324-01_tr_1_tl_33" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0253_17_03_1324-01" n="0253_17_03_1324-01" xml:id="img_0253_17_03_1324-01"/>
+            <ab>
+               <l facs="#facs_0253_17_03_1324-01_tr_1_tl_1">Wi Jan van wineghem en̄ gherard van wispelaer scepenē in Antwʼpen doen cont allen den ghenē die dese lettre selen</l>
+               <l facs="#facs_0253_17_03_1324-01_l">sien en̄ hoerē lesen . dat comē sijn vore ons raso dien mē heet van duust en̄ amelberghe sijn wetteghe wijf en̄ hebbē</l>
+               <l facs="#facs_0253_17_03_1324-01_tr_1_tl_4">bekint dat si omme ene sōme ghels die hem wel vergouden es vercocht hebben wetteleke heinrike van londersele</l>
+               <l facs="#facs_0253_17_03_1324-01_tr_1_tl_5">roedragheʼ der capitelen in antwerpē en̄ beatrisen sinen wetteghen wiue deen heleft van sinē huse en̄ van sinen</l>
+               <l facs="#facs_0253_17_03_1324-01_tr_1_tl_6">houe en̄ allet dattʼtoe behoert chestaen in de cāmerstraete dat wilen was peter gheelmaers tusschē maes</l>
+               <l facs="#facs_0253_17_03_1324-01_tr_1_tl_7">dauid huus en̄ thuus datmen heet spieghel dat es teweten die heeleft van den voerseiden huse ghestaen tespie</l>
+               <l facs="#facs_0253_17_03_1324-01_l_2">ghelwert . toter middelweech metter slaepcameʼn als na streec . en̄ mettʼ ghecheelre wech tusschen</l>
+               <l facs="#facs_0253_17_03_1324-01_tr_1_tl_11">decamʼe ent brouhuus doergaens wart dat hi @@@@@ woude ofte sinen nacomelinghe soe mochten decamere</l>
+               <l facs="#facs_0253_17_03_1324-01_tr_1_tl_12">we@ breken en̄ make sonder sine scaede voert opt brouhuus en̄ deplatse toten buere euē wijt en̄ die behoert</l>
+               <l facs="#facs_0253_17_03_1324-01_tr_1_tl_13">rasē toe dat daerbuten es tespieghel wett behoert heinrike toe voernoemt en̄ sinen nacomelinghen behoudelec</l>
+               <l facs="#facs_0253_17_03_1324-01_tr_1_tl_14">rasen sinē wech vten brouhuse toten putte wijt ghenoec enē sac terue tedraeghene En̄ en plaetse voerden putte</l>
+               <l facs="#facs_0253_17_03_1324-01_tr_1_tl_15">tien voete wijt Voert sal heinrijc en̄ sine nacoemelinghe hebbende buer half mettʼ heleft van den houe totē inde</l>
+               <l facs="#facs_0253_17_03_1324-01_tr_1_tl_16">behoudeleec heinrike en̄ sinen nacomelinghen haren wech terheimmeleker cameʼn die @@@ rasen steet doer</l>
+               <l facs="#facs_0253_17_03_1324-01_tr_1_tl_17">de hofporte in tegane voert sal heinrijc voernoemd den pucstijl en̄ duater dat vten puttte comt van hem</l>
+               <l facs="#facs_0253_17_03_1324-01_tr_1_tl_18">seluen en̄ van lasen ouʼ siin deel latē liden . voert sal heinrijc en̄ rase en̄ hare nacomelinghe borre putte en̄</l>
+               <l facs="#facs_0253_17_03_1324-01_tr_1_tl_19">hemeleccamʼe geeuene houden van allen coste . Vort so ondersproken dat heinrijc en̄ beatrijs voernoemt</l>
+               <l facs="#facs_0253_17_03_1324-01_tr_1_tl_20">hebben harē gemenē wech doer rasen huus en̄ sine nacomelinge welc harre lant leuet teharre beder liue alsire</l>
+               <l facs="#facs_0253_17_03_1324-01_tr_1_tl_21">selue in wonē tedraegene en̄ tedriuene alles dies hen behouet dat si met ghemake niet doer haer selues</l>
+               <l facs="#facs_0253_17_03_1324-01_tr_1_tl_22">huus en̄ couen ghedraeghen noch ghedruen Voert heuet rase heinrike voernoemt en̄ sinen nacomelingē</l>
+               <l facs="#facs_0253_17_03_1324-01_tr_1_tl_23">ghelouet dat voernoemde halue huus en̄ dattʼtoe behoert ghelijc vore bescreuē es tewaerne inghe-</l>
+               <l facs="#facs_0253_17_03_1324-01_tr_1_tl_24">rechten erue jaer en̄ dach jeghen alle die terechte com̄e willen . Voert heeft de voerseide rase ghe-</l>
+               <l facs="#facs_0253_17_03_1324-01_tr_1_tl_25">louet dat voerseide halue huus en̄ dattʼ toebehoert gheliic vore bescreuē es qⁱte en̄ vri tehoudē</l>
+               <l facs="#facs_0253_17_03_1324-01_tr_1_tl_26">altoes van allen cōmʼe en̄ van allen kalaengien wt ghenomē des lantheʼn tsijs en̄ haren rechte</l>
+               <l facs="#facs_0253_17_03_1324-01_tr_1_tl_27">dats tewetē sesse scellingh gᵒter tornoise tsaiers erffleec dat welke halue huus en̄ hof geliic vore</l>
+               <l facs="#facs_0253_17_03_1324-01_l_1">bescreuē es met allen dattʼ toe behoert dare voerghenoemde rase en̄ @@@@@@@@@@@@@@@@@@@</l>
+               <l facs="#facs_0253_17_03_1324-01_tr_1_tl_30">bescrisen voernoemt met 9cente der lantheren Dats tewetē heʼn jans wilmaers deroeden monboer</l>
+               <l facs="#facs_0253_17_03_1324-01_tr_1_tl_31">derkerken onser vrouwer in antwʼpē en̄ laurijs maders mondboer der taflen des heilechgheest in</l>
+               <l facs="#facs_0253_17_03_1324-01_tr_1_tl_32">deselue kerke . Jn kinnessen van desen lettrē beseeghelt met onsen seglen . Dat was ghedaen int jaer</l>
+               <l facs="#facs_0253_17_03_1324-01_tr_1_tl_33">ons heren als men screef . M° . CCC . en̄ @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

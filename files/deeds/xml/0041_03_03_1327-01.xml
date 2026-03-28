@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="2048" lry="1536" xml:id="facs_0041_03_03_1327-01">
+         <graphic url="0041_03_03_1327-01.jpg" width="2048px" height="1536px"/>
+         <zone points="272,256 1209,292 1257,260 1848,341 1846,272 1717,284 1479,193 1332,222 1161,181 1010,232 721,163 572,216 343,222 270,183" rendition="Line" xml:id="facs_0041_03_03_1327-01_tr_2_tl_3" subtype="default"/>
+         <zone points="270,334 401,298 1312,314 1888,391 1866,334 1257,260 266,260" rendition="Line" xml:id="facs_0041_03_03_1327-01_tr_2_tl_4" subtype="default"/>
+         <zone points="268,371 1175,355 1884,435 1880,389 1523,369 1362,316 266,328" rendition="Line" xml:id="facs_0041_03_03_1327-01_tr_2_tl_5" subtype="default"/>
+         <zone points="268,441 631,397 1340,411 1870,504 1870,425 1811,455 1122,357 266,375" rendition="Line" xml:id="facs_0041_03_03_1327-01_tr_2_tl_6" subtype="default"/>
+         <zone points="262,467 1249,455 1856,540 1814,480 1473,421 629,399 262,439" rendition="Line" xml:id="facs_0041_03_03_1327-01_tr_2_tl_7" subtype="default"/>
+         <zone points="278,520 1104,498 1685,580 1852,564 1485,467 278,465" rendition="Line" xml:id="facs_0041_03_03_1327-01_tr_2_tl_8" subtype="default"/>
+         <zone points="268,562 1070,550 1844,629 1872,568 983,494 266,528" rendition="Line" xml:id="facs_0041_03_03_1327-01_tr_2_tl_9" subtype="default"/>
+         <zone points="272,621 917,635 959,600 1876,663 1874,621 1451,568 270,564" rendition="Line" xml:id="facs_0041_03_03_1327-01_tr_2_tl_10" subtype="default"/>
+         <zone points="278,677 919,653 1874,707 1805,647 276,621" rendition="Line" xml:id="facs_0041_03_03_1327-01_tr_2_tl_11" subtype="default"/>
+         <zone points="268,709 1457,711 1674,758 1854,754 1868,717 915,651 266,689" rendition="Line" xml:id="facs_0041_03_03_1327-01_tr_2_tl_12" subtype="default"/>
+         <zone points="268,786 933,746 1870,798 1868,750 1455,709 268,735" rendition="Line" xml:id="facs_0041_03_03_1327-01_tr_2_tl_13" subtype="default"/>
+         <zone points="276,848 391,808 826,832 1052,794 1866,834 1830,790 1320,756 274,786" rendition="Line" xml:id="facs_0041_03_03_1327-01_tr_2_tl_14" subtype="default"/>
+         <zone points="268,887 1024,846 1814,877 1797,826 1654,852 1054,796 268,838" rendition="Line" xml:id="facs_0041_03_03_1327-01_tr_2_tl_15" subtype="default"/>
+         <zone points="258,917 572,939 1189,891 1838,941 1838,868 1683,905 1288,850 258,881" rendition="Line" xml:id="facs_0041_03_03_1327-01_tr_2_tl_16" subtype="default"/>
+         <zone points="262,983 1298,957 1811,1005 1811,931 1324,899 262,917" rendition="Line" xml:id="facs_0041_03_03_1327-01_tr_2_tl_17" subtype="default"/>
+         <zone points="260,1030 1795,1036 1795,969 1723,1003 1106,957 260,989" rendition="Line" xml:id="facs_0041_03_03_1327-01_tr_2_tl_18" subtype="default"/>
+         <zone points="256,1098 1102,1080 1102,1030 1016,1010 258,1030" rendition="Line" xml:id="facs_0041_03_03_1327-01_tr_2_tl_19" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0041_03_03_1327-01" n="0041_03_03_1327-01" xml:id="img_0041_03_03_1327-01"/>
+            <ab>
+               <l facs="#facs_0041_03_03_1327-01_tr_2_tl_3">Wi Jan bode en̄ claus van hoboken scepenē in Antwʼpen maken cond . Dat vore ons quā</l>
+               <l facs="#facs_0041_03_03_1327-01_tr_2_tl_4">jonfrouwe katline vanden putte met haren montbore hare ghegheuen met rechte</l>
+               <l facs="#facs_0041_03_03_1327-01_tr_2_tl_5">en̄ gaf en̄ droech op mids den seluē montbore in rechtʼ ghiften Gilise van busenghē</l>
+               <l facs="#facs_0041_03_03_1327-01_tr_2_tl_6">scoucheit van Antwʼpen tes cōuents behoef vandʼ dʼder ordenen wonende in de</l>
+               <l facs="#facs_0041_03_03_1327-01_tr_2_tl_7">cortte mere tantwʼpen . hore halue huis ghestaen in de selue mere tusschen de hui-</l>
+               <l facs="#facs_0041_03_03_1327-01_tr_2_tl_8">singhe des selfs couents en̄ de oude veste inden hoec . met alle dien rechte dat si</l>
+               <l facs="#facs_0041_03_03_1327-01_tr_2_tl_9">houdende was daer ane en̄ ane den grond en̄ hof en̄ dat daer toe hoert . en̄ alse</l>
+               <l facs="#facs_0041_03_03_1327-01_tr_2_tl_10">de vorseide jonfrʼ katline hier op vʼtoghen hadde . so droegh de vorseide gilijs . dat</l>
+               <l facs="#facs_0041_03_03_1327-01_tr_2_tl_11">vorseide halue huis op metden vorseiden rechte . den ministʼ des vorseids cōuents</l>
+               <l facs="#facs_0041_03_03_1327-01_tr_2_tl_12">tes cōuents behoef euwelec te hebbene en̄ teghebruikene . en̄ dit was al ghedaen</l>
+               <l facs="#facs_0041_03_03_1327-01_tr_2_tl_13">met maennessen des rechtʼ en̄ met onsen wisene . behoudenlec altoes dʼ vorseidʼ</l>
+               <l facs="#facs_0041_03_03_1327-01_tr_2_tl_14">jonfrʼ katlinē hore lijftocht ane dit vorseide halue huis en̄ hof . also dat si des</l>
+               <l facs="#facs_0041_03_03_1327-01_tr_2_tl_15">ghebruiken sal tharen liue en̄ niet langher . en̄ na haer lijf keren sal ten</l>
+               <l facs="#facs_0041_03_03_1327-01_tr_2_tl_16">vorseiden cōuente alse sijn ꝓper gued daert met den rechte in com̄ es ghelijc</l>
+               <l facs="#facs_0041_03_03_1327-01_tr_2_tl_17">hier vore bescreuen es . Jn kinnessen van desen lrēn beseghelt met onsen se</l>
+               <l facs="#facs_0041_03_03_1327-01_tr_2_tl_18">glen . Ghegheuen int jaer ons heʼn alsm̄ screef . M . CCC . sesse en̄ twintech</l>
+               <l facs="#facs_0041_03_03_1327-01_tr_2_tl_19">des dinsendaegs na groet vastelauont</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

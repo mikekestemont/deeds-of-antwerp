@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3507" lry="2480" xml:id="facs_0192_13_07_1330-01">
+         <graphic url="0192_13_07_1330-01.jpg" width="3507px" height="2480px"/>
+         <zone points="308,920 1110,956 1247,1002 1283,966 1866,1012 2128,972 2285,1012 2838,979 2835,913 2727,871 2671,910 2491,864 2282,936 1974,858 1755,926 1657,877 1496,920 304,805" rendition="Line" xml:id="facs_0192_13_07_1330-01_tr_1_tl_1" subtype="default"/>
+         <zone points="282,985 691,1028 828,995 1120,1048 1165,1018 1362,1067 1686,1041 1791,1084 2835,1031 2802,972 1676,1012 1607,972 1241,995 278,910" rendition="Line" xml:id="facs_0192_13_07_1330-01_l_1" subtype="default"/>
+         <zone points="278,1077 501,1051 625,1097 2429,1146 2580,1093 2783,1123 2812,1038 1791,1084 1683,1041 1362,1067 1165,1018 1116,1048 884,1041 832,998 275,995" rendition="Line" xml:id="facs_0192_13_07_1330-01_l" subtype="default"/>
+         <zone points="265,1123 1391,1198 1886,1185 1928,1218 2671,1165 2806,1195 2842,1185 2842,1100 1945,1152 946,1077 645,1097 494,1048 262,1080" rendition="Line" xml:id="facs_0192_13_07_1330-01_tr_1_tl_6" subtype="default"/>
+         <zone points="262,1221 697,1195 2151,1293 2865,1231 2861,1179 2658,1162 2521,1205 1928,1218 1866,1185 1735,1218 262,1123" rendition="Line" xml:id="facs_0192_13_07_1330-01_tr_1_tl_7" subtype="default"/>
+         <zone points="262,1293 380,1257 920,1303 1087,1267 1201,1313 1575,1303 1794,1355 2868,1336 2865,1231 2151,1293 701,1192 262,1224" rendition="Line" xml:id="facs_0192_13_07_1330-01_tr_1_tl_8" subtype="default"/>
+         <zone points="239,1352 1454,1355 1548,1404 1729,1378 2220,1434 2288,1398 2832,1398 2829,1346 2730,1310 2423,1362 2197,1326 1984,1362 1578,1303 1175,1313 1087,1267 789,1303 370,1264 236,1303" rendition="Line" xml:id="facs_0192_13_07_1330-01_tr_1_tl_9" subtype="default"/>
+         <zone points="239,1434 737,1414 841,1454 933,1418 1237,1470 1666,1437 1896,1454 1990,1509 2167,1473 2246,1516 2305,1470 2832,1483 2829,1395 2547,1431 2249,1401 2216,1434 1300,1352 236,1352" rendition="Line" xml:id="facs_0192_13_07_1330-01_tr_1_tl_10" subtype="default"/>
+         <zone points="229,1516 681,1486 926,1562 976,1516 1382,1503 1712,1575 1807,1542 1879,1588 1997,1545 2121,1594 2842,1568 2855,1470 2239,1512 1892,1450 1234,1470 933,1414 845,1450 727,1414 226,1450" rendition="Line" xml:id="facs_0192_13_07_1330-01_tr_1_tl_11" subtype="default"/>
+         <zone points="226,1578 314,1568 344,1584 373,1558 393,1568 412,1555 498,1571 514,1591 586,1575 602,1591 655,1588 655,1512 602,1490 579,1499 517,1480 471,1499 409,1496 383,1516 357,1493 226,1506" rendition="Line" xml:id="facs_0192_13_07_1330-01_tr_1_tl_12" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0192_13_07_1330-01" n="0192_13_07_1330-01" xml:id="img_0192_13_07_1330-01"/>
+            <ab>
+               <l facs="#facs_0192_13_07_1330-01_tr_1_tl_1">Wi claus van hoboken en̄ Woutre de buc scepenē in Antwʼpen maken cond . Dat vore ons quā Jonfrouwe clem̄tie</l>
+               <l facs="#facs_0192_13_07_1330-01_l_1">drakinne met haren montbore hare ghegheuen metden rechte . en̄ gaf en̄ droech op in aelmoesenē . arnou-</l>
+               <l facs="#facs_0192_13_07_1330-01_l">de van hoevorst en̄ arnoude cantemāne montboren vandʼ firmerien ghestaen in claepdorp en̄ dat meestʼssen</l>
+               <l facs="#facs_0192_13_07_1330-01_tr_1_tl_6">vandʼ seluʼ firmerien tʼ seluʼ firimerien behoef Een stucke lands dat eyghen es also si seide gheleghen in steen</l>
+               <l facs="#facs_0192_13_07_1330-01_tr_1_tl_7">borghʼwert dat houdende es twee ghemete luttel meer ofte min . Dat welke land de vorseide jonfrʼ clementie</l>
+               <l facs="#facs_0192_13_07_1330-01_tr_1_tl_8">met haren montboren @@@ scout tʼ vorseidʼ firmerien behoef en̄ bekende dat si selue noch haer nacomelinghe</l>
+               <l facs="#facs_0192_13_07_1330-01_tr_1_tl_9">en gheen recht daer ane en behilden . En̄ dit was ghedaen met maennessen des ammans van antwʼpen</l>
+               <l facs="#facs_0192_13_07_1330-01_tr_1_tl_10">en̄ met onsen wisene alse scepenen en̄ alse eyghēghenote also en recht es . Jn kinnessen van desen letteʼn bese</l>
+               <l facs="#facs_0192_13_07_1330-01_tr_1_tl_11">ghelt met onsen seglen . Ghegheuen jnt jaer ons heʼn alsm̄ screef . M . CCC . en̄ derttech das vridaegs vore</l>
+               <l facs="#facs_0192_13_07_1330-01_tr_1_tl_12">aldʼ apostelen dach</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

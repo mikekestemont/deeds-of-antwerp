@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="1650" lry="494" xml:id="facs_0379_26_03_1304-01">
+         <graphic url="0379_26_03_1304-01.jpg" width="1650px" height="494px"/>
+         <zone points="52,112 1429,145 1586,134 1584,62 1288,74 1098,31 831,89 509,50 254,89 50,48" rendition="Line" xml:id="facs_0379_26_03_1304-01_tr_1_tl_1" subtype="default"/>
+         <zone points="52,159 1580,182 1580,132 1259,114 52,112" rendition="Line" xml:id="facs_0379_26_03_1304-01_tr_1_tl_2" subtype="default"/>
+         <zone points="60,213 1578,207 1557,167 1338,159 60,165" rendition="Line" xml:id="facs_0379_26_03_1304-01_tr_1_tl_3" subtype="default"/>
+         <zone points="62,246 1609,240 1609,192 62,213" rendition="Line" xml:id="facs_0379_26_03_1304-01_tr_1_tl_4" subtype="default"/>
+         <zone points="68,281 1615,289 1615,242 1466,230 68,246" rendition="Line" xml:id="facs_0379_26_03_1304-01_tr_1_tl_5" subtype="default"/>
+         <zone points="68,323 1251,304 1621,341 1621,285 1506,267 68,281" rendition="Line" xml:id="facs_0379_26_03_1304-01_tr_1_tl_6" subtype="default"/>
+         <zone points="64,352 1584,358 1530,312 1243,304 64,321" rendition="Line" xml:id="facs_0379_26_03_1304-01_tr_1_tl_7" subtype="default"/>
+         <zone points="72,401 1623,414 1623,360 1479,347 72,354" rendition="Line" xml:id="facs_0379_26_03_1304-01_tr_1_tl_8" subtype="default"/>
+         <zone points="68,455 774,416 1607,447 1570,397 1169,381 66,401" rendition="Line" xml:id="facs_0379_26_03_1304-01_tr_1_tl_9" subtype="default"/>
+         <zone points="493,493 79,492 493,493 122,492 493,493 130,492 349,472 350,418 70,451" rendition="Line" xml:id="facs_0379_26_03_1304-01_tr_1_tl_10" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0379_26_03_1304-01" n="0379_26_03_1304-01" xml:id="img_0379_26_03_1304-01"/>
+            <ab>
+               <l facs="#facs_0379_26_03_1304-01_tr_1_tl_1">Wij peter van der dijlf . ende andrijs van hoboken scepene in Antwʼpen moken cont alden ghenen die</l>
+               <l facs="#facs_0379_26_03_1304-01_tr_1_tl_2">dese lettre sullen sien ende horen lesen . dat voer ons quamen peter snacke Jan . en̄ gilijs sine kindre</l>
+               <l facs="#facs_0379_26_03_1304-01_tr_1_tl_3">ende bekenden voer ons juncwrouen lisebeten bodinnen der mestersen ter siekerliede . boef iiij f ende</l>
+               <l facs="#facs_0379_26_03_1304-01_tr_1_tl_4">tuee hoendre claers terstat rechte op die hofstat daer op woent peter Jan . en̄ gilijs voergesede</l>
+               <l facs="#facs_0379_26_03_1304-01_tr_1_tl_5">vort so bekennen peer snacke ian . ende gilijs . der voergeseder juncwrouen lisebeten ter siekerliede boef</l>
+               <l facs="#facs_0379_26_03_1304-01_tr_1_tl_6">viii claers herfelake also selt gelt alle gheuelake lopet in borsen telken dage op sine huushinge</l>
+               <l facs="#facs_0379_26_03_1304-01_tr_1_tl_7">die staet getimmert op die voergesede hofstat tegeldene telken sente bauendage . Jn welken</l>
+               <l facs="#facs_0379_26_03_1304-01_tr_1_tl_8">orconde van desen sticken wij peter ende andrijs voergeseit onse segle aen . dese lettre . hebben gehan-</l>
+               <l facs="#facs_0379_26_03_1304-01_tr_1_tl_9">gen . Dit was gemach in jaer ons heren det men scref M . drie hondert en̄ drie . doenderda-</l>
+               <l facs="#facs_0379_26_03_1304-01_tr_1_tl_10">ges voer pasdach</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

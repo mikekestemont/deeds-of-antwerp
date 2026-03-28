@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3027" lry="1977" xml:id="facs_0275_18_05_1347-01">
+         <graphic url="0275_18_05_1347-01.jpg" width="3027px" height="1977px"/>
+         <zone points="44,325 2289,344 2969,307 2943,212 2790,256 2611,216 2249,263 2143,227 2069,274 1678,223 1495,263 1408,230 1247,263 1177,212 1101,263 863,212 574,219 483,263 44,227" rendition="Line" xml:id="facs_0275_18_05_1347-01_tr_1_tl_1" subtype="default"/>
+         <zone points="44,384 2958,388 2958,318 2877,311 44,325" rendition="Line" xml:id="facs_0275_18_05_1347-01_tr_1_tl_2" subtype="default"/>
+         <zone points="44,431 1422,472 2954,446 2954,391 2874,373 44,384" rendition="Line" xml:id="facs_0275_18_05_1347-01_tr_1_tl_3" subtype="default"/>
+         <zone points="40,508 2962,512 2962,453 2874,439 40,431" rendition="Line" xml:id="facs_0275_18_05_1347-01_tr_1_tl_4" subtype="default"/>
+         <zone points="44,574 2984,578 2984,516 2746,490 1623,530 44,508" rendition="Line" xml:id="facs_0275_18_05_1347-01_tr_1_tl_5" subtype="default"/>
+         <zone points="55,629 2929,622 2929,563 2545,548 1846,589 55,567" rendition="Line" xml:id="facs_0275_18_05_1347-01_tr_1_tl_6" subtype="default"/>
+         <zone points="44,684 1356,684 1422,717 2965,669 2965,614 2632,607 1667,651 44,618" rendition="Line" xml:id="facs_0275_18_05_1347-01_tr_1_tl_7" subtype="default"/>
+         <zone points="40,771 186,735 940,779 1064,746 1444,775 2962,735 2962,669 1433,713 40,684" rendition="Line" xml:id="facs_0275_18_05_1347-01_tr_1_tl_8" subtype="default"/>
+         <zone points="44,830 2984,790 2951,731 2717,724 2676,757 2066,768 194,735 44,768" rendition="Line" xml:id="facs_0275_18_05_1347-01_tr_1_tl_9" subtype="default"/>
+         <zone points="44,881 2954,867 2954,801 2830,786 44,826" rendition="Line" xml:id="facs_0275_18_05_1347-01_tr_1_tl_10" subtype="default"/>
+         <zone points="51,936 2936,921 2936,859 2837,841 2278,881 51,885" rendition="Line" xml:id="facs_0275_18_05_1347-01_tr_1_tl_11" subtype="default"/>
+         <zone points="62,1005 300,969 1488,1013 2921,987 2921,914 2845,903 1492,951 62,932" rendition="Line" xml:id="facs_0275_18_05_1347-01_tr_1_tl_12" subtype="default"/>
+         <zone points="51,1053 2925,1042 2925,991 2742,965 2033,1005 51,998" rendition="Line" xml:id="facs_0275_18_05_1347-01_tr_1_tl_13" subtype="default"/>
+         <zone points="66,1112 2932,1086 2932,1038 2837,1024 66,1053" rendition="Line" xml:id="facs_0275_18_05_1347-01_tr_1_tl_14" subtype="default"/>
+         <zone points="73,1177 230,1141 2932,1166 2932,1090 2760,1079 2077,1119 73,1115" rendition="Line" xml:id="facs_0275_18_05_1347-01_tr_1_tl_15" subtype="default"/>
+         <zone points="62,1207 2914,1221 2914,1163 2779,1141 62,1174" rendition="Line" xml:id="facs_0275_18_05_1347-01_tr_1_tl_16" subtype="default"/>
+         <zone points="69,1269 2921,1269 2888,1199 2475,1188 2388,1221 69,1210" rendition="Line" xml:id="facs_0275_18_05_1347-01_tr_1_tl_17" subtype="default"/>
+         <zone points="69,1324 2918,1313 2918,1265 2782,1250 69,1269" rendition="Line" xml:id="facs_0275_18_05_1347-01_tr_1_tl_18" subtype="default"/>
+         <zone points="73,1386 2951,1382 2951,1320 2760,1305 73,1324" rendition="Line" xml:id="facs_0275_18_05_1347-01_tr_1_tl_19" subtype="default"/>
+         <zone points="73,1470 665,1426 2932,1452 2932,1378 2790,1367 73,1389" rendition="Line" xml:id="facs_0275_18_05_1347-01_tr_1_tl_20" subtype="default"/>
+         <zone points="73,1517 654,1481 2921,1495 2863,1433 1258,1455 808,1419 73,1466" rendition="Line" xml:id="facs_0275_18_05_1347-01_tr_1_tl_21" subtype="default"/>
+         <zone points="77,1569 2925,1569 2925,1506 2866,1488 77,1517" rendition="Line" xml:id="facs_0275_18_05_1347-01_tr_1_tl_22" subtype="default"/>
+         <zone points="84,1620 2907,1623 2874,1554 84,1565" rendition="Line" xml:id="facs_0275_18_05_1347-01_tr_1_tl_23" subtype="default"/>
+         <zone points="77,1686 2918,1686 2918,1623 2592,1609 77,1623" rendition="Line" xml:id="facs_0275_18_05_1347-01_tr_1_tl_24" subtype="default"/>
+         <zone points="88,1729 2921,1744 2921,1686 2625,1671 88,1678" rendition="Line" xml:id="facs_0275_18_05_1347-01_tr_1_tl_25" subtype="default"/>
+         <zone points="84,1788 1898,1784 2186,1828 2680,1792 2903,1832 2899,1744 2771,1737 84,1726" rendition="Line" xml:id="facs_0275_18_05_1347-01_tr_1_tl_26" subtype="default"/>
+         <zone points="88,1832 183,1868 508,1832 592,1865 1627,1846 1773,1890 2852,1861 2852,1814 2684,1795 88,1792" rendition="Line" xml:id="facs_0275_18_05_1347-01_tr_1_tl_27" subtype="default"/>
+         <zone points="80,1930 1704,1930 1704,1854 1605,1843 768,1865 508,1828 186,1868 80,1828" rendition="Line" xml:id="facs_0275_18_05_1347-01_tr_1_tl_28" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0275_18_05_1347-01" n="0275_18_05_1347-01" xml:id="img_0275_18_05_1347-01"/>
+            <ab>
+               <l facs="#facs_0275_18_05_1347-01_tr_1_tl_1">Wj Claus vander borch .. Deken vander kerken van Antwʼpen Gilijs vander borch . Riddere ende willem limpiaes Scepenē in Antwʼpen maken cond allen den ghenen die</l>
+               <l facs="#facs_0275_18_05_1347-01_tr_1_tl_2">dese letteʼn selen sien ofte horen lesen . dat vore ons comen es Joncvrouwe margriete vanden mortʼ gasthuisustʼ in Antwʼpen ende bekinde dat si ghegheuen heeft</l>
+               <l facs="#facs_0275_18_05_1347-01_tr_1_tl_3">in aelmosenen purlec ōme goede den seluen gasthuise alselke erflec rente alse hare van horen naesten bleuen es . ende een sister rogs dat si vercreghen heeft met</l>
+               <l facs="#facs_0275_18_05_1347-01_tr_1_tl_4">den ghelde dat hare bleef van haren vader ghelijc dat Scepen̄ lrēn die daer op ghemaect siin begrepen hebben in diere manieren dat si Joncvrouwe margriete die erf-</l>
+               <l facs="#facs_0275_18_05_1347-01_tr_1_tl_5">lec Rente heffen ende behouden sal tharen liue durende sonder yemens calainge ende dat men na hare doet vordane altoes die Renten legghen ende bekeʼn sal in orbore</l>
+               <l facs="#facs_0275_18_05_1347-01_tr_1_tl_6">des vorghenoms gasthuis ghelijc dat si Joncvrouwe margriete gheordineert heeft ende hier na staet bescreuen . Dats te wetene een sistʼ togs dat marien van</l>
+               <l facs="#facs_0275_18_05_1347-01_tr_1_tl_7">lietezele ende margriete marscalcs siin wijf siaers sculdech siin telken kerssauonde op een bunder lands dat men heet de daeseheide gheleghen inde ꝓchie vā</l>
+               <l facs="#facs_0275_18_05_1347-01_tr_1_tl_8">houe . Ende dat men dien Rogghe na der vorgh̄ Joncvrouwen margrieten doet vordane altoes legghen sal op den coren soldre int vorgh̄ gasthuis te orbore</l>
+               <l facs="#facs_0275_18_05_1347-01_tr_1_tl_9">ne gheliic den andren Regghe ende corne dat men daer te legghene plegt . Jtē drie scellinghe ouder louensche een hoen ende dat derdendeel niu enē hoene</l>
+               <l facs="#facs_0275_18_05_1347-01_tr_1_tl_10">dat petʼ de keiser siaers sculdech es op sente bauen dach op een bunder beemds dat men heet riec voert dat gheleghen es bider beke inde ꝓchie van dorne</l>
+               <l facs="#facs_0275_18_05_1347-01_tr_1_tl_11">ende twintich scellinghe oudʼ louensche viere hoendre . ende de tweeghedeele van eenen maydaghe die Jan de hertoghe Siaers sculdech es te kerssauonde op een</l>
+               <l facs="#facs_0275_18_05_1347-01_tr_1_tl_12">stucke lands dat men heet heinrijcs wilden bloc . dat gheleghen es in de ꝓchie van derne biderzantfort ende dat dese drie ende twintech scellinghe met den</l>
+               <l facs="#facs_0275_18_05_1347-01_tr_1_tl_13">hoendren ende met den maydaghe bliuen selen na der vorghenomdʼ joncvrʼ margrieten doet den Conuente . ende den armen alle iare te pitanchen int vor-</l>
+               <l facs="#facs_0275_18_05_1347-01_tr_1_tl_14">ghenomd gasthuis . Jtē sesse scellinghe oudʼ louensche ende twee hoendre die Jan diederijcs sone wilen diederics veʼn heilwighen van wesele siaers es</l>
+               <l facs="#facs_0275_18_05_1347-01_tr_1_tl_15">sculdech op sente bauen dach op eenen beemt houdende drie bundʼ luttel min ofte meer die men heet striclaer die gheleghen es inde ꝓchie van wesele</l>
+               <l facs="#facs_0275_18_05_1347-01_tr_1_tl_16">tusschen de beemde van salle ende mir vrouwen beemde van zompeken . Ende die bliuen selen na der vorgh̄ Joncvrouwen margrieten doet den armen</l>
+               <l facs="#facs_0275_18_05_1347-01_tr_1_tl_17">te sienwade alle Jare int vergh̄ gasthuis . de welke vorghenomde eerflec rente de vorgh̄ joncvrʼ margriete in allen dien maniren ende rechte dat si se</l>
+               <l facs="#facs_0275_18_05_1347-01_tr_1_tl_18">houde ende ghecreghen heeft ende Scepēn lrēn die daer op ghemaect siin begrepen hebben op droech met vʼtienne dʼ pⁱorinnen ende den Conuēte</l>
+               <l facs="#facs_0275_18_05_1347-01_tr_1_tl_19">van den vorgh̄ gasthuise ende quite scoud tote des gasthuis behoef inder maniren dat vore es bescreuen Jn kennissen van desen lrēn beseghelt met on-</l>
+               <l facs="#facs_0275_18_05_1347-01_tr_1_tl_20">sen seglen Ende wij .. Priorinne en̄ Conuent van den vorgh̄ gasthuise . orlouen ende consenteren bi Raede consente orloue ende guetdunkene eens</l>
+               <l facs="#facs_0275_18_05_1347-01_tr_1_tl_21">eersams ende bescedens mans meestʼs claus vander borch dekens van der kerken van Antwʼpen ende ꝓuisoer ons gasthuis bi wes consente . ende orloue</l>
+               <l facs="#facs_0275_18_05_1347-01_tr_1_tl_22">alle dese vorgh̄ dinghen ghesciet siin ende ten welken mijn hʼ gilijs van der borch ende willem limpiaes vorgh̄ alse montboren ons vorgh̄ gasthuis</l>
+               <l facs="#facs_0275_18_05_1347-01_tr_1_tl_23">Raet ende consent gheuen also vʼre als in hen es dat de vorghenomde joncvrouwe margriete alle de vorghenomde renten heffen ende hebben sal elcs</l>
+               <l facs="#facs_0275_18_05_1347-01_tr_1_tl_24">siaers thoren liue durende ende die renten paisiulec ghebruken sondʼ calainge . Ende ghelouen daertoe dat wij na der vorghenomdʼ Joncvrʼ mʼgrietē</l>
+               <l facs="#facs_0275_18_05_1347-01_tr_1_tl_25">doet die Renten vordane alle jaere legghen ende bekeʼn selen alsoe de vorgh̄ joncvrʼ margriete gheordineert heeft ende bouen es bescreuē ende in</l>
+               <l facs="#facs_0275_18_05_1347-01_tr_1_tl_26">kennissen ende in euwerlakʼ ghedinkennissen daer af soe hebben wij Priorinne ende conuent vorgh̄ onsen ghemeinē seghel met dʼ vorgh̄</l>
+               <l facs="#facs_0275_18_05_1347-01_tr_1_tl_27">meestʼ claus dekens ons ꝓuisoers ende der scepenē onser montboren seglen ane dese lrēn ghehanghen . dat was ghedaen jnt jaer ons</l>
+               <l facs="#facs_0275_18_05_1347-01_tr_1_tl_28">heren alsmen screef . M . CCC . Seuene en̄ veertich des vridags vore chincendach</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

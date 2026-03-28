@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="2048" lry="1536" xml:id="facs_0095_06_10_1334-01">
+         <graphic url="0095_06_10_1334-01.jpg" width="2048px" height="1536px"/>
+         <zone points="209,471 1870,484 1845,396 1515,441 1273,398 945,433 776,388 489,426 207,396" rendition="Line" xml:id="facs_0095_06_10_1334-01_tr_1_tl_4" subtype="default"/>
+         <zone points="214,529 975,499 1910,547 1908,476 214,469" rendition="Line" xml:id="facs_0095_06_10_1334-01_tr_1_tl_5" subtype="default"/>
+         <zone points="209,585 882,539 1890,572 1890,524 1698,507 209,527" rendition="Line" xml:id="facs_0095_06_10_1334-01_tr_1_tl_6" subtype="default"/>
+         <zone points="209,633 1023,590 1900,610 1900,564 1562,549 209,587" rendition="Line" xml:id="facs_0095_06_10_1334-01_tr_1_tl_7" subtype="default"/>
+         <zone points="207,675 1893,645 1862,595 207,627" rendition="Line" xml:id="facs_0095_06_10_1334-01_tr_1_tl_8" subtype="default"/>
+         <zone points="207,743 496,696 1837,698 1882,650 207,675" rendition="Line" xml:id="facs_0095_06_10_1334-01_tr_1_tl_9" subtype="default"/>
+         <zone points="204,769 1681,746 1882,718 1885,680 499,696 204,743" rendition="Line" xml:id="facs_0095_06_10_1334-01_tr_1_tl_10" subtype="default"/>
+         <zone points="194,832 1263,769 1857,786 1903,723 194,776" rendition="Line" xml:id="facs_0095_06_10_1334-01_tr_1_tl_11" subtype="default"/>
+         <zone points="194,857 927,832 1008,905 1167,910 1313,839 1893,862 1895,774 194,832" rendition="Line" xml:id="facs_0095_06_10_1334-01_tr_1_tl_12" subtype="default"/>
+         <zone points="192,915 592,907 675,950 736,920 849,930 854,839 194,864" rendition="Line" xml:id="facs_0095_06_10_1334-01_tr_1_tl_14" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0095_06_10_1334-01" n="0095_06_10_1334-01" xml:id="img_0095_06_10_1334-01"/>
+            <ab>
+               <l facs="#facs_0095_06_10_1334-01_tr_1_tl_4">Wi Willem sprong en̄ willem drake scepenen in Antwʼpen maken cond dat vore ons quā Claus van sele</l>
+               <l facs="#facs_0095_06_10_1334-01_tr_1_tl_5">sone wilen domaes van zele En̄ bekende dat hi om ene sūme ghelds die hem al es vʼgouden . vercocht heeft</l>
+               <l facs="#facs_0095_06_10_1334-01_tr_1_tl_6">wetteleke den cōuente vanden brudeʼn vandʼ derddʼ ordenen sente fᵃsiscus wonachtech in antwʼpen</l>
+               <l facs="#facs_0095_06_10_1334-01_tr_1_tl_7">alle dat ghedeel en̄ recht dat hi hadde en̄ houdende was jnt huis dat sijns vadʼs en̄ sier moedʼ was . dat m̄</l>
+               <l facs="#facs_0095_06_10_1334-01_tr_1_tl_8">nv heet de tauelronde ghestaen bidʼ marct opden hoec vandʼ euelscalcstᵃten naest den huise dat men</l>
+               <l facs="#facs_0095_06_10_1334-01_tr_1_tl_9">heet die enghel . met alle den rechte dat de selue claus hadde ane den grond en̄ ane al dat daer</l>
+               <l facs="#facs_0095_06_10_1334-01_tr_1_tl_10">toe hoert . dat welke ghedeel en̄ recht int vorseide huis en̄ grond de vorseide claus gheloefde . te</l>
+               <l facs="#facs_0095_06_10_1334-01_tr_1_tl_11">waerne den vorseiden 9uente jaer en̄ dach also hi sculdech es tewaerne . Jn kennessen van desen let</l>
+               <l facs="#facs_0095_06_10_1334-01_tr_1_tl_12">teʼn beseghelt met onsen seghelen . Ghegheuen jnt jaer ons heʼn alsm̄ screef . M . CCC . viere . en̄ derttech</l>
+               <l facs="#facs_0095_06_10_1334-01_tr_1_tl_14">des donresdaegs na sente bauen dach</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

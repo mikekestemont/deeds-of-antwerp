@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3365" lry="1783" xml:id="facs_0051_04_01_1317-01">
+         <graphic url="0051_04_01_1317-01.jpg" width="3365px" height="1783px"/>
+         <zone points="41,297 737,297 836,255 980,301 1199,276 1409,313 2261,284 2377,330 2599,288 2677,338 3060,313 3344,362 3344,194 3171,152 3101,198 2912,157 2801,214 2578,198 2442,132 2315,202 2142,185 2072,227 1820,136 1660,177 816,152 651,218 235,222 41,169" rendition="Line" xml:id="facs_0051_04_01_1317-01_tr_1_tl_2" subtype="default"/>
+         <zone points="62,379 465,346 659,391 1013,346 1359,387 1491,350 2084,400 2344,362 2854,416 3023,379 3344,437 3340,346 3097,346 3056,309 2685,338 2599,288 2426,325 2183,284 972,297 836,259 647,305 511,272 62,297" rendition="Line" xml:id="facs_0051_04_01_1317-01_tr_1_tl_3" subtype="default"/>
+         <zone points="62,432 1685,457 1886,424 2031,461 2241,432 2278,465 3295,490 3295,424 3237,404 2228,362 2076,400 1829,354 1639,391 1491,350 1363,387 1013,346 214,383 165,350 62,391" rendition="Line" xml:id="facs_0051_04_01_1317-01_tr_1_tl_4" subtype="default"/>
+         <zone points="74,548 1021,482 1149,523 1236,486 1841,531 2014,494 2933,531 3003,585 3324,568 3324,502 3250,478 3068,502 2644,445 74,437" rendition="Line" xml:id="facs_0051_04_01_1317-01_tr_1_tl_5" subtype="default"/>
+         <zone points="82,614 1709,564 1862,605 1952,573 2438,618 2702,593 2900,655 3085,622 3258,675 3320,655 3320,573 3003,581 2933,531 2615,519 2224,540 2166,494 1763,527 1017,482 78,548" rendition="Line" xml:id="facs_0051_04_01_1317-01_tr_1_tl_6" subtype="default"/>
+         <zone points="103,688 1207,626 1339,667 1483,622 1730,675 2059,643 2352,696 2521,659 2652,708 2858,688 3229,750 3229,638 2895,651 2681,593 2434,618 2026,573 1858,605 1709,560 1664,593 1252,564 99,601" rendition="Line" xml:id="facs_0051_04_01_1317-01_tr_1_tl_7" subtype="default"/>
+         <zone points="78,762 573,725 655,762 1054,708 1120,745 1363,737 1454,700 1627,745 1701,696 1796,745 1928,713 2113,766 2187,725 2414,791 2603,745 2714,787 2809,754 3106,820 3332,807 3328,717 3291,708 3192,750 2990,692 2735,713 2521,663 2344,696 2059,647 1726,671 1627,630 1466,667 1211,630 770,643 675,684 548,647 478,684 78,671" rendition="Line" xml:id="facs_0051_04_01_1317-01_tr_1_tl_8" subtype="default"/>
+         <zone points="86,853 725,857 758,824 906,861 1013,807 1211,840 1330,778 1549,861 1726,857 1808,799 1907,865 2055,811 2142,857 2265,844 2269,733 1800,745 1709,696 1532,745 1454,700 1363,741 1059,713 655,762 548,729 91,750" rendition="Line" xml:id="facs_0051_04_01_1317-01_tr_1_tl_9" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0051_04_01_1317-01" n="0051_04_01_1317-01" xml:id="img_0051_04_01_1317-01"/>
+            <ab>
+               <l facs="#facs_0051_04_01_1317-01_tr_1_tl_2">Wi andries tucland en̄ Jan vander elst scepenen jn antwʼpen maken cont dat vore ons quamen claus vā</l>
+               <l facs="#facs_0051_04_01_1317-01_tr_1_tl_3">den wʼue . en̄ heinrijc willoys . ende bekinden dat de vorseide claus ghegheuen heeft den vorseiden heinrike</l>
+               <l facs="#facs_0051_04_01_1317-01_tr_1_tl_4">terue een half huis ghestaen bider Royen naest den huise dat men heet de dobbeleere . dats te wetene die</l>
+               <l facs="#facs_0051_04_01_1317-01_tr_1_tl_5">helft die ghestaen es ouer de side ter kerken . meert met al dat daer thoe behoert . om dertech scellinghe</l>
+               <l facs="#facs_0051_04_01_1317-01_tr_1_tl_6">tsiars paimente alse altoes in borse gaet te gheldene en̄ te gheunene alle iare vanden vorseiden heinrike en̄</l>
+               <l facs="#facs_0051_04_01_1317-01_tr_1_tl_7">van sinen nacomelinghen . den vorseiden clause en̄ sinen nacomelinghen op sente steuens dach die naest leeght</l>
+               <l facs="#facs_0051_04_01_1317-01_tr_1_tl_8">den kersdaghe . Jn kennissen van desen letteren . beseghelt met onsen seghelen . Ghegheuen int jaer ons heeren</l>
+               <l facs="#facs_0051_04_01_1317-01_tr_1_tl_9">alsmen screef . M . CCC . ende sestiene . des dinsendaegs vor dertiendagh</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

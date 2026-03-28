@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3507" lry="2480" xml:id="facs_0142_09_06_1355-01">
+         <graphic url="0142_09_06_1355-01.jpg" width="3507px" height="2480px"/>
+         <zone points="513,868 2708,908 2708,826 2534,777 2201,840 2064,797 1783,831 1478,780 1204,829 513,775" rendition="Line" xml:id="facs_0142_09_06_1355-01_tr_1_tl_1" subtype="default"/>
+         <zone points="518,951 646,920 2674,945 2614,883 518,880" rendition="Line" xml:id="facs_0142_09_06_1355-01_tr_1_tl_2" subtype="default"/>
+         <zone points="518,982 2691,994 2688,940 518,943" rendition="Line" xml:id="facs_0142_09_06_1355-01_tr_1_tl_3" subtype="default"/>
+         <zone points="518,1028 2745,1059 2745,965 2608,1008 518,985" rendition="Line" xml:id="facs_0142_09_06_1355-01_tr_1_tl_4" subtype="default"/>
+         <zone points="518,1085 2708,1085 2705,1045 2574,1036 515,1031" rendition="Line" xml:id="facs_0142_09_06_1355-01_tr_1_tl_5" subtype="default"/>
+         <zone points="524,1139 2731,1133 2731,1082 2543,1076 524,1085" rendition="Line" xml:id="facs_0142_09_06_1355-01_tr_1_tl_6" subtype="default"/>
+         <zone points="535,1199 2702,1190 2702,1145 2594,1125 535,1145" rendition="Line" xml:id="facs_0142_09_06_1355-01_tr_1_tl_7" subtype="default"/>
+         <zone points="521,1242 2742,1236 2717,1173 524,1190" rendition="Line" xml:id="facs_0142_09_06_1355-01_tr_1_tl_8" subtype="default"/>
+         <zone points="532,1310 2754,1281 2754,1242 2597,1224 535,1244" rendition="Line" xml:id="facs_0142_09_06_1355-01_tr_1_tl_9" subtype="default"/>
+         <zone points="530,1358 2722,1321 2665,1276 2349,1270 530,1318" rendition="Line" xml:id="facs_0142_09_06_1355-01_tr_1_tl_10" subtype="default"/>
+         <zone points="518,1404 2779,1378 2751,1316 518,1364" rendition="Line" xml:id="facs_0142_09_06_1355-01_tr_1_tl_11" subtype="default"/>
+         <zone points="524,1478 2762,1444 2765,1372 524,1410" rendition="Line" xml:id="facs_0142_09_06_1355-01_tr_1_tl_12" subtype="default"/>
+         <zone points="521,1538 2739,1481 2731,1435 2560,1418 521,1478" rendition="Line" xml:id="facs_0142_09_06_1355-01_tr_1_tl_13" subtype="default"/>
+         <zone points="527,1595 1390,1543 2739,1540 2762,1469 527,1540" rendition="Line" xml:id="facs_0142_09_06_1355-01_tr_1_tl_14" subtype="default"/>
+         <zone points="518,1632 2805,1586 2805,1526 2762,1521 518,1595" rendition="Line" xml:id="facs_0142_09_06_1355-01_tr_1_tl_15" subtype="default"/>
+         <zone points="535,1706 1857,1643 2059,1711 2153,1649 2343,1714 2540,1683 2756,1723 2759,1589 535,1637" rendition="Line" xml:id="facs_0142_09_06_1355-01_tr_1_tl_16" subtype="default"/>
+         <zone points="515,1771 1552,1763 1600,1800 1748,1760 1825,1808 1993,1805 1976,1640 518,1708" rendition="Line" xml:id="facs_0142_09_06_1355-01_tr_1_tl_17" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0142_09_06_1355-01" n="0142_09_06_1355-01" xml:id="img_0142_09_06_1355-01"/>
+            <ab>
+               <l facs="#facs_0142_09_06_1355-01_tr_1_tl_1">Wij Jan bode . Ende laureins volcart Scepenē Jn Antwʼpen maken cont dat vore ons quamē Jan de grise ende margriete bonaerds siin</l>
+               <l facs="#facs_0142_09_06_1355-01_tr_1_tl_2">wijttelec wijf ende verliden dat sij ōme eene sōme ghelds daer sij hen af bekinden al vergouden wittelec vʼcocht hebben broedeʼ an</l>
+               <l facs="#facs_0142_09_06_1355-01_tr_1_tl_3">noude van westʼle meestʼ vanden ouden gasthuise van Antwʼpen tote des selfs gasthuis behoef tsiaers . drie viertlen Roghs goeds en̄</l>
+               <l facs="#facs_0142_09_06_1355-01_tr_1_tl_4">custbaers jaerlakeʼ ende erflakeʼ Renten . Op een huis met den gronde houe en̄ op alle dat daer toe behoert . ghestaen bi des ouds gasthuis</l>
+               <l facs="#facs_0142_09_06_1355-01_tr_1_tl_5">molen alder naest claus bonards lande ane dene side . Ende diederijcs lande van bouen ane dandeʼ side . met allen den Rechte dat de</l>
+               <l facs="#facs_0142_09_06_1355-01_tr_1_tl_6">vorghenomde Jan de grise ende margriete siin vorꞩ wijf ane tvorghenomde huis gront hof ende ane alle dat daer toe behoert houdēde</l>
+               <l facs="#facs_0142_09_06_1355-01_tr_1_tl_7">siin . soe dat tvorghenomde huis met allen sinen toe behoerten . gherecht pand es ende bliuen sal verbondē ouʼ de vorghenomde drie</l>
+               <l facs="#facs_0142_09_06_1355-01_tr_1_tl_8">viertlen togs jaerlakeʼ ende erflakeʼ Renten . te gheldene en̄ te gheuene alle jaere vanden vorghenomdē Janne den grisen margrietē</l>
+               <l facs="#facs_0142_09_06_1355-01_tr_1_tl_9">sinen wiue ende van horen nacomelinghen den vorghenomdē broedeʼ arnoude ende sinen nacomelinghen die meestʼs en̄ bestēmers daer</l>
+               <l facs="#facs_0142_09_06_1355-01_tr_1_tl_10">wesen selen tote des vorghenomds ghasthuis behoef op den kerssauond . ende te leuʼne binnē den vorghenomdē gasthuise met der</l>
+               <l facs="#facs_0142_09_06_1355-01_tr_1_tl_11">antwʼpscheʼ maten . Ware oec dat zake dat vten vorghenomē huise meer bommers oft cheins tsiaers ghinghe dan den vorghenomdē</l>
+               <l facs="#facs_0142_09_06_1355-01_tr_1_tl_12">Rogghe . en̄ veertiene oude grote torn̄ die de capittlē van onꞩ vrouwen kerke daer siaers op heeft van gherechten landcheinse also</l>
+               <l facs="#facs_0142_09_06_1355-01_tr_1_tl_13">sij ons seiden . Soe willecorden ende gheloefden de vorghenomde Jan en̄ margriete siin vorghenomde wijf dat an en̄ al hore andʼ</l>
+               <l facs="#facs_0142_09_06_1355-01_tr_1_tl_14">goet ligghende ende Rurende welkerande dat es waer dat gheleghen es oft vonden mach wordden dat si nv hebben en̄ namaels</l>
+               <l facs="#facs_0142_09_06_1355-01_tr_1_tl_15">moghen ghewinnē . ouʼ desen vorghenomdē Rogghe erflec te gheuene verbondē ende ghehouden souden wesen met den vorghenomdē</l>
+               <l facs="#facs_0142_09_06_1355-01_tr_1_tl_16">huise met allen sinen toe behoerten . Jn kennissen van desen lrēn bezegl̄t met onsen seglen . Ghegheuē int jaer ons heʼn alsmen</l>
+               <l facs="#facs_0142_09_06_1355-01_tr_1_tl_17">screef . M . CCC . viue en̄ vijftech des dinsendaghs na den heilechs sacᵃments daghe</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

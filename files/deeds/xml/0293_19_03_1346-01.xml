@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="2048" lry="1536" xml:id="facs_0293_19_03_1346-01">
+         <graphic url="0293_19_03_1346-01.jpg" width="2048px" height="1536px"/>
+         <zone points="257,307 1777,357 1775,305 1032,282 893,229 747,281 256,242" rendition="Line" xml:id="facs_0293_19_03_1346-01_tr_1_tl_3" subtype="default"/>
+         <zone points="261,348 1729,398 1785,357 259,309" rendition="Line" xml:id="facs_0293_19_03_1346-01_tr_1_tl_4" subtype="default"/>
+         <zone points="261,373 1781,448 1798,384 259,342" rendition="Line" xml:id="facs_0293_19_03_1346-01_tr_1_tl_5" subtype="default"/>
+         <zone points="265,436 1802,478 1773,434 1291,398 263,380" rendition="Line" xml:id="facs_0293_19_03_1346-01_tr_1_tl_6" subtype="default"/>
+         <zone points="261,476 1802,517 1779,469 1570,453 261,438" rendition="Line" xml:id="facs_0293_19_03_1346-01_tr_1_tl_7" subtype="default"/>
+         <zone points="269,496 1610,546 1791,513 267,476" rendition="Line" xml:id="facs_0293_19_03_1346-01_tr_1_tl_8" subtype="default"/>
+         <zone points="269,530 1787,594 1785,538 269,505" rendition="Line" xml:id="facs_0293_19_03_1346-01_tr_1_tl_9" subtype="default"/>
+         <zone points="273,588 1746,621 1791,584 271,530" rendition="Line" xml:id="facs_0293_19_03_1346-01_tr_1_tl_10" subtype="default"/>
+         <zone points="277,624 1791,661 1802,613 275,594" rendition="Line" xml:id="facs_0293_19_03_1346-01_tr_1_tl_11" subtype="default"/>
+         <zone points="281,671 1818,701 1804,649 279,613" rendition="Line" xml:id="facs_0293_19_03_1346-01_tr_1_tl_12" subtype="default"/>
+         <zone points="275,719 1818,734 1744,680 275,672" rendition="Line" xml:id="facs_0293_19_03_1346-01_tr_1_tl_13" subtype="default"/>
+         <zone points="281,749 1798,763 1798,726 1643,715 281,717" rendition="Line" xml:id="facs_0293_19_03_1346-01_tr_1_tl_14" subtype="default"/>
+         <zone points="284,788 1810,795 1810,759 1706,749 284,751" rendition="Line" xml:id="facs_0293_19_03_1346-01_tr_1_tl_15" subtype="default"/>
+         <zone points="281,847 1808,851 1808,795 1766,788 281,801" rendition="Line" xml:id="facs_0293_19_03_1346-01_tr_1_tl_16" subtype="default"/>
+         <zone points="288,884 1814,886 1798,830 288,834" rendition="Line" xml:id="facs_0293_19_03_1346-01_tr_1_tl_17" subtype="default"/>
+         <zone points="294,936 1541,934 1499,868 294,890" rendition="Line" xml:id="facs_0293_19_03_1346-01_tr_1_tl_18" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0293_19_03_1346-01" n="0293_19_03_1346-01" xml:id="img_0293_19_03_1346-01"/>
+            <ab>
+               <l facs="#facs_0293_19_03_1346-01_tr_1_tl_3">Wi Jan bode . en̄ gielijs de stouʼe . Scepenē Jn Antwʼpen . maken cont dat vore ons qᵃmē heinric vandē brueke . En̄ ioncfrou-</l>
+               <l facs="#facs_0293_19_03_1346-01_tr_1_tl_4">we kateline sijn wettelec wijf in dene ꝑtie . En̄ Gielijs van Wineghem . en̄ bruedʼ  ian van wineghē sijn sone bruedʼ vandʼ</l>
+               <l facs="#facs_0293_19_03_1346-01_tr_1_tl_5">dʼder ordinē sente franciscus in dandeʼ ꝑtie . En̄ bekenden dat de selue heinric . en̄ joncfrʼ kateline sijn wijf . gheghe-</l>
+               <l facs="#facs_0293_19_03_1346-01_tr_1_tl_6">uen hebben terue .. den seluen gielise en̄ bruedʼe Janne sinē sone . hoer vijftehalue ghemete lands luttel meer ofte mi</l>
+               <l facs="#facs_0293_19_03_1346-01_tr_1_tl_7">gheleghen in lillo . daer af dat wedʼ deel heeft Jan sprongh . dats te wetene elc ghemet . alsoe vʼre alset strect om elleue</l>
+               <l facs="#facs_0293_19_03_1346-01_tr_1_tl_8">oude grote tornoyse siaers . dats te wetene den guldenē schilt vore sestiene grote tornʼ oft den guldenē hellinc vore</l>
+               <l facs="#facs_0293_19_03_1346-01_tr_1_tl_9">twelue grote tornʼ gherekent oft de wʼde daer af in goeden andeʼn ghelde te gheldene alle jare vandē vorꞩ Gielise</l>
+               <l facs="#facs_0293_19_03_1346-01_tr_1_tl_10">en̄ bruedeʼ Janne sinen sone en̄ van haren nacomelinghē .. den vorꞩ heinrike en̄ ioncfrʼ katlinē sinē wiue en̄ horē</l>
+               <l facs="#facs_0293_19_03_1346-01_tr_1_tl_11">nacomelinghen . Op sente Bauen dach . Ende ware des lands meer ofte min dan voerseit es soe souden de vorꞩ gilijs</l>
+               <l facs="#facs_0293_19_03_1346-01_tr_1_tl_12">en̄ bruedeʼ Jan alsoe vele te meer oft te min ghelden na ghelande . En̄ om de meerre zekerheide . soe setten de vorꞩ</l>
+               <l facs="#facs_0293_19_03_1346-01_tr_1_tl_13">Gielijs en̄ bruedʼ Jan toet enē ondʼpande ouʼ de vorꞩ rente hoer huis ghestaen in de nuwestᵃte metden houe die daer</l>
+               <l facs="#facs_0293_19_03_1346-01_tr_1_tl_14">toe hoert naest Jans huis van camdonc in tʼ stad wʼt . Mede gheloefden de vorꞩ heinric en̄ ioncfrʼ kateline sijn</l>
+               <l facs="#facs_0293_19_03_1346-01_tr_1_tl_15">wijf . den vorseiden gielise en̄ bruedeʼ Janne scadeloes . en̄ onghemoyt te houdene . van al dien dat die hʼe vandē</l>
+               <l facs="#facs_0293_19_03_1346-01_tr_1_tl_16">lande daer toe te segghene heeft ghehadt ten vorseiden lande toet op den dach vandʼ daten van dʼre lrēn Jn ken</l>
+               <l facs="#facs_0293_19_03_1346-01_tr_1_tl_17">nessen van desen lrēn beseghelt met onsen zeghelen . Ghegheuē int jaer ons heʼn alsm̄ screef . M . CCC . viertech en̄ viue</l>
+               <l facs="#facs_0293_19_03_1346-01_tr_1_tl_18">des sondaegs vore onser vrouwen dach dien men heet annūciatio . Jn de maent van Merte</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

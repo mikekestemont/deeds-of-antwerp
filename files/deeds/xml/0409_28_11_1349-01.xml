@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="2288" lry="1173" xml:id="facs_0409_28_11_1349-01">
+         <graphic url="0409_28_11_1349-01.jpg" width="2288px" height="1173px"/>
+         <zone points="288,198 2145,249 2158,119 1935,198 1717,152 1408,191 285,123" rendition="Line" xml:id="facs_0409_28_11_1349-01_tr_1_tl_1" subtype="default"/>
+         <zone points="266,249 2145,285 2085,227 264,191" rendition="Line" xml:id="facs_0409_28_11_1349-01_tr_1_tl_2" subtype="default"/>
+         <zone points="266,290 498,264 2049,334 2170,285 264,227" rendition="Line" xml:id="facs_0409_28_11_1349-01_tr_1_tl_3" subtype="default"/>
+         <zone points="244,317 2068,368 2184,360 2184,300 242,276" rendition="Line" xml:id="facs_0409_28_11_1349-01_tr_1_tl_4" subtype="default"/>
+         <zone points="252,346 2068,404 2155,399 2155,353 249,317" rendition="Line" xml:id="facs_0409_28_11_1349-01_tr_1_tl_5" subtype="default"/>
+         <zone points="256,406 2114,438 2155,389 254,365" rendition="Line" xml:id="facs_0409_28_11_1349-01_tr_1_tl_6" subtype="default"/>
+         <zone points="293,435 2167,472 2165,414 293,399" rendition="Line" xml:id="facs_0409_28_11_1349-01_tr_1_tl_7" subtype="default"/>
+         <zone points="457,479 1884,522 2162,506 2162,464 455,428" rendition="Line" xml:id="facs_0409_28_11_1349-01_tr_1_tl_8" subtype="default"/>
+         <zone points="351,535 1875,564 2061,554 2138,506 348,479" rendition="Line" xml:id="facs_0409_28_11_1349-01_tr_1_tl_9" subtype="default"/>
+         <zone points="242,578 2046,593 2143,585 2143,532 385,537 239,493" rendition="Line" xml:id="facs_0409_28_11_1349-01_tr_1_tl_10" subtype="default"/>
+         <zone points="252,617 2141,622 2126,578 252,571" rendition="Line" xml:id="facs_0409_28_11_1349-01_tr_1_tl_11" subtype="default"/>
+         <zone points="242,648 2158,668 2158,626 2075,617 242,610" rendition="Line" xml:id="facs_0409_28_11_1349-01_tr_1_tl_12" subtype="default"/>
+         <zone points="237,685 2165,704 2128,658 237,643" rendition="Line" xml:id="facs_0409_28_11_1349-01_tr_1_tl_13" subtype="default"/>
+         <zone points="254,747 2177,752 2133,699 254,701" rendition="Line" xml:id="facs_0409_28_11_1349-01_tr_1_tl_14" subtype="default"/>
+         <zone points="206,791 2145,798 2145,757 1971,745 206,745" rendition="Line" xml:id="facs_0409_28_11_1349-01_tr_1_tl_15" subtype="default"/>
+         <zone points="237,825 2145,851 2145,801 2075,786 237,796" rendition="Line" xml:id="facs_0409_28_11_1349-01_tr_1_tl_16" subtype="default"/>
+         <zone points="242,880 1381,868 1986,909 2102,895 2102,856 239,822" rendition="Line" xml:id="facs_0409_28_11_1349-01_tr_1_tl_17" subtype="default"/>
+         <zone points="252,951 772,907 1787,941 1787,885 1722,880 252,880" rendition="Line" xml:id="facs_0409_28_11_1349-01_tr_1_tl_18" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0409_28_11_1349-01" n="0409_28_11_1349-01" xml:id="img_0409_28_11_1349-01"/>
+            <ab>
+               <l facs="#facs_0409_28_11_1349-01_tr_1_tl_1">Wij Wouteʼ vanden brueke en̄ laureins volkaerd scepenen in Antwʼpē maken cond dat vore ons quamen Arnoud vandʼ heyden Ende</l>
+               <l facs="#facs_0409_28_11_1349-01_tr_1_tl_2">katline sine dochter met horen montbore ghegheuē hare metten rechte Ende bekenden dat si ōme eene Sūme ghelds die hen al es</l>
+               <l facs="#facs_0409_28_11_1349-01_tr_1_tl_3">vʼgouden vʼcocht hebben wetteleke bescedenē lieden . heʼn lodewiike vandʼ hulst en̄ hʼen jacoppe den portʼe Caplanen nv in onser vrouwē</l>
+               <l facs="#facs_0409_28_11_1349-01_tr_1_tl_4">kercke in Antwʼpen tote eenre bruederscap behoef die de vorseide her lodewiic en̄ her jacop en̄ hore gheseltscap gheordineerd en̄ ghemaect</l>
+               <l facs="#facs_0409_28_11_1349-01_tr_1_tl_5">hebben also si seiden in deere . Sente Rombouds en̄ onser vrouwen Sestiene oude grote tornoise siaers van muntē tsconincs van</l>
+               <l facs="#facs_0409_28_11_1349-01_tr_1_tl_6">vrancrike ofte den guldenen pēninc die men heet scild goed en̄ custbaer van ghewichte en̄ van goude vore sestiene der vorseider grote</l>
+               <l facs="#facs_0409_28_11_1349-01_tr_1_tl_7">gherekent ofte de werde daer af in goeden andʼen ghelde erfleker en̄ eweleker renten op hore huis ghestaen op den hoec in de zieric-</l>
+               <l facs="#facs_0409_28_11_1349-01_tr_1_tl_8">strate alder naest Jans huise van loenhoud . en̄ op hof grond en̄ op al datter toe hoert dat welke vorseide huis hof grond en̄ al datter</l>
+               <l facs="#facs_0409_28_11_1349-01_tr_1_tl_9">toe hoert de vorseide arnoud . en̄ katline sine dochter vʼbonden hebben en̄ te pande gheset ouʼ de vorseide erfleke en̄ eweleke</l>
+               <l facs="#facs_0409_28_11_1349-01_tr_1_tl_10">rente te gheldene en̄ tegheuene van hen en̄ van horen nacomelinghen den meestʼen ende den berechtʼen vandʼ vorseidʼ bruederscap die nv</l>
+               <l facs="#facs_0409_28_11_1349-01_tr_1_tl_11">sijn en̄ namaels wesen selen eweleke durende alle jare op sente Jans dach baptisten in midden zomʼe mede soe gheloefden de vorꞩ</l>
+               <l facs="#facs_0409_28_11_1349-01_tr_1_tl_12">arnoud en̄ katline sine dochtʼ met horen montbore dit vorseide huis hof grond en̄ al datter toe hoert tewaerne den vorseidē</l>
+               <l facs="#facs_0409_28_11_1349-01_tr_1_tl_13">heʼn lodewike en̄ heʼn jacoppe quite en̄ los van allen cōmʼe en̄ kalaengen tote op achte oude grote tornoise en̄ viue capoene siaers</l>
+               <l facs="#facs_0409_28_11_1349-01_tr_1_tl_14">die daer vte gaen also si seiden . Voert Soe gheloefden de vorseide arnoud en̄ katline sine dochter met horen montbore te ver-</l>
+               <l facs="#facs_0409_28_11_1349-01_tr_1_tl_15">maene in desen dinghen . Janne . sone wilen margrieten die dochtʼ wilen was des vorseids arnouds daer de selue arnoud</l>
+               <l facs="#facs_0409_28_11_1349-01_tr_1_tl_16">ouderuader . af es ende in dien te hebbene . en̄ tehoudene . dat hi desen vorseiden coep en̄ vorwaerden altoes vaste ende</l>
+               <l facs="#facs_0409_28_11_1349-01_tr_1_tl_17">ghestade houden sal tallen daghen .. Jn kinnessen van desen lrēn .. bezeghelt met onsen zeghelen Ghegheuen jnt</l>
+               <l facs="#facs_0409_28_11_1349-01_tr_1_tl_18">jaer ons heʼn . alsmē screef M CCC veertech en̄ neghene des saterdaeghe vore sente andries dach .</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

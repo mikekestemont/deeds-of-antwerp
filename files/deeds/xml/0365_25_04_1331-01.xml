@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="2048" lry="1536" xml:id="facs_0365_25_04_1331-01">
+         <graphic url="0365_25_04_1331-01.jpg" width="2048px" height="1536px"/>
+         <zone points="209,254 1368,213 1820,240 1820,174 1761,164 1257,192 913,141 743,184 504,137 209,170" rendition="Line" xml:id="facs_0365_25_04_1331-01_tr_1_tl_5" subtype="default"/>
+         <zone points="205,276 1822,270 1521,211 205,254" rendition="Line" xml:id="facs_0365_25_04_1331-01_tr_1_tl_6" subtype="default"/>
+         <zone points="209,326 1855,326 1857,281 211,278" rendition="Line" xml:id="facs_0365_25_04_1331-01_tr_1_tl_7" subtype="default"/>
+         <zone points="207,373 1849,362 1849,321 1765,305 207,326" rendition="Line" xml:id="facs_0365_25_04_1331-01_tr_1_tl_8" subtype="default"/>
+         <zone points="205,424 1847,387 1779,346 1521,340 207,371" rendition="Line" xml:id="facs_0365_25_04_1331-01_tr_1_tl_9" subtype="default"/>
+         <zone points="219,473 991,416 1816,438 1816,385 1462,381 221,420" rendition="Line" xml:id="facs_0365_25_04_1331-01_tr_1_tl_10" subtype="default"/>
+         <zone points="215,500 1847,465 1769,424 1355,416 215,473" rendition="Line" xml:id="facs_0365_25_04_1331-01_tr_1_tl_11" subtype="default"/>
+         <zone points="213,553 1001,493 1851,528 1853,469 213,500" rendition="Line" xml:id="facs_0365_25_04_1331-01_tr_1_tl_12" subtype="default"/>
+         <zone points="219,612 473,567 1790,557 1828,524 997,495 221,551" rendition="Line" xml:id="facs_0365_25_04_1331-01_tr_1_tl_13" subtype="default"/>
+         <zone points="227,637 866,586 1816,592 1816,553 1736,543 1065,538 227,614" rendition="Line" xml:id="facs_0365_25_04_1331-01_tr_1_tl_14" subtype="default"/>
+         <zone points="221,692 985,627 1833,645 1835,592 1341,581 223,643" rendition="Line" xml:id="facs_0365_25_04_1331-01_tr_1_tl_15" subtype="default"/>
+         <zone points="227,721 1167,667 1783,700 1853,692 1855,653 1188,622 227,684" rendition="Line" xml:id="facs_0365_25_04_1331-01_tr_1_tl_16" subtype="default"/>
+         <zone points="233,766 1271,708 1833,731 1833,692 1738,676 1169,665 233,723" rendition="Line" xml:id="facs_0365_25_04_1331-01_tr_1_tl_17" subtype="default"/>
+         <zone points="235,799 1247,751 1833,774 1794,735 1274,708 238,758" rendition="Line" xml:id="facs_0365_25_04_1331-01_tr_1_tl_18" subtype="default"/>
+         <zone points="244,860 835,799 1826,817 1808,772 1433,751 246,809" rendition="Line" xml:id="facs_0365_25_04_1331-01_tr_1_tl_19" subtype="default"/>
+         <zone points="244,899 1059,831 1830,858 1790,809 1239,788 244,860" rendition="Line" xml:id="facs_0365_25_04_1331-01_tr_1_tl_20" subtype="default"/>
+         <zone points="238,932 846,882 1824,891 1736,837 1468,827 240,899" rendition="Line" xml:id="facs_0365_25_04_1331-01_tr_1_tl_21" subtype="default"/>
+         <zone points="246,962 756,919 1810,928 1669,874 1255,872 246,928" rendition="Line" xml:id="facs_0365_25_04_1331-01_tr_1_tl_22" subtype="default"/>
+         <zone points="244,1024 1014,1009 1321,952 1456,1063 1742,1038 1744,921 1695,915 246,960" rendition="Line" xml:id="facs_0365_25_04_1331-01_l" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0365_25_04_1331-01" n="0365_25_04_1331-01" xml:id="img_0365_25_04_1331-01"/>
+            <ab>
+               <l facs="#facs_0365_25_04_1331-01_tr_1_tl_5">Wi jan Wilmaer de roede . en̄ claus van hoboken scepenen in Antwʼpen maken cond . Dat vore ons qᵃmen ar-</l>
+               <l facs="#facs_0365_25_04_1331-01_tr_1_tl_6">noud van Edenghem en̄ jan strubolle . En̄ bekenden dat de selue arnoud ghegheuen heeft den seluē Janne</l>
+               <l facs="#facs_0365_25_04_1331-01_tr_1_tl_7">tʼue en̄ in erfleken rechte alle dat eyghen dat hi arnoud heeft en̄ houdende es inden grond en̄ hofstat van</l>
+               <l facs="#facs_0365_25_04_1331-01_tr_1_tl_8">den huise gheheten de smaelgans ghestaen in die euelscalcstᵃte en̄ inden grond vanden huise ghestaen</l>
+               <l facs="#facs_0365_25_04_1331-01_tr_1_tl_9">daerbi opden hoec ten vleeschuise wʼt . dats tewetene . dene heleft vandʼ middelt des huis gheheten</l>
+               <l facs="#facs_0365_25_04_1331-01_tr_1_tl_10">smaelgans ten huise wʼt dat m̄ heet engheland daeraf denghen also si segghen lant es neffens de</l>
+               <l facs="#facs_0365_25_04_1331-01_tr_1_tl_11">strate viere en̄ twintech voete en̄ breet op dende ten huise wʼt gheheten engheland zeuene voete</l>
+               <l facs="#facs_0365_25_04_1331-01_tr_1_tl_12">en̄ op dat nedʼ middel ende tiene voete . Dat vierdendeel vanden eyghene in dandʼ heleft des selfs</l>
+               <l facs="#facs_0365_25_04_1331-01_tr_1_tl_13">huis tʼ maerct wʼt . de welke heleft lanct es neffens de stᵃte viere en̄ twintech voete en̄ breet</l>
+               <l facs="#facs_0365_25_04_1331-01_tr_1_tl_14">op elc ende tiene voete . tehebbene en̄ tehoudene den seluen jāne en̄ sinen nacomelinghen in</l>
+               <l facs="#facs_0365_25_04_1331-01_tr_1_tl_15">erfleken rechte ōme tweleue scellinghe sjaers grotʼ oudʼ tornoise van mūten sconings van vᵃn-</l>
+               <l facs="#facs_0365_25_04_1331-01_tr_1_tl_16">kerike en̄ enen enghelschen pēninc oft de wʼde daeraf in goeden andren ghelde . En̄ dat vierdeel</l>
+               <l facs="#facs_0365_25_04_1331-01_tr_1_tl_17">vanden vorseiden andren huise ghestaen daerbi daer woutre strubolle des selfs jans vadʼ in te</l>
+               <l facs="#facs_0365_25_04_1331-01_tr_1_tl_18">woenne plach dats tewetene tvierdeel vanden gronde ōme achte oude grote tornoise saers vā</l>
+               <l facs="#facs_0365_25_04_1331-01_tr_1_tl_19">monten sconīgs vorseit en̄ twee enghelsche pēninghe jaerlijs en̄ erflijcs cheins tegheldene en̄</l>
+               <l facs="#facs_0365_25_04_1331-01_tr_1_tl_20">tegheuene alle jare vanden vorꞩ jāne en̄ van sinen nacomelinghē .. den vorseiden arnoude en̄ sinen</l>
+               <l facs="#facs_0365_25_04_1331-01_tr_1_tl_21">nacomelinghē deen heleft altoes tekʼssauōde en̄ dandʼ heleft in sente jans baptʼ daghe ī midden somʼe en̄ de</l>
+               <l facs="#facs_0365_25_04_1331-01_tr_1_tl_22">vorꞩ jan heeft gheloeft dit vorꞩ eyghen wel tebetimmʼne . Jn kennessen vā desē lrēn besegh̄lt mꝫ onsen</l>
+               <l facs="#facs_0365_25_04_1331-01_l">Seglen . Ghegheuē int jaer ons heʼn alsm̄ screef . M . CCC . Een en̄ derttech op sente marcs dach</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

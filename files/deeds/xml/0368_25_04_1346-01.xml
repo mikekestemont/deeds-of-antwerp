@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="1617" lry="1588" xml:id="facs_0368_25_04_1346-01">
+         <graphic url="0368_25_04_1346-01.jpg" width="1617px" height="1588px"/>
+         <zone points="193,193 1438,184 1438,125 1354,104 1220,148 193,118" rendition="Line" xml:id="facs_0368_25_04_1346-01_tr_2_tl_2" subtype="default"/>
+         <zone points="206,235 1430,236 1430,184 1228,174 206,198" rendition="Line" xml:id="facs_0368_25_04_1346-01_tr_2_tl_3" subtype="default"/>
+         <zone points="200,265 1454,279 1454,236 1175,217 200,233" rendition="Line" xml:id="facs_0368_25_04_1346-01_tr_2_tl_4" subtype="default"/>
+         <zone points="203,305 1446,313 1389,265 203,263" rendition="Line" xml:id="facs_0368_25_04_1346-01_tr_2_tl_5" subtype="default"/>
+         <zone points="208,356 1446,358 1405,314 812,289 208,310" rendition="Line" xml:id="facs_0368_25_04_1346-01_tr_2_tl_6" subtype="default"/>
+         <zone points="200,389 1459,391 1293,342 200,356" rendition="Line" xml:id="facs_0368_25_04_1346-01_tr_2_tl_7" subtype="default"/>
+         <zone points="201,437 1449,429 1449,394 1266,385 201,391" rendition="Line" xml:id="facs_0368_25_04_1346-01_tr_2_tl_8" subtype="default"/>
+         <zone points="195,474 1462,477 1425,433 1160,421 195,437" rendition="Line" xml:id="facs_0368_25_04_1346-01_tr_2_tl_9" subtype="default"/>
+         <zone points="200,514 1470,525 1453,482 1167,458 200,477" rendition="Line" xml:id="facs_0368_25_04_1346-01_tr_2_tl_10" subtype="default"/>
+         <zone points="192,573 1462,570 1462,524 1402,512 192,511" rendition="Line" xml:id="facs_0368_25_04_1346-01_tr_2_tl_11" subtype="default"/>
+         <zone points="193,607 1473,605 1473,563 1212,552 193,573" rendition="Line" xml:id="facs_0368_25_04_1346-01_tr_2_tl_12" subtype="default"/>
+         <zone points="190,640 1449,659 1449,613 1338,602 190,603" rendition="Line" xml:id="facs_0368_25_04_1346-01_tr_2_tl_13" subtype="default"/>
+         <zone points="200,693 1467,702 1465,656 1267,638 198,642" rendition="Line" xml:id="facs_0368_25_04_1346-01_tr_2_tl_14" subtype="default"/>
+         <zone points="193,733 822,718 945,741 1022,712 1022,682 907,675 193,696" rendition="Line" xml:id="facs_0368_25_04_1346-01_tr_2_tl_15" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0368_25_04_1346-01" n="0368_25_04_1346-01" xml:id="img_0368_25_04_1346-01"/>
+            <ab>
+               <l facs="#facs_0368_25_04_1346-01_tr_2_tl_2">Wij Jan vanden mortʼe ende Woutʼe vanden brueke Scepenen Jn antwʼpen maken cond dat</l>
+               <l facs="#facs_0368_25_04_1346-01_tr_2_tl_3">vore ons quamen lisbeth dochtʼ peters teluʼen met petre slike horen witteghen manne ende</l>
+               <l facs="#facs_0368_25_04_1346-01_tr_2_tl_4">montbore . en̄ bekinden dat si wittelec vʼcocht hebben janne bacelere ende lisbetten sinen wiue</l>
+               <l facs="#facs_0368_25_04_1346-01_tr_2_tl_5">een bundʼ lands een half ghemet lands min luttel min ofte meer dat gheleghen es te drien</l>
+               <l facs="#facs_0368_25_04_1346-01_tr_2_tl_6">steden binnē ekeʼn te vrisendonch neffens tgoet dat wilen was peters vaks ōme ene sōme</l>
+               <l facs="#facs_0368_25_04_1346-01_tr_2_tl_7">van pēninghen daer hen de vorghenomde lisbeth en̄ peter slich hore man af bekinde al vʼgouden</l>
+               <l facs="#facs_0368_25_04_1346-01_tr_2_tl_8">dat welke land de vorghenomde lisbeth en̄ peter hore man gheloefden tewaerne jaer en̄ dach</l>
+               <l facs="#facs_0368_25_04_1346-01_tr_2_tl_9">en̄ dat si den vorghenomdē Janne baceleʼ en̄ lisbetten sinen wiue daer jn doen en̄ eruē selen</l>
+               <l facs="#facs_0368_25_04_1346-01_tr_2_tl_10">vore hof en̄ vore heʼ daer ment af houdt also dat hen vaste ende ghestade sal wesen . en̄ ware</l>
+               <l facs="#facs_0368_25_04_1346-01_tr_2_tl_11">hier af enech ghebrech inden vorgh̄ petre slike en̄ in lisbetten sinen wiue dat heeft gheloeft</l>
+               <l facs="#facs_0368_25_04_1346-01_tr_2_tl_12">tevoldoene alse goed borghe peter vander dilf den welken borghe de vorghenomde peter slijch</l>
+               <l facs="#facs_0368_25_04_1346-01_tr_2_tl_13">en̄ lisbeth siin wiif gheloefden hier af scadeloes te houdene en̄ wel te quitene Jn kennissen</l>
+               <l facs="#facs_0368_25_04_1346-01_tr_2_tl_14">van desen lrēn beseghelt met onsen seglen . Ghegheuen int Jaer ons heʼn alsmen screef . M .</l>
+               <l facs="#facs_0368_25_04_1346-01_tr_2_tl_15">CCC sesse en̄ veertech op sente maercs dach Ewᵃnglisten</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

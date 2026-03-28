@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3507" lry="2480" xml:id="facs_0439_30_12_1326-01">
+         <graphic url="0439_30_12_1326-01.jpg" width="3507px" height="2480px"/>
+         <zone points="172,1392 287,1347 675,1330 733,1380 815,1335 1068,1363 1306,1314 1441,1355 1650,1314 1728,1371 1924,1322 2550,1363 2759,1318 2845,1363 2911,1326 3361,1376 3361,1265 3308,1240 3238,1273 3144,1224 2866,1257 2677,1187 2534,1183 2317,1265 1867,1179 1314,1240 1236,1187 999,1261 852,1204 688,1281 504,1228 352,1269 172,1204" rendition="Line" xml:id="facs_0439_30_12_1326-01_tr_1_tl_4" subtype="default"/>
+         <zone points="151,1449 876,1453 1412,1384 1617,1388 1752,1449 1953,1396 2096,1441 2600,1404 2735,1466 2849,1425 3324,1461 3324,1367 2739,1326 2591,1367 2497,1330 2329,1367 1801,1314 1711,1355 1650,1310 1482,1351 1322,1310 1068,1359 819,1335 745,1376 569,1330 475,1367 151,1355" rendition="Line" xml:id="facs_0439_30_12_1326-01_tr_1_tl_5" subtype="default"/>
+         <zone points="139,1539 667,1556 827,1498 1224,1523 1457,1478 1511,1523 1588,1482 2043,1535 2309,1486 3377,1556 3377,1486 3279,1453 3140,1474 3095,1433 2862,1421 2731,1461 2600,1404 2448,1445 1953,1400 1744,1441 1613,1392 794,1453 671,1425 524,1474 393,1433 139,1453" rendition="Line" xml:id="facs_0439_30_12_1326-01_tr_1_tl_6" subtype="default"/>
+         <zone points="131,1658 557,1633 630,1588 794,1625 905,1576 1073,1617 1204,1564 1392,1605 1945,1568 2145,1617 2190,1580 2260,1617 2780,1633 2874,1597 2964,1638 3025,1609 3414,1646 3414,1576 3156,1531 2604,1502 2542,1543 2309,1486 2055,1531 1711,1482 1519,1523 1457,1478 1159,1494 1122,1527 929,1486 680,1552 131,1552" rendition="Line" xml:id="facs_0439_30_12_1326-01_tr_1_tl_7" subtype="default"/>
+         <zone points="151,1715 495,1678 647,1723 741,1683 1126,1699 1281,1646 1404,1683 1683,1650 1871,1699 2059,1658 2731,1723 2870,1683 3414,1719 3414,1646 3132,1613 2162,1621 1945,1568 1408,1613 1261,1564 1073,1613 1019,1576 974,1617 901,1576 782,1629 630,1588 557,1638 463,1609 377,1654 151,1650" rendition="Line" xml:id="facs_0439_30_12_1326-01_tr_1_tl_8" subtype="default"/>
+         <zone points="119,1834 287,1768 446,1793 1032,1740 1330,1777 1543,1732 3398,1789 3398,1719 2722,1666 2645,1707 2096,1662 1875,1699 1543,1646 1118,1703 499,1678 237,1744 119,1707" rendition="Line" xml:id="facs_0439_30_12_1326-01_tr_1_tl_9" subtype="default"/>
+         <zone points="119,1916 430,1846 495,1883 606,1838 774,1867 1044,1818 1261,1863 1474,1805 1666,1846 1707,1809 1789,1838 1961,1805 2092,1854 2534,1826 2681,1867 2796,1826 3078,1891 3124,1854 3381,1863 3381,1785 3324,1777 2317,1777 2243,1736 1617,1764 1547,1732 1330,1773 884,1744 839,1777 802,1744 680,1793 622,1760 446,1797 287,1773 119,1842" rendition="Line" xml:id="facs_0439_30_12_1326-01_tr_1_tl_10" subtype="default"/>
+         <zone points="143,1965 905,1900 1118,1945 1204,1900 1588,1928 1674,1887 1932,1932 2022,1891 2112,1936 2264,1900 2338,1940 2411,1895 2485,1932 2686,1900 3398,1945 3398,1871 3357,1863 3070,1846 3009,1879 2800,1830 2681,1867 2534,1826 2096,1859 1953,1801 1670,1846 1474,1805 1261,1859 1044,1818 778,1867 602,1838 487,1883 430,1846 143,1904" rendition="Line" xml:id="facs_0439_30_12_1326-01_tr_1_tl_11" subtype="default"/>
+         <zone points="106,2043 246,2067 377,2014 504,2047 712,1985 995,2018 1122,1969 1752,2022 1867,1969 2002,1994 2063,2055 2145,2030 2227,2067 2403,2026 2481,2080 2624,2084 2706,2018 2816,2051 2993,2010 3386,2076 3386,1949 2690,1900 2485,1932 2407,1895 2338,1940 2260,1895 2121,1936 2022,1891 1932,1932 1797,1887 1588,1928 1433,1895 1392,1932 1195,1895 1126,1940 905,1900 606,1953 426,1916 106,1990" rendition="Line" xml:id="facs_0439_30_12_1326-01_tr_1_tl_12" subtype="default"/>
+         <zone points="123,2157 868,2170 958,2096 1081,2076 1126,2116 1339,2055 1466,2092 1871,2055 2014,2096 2018,1965 1985,1961 1809,1994 1740,1961 1674,2006 745,1985 508,2047 364,2014 225,2067 127,2030" rendition="Line" xml:id="facs_0439_30_12_1326-01_tr_1_tl_13" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0439_30_12_1326-01" n="0439_30_12_1326-01" xml:id="img_0439_30_12_1326-01"/>
+            <ab>
+               <l facs="#facs_0439_30_12_1326-01_tr_1_tl_4">Wi Andries van hoboken . en̄ Claus van hoboken scepenē in Antwʼpen maken cōt . Dat vore ons quā</l>
+               <l facs="#facs_0439_30_12_1326-01_tr_1_tl_5">katline gheheten van breda met horen montbore hare ghegheuen metden rechte . En̄ bekende</l>
+               <l facs="#facs_0439_30_12_1326-01_tr_1_tl_6">dat si ōme ene sūme ghelds die hare al vʼgouden es . vʼcocht heeft wetteleke Janne nicholen op hare</l>
+               <l facs="#facs_0439_30_12_1326-01_tr_1_tl_7">huis ghestaen naest den huise dat wilen was willems van tielt bidʼ binnenstʼ vesten buten dʼ mere-</l>
+               <l facs="#facs_0439_30_12_1326-01_tr_1_tl_8">poerten tʼ nuwʼstᵃten wʼt en̄ op alle dat recht dat si katline houdende es ane den grond en̄ dat daertoe</l>
+               <l facs="#facs_0439_30_12_1326-01_tr_1_tl_9">hoert . Tiene oude grote tornoise gued en̄ custbaer van mōten sconings van vᵃncrike jaerlijcs ende</l>
+               <l facs="#facs_0439_30_12_1326-01_tr_1_tl_10">erflijcs cheins . tegheldene en̄ tegheuene alle jare vandʼ vorseidʼ katlinen en̄ van haren nacomelin</l>
+               <l facs="#facs_0439_30_12_1326-01_tr_1_tl_11">ghen .. den vorseiden janne en̄ sinē nacomelinghen deen heleft in sente jans daghe in midden somʼe . en̄ dandeʼ</l>
+               <l facs="#facs_0439_30_12_1326-01_tr_1_tl_12">heleft te kerssauonde . Jn kīnessen van desen letteʼn beseghelt met onsen seglen . Ghegheuē int jaer ons heʼn alsmen</l>
+               <l facs="#facs_0439_30_12_1326-01_tr_1_tl_13">screef . M . CCC . sesse en̄ twintech . des dinsendaegs na kerstdach</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

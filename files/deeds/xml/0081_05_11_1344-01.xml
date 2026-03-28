@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="4036" lry="1147" xml:id="facs_0081_05_11_1344-01">
+         <graphic url="0081_05_11_1344-01.jpg" width="4036px" height="1147px"/>
+         <zone points="10,173 89,208 525,164 833,164 942,208 1135,164 1224,208 1660,178 1730,233 1834,178 2721,218 2855,188 2984,228 3207,203 3281,248 3370,198 3455,233 3598,183 3752,218 3980,183 3980,69 3891,99 3796,45 3668,134 3370,55 3271,134 3108,69 3003,119 2889,74 2751,149 2498,84 2240,129 2022,74 1839,124 1571,84 1477,129 1289,69 1090,104 986,45 897,104 515,40 10,99" rendition="Line" xml:id="facs_0081_05_11_1344-01_tr_1_tl_1" subtype="default"/>
+         <zone points="0,248 803,243 981,297 1061,258 1140,297 1735,248 2310,307 2483,263 2552,322 2637,273 3098,322 3227,283 3925,278 3925,213 3801,188 3499,193 3455,238 3365,198 3281,238 2850,188 2453,218 2007,178 1720,213 1140,164 496,169 367,208 273,169 169,208 0,178" rendition="Line" xml:id="facs_0081_05_11_1344-01_tr_1_tl_2" subtype="default"/>
+         <zone points="0,327 406,357 446,322 793,322 902,362 1199,337 1393,372 1502,337 1591,372 2171,347 2473,396 3856,367 3856,307 3663,278 3098,322 2622,283 2538,317 2483,263 2260,307 2191,268 1735,248 1185,278 1095,243 966,283 803,243 406,278 0,243" rendition="Line" xml:id="facs_0081_05_11_1344-01_tr_1_tl_3" subtype="default"/>
+         <zone points="0,406 555,431 1090,396 1244,456 1289,416 1447,466 1710,421 1992,471 2121,421 2463,466 2880,446 2939,491 3222,446 3801,476 3965,436 3965,337 3152,401 3043,362 2726,396 1918,337 1591,372 1507,337 1368,367 0,327" rendition="Line" xml:id="facs_0081_05_11_1344-01_tr_1_tl_4" subtype="default"/>
+         <zone points="0,471 525,506 843,476 991,535 1090,491 1601,530 2052,501 2389,565 2523,525 2632,575 2716,525 2795,580 2954,555 2999,595 3108,540 3231,540 3281,585 3390,540 3970,540 3970,436 3801,476 3450,446 3311,481 3227,446 3058,496 2880,446 2503,466 2121,421 2012,466 1750,421 1447,461 1363,416 1224,451 1165,406 0,406" rendition="Line" xml:id="facs_0081_05_11_1344-01_tr_1_tl_5" subtype="default"/>
+         <zone points="0,540 312,590 649,550 1477,610 2111,585 2587,659 2860,624 2929,669 3013,629 3192,674 3251,629 3455,674 3519,634 3965,644 3960,535 3925,530 3737,575 3390,540 3291,580 3222,535 3003,590 2706,520 2374,555 2052,501 1873,535 0,471" rendition="Line" xml:id="facs_0081_05_11_1344-01_tr_1_tl_6" subtype="default"/>
+         <zone points="0,620 45,654 139,620 198,679 387,620 496,674 615,629 694,669 778,629 1006,669 1145,634 1343,674 1492,649 1611,704 1898,664 2032,714 2171,674 2250,729 2369,679 2493,734 2662,689 2731,743 2820,714 3132,758 3246,709 3425,758 3717,719 3896,748 3891,644 3831,639 3445,669 3251,629 3098,669 3013,624 2929,669 2820,620 2533,649 2082,585 1730,615 1690,580 1437,605 436,550 302,585 0,545" rendition="Line" xml:id="facs_0081_05_11_1344-01_tr_1_tl_7" subtype="default"/>
+         <zone points="0,768 164,714 297,753 610,719 689,768 976,719 1125,768 1170,729 1586,773 1675,734 1859,778 1908,738 2027,788 2478,778 2543,818 2592,778 3033,798 3132,852 3539,852 3658,808 3906,843 3906,743 3796,719 3479,719 3425,758 3231,709 3068,758 2805,714 2726,743 2666,689 2250,724 2166,674 2022,709 1913,664 1660,689 1611,644 1343,674 1105,634 981,669 783,620 689,664 530,624 476,664 387,620 297,654 0,624" rendition="Line" xml:id="facs_0081_05_11_1344-01_tr_1_tl_8" subtype="default"/>
+         <zone points="15,823 1799,823 1933,872 2215,843 2909,922 3103,872 3360,966 3816,952 3920,907 3920,838 3796,818 3152,848 3038,798 2607,778 2538,813 2077,758 2027,798 1898,738 1854,778 1680,734 1591,773 1338,734 1289,773 1175,729 1125,763 818,719 689,768 620,724 342,704 297,753 164,709 15,753" rendition="Line" xml:id="facs_0081_05_11_1344-01_tr_1_tl_9" subtype="default"/>
+         <zone points="0,1016 273,986 441,1041 689,927 818,917 1076,991 1140,937 1403,1001 1561,942 1670,1001 1903,942 2057,991 2121,942 2329,1021 2528,971 2627,1016 2751,981 2835,1031 3078,991 3078,902 2979,882 2865,922 2637,867 1933,872 1794,823 1561,857 1472,818 0,823" rendition="Line" xml:id="facs_0081_05_11_1344-01_tr_1_tl_10" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0081_05_11_1344-01" n="0081_05_11_1344-01" xml:id="img_0081_05_11_1344-01"/>
+            <ab>
+               <l facs="#facs_0081_05_11_1344-01_tr_1_tl_1">Wj jan danijs en̄ petʼ van hoeboeken scepenen in Antwʼpen maken Cond dat vore ons quam̄ . jan lympiaes sone Willem</l>
+               <l facs="#facs_0081_05_11_1344-01_tr_1_tl_2">lympiaes ons met scepens . en̄ lijsbeth sijn wittelec wijf . En̄ bekinden dat si tʼfue ghegheuē hebben en̄ gauen . heinrike vander</l>
+               <l facs="#facs_0081_05_11_1344-01_tr_1_tl_3">biest alselc ghedeelen recht alse de voerseide lijsbeth hebbende en̄ houdende es aen huis hof en̄ land dat dese selue heinric</l>
+               <l facs="#facs_0081_05_11_1344-01_tr_1_tl_4">vander biest alnv besit en̄ bewoendt also si ons segghen . den seluē heinrike en̄ sinen nacomenlinghen . erflec eeuwelec en̄</l>
+               <l facs="#facs_0081_05_11_1344-01_tr_1_tl_5">emmʼmeer te besittene en̄ te ghebrukene elcs jaers ōme zeuen en̄ dertich scellinghe en̄ sesse pennīghe ouds payem̄s</l>
+               <l facs="#facs_0081_05_11_1344-01_tr_1_tl_6">dats te wetene den goeden custbaʼen guldinē penin̄gh̄ diem̄ heet scild ouʼ sestien pennīghe gᵒetʼ tornoise gherekent en̄ ander half</l>
+               <l facs="#facs_0081_05_11_1344-01_tr_1_tl_7">hoen tsiaers . dat welke huis hof en̄ land voerseit ghestaen en̄ gheleghen es jn schindbroech ten damme alsoe si</l>
+               <l facs="#facs_0081_05_11_1344-01_tr_1_tl_8">segghen te gheldene en̄ te gheuene alle jaʼe vanden voerseiden heinrike en̄ van sinē nacomenlinghē . der voerseider</l>
+               <l facs="#facs_0081_05_11_1344-01_tr_1_tl_9">lijsbechten en̄ horen nacomenlinghē te elken kerssauonde jn kennissen van desen lrēn beseghelt met onsen seghelen</l>
+               <l facs="#facs_0081_05_11_1344-01_tr_1_tl_10">ghegheuen jnt jaer ons heʼn alsmen screef M CCC viertich en̄ viʼe tvridaghes na alre zielen dagh</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

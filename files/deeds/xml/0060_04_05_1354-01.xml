@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3508" lry="2479" xml:id="facs_0060_04_05_1354-01">
+         <graphic url="0060_04_05_1354-01.jpg" width="3508px" height="2479px"/>
+         <zone points="982,531 2626,489 2626,439 1551,479 1444,434 1200,483 984,443" rendition="Line" xml:id="facs_0060_04_05_1354-01_tr_1_tl_1" subtype="default"/>
+         <zone points="982,565 2630,527 2630,489 2567,487 982,531" rendition="Line" xml:id="facs_0060_04_05_1354-01_l" subtype="default"/>
+         <zone points="1001,609 2623,560 2590,523 1003,577" rendition="Line" xml:id="facs_0060_04_05_1354-01_tr_1_tl_4" subtype="default"/>
+         <zone points="991,646 2481,617 2619,596 2621,560 993,607" rendition="Line" xml:id="facs_0060_04_05_1354-01_tr_1_tl_5" subtype="default"/>
+         <zone points="989,680 2449,661 2626,636 2628,600 989,644" rendition="Line" xml:id="facs_0060_04_05_1354-01_tr_1_tl_6" subtype="default"/>
+         <zone points="1007,735 2634,670 2477,636 1009,686" rendition="Line" xml:id="facs_0060_04_05_1354-01_tr_1_tl_7" subtype="default"/>
+         <zone points="995,766 2632,722 2615,670 995,737" rendition="Line" xml:id="facs_0060_04_05_1354-01_tr_1_tl_8" subtype="default"/>
+         <zone points="1007,795 2634,749 2489,709 1007,764" rendition="Line" xml:id="facs_0060_04_05_1354-01_l_1" subtype="default"/>
+         <zone points="986,840 2617,789 2607,741 989,795" rendition="Line" xml:id="facs_0060_04_05_1354-01_tr_1_tl_11" subtype="default"/>
+         <zone points="995,886 2613,844 2615,787 2565,785 997,852" rendition="Line" xml:id="facs_0060_04_05_1354-01_tr_1_tl_12" subtype="default"/>
+         <zone points="986,917 2638,869 2518,823 986,890" rendition="Line" xml:id="facs_0060_04_05_1354-01_tr_1_tl_13" subtype="default"/>
+         <zone points="986,959 2647,913 2647,877 2466,865 989,917" rendition="Line" xml:id="facs_0060_04_05_1354-01_tr_1_tl_14" subtype="default"/>
+         <zone points="982,1003 2573,959 2653,915 984,961" rendition="Line" xml:id="facs_0060_04_05_1354-01_tr_1_tl_15" subtype="default"/>
+         <zone points="991,1049 2638,986 2626,940 993,1005" rendition="Line" xml:id="facs_0060_04_05_1354-01_l_2" subtype="default"/>
+         <zone points="989,1083 2567,1041 2617,1033 2619,986 989,1049" rendition="Line" xml:id="facs_0060_04_05_1354-01_tr_1_tl_18" subtype="default"/>
+         <zone points="989,1129 2636,1075 2638,1026 2414,1024 991,1085" rendition="Line" xml:id="facs_0060_04_05_1354-01_tr_1_tl_19" subtype="default"/>
+         <zone points="986,1165 2628,1104 2630,1070 2382,1066 989,1129" rendition="Line" xml:id="facs_0060_04_05_1354-01_tr_1_tl_20" subtype="default"/>
+         <zone points="1001,1205 2621,1144 2600,1102 1003,1161" rendition="Line" xml:id="facs_0060_04_05_1354-01_tr_1_tl_21" subtype="default"/>
+         <zone points="982,1245 2630,1196 2632,1142 2588,1140 984,1200" rendition="Line" xml:id="facs_0060_04_05_1354-01_tr_1_tl_22" subtype="default"/>
+         <zone points="974,1278 2638,1217 2623,1175 2227,1179 974,1245" rendition="Line" xml:id="facs_0060_04_05_1354-01_tr_1_tl_23" subtype="default"/>
+         <zone points="989,1331 1635,1276 2621,1272 2623,1219 2571,1219 991,1284" rendition="Line" xml:id="facs_0060_04_05_1354-01_tr_1_tl_24" subtype="default"/>
+         <zone points="980,1368 1526,1320 2441,1324 2615,1276 1643,1278 980,1331" rendition="Line" xml:id="facs_0060_04_05_1354-01_tr_1_tl_25" subtype="default"/>
+         <zone points="982,1404 2615,1349 2581,1299 984,1368" rendition="Line" xml:id="facs_0060_04_05_1354-01_tr_1_tl_26" subtype="default"/>
+         <zone points="980,1448 2617,1394 2619,1354 980,1404" rendition="Line" xml:id="facs_0060_04_05_1354-01_tr_1_tl_27" subtype="default"/>
+         <zone points="968,1488 2493,1438 2619,1429 2638,1387 968,1442" rendition="Line" xml:id="facs_0060_04_05_1354-01_tr_1_tl_28" subtype="default"/>
+         <zone points="968,1524 2630,1459 2596,1417 970,1486" rendition="Line" xml:id="facs_0060_04_05_1354-01_tr_1_tl_29" subtype="default"/>
+         <zone points="976,1582 2581,1505 2642,1467 978,1526" rendition="Line" xml:id="facs_0060_04_05_1354-01_l_3" subtype="default"/>
+         <zone points="974,1616 2647,1540 2647,1496 2506,1492 976,1582" rendition="Line" xml:id="facs_0060_04_05_1354-01_tr_1_tl_32" subtype="default"/>
+         <zone points="974,1658 2613,1578 2638,1538 976,1614" rendition="Line" xml:id="facs_0060_04_05_1354-01_tr_1_tl_33" subtype="default"/>
+         <zone points="970,1704 2636,1616 2655,1570 972,1656" rendition="Line" xml:id="facs_0060_04_05_1354-01_tr_1_tl_34" subtype="default"/>
+         <zone points="974,1746 2642,1616 976,1702" rendition="Line" xml:id="facs_0060_04_05_1354-01_tr_1_tl_35" subtype="default"/>
+         <zone points="980,1782 2598,1689 2661,1677 2663,1633 980,1748" rendition="Line" xml:id="facs_0060_04_05_1354-01_tr_1_tl_36" subtype="default"/>
+         <zone points="974,1815 2651,1717 2642,1677 2435,1679 976,1782" rendition="Line" xml:id="facs_0060_04_05_1354-01_tr_1_tl_37" subtype="default"/>
+         <zone points="980,1857 2657,1769 2649,1713 984,1813" rendition="Line" xml:id="facs_0060_04_05_1354-01_tr_1_tl_38" subtype="default"/>
+         <zone points="982,1901 2655,1818 2659,1765 984,1855" rendition="Line" xml:id="facs_0060_04_05_1354-01_tr_1_tl_39" subtype="default"/>
+         <zone points="982,1958 1146,1927 1331,1958 1559,1908 1769,1952 1979,1893 2613,1872 2615,1813 2577,1809 984,1901" rendition="Line" xml:id="facs_0060_04_05_1354-01_tr_1_tl_40" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0060_04_05_1354-01" n="0060_04_05_1354-01" xml:id="img_0060_04_05_1354-01"/>
+            <ab>
+               <l facs="#facs_0060_04_05_1354-01_tr_1_tl_1">Wij Willem vanden boeme Jan van huysbeke Jan vanden zoeme . Jan van coudenlare Woutʼe de bruwʼe peter elsten ende Jan coels van</l>
+               <l facs="#facs_0060_04_05_1354-01_l">den wiele . Scepenen Jn woemelgheem . miins heʼen Jans van ymmʼsele Ridders . Doen cond . allen lieden . Dat vore ons quamen . bruedʼ</l>
+               <l facs="#facs_0060_04_05_1354-01_tr_1_tl_4">Jan van winegheem ende bruedʼ arnoud de vriese . Bruedeʼ vander derder ordenen sente franchiscus in Antwʼpen in deen zide . Ende</l>
+               <l facs="#facs_0060_04_05_1354-01_tr_1_tl_5">Wilmaer de smit . peter ende heinric sine kindʼe in dandʼ zide . Ende bekenden Jn beiden ziden . dat bruedʼ Jan ende bruedʼ arnoud</l>
+               <l facs="#facs_0060_04_05_1354-01_tr_1_tl_6">vorseid van hoers ghemeens conuents weghen . Ende bi @loue ende consente des selfs conuents alsoe si seiden . Ghegheuen hebben ende</l>
+               <l facs="#facs_0060_04_05_1354-01_tr_1_tl_7">gheuen . den vorseiden wilmare peteʼ ende heinrike sinen kindeʼn terue ende in Erfleken Rechte . Die viere bundeʼe winnens lands . die tvor</l>
+               <l facs="#facs_0060_04_05_1354-01_tr_1_tl_8">seide conuent ligghende heeft in de prochie van dorne jnt tgoed dat men heet te hackendongh . siaers ōme drie en̄ twintech viertelen</l>
+               <l facs="#facs_0060_04_05_1354-01_l_1">goeds custbaers rogs jaerlikeʼ ende erflekeʼ Renten tegheldene ende tegheuene vanden vorseiden wilmare peteʼ ende heinrike sinen kindʼen</l>
+               <l facs="#facs_0060_04_05_1354-01_tr_1_tl_11">ende van horen nacomelinghen . den vorseiden conuente ofte den gheenen diet te berechtene zal hebben tes selfs Conuents behoef alle</l>
+               <l facs="#facs_0060_04_05_1354-01_tr_1_tl_12">jare te kerssauonde . Ende te leuerne binnen den vorseiden conuente mettʼ Antwʼpscher maten sonder des Conuents cost . met desen</l>
+               <l facs="#facs_0060_04_05_1354-01_tr_1_tl_13">vorwaerden . Soe wanneer dat de kelwaerdeʼ des vorseids conuents die nv es ende namaels siin sal . den vorseiden wilmare pet-</l>
+               <l facs="#facs_0060_04_05_1354-01_tr_1_tl_14">tʼe ende heinrike sinen kindeʼn ende horen nacomelinghen gheorlouen wilt dat bosch dat den vorseiden Conuente toe behoert ende neuen</l>
+               <l facs="#facs_0060_04_05_1354-01_tr_1_tl_15">dit vorseide land es gheleghen . te Ettene . dat dan de selue wilmaer peter ende heinrike ane kindʼ ende hore nacomelinghe op dat</l>
+               <l facs="#facs_0060_04_05_1354-01_l_2">Jan dat si dat bosch . Etten . ghelden ende betalen selen . den vorseiden Conuente . twintech oude grote tornoyse van monten tsonincs</l>
+               <l facs="#facs_0060_04_05_1354-01_tr_1_tl_18">van vrancrike . ende achte hinnen te alre heyleghen misse . mede soe gheloefden de vorseide wilmaer peter ende heinric sine kindeʼ . dat</l>
+               <l facs="#facs_0060_04_05_1354-01_tr_1_tl_19">si ende hore nacomelinghe . altoes ende elcs tsiaers ghelden en̄ betalen selen . al den cheins die vte desen vorseiden lande ende bossche gaet sondʼ</l>
+               <l facs="#facs_0060_04_05_1354-01_tr_1_tl_20">des vorseids conuents scade ofte cost . Ende dat si dit vorseide bosch altoes luyken en̄ beroeden selen . wel ende loflec . ende dat bewaren</l>
+               <l facs="#facs_0060_04_05_1354-01_tr_1_tl_21">ghelijc oft hoers selfs . Ende daer vore soe selen . si hebben ende houwen moghen . al den loeke die op de stroncbome die al ōme dit vorseide</l>
+               <l facs="#facs_0060_04_05_1354-01_tr_1_tl_22">bosch staen wassen sal . maer anders gheen houdt en selen si moghen houwen noch hebben . Ende daer toe soe selen si hebben . dat der drdeel</l>
+               <l facs="#facs_0060_04_05_1354-01_tr_1_tl_23">van al den oefte . dattʼ oec Jn wassen sal Ende ōme dat de vorseide wilmaer peter en̄ heinric sine kindeʼ . willen ende begheʼn . dat alle-</l>
+               <l facs="#facs_0060_04_05_1354-01_tr_1_tl_24">dese vorscreuene vorwaerden gheloeften ende dinghen . altoes van hen ende van horen nacomelinghen wel ende wetteleke ghehouden wordden</l>
+               <l facs="#facs_0060_04_05_1354-01_tr_1_tl_25">ende voldaen . soe hebben de selue wilmaer peter ende heinric sine kindʼ ōme de meere zekerhit daer toe vʼbonden ende tote e-</l>
+               <l facs="#facs_0060_04_05_1354-01_tr_1_tl_26">nen onderpande gheset . hore drie stucken lands gheleghen bi der molen te woemelgheem neuen de kerstrate . houdende omtʼent onderhalf</l>
+               <l facs="#facs_0060_04_05_1354-01_tr_1_tl_27">bundʼ lands luttel min ofte meer gheliic dadt de vorseide wilmaer voermaels vercreech ieghen willem Croenen . daer af deen stucke van-</l>
+               <l facs="#facs_0060_04_05_1354-01_tr_1_tl_28">den vorseiden drien stucken lands gheleghen es tusschen heʼen Jans land van lyere jn deen side ende petʼ elstens land in̄ dandʼ zide . daer af</l>
+               <l facs="#facs_0060_04_05_1354-01_tr_1_tl_29">dandʼ stucke gheleghen es . tusschen petʼs elstens land ende Jans land van ghent . Ende daer af dat derde stucke land es gheleghen tusschē</l>
+               <l facs="#facs_0060_04_05_1354-01_l_3">heʼen jans land van lyere ende arnouds clays land in ene stede gheheten de tortebeemde tote den welken vorghenoemden ondergronden</l>
+               <l facs="#facs_0060_04_05_1354-01_tr_1_tl_32">de vordede wilmaeer peter ende heinric sine kindeʼ ghedaen hebben . bruedʼ Janne van winegheem den kelwaerde tes vorseids godshuis behoef</l>
+               <l facs="#facs_0060_04_05_1354-01_tr_1_tl_33">bi manissen des Rechters die sculdech was daer op te maenne ende wisene van ons scepenen . vorghenoemd . alsoe met ons en Recht es alsoe</l>
+               <l facs="#facs_0060_04_05_1354-01_tr_1_tl_34">dattʼ ghaen point van Rechte in en ghebrac . Ende want vte desen vorseiden onderpande achtiene muddekene rogs tsiaers eflekeʼ rentē</l>
+               <l facs="#facs_0060_04_05_1354-01_tr_1_tl_35">gaen jaerlijcs meer . dattde vorseide wilmaer peter ende neinric sine kindeʼ den vorseiden Conuente hadden ghegheuen te vʼstaene ende</l>
+               <l facs="#facs_0060_04_05_1354-01_tr_1_tl_36">te kennene soe hebben . de selue wilmaer petʼ ende heinric sine kindeʼ daer toe mede vʼbonden . hore andʼ goed dat si hebben alsoe vʼre</l>
+               <l facs="#facs_0060_04_05_1354-01_tr_1_tl_37">alse die achtiene muddekene rogs tsiaers erflekeʼ Renten ghedraghen ende wtʼ moghen siin Ende ōme dat alle dese vorwʼden ende</l>
+               <l facs="#facs_0060_04_05_1354-01_tr_1_tl_38">dinghen vore ons ghesciet siin ende ghedaen ghelijc vore bescreuen es . Soe hebben wij scepenen vorghenoemd ōme de bode ende</l>
+               <l facs="#facs_0060_04_05_1354-01_tr_1_tl_39">tversoet beide der ꝑtien vorseit onsen ghemeenen zeghel ane dese ieghenwordeghe lrēn ghehanghen Jn kinnessen ende in orcont</l>
+               <l facs="#facs_0060_04_05_1354-01_tr_1_tl_40">scape der waerheit . Ghegheuen jnt jaer ons heʼen alsmen screef . M CCC viiftech ende viere des sondaeghs na meydach</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

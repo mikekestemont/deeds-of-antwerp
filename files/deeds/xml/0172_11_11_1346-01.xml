@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="2048" lry="1536" xml:id="facs_0172_11_11_1346-01">
+         <graphic url="0172_11_11_1346-01.jpg" width="2048px" height="1536px"/>
+         <zone points="325,316 1341,261 1970,291 1970,226 1911,217 460,264 325,234" rendition="Line" xml:id="facs_0172_11_11_1346-01_tr_1_tl_1" subtype="default"/>
+         <zone points="337,340 1175,295 1984,314 1343,261 337,302" rendition="Line" xml:id="facs_0172_11_11_1346-01_l" subtype="default"/>
+         <zone points="329,375 1160,331 1936,348 1923,316 1303,295 331,337" rendition="Line" xml:id="facs_0172_11_11_1346-01_tr_1_tl_4" subtype="default"/>
+         <zone points="329,405 1404,361 1967,403 1986,333 329,375" rendition="Line" xml:id="facs_0172_11_11_1346-01_tr_1_tl_5" subtype="default"/>
+         <zone points="323,437 1329,396 1984,424 1955,375 1381,361 325,409" rendition="Line" xml:id="facs_0172_11_11_1346-01_tr_1_tl_6" subtype="default"/>
+         <zone points="323,462 1955,451 1911,407 1343,396 323,434" rendition="Line" xml:id="facs_0172_11_11_1346-01_tr_1_tl_7" subtype="default"/>
+         <zone points="325,498 768,517 1299,464 1982,496 1982,447 1485,432 325,468" rendition="Line" xml:id="facs_0172_11_11_1346-01_tr_1_tl_8" subtype="default"/>
+         <zone points="316,529 1961,525 1917,474 1552,466 318,498" rendition="Line" xml:id="facs_0172_11_11_1346-01_tr_1_tl_9" subtype="default"/>
+         <zone points="323,574 1986,552 1989,510 323,531" rendition="Line" xml:id="facs_0172_11_11_1346-01_tr_1_tl_10" subtype="default"/>
+         <zone points="308,605 1986,580 1961,542 1579,529 310,576" rendition="Line" xml:id="facs_0172_11_11_1346-01_tr_1_tl_11" subtype="default"/>
+         <zone points="310,637 1982,614 1982,576 1862,569 312,609" rendition="Line" xml:id="facs_0172_11_11_1346-01_tr_1_tl_12" subtype="default"/>
+         <zone points="316,666 1982,647 1930,605 316,637" rendition="Line" xml:id="facs_0172_11_11_1346-01_l_1" subtype="default"/>
+         <zone points="308,698 1942,677 1942,645 1729,633 310,664" rendition="Line" xml:id="facs_0172_11_11_1346-01_tr_1_tl_15" subtype="default"/>
+         <zone points="306,732 1993,732 1970,662 308,696" rendition="Line" xml:id="facs_0172_11_11_1346-01_tr_1_tl_16" subtype="default"/>
+         <zone points="302,765 1976,763 1976,717 1911,711 302,738" rendition="Line" xml:id="facs_0172_11_11_1346-01_tr_1_tl_17" subtype="default"/>
+         <zone points="299,799 1967,799 1948,751 1721,742 299,765" rendition="Line" xml:id="facs_0172_11_11_1346-01_tr_1_tl_18" subtype="default"/>
+         <zone points="293,831 896,858 1974,816 1870,778 295,810" rendition="Line" xml:id="facs_0172_11_11_1346-01_tr_1_tl_19" subtype="default"/>
+         <zone points="299,871 1921,865 1970,818 299,831" rendition="Line" xml:id="facs_0172_11_11_1346-01_tr_1_tl_20" subtype="default"/>
+         <zone points="295,892 1991,905 1991,850 1875,846 295,873" rendition="Line" xml:id="facs_0172_11_11_1346-01_tr_1_tl_21" subtype="default"/>
+         <zone points="299,930 1052,955 1963,917 1875,879 299,896" rendition="Line" xml:id="facs_0172_11_11_1346-01_tr_1_tl_22" subtype="default"/>
+         <zone points="293,966 1989,968 1946,915 295,928" rendition="Line" xml:id="facs_0172_11_11_1346-01_tr_1_tl_23" subtype="default"/>
+         <zone points="287,987 1963,983 1727,949 287,957" rendition="Line" xml:id="facs_0172_11_11_1346-01_tr_1_tl_24" subtype="default"/>
+         <zone points="302,1033 1965,1059 1965,983 302,993" rendition="Line" xml:id="facs_0172_11_11_1346-01_l_2" subtype="default"/>
+         <zone points="302,1086 1276,1071 1261,1035 302,1033" rendition="Line" xml:id="facs_0172_11_11_1346-01_tr_1_tl_27" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0172_11_11_1346-01" n="0172_11_11_1346-01" xml:id="img_0172_11_11_1346-01"/>
+            <ab>
+               <l facs="#facs_0172_11_11_1346-01_tr_1_tl_1">Wij Willem limpiaes en̄ Jan vanden mortʼe scepenen in Antwʼpen maken cond dat vore ons quam . willem wʼre En̄ bekinde dat</l>
+               <l facs="#facs_0172_11_11_1346-01_l">hi tʼfue gaf en̄ ghegheuen heeft . michiele spichoene en̄ petʼ den apen . omtrent achte ghemeten moers op lilloe ghemeenē moer gheleghen</l>
+               <l facs="#facs_0172_11_11_1346-01_tr_1_tl_4">en̄ omtrent drie ghemeten moers op dies Ribben . den selueʼ michiele ende petʼ den apen ende horen nacomenlinghē erflec ende</l>
+               <l facs="#facs_0172_11_11_1346-01_tr_1_tl_5">emmʼmeer te hebbene en̄ te ghebrukene tallen horen ꝓfiten elcs jaers om tiendalfue pennīghe . dan elc pennīgh af gheheeten</l>
+               <l facs="#facs_0172_11_11_1346-01_tr_1_tl_6">es een guldlijn hallingh van florensen of de wʼde daer af jaerlecken en̄ eeuwelicken Renten oppe tvoerꞩ moer . En̄ wʼt dat dat</l>
+               <l facs="#facs_0172_11_11_1346-01_tr_1_tl_7">ioc te luttel of te nauwe wʼde den voersiden willeme wʼren sinen nacomenlinghen . soe hebben daer toe de voerꞩ michiel en̄ petʼ</l>
+               <l facs="#facs_0172_11_11_1346-01_tr_1_tl_8">teenē gherechten onder pande gheset en̄ vʼbonden erflec hare twee ghemeden lands gheleghen aen tvoerseide moer En̄ daer toe</l>
+               <l facs="#facs_0172_11_11_1346-01_tr_1_tl_9">hore drie ghemeten lands Jn lilloe gheleghen tusschen heinrijcs land van ondeʼn en̄ den beggherde land van antwʼpen also si</l>
+               <l facs="#facs_0172_11_11_1346-01_tr_1_tl_10">seyden . Ende also dat dit voerꞩ moer ende onderpandt voerꞩ gherechte pande sijn en̄ bliuē selen vʼbonden erflec en̄ emʼmeʼe</l>
+               <l facs="#facs_0172_11_11_1346-01_tr_1_tl_11">ouʼ dese voerꞩ jaerlecke en̄ eeuweleke Rente . te gheldenʼ en̄ te gheuene alle jaʼe van den voerseiden michiele en̄ van petʼe voerꞩ</l>
+               <l facs="#facs_0172_11_11_1346-01_tr_1_tl_12">ende van horen nacomenlinghen . den voerꞩ willeme wʼren en̄ sinen nacomenlinghē . altoes binnē den viʼe sinxschen daghē</l>
+               <l facs="#facs_0172_11_11_1346-01_l_1">En̄ wʼt das si niet en bettoelden de voerseide Rente souden mencken vol en̄ al ten tʼmine voerseit . soe gheloefden michiel en̄</l>
+               <l facs="#facs_0172_11_11_1346-01_tr_1_tl_15">petʼ voerseit . dat si dan van dien daghe voert gheuen sullē den voerseiden willeme wʼren en̄ sinē nacomenlinghen Elcs</l>
+               <l facs="#facs_0172_11_11_1346-01_tr_1_tl_16">daghes Viʼe pennīghe gᵒetʼ ouder tornoise alse ꝓpē witteghe scoud . met dʼ pⁱnchipaelder Renten en̄ souden die iet te mindʼne</l>
+               <l facs="#facs_0172_11_11_1346-01_tr_1_tl_17">tʼ tijd toe der die pⁱnchipael Rente al es vʼgouden . mede sijn voerwʼden dat michiel en̄ petʼ voerꞩ en̄ hore nacomenlinghe</l>
+               <l facs="#facs_0172_11_11_1346-01_tr_1_tl_18">de heelft van al dʼ voerꞩ jaerlecken Renten af lossen en̄ quiten moghen ende niet meer dats te wetene elcken penningh</l>
+               <l facs="#facs_0172_11_11_1346-01_tr_1_tl_19">tsiaers met den cheinse . en̄ mꝫ tweleue pennīghen . En̄ willem wʼre voerseit . gheloefde den voerseiden moer vry en̄ los op</l>
+               <l facs="#facs_0172_11_11_1346-01_tr_1_tl_20">de voerseide rente van allen andeʼn kūmʼe en̄ kalaengen kūmʼloes te vrienne ende te wʼne jeghen yeghenwelken ten daghe</l>
+               <l facs="#facs_0172_11_11_1346-01_tr_1_tl_21">toe van heden sonder arghlisten . En̄ michiel en̄ petʼ voerseit gheloefden den voerꞩ willeme wʼren te doene te desen sinen voerꞩ</l>
+               <l facs="#facs_0172_11_11_1346-01_tr_1_tl_22">onder pande niet also vele dair toe te doene so dat hen vast es en̄ seker . Mede bekinden de voerseide michiel en̄ petʼ . hen</l>
+               <l facs="#facs_0172_11_11_1346-01_tr_1_tl_23">claerlic van allen voerseiden kūmʼe op den voerseiden moer wesende ghenoech ghedaen en̄ wel ghequijdt vteghenom̄ van den</l>
+               <l facs="#facs_0172_11_11_1346-01_tr_1_tl_24">achte scellinghen gᵒeten van den ghemete . die der Rentemeestʼ van brabant daer of eyscht daer af datse willē wʼre voerꞩ ontheffen</l>
+               <l facs="#facs_0172_11_11_1346-01_l_2">sal en̄ met voerdʼe van eyneghen kūmʼe Jn kennissen van desen lrēn beseghelt met onsen zeghelen . Ghegheuen jnt jaer ons heʼn</l>
+               <l facs="#facs_0172_11_11_1346-01_tr_1_tl_27">alsm̄ screef M CCC sesse ende viertich op sente mʼtijns dagh jn gaende winters</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>

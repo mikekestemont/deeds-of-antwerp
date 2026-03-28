@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3507" lry="2480" xml:id="facs_0372_25_05_1337-01">
+         <graphic url="0372_25_05_1337-01.jpg" width="3507px" height="2480px"/>
+         <zone points="341,983 1299,961 2768,1036 2765,964 2527,980 2217,908 2095,946 1588,936 1381,889 692,924 629,886 545,927 442,867 338,877" rendition="Line" xml:id="facs_0372_25_05_1337-01_tr_1_tl_1" subtype="default"/>
+         <zone points="329,1046 1171,1018 2806,1096 2784,1030 326,974" rendition="Line" xml:id="facs_0372_25_05_1337-01_tr_1_tl_2" subtype="default"/>
+         <zone points="319,1105 921,1074 1816,1115 1872,1083 2793,1146 2790,1099 2715,1080 1991,1040 319,1030" rendition="Line" xml:id="facs_0372_25_05_1337-01_tr_1_tl_3" subtype="default"/>
+         <zone points="323,1155 1005,1127 1168,1165 2060,1149 2781,1196 2756,1137 2054,1096 323,1105" rendition="Line" xml:id="facs_0372_25_05_1337-01_tr_1_tl_4" subtype="default"/>
+         <zone points="329,1193 2849,1240 2846,1174 329,1152" rendition="Line" xml:id="facs_0372_25_05_1337-01_tr_1_tl_5" subtype="default"/>
+         <zone points="326,1268 1137,1240 2818,1296 2815,1240 2264,1209 323,1190" rendition="Line" xml:id="facs_0372_25_05_1337-01_tr_1_tl_6" subtype="default"/>
+         <zone points="307,1325 798,1328 905,1290 2784,1337 2784,1296 2693,1278 1065,1240 307,1281" rendition="Line" xml:id="facs_0372_25_05_1337-01_tr_1_tl_7" subtype="default"/>
+         <zone points="310,1400 598,1362 773,1393 849,1350 2828,1393 2824,1325 1894,1343 902,1290 820,1325 307,1325" rendition="Line" xml:id="facs_0372_25_05_1337-01_tr_1_tl_8" subtype="default"/>
+         <zone points="310,1434 1021,1412 1437,1462 1819,1425 2292,1462 2796,1425 2796,1378 2248,1406 1494,1353 310,1393" rendition="Line" xml:id="facs_0372_25_05_1337-01_tr_1_tl_9" subtype="default"/>
+         <zone points="301,1522 1043,1525 1083,1519 1087,1418 886,1444 858,1418 304,1437" rendition="Line" xml:id="facs_0372_25_05_1337-01_tr_1_tl_10" subtype="default"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_0372_25_05_1337-01" n="0372_25_05_1337-01" xml:id="img_0372_25_05_1337-01"/>
+            <ab>
+               <l facs="#facs_0372_25_05_1337-01_tr_1_tl_1">Wi Willem drake en̄ jan drake scepenen jn Antwʼpen maken cond . dat vore ons quā jacop de cupʼe . En̄ bekende dat hi om ene sūme</l>
+               <l facs="#facs_0372_25_05_1337-01_tr_1_tl_2">ghelds die hem al es vʼgouden vʼcocht heeft wetteleke Religiosen ende Eersam̄ lieden den . Prioer en̄ den cōuente van den char</l>
+               <l facs="#facs_0372_25_05_1337-01_tr_1_tl_3">terosen bi Antwʼpen tweleue oude grote tornoyse sjaers van monten sconings van vᵃncrike oft de wʼde daeraf in goeden andren</l>
+               <l facs="#facs_0372_25_05_1337-01_tr_1_tl_4">ghelde erflekʼ en̄ euwelekʼ renten . op sijn huis ghestaen inde monstʼstᵃte tusschen jans des gruters huis en̄ katlinē huis die</l>
+               <l facs="#facs_0372_25_05_1337-01_tr_1_tl_5">wijf was wilen claus cants en̄ op alle dat recht dat hi jacob houdende es ane den gront en̄ ane al dat daer toe hoert . dat welc</l>
+               <l facs="#facs_0372_25_05_1337-01_tr_1_tl_6">huis metden gronde en̄ dat daertoe hoert de vorseide jacop vʼbant tenen pande ouʼ de vorseide erfleke rente tegheldene alle ja-</l>
+               <l facs="#facs_0372_25_05_1337-01_tr_1_tl_7">re vanden seluen jacoppe en̄ van sinē nacomelīghen . den vorseiden prioer en̄ 9uente en̄ horen nacomelīghen daer op sente</l>
+               <l facs="#facs_0372_25_05_1337-01_tr_1_tl_8">jans dach in midden some en̄ die ierste gulde tedoene van sente jans daghe in midde zomʼe ierst toe com̄de ouʼ een jaer . Jn ken-</l>
+               <l facs="#facs_0372_25_05_1337-01_tr_1_tl_9">nessen van desen lettren . beseghelt met onsen seghlen . Ghegheuen jnt jaer ons heren alsm̄ screef . M . CCC . zeuene en̄ derttech</l>
+               <l facs="#facs_0372_25_05_1337-01_tr_1_tl_10">des sondaegs vore ons heren opvaert .</l>
+            </ab>
+      </div></body>
+   </text>
+</TEI>
