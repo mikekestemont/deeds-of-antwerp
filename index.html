@@ -102,25 +102,30 @@
 
 <script>
 (function() {
-  var added = false;
-  setInterval(function() {
-    if (added) return;
-    var aboutLink = null;
+  function ensureAtlasLink() {
     var links = document.querySelectorAll('a');
+    var aboutLink = null;
+    var atlasLink = null;
+
     for (var i = 0; i < links.length; i++) {
-      if (links[i].textContent.trim() === 'About') {
-        aboutLink = links[i];
-        break;
-      }
+      var txt = links[i].textContent.trim();
+      if (txt === 'About') aboutLink = links[i];
+      if (txt === 'Atlas') atlasLink = links[i];
     }
+
     if (!aboutLink) return;
+    if (atlasLink && atlasLink.closest('nav') === aboutLink.closest('nav')) return;
+
     var explore = aboutLink.cloneNode(true);
     explore.textContent = 'Atlas';
-    explore.href = './page/';
+    explore.href = window.location.origin + '/deeds-of-antwerp/page/';
     explore.target = '_blank';
     aboutLink.parentNode.insertBefore(explore, aboutLink.nextSibling);
-    added = true;
-  }, 300);
+  }
+
+  setInterval(ensureAtlasLink, 500);
+  window.addEventListener('hashchange', ensureAtlasLink);
+  window.addEventListener('load', ensureAtlasLink);
 })();
 </script>
 
