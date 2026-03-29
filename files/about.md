@@ -9,7 +9,7 @@ This digital edition is an initiative by:
 - [Mike Kestemont](https://www.uantwerpen.be/en/staff/mike-kestemont/), University of Antwerp
 - [Remco Sleiderink](https://www.uantwerpen.be/en/staff/remco-sleiderink/), University of Antwerp
 - [Godfried Croenen](https://www.liverpool.ac.uk/languages-cultures-and-film/staff/godfried-croenen/), University of Antwerp / University of Liverpool
-- [Caroline Van Dyck](https://www.uantwerpen.be/en/staff/caroline-vandyck_25944/), University of Antwerp
+- [Caroline Vandyck](https://www.uantwerpen.be/en/staff/caroline-vandyck_25944/), University of Antwerp
 
 The project was supported By Silke Delcart as a student-assistant during an internship for the MA in Digital Text Analysis at the University of Antwerp.
 
@@ -17,7 +17,7 @@ The project was supported By Silke Delcart as a student-assistant during an inte
 
 The edition is embedded in two publicly funded research projects:
 
-- *De vele gezichten van Boendale: het modelleren van de historische positionaliteit in Jan van Boendales (ca. 1280–1351?) oeuvre* (FWO doctoral fellowship 1133925N, [Caroline Van Dyck](https://www.uantwerpen.be/en/staff/caroline-vandyck_25944/), advised by Mike Kestemont and Remco Sleiderink). This project studies the historical positionality of Jan van Boendale's oeuvre using Digital Humanities methods.
+- *De vele gezichten van Boendale: het modelleren van de historische positionaliteit in Jan van Boendales (ca. 1280–1351?) oeuvre* (FWO doctoral fellowship 1133925N, [Caroline Vandyck](https://www.uantwerpen.be/en/staff/caroline-vandyck_25944/), advised by Mike Kestemont and Remco Sleiderink). This project studies the historical positionality of Jan van Boendale's oeuvre using Digital Humanities methods.
 - *Oneindige verhalen: de ontsluiting van ingewikkelde tekstoverleveringen en historiografische netwerken. Showcase: De totstandkoming en verspreiding van Jan van Boendales 'Brabantsche yeesten'* (FWO, 2025–2028, promotor: [Remco Sleiderink](https://www.uantwerpen.be/en/staff/remco-sleiderink/research/)). This project investigates the production, transmission, and instrumentalisation of medieval historical narratives using a combination of traditional philology and digital methods.
 
 
