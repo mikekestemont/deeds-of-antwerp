@@ -1,6 +1,6 @@
 # Colophon
 
-This website presents a digital, visual corpus of approximately 470 medieval aldermen's deeds (*schepenakten*) from the city of Antwerp, dating from ca. 1300 to ca. 1355. These single-page parchment documents recorded transactions and agreements ratified by the city's aldermen and were written by a small group of professional scribes employed by the aldermen's bench — among whom, in all likelihood, the influential vernacular author [Jan van Boendale](https://en.wikipedia.org/wiki/Jan_van_Boendale) (ca. 1275–ca. 1351). Boendale himself tells us that he worked "for many years" writing the aldermen's "letters" or deeds, and his involvement in Antwerp's administration is corroborated by municipal accounts and other records. The corpus was compiled in the context of a computational paleography study that seeks to identify Boendale's own hand among the surviving deeds, combining computer vision models with traditional philological analysis.
+This website presents a digital, visual corpus of approximately 470 medieval aldermen's deeds (*schepenakten*) from the city of Antwerp, dating from ca. 1300 to ca. 1350. These single-page parchment documents recorded transactions and agreements ratified by the city's aldermen and were written by a small group of professional scribes employed by the aldermen's bench — among whom, in all likelihood, the influential vernacular author [Jan van Boendale](https://en.wikipedia.org/wiki/Jan_van_Boendale) (ca. 1275–ca. 1351). Boendale himself tells us that he worked "for many years" writing the aldermen's "letters" or deeds, and his involvement in Antwerp's administration is corroborated by municipal accounts and other records. The corpus was compiled in the context of a computational paleography study that seeks to identify Boendale's own hand among the surviving deeds, combining computer vision models with traditional philological analysis.
 
 ## Contributors
 
@@ -11,7 +11,7 @@ This digital edition is an initiative by:
 - [Godfried Croenen](https://www.liverpool.ac.uk/languages-cultures-and-film/staff/godfried-croenen/), University of Antwerp / University of Liverpool
 - [Caroline Vandyck](https://www.uantwerpen.be/en/staff/caroline-vandyck_25944/), University of Antwerp
 
-The project was supported By Silke Delcart as a student-assistant during an internship for the MA in Digital Text Analysis at the University of Antwerp.
+The project was supported by Silke Delcart as a student-assistant during an internship for the MA in Digital Text Analysis at the University of Antwerp.
 
 ## Project context
 
@@ -36,3 +36,7 @@ The corpus was bootstrapped from a pre-existing image collection curated by form
 - Vandyck, C. (2025). "The One and Only? Authorship Verification on Jan van Boendale and the Middle Dutch Antwerp School." In: *Computational Humanities Research 2025* (CHR 2025), pp. 166–188. Anthology of Computers and the Humanities, Vol. 3. [Link](https://anthology.ach.org/volumes/vol0003/)
 - Vandyck, C. & Kestemont, M. (2024). "Abbreviation Application: A Stylochronometric Study of Abbreviations in the Oeuvre of Herne's Speculum Scribe." In: *Proceedings of the Computational Humanities Research Conference 2024* (CHR 2024), pp. 881–891. CEUR Workshop Proceedings, Vol. 3834. [Link](https://ceur-ws.org/Vol-3834/)
 - Haverals, W. & Kestemont, M. (2023). "The Middle Dutch Manuscripts Surviving from the Carthusian Monastery of Herne (14th century): Constructing an Open Dataset of Digital Transcriptions." In: *Proceedings of the Computational Humanities Research Conference 2023* (CHR 2023), pp. 135–152. CEUR Workshop Proceedings, Vol. 3558. [Link](https://ceur-ws.org/Vol-3558/)
+- Kestemont Mike, "Een stylometrisch onderzoek naar Jan van Boendales auteurschap voor de Brabantse Yeesten", *Revue belge de philologie et d'histoire* 89:3-4 (2011), p. 1019-1048 [Link](https://doi.org/10.3406/RBPH.2011.8349).
+- Schoenaers, Dirk, 'Een verloren hoofdstukje van de Brabantsche yeesten? Vanden parlementen die te Mechlen lagen ende ander dingen’, *Queeste*  30:1 (2023), p. 6-42.
+- Schoenaers, Dirk, 'Sproken as historical record? A previously unknown Middle Dutch poem about the Mechelen city fire of 1342’, *Dutch crossing: a journal of Low Countries studies* 50:1 (2025), p. 3-21.
+- Sleiderink, Remco, ‘Chroniclers from the Duchy of Brabant about the English royal dynasty, c. 1300’, Elisabeth van Houts, Ad Putter, Moreed Arbabzadah & Sjoerd Levelt (Eds.), *The History and Literature of Anglo-Dutch Relations, Medieval to Modern*, Oxford: Oxford University Press for the British Academy, 2024, Proceedings of the British Academy 264, p. 95-111.
