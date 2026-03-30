@@ -129,4 +129,21 @@
 })();
 </script>
 
+<script>
+(function() {
+  var added = false;
+  setInterval(function() {
+    if (added) return;
+    var credits = document.querySelector('.text-end.m-3.col');
+    if (!credits) return;
+    var row = credits.parentElement;
+    var logoCol = document.createElement('div');
+    logoCol.className = 'align-self-center text-end m-3 col-auto';
+    logoCol.innerHTML = '<img src="./logos/logo_fwo.png" alt="FWO" style="height:40px; margin-right:12px;"><img src="./logos/logo_ua.jpg" alt="UA" style="height:40px;">';
+    row.insertBefore(logoCol, credits);
+    added = true;
+  }, 300);
+})();
+</script>
+
 </body></html>
