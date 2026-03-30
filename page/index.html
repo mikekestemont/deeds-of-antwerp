@@ -3,30 +3,60 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="theme-color" content="#ffffff">
 <title>Atlas — The Little Hands of Antwerp</title>
-<link rel="apple-touch-icon" sizes="180x180" href="../apple-touch-icon.png">
-<link rel="mask-icon" href="../safari-pinned-tab.svg" color="#5bbad5">
 <link rel="icon" href="../favicon.ico">
-<link rel="manifest" href="../manifest.json">
-<link href="../static/css/main.5d62b963.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet">
 <style>
-  body { margin: 0; overflow: hidden; height: 100vh; display: flex; flex-direction: column; }
-  iframe { flex: 1; border: none; width: 100%; }
+  html, body { height: 100%; margin: 0; }
+  body { display: flex; flex-direction: column; overflow: hidden; }
+  #atlas-container { flex: 1; position: relative; background: #0a0a0f; min-height: 0; }
+  #atlas-container canvas { display: block; cursor: grab; touch-action: none; }
+  #atlas-container canvas:active { cursor: grabbing; }
+  footer { flex-shrink: 0; }
+
+  #hover-panel {
+    display: none;
+    position: fixed;
+    pointer-events: none;
+    z-index: 100;
+    background: #1a1a22;
+    border: 1px solid #333;
+    border-radius: 6px;
+    padding: 4px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.4);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  }
+  #hover-panel img { display: block; width: 180px; height: 180px; object-fit: cover; border-radius: 3px; }
+  #hover-label { font-size: 11px; color: #999; padding: 4px 2px 2px; text-align: center; max-width: 180px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+  #lightbox {
+    display: none; position: fixed; inset: 0; z-index: 10000;
+    background: rgba(0,0,0,0.85); backdrop-filter: blur(8px);
+    justify-content: center; align-items: center; flex-direction: column; gap: 12px; cursor: zoom-out;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  }
+  #lightbox.active { display: flex; }
+  #lightbox img { max-width: 85vw; max-height: 75vh; border-radius: 4px; box-shadow: 0 8px 40px rgba(0,0,0,0.4); }
+  #lightbox-caption { font-size: 13px; color: #ccc; max-width: 600px; text-align: center; }
+
+  #info { position: absolute; bottom: 16px; right: 16px; font-size: 11px; color: #aaa; z-index: 50; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+  #loading { position: absolute; inset: 0; display: flex; justify-content: center; align-items: center; z-index: 20000; background: #0a0a0f; font-size: 14px; color: #999; transition: opacity 0.4s ease; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+  #loading.done { opacity: 0; pointer-events: none; }
 </style>
 </head>
 <body>
 
+<!-- Navbar -->
 <nav class="sticky-top navbar navbar-expand-lg navbar-light bg-light">
   <div class="container">
     <a class="navbar-brand" href="../">
       <img alt="logo" src="../files/logo.png" style="height: 64px; width: 64px; margin-right: 10px;">The Little Hands of Antwerp (ca. 1300-1350)
     </a>
-    <button aria-controls="basic-navbar-nav" type="button" aria-label="Toggle navigation" class="navbar-toggler collapsed">
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#basic-navbar-nav" aria-controls="basic-navbar-nav" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
-    <div class="navbar-collapse collapse" id="basic-navbar-nav">
-      <div class="me-auto navbar-nav">
+    <div class="collapse navbar-collapse" id="basic-navbar-nav">
+      <div class="navbar-nav me-auto">
         <a class="nav-link" href="../#/about">About</a>
         <a class="nav-link active" href="./">Atlas</a>
       </div>
@@ -34,8 +64,241 @@
   </div>
 </nav>
 
-<iframe src="atlas.html"></iframe>
+<!-- Atlas -->
+<div id="atlas-container">
+  <div id="loading">loading…</div>
+  <canvas id="canvas"></canvas>
+  <div id="info"></div>
+</div>
 
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+<div id="hover-panel">
+  <img id="hover-img" src="" alt="">
+  <div id="hover-label"></div>
+</div>
+
+<div id="lightbox" onclick="closeLightbox()">
+  <img id="lightbox-img" src="" alt="">
+  <div id="lightbox-caption"></div>
+  <a id="lightbox-link" href="#" target="_blank" onclick="event.stopPropagation()" style="display:none; color:#8ab4f8; font-size:13px; text-decoration:none; padding:6px 16px; border:1px solid rgba(138,180,248,0.3); border-radius:4px;">Go to transcription</a>
+</div>
+
+<!-- Footer -->
+<footer class="bg-light border-top">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col m-3">
+        <a href="https://github.com/eXtant-CMG/Necturus-Viewer-Compact" target="_blank" class="text-muted text-decoration-none">
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 496 512"><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
+          <span class="ms-2">View source</span>
+        </a>
+      </div>
+      <div class="col-auto m-3 text-end">
+        <img src="../logos/logo_fwo.png" alt="FWO" style="height:40px; margin-right:12px;">
+        <img src="../logos/logo_ua.jpg" alt="UA" style="height:40px;">
+      </div>
+      <div class="col m-3 text-end" style="font-size: 10px;">
+        <div>Created by University of Antwerp</div>
+        <div>Powered by <a class="text-muted text-decoration-none" href="https://github.com/eXtant-CMG/Necturus-Viewer-Compact" target="_blank">Necturus Compact</a></div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/d3-dispatch@3"></script>
+<script src="https://cdn.jsdelivr.net/npm/d3-selection@3"></script>
+<script src="https://cdn.jsdelivr.net/npm/d3-transition@3"></script>
+<script src="https://cdn.jsdelivr.net/npm/d3-zoom@3"></script>
+<script>
+const CONFIG = {
+  dataFile:   'data.json',
+  logoFile:   'logo.png',
+  markerSize: 24,
+};
+
+const container = document.getElementById('atlas-container');
+const cvs = document.getElementById('canvas');
+const ctx = cvs.getContext('2d');
+let W, H, dpr;
+
+function resize() {
+  dpr = window.devicePixelRatio || 1;
+  W = container.clientWidth;
+  H = container.clientHeight;
+  cvs.width  = W * dpr;
+  cvs.height = H * dpr;
+  cvs.style.width  = W + 'px';
+  cvs.style.height = H + 'px';
+}
+window.addEventListener('resize', () => { resize(); initBaseTransform(); draw(); });
+resize();
+
+let data = [];
+let transform = d3.zoomIdentity;
+let logoImg = null;
+let hoveredIndex = -1;
+let baseScale = 1, baseOffX = 0, baseOffY = 0;
+
+function initBaseTransform() {
+  if (!data.length) return;
+  const pad = 80;
+  let minX = Infinity, maxX = -Infinity, minY = Infinity, maxY = -Infinity;
+  for (const d of data) {
+    if (d.x < minX) minX = d.x;
+    if (d.x > maxX) maxX = d.x;
+    if (d.y < minY) minY = d.y;
+    if (d.y > maxY) maxY = d.y;
+  }
+  const rangeX = maxX - minX || 1;
+  const rangeY = maxY - minY || 1;
+  baseScale = Math.min((W - pad * 2) / rangeX, (H - pad * 2) / rangeY);
+  baseOffX = (W - rangeX * baseScale) / 2 - minX * baseScale;
+  baseOffY = (H - rangeY * baseScale) / 2 - minY * baseScale;
+}
+
+function toScreen(dx, dy) {
+  return [dx * baseScale + baseOffX, dy * baseScale + baseOffY];
+}
+
+function toData(sx, sy) {
+  const rect = cvs.getBoundingClientRect();
+  const [ux, uy] = transform.invert([sx - rect.left, sy - rect.top]);
+  return [(ux - baseOffX) / baseScale, (uy - baseOffY) / baseScale];
+}
+
+function draw() {
+  ctx.save();
+  ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+  ctx.clearRect(0, 0, W, H);
+  ctx.translate(transform.x, transform.y);
+  ctx.scale(transform.k, transform.k);
+
+  const s = CONFIG.markerSize / transform.k;
+  const logoReady = logoImg && logoImg.complete && logoImg.naturalWidth > 0;
+
+  for (let i = 0; i < data.length; i++) {
+    const d = data[i];
+    const [sx, sy] = toScreen(d.x, d.y);
+    const isHovered = (i === hoveredIndex);
+    const sz = isHovered ? s * 1.8 : s;
+    const hz = sz / 2;
+
+    if (logoReady) {
+      ctx.globalAlpha = isHovered ? 1.0 : 0.85;
+      ctx.drawImage(logoImg, sx - hz, sy - hz, sz, sz);
+      ctx.globalAlpha = 1.0;
+    } else {
+      ctx.beginPath();
+      ctx.arc(sx, sy, hz * 0.5, 0, Math.PI * 2);
+      ctx.fillStyle = isHovered ? '#fff' : '#aaa';
+      ctx.fill();
+    }
+  }
+  ctx.restore();
+}
+
+/* Zoom + Pan */
+const zoom = d3.zoom()
+  .scaleExtent([0.3, 50])
+  .filter((e) => {
+    if (e.type === 'wheel') return false;
+    return !e.button;
+  })
+  .on('zoom', (e) => { transform = e.transform; draw(); });
+
+const sel = d3.select(cvs);
+sel.call(zoom);
+
+cvs.addEventListener('wheel', (e) => {
+  e.preventDefault();
+  if (e.ctrlKey || e.metaKey) {
+    const rect = cvs.getBoundingClientRect();
+    const scale = Math.pow(2, -e.deltaY * 0.01);
+    sel.call(zoom.scaleBy, scale, [e.clientX - rect.left, e.clientY - rect.top]);
+  } else {
+    sel.call(zoom.translateBy, -e.deltaX / transform.k, -e.deltaY / transform.k);
+  }
+}, { passive: false });
+
+/* Hover */
+const hoverPanel = document.getElementById('hover-panel');
+const hoverImg   = document.getElementById('hover-img');
+const hoverLabel = document.getElementById('hover-label');
+
+function findNearest(mx, my) {
+  const [dx, dy] = toData(mx, my);
+  const hitR = (CONFIG.markerSize * 0.8) / (baseScale * transform.k);
+  let best = -1, bestDist = Infinity;
+  for (let i = 0; i < data.length; i++) {
+    const ex = data[i].x - dx, ey = data[i].y - dy;
+    const dist = Math.sqrt(ex * ex + ey * ey);
+    if (dist < hitR && dist < bestDist) { bestDist = dist; best = i; }
+  }
+  return best;
+}
+
+cvs.addEventListener('mousemove', (e) => {
+  const idx = findNearest(e.clientX, e.clientY);
+  if (idx !== hoveredIndex) { hoveredIndex = idx; draw(); }
+  if (idx >= 0) {
+    const d = data[idx];
+    hoverImg.src = d.full || d.src;
+    hoverLabel.textContent = d.label || d.src.split('/').pop();
+    hoverPanel.style.display = 'block';
+    let px = e.clientX + 20, py = e.clientY - 100;
+    if (px + 200 > window.innerWidth) px = e.clientX - 200;
+    if (py < 10) py = 10;
+    hoverPanel.style.left = px + 'px';
+    hoverPanel.style.top  = py + 'px';
+  } else {
+    hoverPanel.style.display = 'none';
+  }
+});
+
+cvs.addEventListener('mouseleave', () => {
+  hoveredIndex = -1;
+  hoverPanel.style.display = 'none';
+  draw();
+});
+
+/* Click → lightbox */
+let mouseDown = [0, 0];
+cvs.addEventListener('mousedown', (e) => { mouseDown = [e.clientX, e.clientY]; });
+cvs.addEventListener('mouseup', (e) => {
+  const dx = e.clientX - mouseDown[0], dy = e.clientY - mouseDown[1];
+  if (dx * dx + dy * dy > 25) return;
+  const idx = findNearest(e.clientX, e.clientY);
+  if (idx >= 0) openLightbox(data[idx]);
+});
+
+function openLightbox(d) {
+  document.getElementById('lightbox-img').src = d.full || d.src;
+  document.getElementById('lightbox-caption').textContent = d.label || d.src.split('/').pop();
+  var link = document.getElementById('lightbox-link');
+  if (d.url) { link.href = d.url; link.style.display = 'inline-block'; }
+  else { link.style.display = 'none'; }
+  document.getElementById('lightbox').classList.add('active');
+}
+function closeLightbox() { document.getElementById('lightbox').classList.remove('active'); }
+document.addEventListener('keydown', (e) => { if (e.key === 'Escape') closeLightbox(); });
+
+/* Load */
+logoImg = new Image();
+logoImg.src = CONFIG.logoFile;
+
+Promise.all([
+  fetch(CONFIG.dataFile).then(r => r.json()),
+  new Promise(res => { logoImg.onload = res; logoImg.onerror = res; })
+]).then(([json]) => {
+  data = json;
+  initBaseTransform();
+  document.getElementById('info').textContent = data.length + ' images';
+  document.getElementById('loading').classList.add('done');
+  draw();
+}).catch(err => {
+  console.error(err);
+  document.getElementById('loading').textContent = 'Error loading data — check console';
+});
+</script>
 </body>
 </html>
