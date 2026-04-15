@@ -3,43 +3,99 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Annotation — The Little Hands of Antwerp</title>
+<title>Practice — The Little Hands of Antwerp</title>
 <link rel="icon" href="../favicon.ico">
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
 <style>
-  html, body { height: 100%; margin: 0; }
-  body { display: flex; flex-direction: column; }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body { height: 100%; overflow: hidden; }
+  body { display: flex; flex-direction: column; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+
+  /* Gallery area */
+  .gallery-wrap { flex: 1; display: flex; flex-direction: column; min-height: 0; background: #eae5da; }
+
+  .gallery-bar {
+    flex-shrink: 0; background: #fdfaf4;
+    border-bottom: 1px solid #d6ccb8;
+    padding: 6px 16px;
+    display: flex; align-items: center; justify-content: space-between;
+    font-size: 13px;
+  }
+  .set-id {
+    font-size: 11px; font-weight: 700; text-transform: uppercase;
+    letter-spacing: 0.1em; color: #6b4c2a;
+    background: rgba(107,76,42,0.08); padding: 2px 8px; border-radius: 3px;
+  }
+  .gallery-nav { display: flex; align-items: center; }
+  .gallery-nav button {
+    width: 36px; height: 28px; border: 1px solid #d6ccb8;
+    background: #fdfaf4; color: #2c2418; cursor: pointer;
+    font-size: 15px; display: flex; align-items: center; justify-content: center;
+  }
+  .gallery-nav button:first-child { border-radius: 4px 0 0 4px; }
+  .gallery-nav button:last-child { border-radius: 0 4px 4px 0; }
+  .gallery-nav button:disabled { background: #eae5da; color: #d6ccb8; cursor: default; }
+  .gallery-counter {
+    height: 28px; padding: 0 14px;
+    border: 1px solid #d6ccb8; border-left: none; border-right: none;
+    background: #fdfaf4; display: flex; align-items: center;
+    font-size: 12px; font-weight: 600; font-family: 'Consolas', monospace;
+    min-width: 60px; justify-content: center;
+  }
+  .gallery-hint { font-size: 10px; color: #8a7e6e; font-style: italic; }
+
+  .gallery-progress { height: 2px; background: #d6ccb8; flex-shrink: 0; }
+  .gallery-progress-fill { height: 100%; background: #6b4c2a; transition: width 0.3s ease; }
+
+  .panels { flex: 1; display: flex; min-height: 0; overflow: hidden; }
+  .panel { display: flex; flex-direction: column; min-width: 80px; overflow: hidden; }
+  .divider {
+    width: 8px; flex-shrink: 0; cursor: col-resize;
+    background: #d6ccb8; position: relative; transition: background 0.15s;
+  }
+  .divider:hover, .divider.active { background: #6b4c2a; }
+  .divider::after {
+    content: ''; position: absolute; top: 50%; left: 50%;
+    transform: translate(-50%, -50%);
+    width: 2px; height: 32px; border-radius: 1px;
+    background: rgba(255,255,255,0.5);
+  }
+  .panel-header {
+    padding: 5px 10px; border-bottom: 1px solid #d6ccb8;
+    display: flex; align-items: center; justify-content: space-between;
+    background: #fdfaf4; flex-shrink: 0;
+  }
+  .panel-label { font-size: 16px; font-weight: 700; color: #6b4c2a; }
+  .panel-code { font-size: 10px; color: #8a7e6e; font-family: 'Consolas', monospace; margin-left: 6px; }
+  .zoom-controls { display: flex; gap: 3px; }
+  .zoom-btn {
+    width: 26px; height: 26px; border: 1px solid #d6ccb8;
+    background: #fdfaf4; color: #6b4c2a; cursor: pointer;
+    font-size: 14px; font-weight: 700; border-radius: 3px;
+    display: flex; align-items: center; justify-content: center; line-height: 1;
+  }
+  .zoom-btn:hover { background: #eae5da; }
+  .viewport {
+    flex: 1; overflow: hidden; position: relative;
+    cursor: grab; background: #eae5da;
+  }
+  .viewport.dragging { cursor: grabbing; }
+  .viewport img {
+    position: absolute; top: 0; left: 0;
+    user-select: none; pointer-events: none; -webkit-user-drag: none;
+  }
+  .zoom-indicator {
+    position: absolute; bottom: 6px; right: 6px;
+    background: rgba(253,250,244,0.85); padding: 2px 6px;
+    border-radius: 3px; font-size: 10px; font-family: 'Consolas', monospace;
+    color: #8a7e6e; pointer-events: none;
+  }
+  .img-error {
+    position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
+    color: #8a7e6e; font-size: 13px; font-style: italic; text-align: center;
+  }
+
   footer { flex-shrink: 0; }
-  .content {
-    flex: 1; overflow-y: auto;
-    font-family: 'Libre Baskerville', 'Georgia', serif;
-    color: #2c2418; background: #f5f0e8;
-  }
-  .inner {
-    max-width: 720px; margin: 0 auto;
-    padding: 40px 24px 60px; line-height: 1.7;
-  }
-  .inner a { color: #6b4c2a; text-decoration-thickness: 1px; text-underline-offset: 3px; }
-  .inner a:hover { color: #2c2418; }
-  .inner h1 { font-size: 26px; font-weight: 700; margin-bottom: 4px; letter-spacing: -0.01em; }
-  .subtitle { font-size: 14px; color: #8a7e6e; font-style: italic; margin-bottom: 28px; }
-  .intro { font-size: 15px; margin-bottom: 32px; line-height: 1.8; }
-  .tier { margin-bottom: 24px; }
-  .tier-header { font-size: 16px; font-weight: 700; margin-bottom: 4px; padding-bottom: 4px; border-bottom: 1px solid #d6ccb8; }
-  .tier-desc { font-size: 13px; color: #8a7e6e; margin-bottom: 8px; font-style: italic; }
-  .tier ul { list-style: none; padding-left: 0; }
-  .tier li { padding: 3px 0; }
-  .tier li a { font-size: 14px; font-family: 'Consolas', 'Courier New', monospace; padding: 2px 8px; border-radius: 3px; transition: background 0.15s; }
-  .tier li a:hover { background: rgba(107,76,42,0.08); }
-  .sub-list { padding-left: 20px; columns: 2; column-gap: 20px; }
-  .sub-list li { break-inside: avoid; }
-  .badge-custom { display: inline-block; font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em; padding: 2px 7px; border-radius: 3px; margin-left: 6px; vertical-align: middle; }
-  .badge-practice { background: #d4e8d0; color: #2d5a27; }
-  .badge-easy { background: #d0dce8; color: #27415a; }
-  .badge-medium { background: #e8ddd0; color: #5a4127; }
-  .badge-hard { background: #e8d0d0; color: #5a2727; }
-  .footer-note { margin-top: 32px; padding-top: 16px; border-top: 1px solid #d6ccb8; font-size: 12px; color: #8a7e6e; }
 </style>
 </head>
 <body>
@@ -57,95 +113,25 @@
       <div class="navbar-nav me-auto">
         <a class="nav-link" href="../#/about">About</a>
         <a class="nav-link" href="../page/">Atlas</a>
-        <a class="nav-link active" href="./">Annotation</a>
+        <a class="nav-link" href="./">Annotation</a>
       </div>
     </div>
   </div>
 </nav>
 
-<!-- Content -->
-<div class="content">
-  <div class="inner">
-
-    <h1>Triplet Annotation</h1>
-    <p class="subtitle">21&ndash;22 April 2026, University of Antwerp</p>
-
-    <p class="intro">
-      For each triplet, decide which document does <strong>not</strong> belong.
-      Pick the odd one out (A, B, or C), or choose &ldquo;All Same&rdquo; if all three
-      look like they were written by the same hand. Use the controls to zoom and
-      pan each image. Navigate between triplets with the arrow buttons or &larr;&nbsp;&rarr; keys.
-    </p>
-
-    <!-- Practice -->
-    <div class="tier">
-      <div class="tier-header">Practice <span class="badge-custom badge-practice">calibration</span></div>
-      <div class="tier-desc">Joint group session &mdash; 5 curated triplets for calibration and discussion.</div>
-      <ul>
-        <li><a href="practice.html">Practice session</a> (5 triplets)</li>
-      </ul>
+<!-- Gallery -->
+<div class="gallery-wrap">
+  <div class="gallery-bar">
+    <span class="set-id" id="setId">PRACTICE</span>
+    <div class="gallery-nav">
+      <button id="prevBtn" onclick="goPrev()">&#8249;</button>
+      <div class="gallery-counter" id="counter">1 / 3</div>
+      <button id="nextBtn" onclick="goNext()">&#8250;</button>
     </div>
-
-    <!-- Tier 1: Easy -->
-    <div class="tier">
-      <div class="tier-header">Tier 1 &mdash; Easy <span class="badge-custom badge-easy">25 triplets each</span></div>
-      <div class="tier-desc">Pairs session &mdash; distant intruders, high-confidence members.</div>
-      <ul class="sub-list">
-        <li><a href="B-01.html">B-01</a></li>
-        <li><a href="B-02.html">B-02</a></li>
-        <li><a href="B-03.html">B-03</a></li>
-        <li><a href="B-04.html">B-04</a></li>
-        <li><a href="B-05.html">B-05</a></li>
-        <li><a href="B-06.html">B-06</a></li>
-        <li><a href="B-07.html">B-07</a></li>
-        <li><a href="B-08.html">B-08</a></li>
-        <li><a href="B-09.html">B-09</a></li>
-        <li><a href="B-10.html">B-10</a></li>
-      </ul>
-    </div>
-
-    <!-- Tier 2: Intermediate -->
-    <div class="tier">
-      <div class="tier-header">Tier 2 &mdash; Intermediate <span class="badge-custom badge-medium">25 triplets each</span></div>
-      <div class="tier-desc">Pairs session &mdash; adjacent intruders, high-confidence members.</div>
-      <ul class="sub-list">
-        <li><a href="C-01.html">C-01</a></li>
-        <li><a href="C-02.html">C-02</a></li>
-        <li><a href="C-03.html">C-03</a></li>
-        <li><a href="C-04.html">C-04</a></li>
-        <li><a href="C-05.html">C-05</a></li>
-        <li><a href="C-06.html">C-06</a></li>
-        <li><a href="C-07.html">C-07</a></li>
-        <li><a href="C-08.html">C-08</a></li>
-        <li><a href="C-09.html">C-09</a></li>
-        <li><a href="C-10.html">C-10</a></li>
-      </ul>
-    </div>
-
-    <!-- Tier 3: Hard -->
-    <div class="tier">
-      <div class="tier-header">Tier 3 &mdash; Hard <span class="badge-custom badge-hard">25 triplets each</span></div>
-      <div class="tier-desc">Individual session &mdash; adjacent intruders, all members, no controls.</div>
-      <ul class="sub-list">
-        <li><a href="D-01.html">D-01</a></li>
-        <li><a href="D-02.html">D-02</a></li>
-        <li><a href="D-03.html">D-03</a></li>
-        <li><a href="D-04.html">D-04</a></li>
-        <li><a href="D-05.html">D-05</a></li>
-        <li><a href="D-06.html">D-06</a></li>
-        <li><a href="D-07.html">D-07</a></li>
-        <li><a href="D-08.html">D-08</a></li>
-        <li><a href="D-09.html">D-09</a></li>
-        <li><a href="D-10.html">D-10</a></li>
-      </ul>
-    </div>
-
-    <div class="footer-note">
-      Each gallery shows three documents side by side. Scroll to zoom, drag to pan.
-      Record your answers on the paper annotation sheet provided.
-    </div>
-
+    <span class="gallery-hint">&larr; &rarr; navigate &middot; scroll to zoom &middot; drag to pan</span>
   </div>
+  <div class="gallery-progress"><div class="gallery-progress-fill" id="progressFill"></div></div>
+  <div class="panels" id="panels"></div>
 </div>
 
 <!-- Footer -->
@@ -171,5 +157,219 @@
 </footer>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+
+<script>
+// ════════════════════════════════════════════════════════════════════
+// TRIPLET DATA — edit this array to change the gallery contents
+// ════════════════════════════════════════════════════════════════════
+var BASE_URL = "https://storage.googleapis.com/annotation-pilot/images";
+
+var TRIPLETS = [
+  {
+    a: { file: "0-0001_01_01_1332-01.png", code: "0001_01_01_1332-01" },
+    b: { file: "0-0007_01_03_1331-01.png", code: "0007_01_03_1331-01" },
+    c: { file: "0-0014_01_07_1349-01.png", code: "0014_01_07_1349-01" },
+  },
+  {
+    a: { file: "0-0003_01_01_1346-01.png", code: "0003_01_01_1346-01" },
+    b: { file: "0-0010_01_03_1354-01.png", code: "0010_01_03_1354-01" },
+    c: { file: "0-0005_01_02_1341-01.png", code: "0005_01_02_1341-01" },
+  },
+  {
+    a: { file: "0-0012_01_05_1302-01.png", code: "0012_01_05_1302-01" },
+    b: { file: "0-0016_01_08_1324-01.png", code: "0016_01_08_1324-01" },
+    c: { file: "0-0002_01_01_1335-01.png", code: "0002_01_01_1335-01" },
+  },
+];
+
+var SET_ID = "PRACTICE";
+// ════════════════════════════════════════════════════════════════════
+
+var currentIndex = 0;
+var panelState = {};
+var panelWidths = [1/3, 1/3, 1/3];
+
+document.getElementById("setId").textContent = SET_ID;
+
+function createPanelState() {
+  return { zoom: 1, panX: 0, panY: 0, dragging: false,
+           dragStartX: 0, dragStartY: 0, panStartX: 0, panStartY: 0,
+           natW: 1, natH: 1 };
+}
+
+function applyPanelWidths() {
+  var container = document.getElementById("panels");
+  var totalW = container.clientWidth - 16;
+  var panels = container.querySelectorAll(".panel");
+  panels.forEach(function(p, i) { p.style.width = (totalW * panelWidths[i]) + "px"; });
+  ["a", "b", "c"].forEach(updateImageTransform);
+}
+
+function buildPanels() {
+  var container = document.getElementById("panels");
+  container.innerHTML = "";
+  var letters = ["a", "b", "c"];
+
+  letters.forEach(function(letter, idx) {
+    panelState[letter] = createPanelState();
+    var panel = document.createElement("div");
+    panel.className = "panel"; panel.id = "panel-" + letter;
+
+    var header = document.createElement("div");
+    header.className = "panel-header";
+    header.innerHTML =
+      '<div><span class="panel-label">' + letter.toUpperCase() + '</span>' +
+      '<span class="panel-code" id="code-' + letter + '">&mdash;</span></div>' +
+      '<div class="zoom-controls">' +
+      '<button class="zoom-btn" onclick="zoomOut(\'' + letter + '\')">&minus;</button>' +
+      '<button class="zoom-btn" onclick="resetView(\'' + letter + '\')" style="font-size:10px">&#8857;</button>' +
+      '<button class="zoom-btn" onclick="zoomIn(\'' + letter + '\')">+</button></div>';
+
+    var viewport = document.createElement("div");
+    viewport.className = "viewport"; viewport.id = "viewport-" + letter;
+
+    var img = document.createElement("img");
+    img.id = "img-" + letter; img.alt = "Document " + letter.toUpperCase(); img.draggable = false;
+    img.onload = function() {
+      panelState[letter].natW = this.naturalWidth;
+      panelState[letter].natH = this.naturalHeight;
+      updateImageTransform(letter);
+      var err = document.getElementById("err-" + letter); if (err) err.remove();
+    };
+    img.onerror = function() {
+      var vp = document.getElementById("viewport-" + letter);
+      if (!document.getElementById("err-" + letter)) {
+        var err = document.createElement("div"); err.className = "img-error";
+        err.id = "err-" + letter; err.textContent = "Image failed to load"; vp.appendChild(err);
+      }
+    };
+
+    var indicator = document.createElement("div");
+    indicator.className = "zoom-indicator"; indicator.id = "zoom-" + letter; indicator.textContent = "100%";
+    viewport.appendChild(img); viewport.appendChild(indicator);
+
+    viewport.addEventListener("mousedown", function(e) {
+      if (e.button !== 0) return; e.preventDefault();
+      var s = panelState[letter]; s.dragging = true;
+      s.dragStartX = e.clientX; s.dragStartY = e.clientY;
+      s.panStartX = s.panX; s.panStartY = s.panY;
+      viewport.classList.add("dragging");
+    });
+    viewport.addEventListener("wheel", function(e) {
+      e.preventDefault(); var s = panelState[letter];
+      s.zoom = Math.max(0.3, Math.min(10, s.zoom * (e.deltaY > 0 ? 0.9 : 1.1)));
+      updateImageTransform(letter);
+    }, { passive: false });
+
+    var touchRef = { x:0, y:0, panX:0, panY:0, active:false };
+    viewport.addEventListener("touchstart", function(e) {
+      if (e.touches.length === 1) { var t = e.touches[0]; var s = panelState[letter];
+        touchRef = { x:t.clientX, y:t.clientY, panX:s.panX, panY:s.panY, active:true }; }
+    }, { passive: true });
+    viewport.addEventListener("touchmove", function(e) {
+      if (e.touches.length === 1 && touchRef.active) { e.preventDefault();
+        var t = e.touches[0]; var s = panelState[letter];
+        s.panX = touchRef.panX + (t.clientX - touchRef.x);
+        s.panY = touchRef.panY + (t.clientY - touchRef.y);
+        updateImageTransform(letter); }
+    }, { passive: false });
+    viewport.addEventListener("touchend", function() { touchRef.active = false; });
+
+    panel.appendChild(header); panel.appendChild(viewport); container.appendChild(panel);
+
+    if (idx < 2) {
+      var divider = document.createElement("div");
+      divider.className = "divider"; divider.dataset.index = String(idx);
+      container.appendChild(divider);
+    }
+  });
+
+  // Divider drag
+  var activeDivider = null, dividerStartX = 0, startWidths = [0,0,0];
+  container.addEventListener("mousedown", function(e) {
+    if (!e.target.classList.contains("divider")) return;
+    e.preventDefault(); activeDivider = parseInt(e.target.dataset.index);
+    dividerStartX = e.clientX; var totalW = container.clientWidth - 16;
+    startWidths = panelWidths.map(function(w) { return w * totalW; });
+    e.target.classList.add("active");
+    document.body.style.cursor = "col-resize"; document.body.style.userSelect = "none";
+  });
+  document.addEventListener("mousemove", function(e) {
+    if (activeDivider === null) return;
+    var dx = e.clientX - dividerStartX; var totalW = container.clientWidth - 16;
+    var newL = Math.max(80, Math.min(startWidths[activeDivider] + dx, totalW - 80));
+    var newR = Math.max(80, Math.min(startWidths[activeDivider + 1] - dx, totalW - 80));
+    panelWidths[activeDivider] = newL / totalW;
+    panelWidths[activeDivider + 1] = newR / totalW;
+    var sum = panelWidths[0] + panelWidths[1] + panelWidths[2];
+    panelWidths = panelWidths.map(function(w) { return w / sum; });
+    applyPanelWidths();
+  });
+  document.addEventListener("mouseup", function() {
+    if (activeDivider !== null) {
+      container.querySelectorAll(".divider").forEach(function(d) { d.classList.remove("active"); });
+      activeDivider = null; document.body.style.cursor = ""; document.body.style.userSelect = "";
+    }
+    ["a","b","c"].forEach(function(l) {
+      panelState[l].dragging = false;
+      var vp = document.getElementById("viewport-" + l); if (vp) vp.classList.remove("dragging");
+    });
+  });
+  document.addEventListener("mousemove", function(e) {
+    ["a","b","c"].forEach(function(l) {
+      var s = panelState[l]; if (!s.dragging) return;
+      s.panX = s.panStartX + (e.clientX - s.dragStartX);
+      s.panY = s.panStartY + (e.clientY - s.dragStartY);
+      updateImageTransform(l);
+    });
+  });
+  applyPanelWidths();
+}
+
+function updateImageTransform(letter) {
+  var s = panelState[letter];
+  var img = document.getElementById("img-" + letter);
+  var viewport = document.getElementById("viewport-" + letter);
+  var indicator = document.getElementById("zoom-" + letter);
+  if (!img || !viewport) return;
+  var vpH = viewport.clientHeight, aspect = s.natW / s.natH;
+  var dH = vpH * s.zoom, dW = dH * aspect;
+  img.style.width = dW + "px"; img.style.height = dH + "px";
+  img.style.transform = "translate(" + s.panX + "px, " + s.panY + "px)";
+  if (indicator) indicator.textContent = Math.round(s.zoom * 100) + "%";
+}
+
+function loadTriplet(idx) {
+  currentIndex = idx; var t = TRIPLETS[idx]; if (!t) return;
+  ["a","b","c"].forEach(function(l) {
+    var img = document.getElementById("img-" + l);
+    var code = document.getElementById("code-" + l);
+    var err = document.getElementById("err-" + l); if (err) err.remove();
+    if (img) img.src = BASE_URL + "/" + t[l].file;
+    if (code) code.textContent = t[l].code;
+    var s = panelState[l]; s.zoom = 1; s.panX = 0; s.panY = 0;
+    updateImageTransform(l);
+  });
+  document.getElementById("counter").textContent = (idx+1) + " / " + TRIPLETS.length;
+  document.getElementById("prevBtn").disabled = idx === 0;
+  document.getElementById("nextBtn").disabled = idx === TRIPLETS.length - 1;
+  document.getElementById("progressFill").style.width = ((idx+1) / TRIPLETS.length * 100) + "%";
+}
+
+function goNext() { if (currentIndex < TRIPLETS.length - 1) loadTriplet(currentIndex + 1); }
+function goPrev() { if (currentIndex > 0) loadTriplet(currentIndex - 1); }
+function zoomIn(l) { panelState[l].zoom = Math.min(10, panelState[l].zoom * 1.3); updateImageTransform(l); }
+function zoomOut(l) { panelState[l].zoom = Math.max(0.3, panelState[l].zoom / 1.3); updateImageTransform(l); }
+function resetView(l) { panelState[l].zoom = 1; panelState[l].panX = 0; panelState[l].panY = 0; updateImageTransform(l); }
+
+document.addEventListener("keydown", function(e) {
+  if (e.key === "ArrowRight") { e.preventDefault(); goNext(); }
+  if (e.key === "ArrowLeft") { e.preventDefault(); goPrev(); }
+});
+window.addEventListener("resize", applyPanelWidths);
+
+buildPanels();
+loadTriplet(0);
+</script>
 </body>
 </html>
