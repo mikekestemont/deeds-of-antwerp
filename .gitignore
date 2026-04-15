@@ -3,5 +3,5 @@ node_modules/
 page/*
 !page/
 !page/atlas.html
-metadata.xlsx
-page/
+!page/data.json
+!page/logo.png
