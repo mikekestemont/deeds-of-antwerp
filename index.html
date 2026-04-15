@@ -149,4 +149,40 @@
 })();
 </script>
 
+<script>
+(function() {
+  function ensureAnnotationLink() {
+    var links = document.querySelectorAll('a');
+    var aboutLink = null;
+    var annotationLink = null;
+
+    for (var i = 0; i < links.length; i++) {
+      var txt = links[i].textContent.trim();
+      if (txt === 'About') aboutLink = links[i];
+      if (txt === 'Annotation') annotationLink = links[i];
+    }
+
+    if (!aboutLink) return;
+    if (annotationLink && annotationLink.closest('nav') === aboutLink.closest('nav')) return;
+
+    var link = aboutLink.cloneNode(true);
+    link.textContent = 'Annotation';
+    link.href = window.location.origin + '/deeds-of-antwerp/triplets/';
+    link.target = '_blank';
+
+    // Insert after Atlas (which is the next sibling of About)
+    var atlas = aboutLink.nextSibling;
+    if (atlas && atlas.textContent && atlas.textContent.trim() === 'Atlas') {
+      atlas.parentNode.insertBefore(link, atlas.nextSibling);
+    } else {
+      aboutLink.parentNode.appendChild(link);
+    }
+  }
+
+  setInterval(ensureAnnotationLink, 500);
+  window.addEventListener('hashchange', ensureAnnotationLink);
+  window.addEventListener('load', ensureAnnotationLink);
+})();
+</script>
+
 </body></html>
