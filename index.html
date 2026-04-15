@@ -122,7 +122,7 @@
     var explore = aboutLink.cloneNode(true);
     explore.textContent = 'Atlas';
     explore.href = window.location.origin + '/deeds-of-antwerp/page/';
-    explore.target = '_blank';
+    explore.target = '_self';
     aboutLink.parentNode.insertBefore(explore, aboutLink.nextSibling);
   }
 
@@ -168,7 +168,7 @@
     var link = aboutLink.cloneNode(true);
     link.textContent = 'Annotation';
     link.href = window.location.origin + '/deeds-of-antwerp/triplets/';
-    link.target = '_blank';
+    link.target = '_self';
 
     // Insert after Atlas (which is the next sibling of About)
     var atlas = aboutLink.nextSibling;
