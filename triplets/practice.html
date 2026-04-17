@@ -162,7 +162,8 @@ function buildPanels() {
     panelState[L] = createPanelState();
     var p = document.createElement("div"); p.className="panel"; p.id="panel-"+L;
     var h = document.createElement("div"); h.className="panel-header";
-    h.innerHTML='<div><span class="panel-label">'+L.toUpperCase()+'</span><span class="panel-code" id="code-'+L+'">&mdash;</span></div><div class="zoom-controls"><button class="zoom-btn" onclick="zoomOut(''+L+'')">−</button><button class="zoom-btn" onclick="resetView(''+L+'')">⊙</button><button class="zoom-btn" onclick="zoomIn(''+L+'')">+</button></div>';
+    h.innerHTML='<div><span class="panel-label">'+L.toUpperCase()+'</span><span class="panel-code" id="code-'+L+'">&mdash;</span></div><div class="zoom-controls"><button class="zoom-btn" data-action="out" data-panel="'+L+'">&#x2212;</button><button class="zoom-btn" data-action="reset" data-panel="'+L+'">&#x2299;</button><button class="zoom-btn" data-action="in" data-panel="'+L+'">+</button></div>';
+    h.addEventListener("click",function(ev){ var btn=ev.target.closest(".zoom-btn"); if(!btn)return; var a=btn.dataset.action,pl=btn.dataset.panel; if(a==="out")zoomOut(pl); else if(a==="in")zoomIn(pl); else if(a==="reset")resetView(pl); });
     var v = document.createElement("div"); v.className="viewport"; v.id="viewport-"+L;
     var im = document.createElement("img"); im.id="img-"+L; im.draggable=false;
     im.onload=function(){ panelState[L].natW=this.naturalWidth; panelState[L].natH=this.naturalHeight; updateImageTransform(L); var e=document.getElementById("err-"+L); if(e)e.remove(); };
